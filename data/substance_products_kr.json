@@ -1,0 +1,116 @@
+{
+  "description": "골관절염 관련 성분 → 한국 시판 대표 제품 매핑. 영선(약사) 검수 필요.",
+  "convention": "top: 산점도 점 라벨에 표시될 대표 제품 1개. others: 표/툴팁에서 보여줄 추가 제품들.",
+  "products": {
+    "glucosamine": {
+      "top": {"name": "오스테민 캡슐", "manufacturer": "삼진제약", "type": "전문의약품 (Rotta 도입)", "note": "⚡ 한국 시판 Rotta/Crystalline 글루코사민. Cochrane SMD -1.11과 직접 매칭. (단, Rotta 자체 펀딩 편향 표기 유지)", "matches_verified_id": "glucosamine_rotta"},
+      "others": [
+        {"name": "Move프리 글루코사민", "manufacturer": "내츄럴팩토리", "type": "건강기능식품", "note": "일반 영양제 등급"},
+        {"name": "기타 일반 글루코사민 영양제", "manufacturer": "다수", "type": "건강기능식품", "note": "Non-Rotta — SMD -0.05 위약 수준", "matches_verified_id": "glucosamine_non_rotta"}
+      ]
+    },
+    "chondroitin": {
+      "top": {"name": "조인본 콘드로800", "manufacturer": "유한양행", "type": "일반의약품", "note": "일반의약품 등급. 영양제 등급보다 신뢰도 높음"},
+      "others": [
+        {"name": "조인트 콘드로800", "manufacturer": "종근당", "type": "일반의약품"},
+        {"name": "콘드로이친 영양제", "manufacturer": "다수", "type": "건강기능식품", "note": "일반 영양제 등급 — SMD -0.08 위약 수준", "matches_verified_id": "chondroitin_general_grade"}
+      ]
+    },
+    "msm": {
+      "top": {"name": "팜스 슈퍼 조인트 MSM (복합제)", "manufacturer": "팜스", "type": "건강기능식품", "note": "MSM 단일제 거의 없음 — 복합제 다수"},
+      "others": [
+        {"name": "MSM Ace Gold", "manufacturer": "OEM (다수)", "type": "건강기능식품"}
+      ]
+    },
+    "boswellia": {
+      "top": {"name": "프롬바이오 보스웰리아", "manufacturer": "프롬바이오", "type": "건강기능식품"},
+      "others": [
+        {"name": "프롬바이오 관절보스웰리아", "manufacturer": "프롬바이오", "type": "건강기능식품"}
+      ]
+    },
+    "curcumin": {
+      "top": {"name": "쎄라큐민 (Theracurmin)", "manufacturer": "직구 (Theravalues, JP)", "type": "건강기능식품", "note": "강화제형. 일반 강황분말과 효과 차이 큼"},
+      "others": [
+        {"name": "Meriva 커큐민", "manufacturer": "직구 (Indena, IT)", "type": "건강기능식품"},
+        {"name": "강황 분말", "manufacturer": "다수", "type": "건강기능식품", "note": "효과 작음 (생체이용률 낮음)"}
+      ]
+    },
+    "asu": {
+      "top": {"name": "이모튼캡슐", "manufacturer": "한국오츠카제약", "type": "전문의약품", "note": "ASU 300mg. 무릎 OA에 처방"},
+      "others": []
+    },
+    "uc_ii_collagen": {
+      "top": {"name": "UC-II 콜라겐", "manufacturer": "다수 (이뮨오티카 등)", "type": "건강기능식품", "note": "비변성 type II 콜라겐"},
+      "others": []
+    },
+    "hyaluronic_acid": {
+      "top": {"name": "조인플렉스 (경구 히알루론산)", "manufacturer": "다수", "type": "건강기능식품"},
+      "others": []
+    },
+    "collagen": {
+      "top": {"name": "저분자 콜라겐 펩타이드", "manufacturer": "다수 (뉴트리원, 종근당건강 등)", "type": "건강기능식품"},
+      "others": []
+    },
+    "vitamin_d": {
+      "top": {"name": "디멤버 비타민D", "manufacturer": "다수", "type": "건강기능식품", "note": "코카랜더, 종근당, 광동 등 다수"},
+      "others": []
+    },
+    "magnesium": {
+      "top": {"name": "마그네슘 글리시네이트", "manufacturer": "다수", "type": "건강기능식품"},
+      "others": []
+    },
+    "omega_3": {
+      "top": {"name": "오메가-3", "manufacturer": "다수", "type": "건강기능식품"},
+      "others": []
+    },
+
+    "acetaminophen": {
+      "top": {"name": "타이레놀 500mg", "manufacturer": "한국얀센", "type": "일반의약품"},
+      "others": [
+        {"name": "써스펜 8시간 ER", "manufacturer": "한미약품", "type": "일반의약품"}
+      ]
+    },
+    "ibuprofen": {
+      "top": {"name": "부루펜", "manufacturer": "삼일제약", "type": "일반의약품"},
+      "others": [
+        {"name": "이지엔6", "manufacturer": "대웅제약", "type": "일반의약품"}
+      ]
+    },
+    "celecoxib": {
+      "top": {"name": "쎄레브렉스", "manufacturer": "한국화이자제약", "type": "전문의약품"},
+      "others": []
+    },
+    "etoricoxib": {
+      "top": {"name": "아콕시아", "manufacturer": "한국MSD", "type": "전문의약품"},
+      "others": []
+    },
+    "naproxen": {
+      "top": {"name": "낙센", "manufacturer": "종근당", "type": "일반의약품 / 전문의약품"},
+      "others": []
+    },
+    "losartan": {
+      "top": {"name": "코자", "manufacturer": "한국MSD", "type": "전문의약품", "note": "고혈압약 — OA에 통상 사용 안 함"},
+      "others": []
+    },
+
+    "selenium": {"top": {"name": "셀레늄", "manufacturer": "다수", "type": "건강기능식품"}, "others": []},
+    "zinc": {"top": {"name": "아연", "manufacturer": "다수", "type": "건강기능식품"}, "others": []},
+    "calcium": {"top": {"name": "디칼", "manufacturer": "다수", "type": "건강기능식품"}, "others": []},
+    "vitamin_c": {"top": {"name": "비타민C", "manufacturer": "다수", "type": "건강기능식품"}, "others": []},
+    "vitamin_b12": {"top": {"name": "비타민B12", "manufacturer": "다수", "type": "건강기능식품"}, "others": []},
+    "nac": {"top": {"name": "뮤테란", "manufacturer": "한미약품", "type": "일반의약품", "note": "원래 객담용해제. OA 적응증 X"}, "others": []},
+    "probiotics": {"top": {"name": "프로바이오틱스", "manufacturer": "다수", "type": "건강기능식품"}, "others": []},
+    "melatonin": {"top": {"name": "써카딘", "manufacturer": "한국BMS제약", "type": "전문의약품", "note": "한국에선 전문약. 일반 멜라토닌 직구"}, "others": []},
+    "sam_e": {"top": {"name": "SAM-e", "manufacturer": "직구", "type": "건강기능식품"}, "others": []},
+    "akba": {"top": {"name": "AKBA 보스웰리아 농축", "manufacturer": "직구", "type": "건강기능식품"}, "others": []},
+    "green_lipped_mussel": {"top": {"name": "Lyprinol", "manufacturer": "직구 (NZ)", "type": "건강기능식품"}, "others": []},
+    "cmo": {"top": {"name": "CMO", "manufacturer": "직구", "type": "건강기능식품"}, "others": []},
+    "shark_cartilage": {"top": {"name": "샤크 카르틸리지", "manufacturer": "직구", "type": "건강기능식품"}, "others": []},
+    "hyaluronic_acid_oral": {"top": {"name": "경구 히알루론산", "manufacturer": "다수", "type": "건강기능식품"}, "others": []},
+
+    "_korea_specific_verified": {
+      "note": "verified_effects에 이미 한국 제품명으로 들어있는 것들 (매핑 불필요): 이모튼 (ASU), 조인스 (SKI306X), 신신파스 아렉스, Acelex (폴마콕시브), 트리돌 (트라마돌)",
+      "items": ["asu_piascledine", "skl_306x_joins_kr", "shinshin_arex", "polmacoxib_2mg"]
+    }
+  }
+}

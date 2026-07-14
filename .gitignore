@@ -1,0 +1,33 @@
+# === 비밀키 (절대 커밋 금지) ===
+.env
+.env.*
+*.env
+.env.local
+!.env.example
+
+# === Python ===
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# === Node / Next.js ===
+node_modules/
+.next/
+out/
+build/
+*.tsbuildinfo
+next-env.d.ts
+
+# === Vercel 배포 정보 ===
+.vercel/
+
+# === 에디터 / Claude 로컬 설정 ===
+.claude/
+
+# === 로그 ===
+logs/
+*.log
+
+# === OS ===
+.DS_Store

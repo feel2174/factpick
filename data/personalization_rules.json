@@ -1,0 +1,243 @@
+{
+  "description": "환자 프로파일 기반 맞춤 추천 룰. 영선(약사) 검수. v2: 임신 제거, 간/신 정도별, 고지혈/통풍 추가.",
+  "convention": {
+    "rank_1": "최우선 / 금기 / 안전성",
+    "rank_2": "경고 / 대안 권장",
+    "rank_3": "참고 / 상황별 보완"
+  },
+  "match_keys": {
+    "bmi_min": "BMI >= 값",
+    "age_min": "나이 >= 값",
+    "diabetes": "당뇨 동반",
+    "hypertension": "고혈압 동반",
+    "dyslipidemia": "고지혈증",
+    "gout": "통풍",
+    "liver_severity": "간기능 장애 정도: mild / moderate / severe",
+    "kidney_severity": "신기능 장애 정도: mild / moderate / severe",
+    "anticoagulant": "항응고제 복용",
+    "nsaid_allergy": "NSAID 알레르기",
+    "gi_history": "위궤양·위염 병력",
+    "nsaid_gi_side_effect": "NSAID 위장 부작용",
+    "current_nsaid": "현재 NSAID 처방",
+    "regular_steroid_injection": "정기 스테로이드 주사",
+    "no_comorbidity": "동반질환 없음 (정상)"
+  },
+  "rules": [
+    {
+      "rule_code": "oa_bmi_high",
+      "condition_slug": "osteoarthritis",
+      "rank": 1,
+      "icon": "🥇",
+      "title": "체중 감량이 어떤 영양제보다 효과 큽니다",
+      "message": "1kg 감량 시 무릎 부하 4kg이 줄어듭니다. 어떤 영양제로도 따라잡기 힘든 효과입니다. L-카르니틴(SMD -0.96, 효과 큼)은 지방산 산화를 도와 다이어트를 보조할 수 있습니다.",
+      "match_conditions": {"bmi_min": 27},
+      "highlight_verified_ids": ["l_carnitine"],
+      "display_order": 10
+    },
+    {
+      "rule_code": "oa_nsaid_allergy",
+      "condition_slug": "osteoarthritis",
+      "rank": 1,
+      "icon": "🚫",
+      "title": "NSAID 알레르기 — 다른 길로 갑니다",
+      "message": "모든 NSAID(이부프로펜·나프록센·셀레콕시브·디클로페낙 포함)를 피해야 합니다. 아세트아미노펜이 1차 선택이며, 효과 입증된 영양제(글루코사민 Rotta/오스테민, 강황 강화제형, 콘드로이친 IBSA 등급)로 보강하세요. 통증 심하면 트라마돌 같은 비-NSAID 진통제를 의사와 상담하세요.",
+      "match_conditions": {"nsaid_allergy": true},
+      "highlight_verified_ids": ["acetaminophen", "glucosamine_rotta", "curcumin_enhanced"],
+      "avoid_verified_ids": ["celecoxib_200mg", "etoricoxib_60mg", "diclofenac_patch", "diclofenac_gel"],
+      "display_order": 30
+    },
+    {
+      "rule_code": "oa_kidney_mild",
+      "condition_slug": "osteoarthritis",
+      "rank": 1,
+      "icon": "🩺",
+      "title": "가벼운 신기능 저하 — 대부분 옵션 가능",
+      "message": "신장 부담 큰 NSAID 장기 복용만 피하면 영양제·약 대부분 가능합니다. 추천 순서: ① 외용 디클로페낙 패치(SMD -0.81) — 전신 흡수 거의 없어 안전. ② 글루코사민 Rotta(오스테민) — 효과 큼. ③ 강황 강화제형. 아세트아미노펜은 4g/일 이하면 안전합니다.",
+      "match_conditions": {"kidney_severity": "mild"},
+      "highlight_verified_ids": ["diclofenac_patch", "glucosamine_rotta", "curcumin_enhanced", "acetaminophen"],
+      "display_order": 40
+    },
+    {
+      "rule_code": "oa_kidney_moderate",
+      "condition_slug": "osteoarthritis",
+      "rank": 1,
+      "icon": "🩺",
+      "title": "중등도 신기능 저하 — 외용약 위주로",
+      "message": "전신 부담 피하는 방향으로 갑니다. ① 외용 디클로페낙 패치(SMD -0.81) — 전신 흡수 거의 없음. ② 아세트아미노펜(4g/일 이하) — 신장 안전. ③ 콘드로이친 — 영향 적음. ④ 글루코사민 — 시도 가능, 신장내과 추적 권장. ⚠ 이부프로펜·나프록센·셀레콕시브 장기 복용 X.",
+      "match_conditions": {"kidney_severity": "moderate"},
+      "highlight_verified_ids": ["diclofenac_patch", "acetaminophen", "chondroitin_overall", "glucosamine_overall"],
+      "avoid_verified_ids": ["celecoxib_200mg", "etoricoxib_60mg", "etoricoxib_30mg"],
+      "display_order": 41
+    },
+    {
+      "rule_code": "oa_kidney_severe",
+      "condition_slug": "osteoarthritis",
+      "rank": 1,
+      "icon": "🩺",
+      "title": "중증 신기능 저하 — NSAID 금기",
+      "message": "모든 NSAID(이부프로펜·나프록센·셀레콕시브·에토리콕시브)가 금기입니다. ① 외용 디클로페낙 패치는 단기만 사용. ② 아세트아미노펜 2g/일 이하. ③ 글루코사민은 진행성 CKD에선 신중 — 반드시 신장내과 상담. ④ 콘드로이친은 시도 가능. ⑤ 체중 관리 + 물리치료가 가장 안전한 방향입니다.",
+      "match_conditions": {"kidney_severity": "severe"},
+      "highlight_verified_ids": ["acetaminophen", "chondroitin_overall", "diclofenac_patch"],
+      "avoid_verified_ids": ["celecoxib_200mg", "etoricoxib_60mg", "etoricoxib_30mg", "glucosamine_rotta"],
+      "display_order": 42
+    },
+    {
+      "rule_code": "oa_liver_mild",
+      "condition_slug": "osteoarthritis",
+      "rank": 2,
+      "icon": "🫁",
+      "title": "가벼운 간기능 저하 — 대부분 옵션 가능",
+      "message": "가벼운 간 기능 저하라면 영양제·약 대부분 가능합니다. 단 고용량 커큐민 강화제형(2g/일 초과)과 고용량 보스웰리아만 피하세요. ① 외용 디클로페낙 패치(SMD -0.81) 우선. ② 글루코사민 Rotta(오스테민) 권장. ③ 일반 NSAID도 단기 복용은 OK.",
+      "match_conditions": {"liver_severity": "mild"},
+      "highlight_verified_ids": ["diclofenac_patch", "glucosamine_rotta"],
+      "display_order": 50
+    },
+    {
+      "rule_code": "oa_liver_moderate",
+      "condition_slug": "osteoarthritis",
+      "rank": 2,
+      "icon": "🫁",
+      "title": "중등도 간기능 저하 — 외용약 위주로",
+      "message": "간 대사 적은 옵션으로 갑니다. ① 외용약(디클로페낙 패치/겔) — 간 대사 거의 없어 가장 안전. ② 글루코사민·콘드로이친 — 간 부담 없음. ③ 저용량 아세트아미노펜(2g/일 이하). ⚠ 셀레콕시브 신중, 고용량 커큐민 강화제형·보스웰리아 피하기.",
+      "match_conditions": {"liver_severity": "moderate"},
+      "highlight_verified_ids": ["diclofenac_patch", "diclofenac_gel", "glucosamine_overall", "chondroitin_overall"],
+      "avoid_verified_ids": ["curcumin_enhanced", "boswellia"],
+      "display_order": 51
+    },
+    {
+      "rule_code": "oa_liver_severe",
+      "condition_slug": "osteoarthritis",
+      "rank": 1,
+      "icon": "🫁",
+      "title": "중증 간기능 저하 — NSAID 사실상 금기",
+      "message": "간경변 진행 단계에선 NSAID 대부분 금기입니다. ① 외용 디클로페낙 패치만 단기 사용 가능. ② 아세트아미노펜 절대 2g/일 이하 (간독성 위험). ③ 글루코사민·콘드로이친은 시도 가능 (간 대사 없음). ④ 강황·보스웰리아 완전히 피하기. ⑤ 물리치료가 안전한 핵심.",
+      "match_conditions": {"liver_severity": "severe"},
+      "highlight_verified_ids": ["diclofenac_patch", "glucosamine_overall", "chondroitin_overall"],
+      "avoid_verified_ids": ["curcumin_enhanced", "boswellia", "celecoxib_200mg", "etoricoxib_60mg"],
+      "display_order": 52
+    },
+    {
+      "rule_code": "oa_diabetes",
+      "condition_slug": "osteoarthritis",
+      "rank": 2,
+      "icon": "💉",
+      "title": "당뇨가 있으시면 영양제 선택을 다르게",
+      "message": "글루코사민은 일부 연구에서 인슐린 저항성에 영향을 줄 수 있다고 보고됩니다(임상적 의미는 크지 않지만 주의). 대안으로 ① 콘드로이친 IBSA 등급(SMD -0.25), ② 강황 강화제형(SMD -0.82) — 오히려 혈당 개선 보고도 있음, ③ 외용 디클로페낙 패치를 우선 권장합니다. 글루코사민을 꼭 쓰고 싶다면 저용량부터 시작하고 혈당을 모니터링하세요.",
+      "match_conditions": {"diabetes": true},
+      "highlight_verified_ids": ["chondroitin_ibsa_pharma", "curcumin_enhanced", "diclofenac_patch"],
+      "avoid_verified_ids": ["glucosamine_rotta", "glucosamine_overall"],
+      "display_order": 60
+    },
+    {
+      "rule_code": "oa_hypertension",
+      "condition_slug": "osteoarthritis",
+      "rank": 2,
+      "icon": "💗",
+      "title": "고혈압 동반 — 외용 NSAID 우선",
+      "message": "장기 NSAID 복용은 혈압 상승 위험이 있습니다. ① 외용 디클로페낙 패치(SMD -0.81) — 전신 흡수 적어 혈압 영향 미미. ② 아세트아미노펜 — 혈압 안전. ③ 영양제(글루코사민 Rotta/오스테민, 강황 강화제형) 병용이 좋습니다. 이부프로펜·나프록센 장기 복용은 피하세요.",
+      "match_conditions": {"hypertension": true},
+      "highlight_verified_ids": ["diclofenac_patch", "acetaminophen", "glucosamine_rotta"],
+      "display_order": 61
+    },
+    {
+      "rule_code": "oa_dyslipidemia",
+      "condition_slug": "osteoarthritis",
+      "rank": 3,
+      "icon": "🩺",
+      "title": "고지혈증 — 큰 제약 없음, 일부 영양제 활용 가능",
+      "message": "골관절염 약·영양제 선택에는 큰 영향이 없습니다. 강황 강화제형은 LDL 약간 낮추는 보고도 있어 함께 활용 가능. ⚠ 스타틴 복용 중이면 레드이스트 라이스 같은 일부 영양제와 상호작용 가능 — 약사·의사 상담. 일반 추천 따라가도 OK.",
+      "match_conditions": {"dyslipidemia": true},
+      "highlight_verified_ids": ["curcumin_enhanced", "glucosamine_rotta"],
+      "display_order": 62
+    },
+    {
+      "rule_code": "oa_gout",
+      "condition_slug": "osteoarthritis",
+      "rank": 2,
+      "icon": "🦶",
+      "title": "통풍 동반 — NSAID 장기 복용은 신중",
+      "message": "통풍 자체는 별도 치료(콜히친·앨로퓨리놀)가 1차입니다. 골관절염 통증에는 ① 외용 디클로페낙 패치(SMD -0.81) 우선 — 신장 부담 적음, ② 글루코사민 Rotta(오스테민)·강황 강화제형 같은 영양제로 보강. ⚠ 이부프로펜·나프록센 장기 복용은 신장 부담 + 통풍 발작 유발 가능 — 단기만 사용.",
+      "match_conditions": {"gout": true},
+      "highlight_verified_ids": ["diclofenac_patch", "glucosamine_rotta", "curcumin_enhanced"],
+      "display_order": 63
+    },
+    {
+      "rule_code": "oa_anticoagulant",
+      "condition_slug": "osteoarthritis",
+      "rank": 2,
+      "icon": "🩸",
+      "title": "항응고제 복용 중 — 상호작용 적은 영양제 선택",
+      "message": "와파린·아스피린·NOAC(엘리퀴스·자렐토 등) 복용 중이면 출혈 위험에 주의합니다. 안전 선택: ① 글루코사민·콘드로이친·MSM — 항응고제와 상호작용 거의 없음. ② 아세트아미노펜 — 1차 선택 (와파린은 INR 모니터링). ③ 외용 디클로페낙 패치 — 전신 흡수 적어 비교적 안전. ⚠ 보스웰리아·강황 강화제형·오메가-3 고용량(>3g)은 출혈 위험을 높일 수 있습니다. 요리에 쓰는 강황 양은 안전합니다.",
+      "match_conditions": {"anticoagulant": true},
+      "highlight_verified_ids": ["acetaminophen", "diclofenac_patch", "glucosamine_overall", "chondroitin_overall"],
+      "avoid_verified_ids": ["boswellia", "curcumin_enhanced"],
+      "display_order": 70
+    },
+    {
+      "rule_code": "oa_gi_history",
+      "condition_slug": "osteoarthritis",
+      "rank": 2,
+      "icon": "🍽️",
+      "title": "위궤양·위염 병력 — 위장 안전한 길로",
+      "message": "이부프로펜·나프록센은 위장 출혈 위험이 높습니다. 셀레콕시브(쎄레브렉스, COX-2 선택적, SMD -0.22) 또는 외용 디클로페낙 패치(SMD -0.81, 효과 큼)로 전환을 권장합니다. PPI(위장약) 병용 중이면 일반 NSAID도 가능하나 단기에 그치세요. 영양제는 모두 위에 영향 적습니다.",
+      "match_conditions": {"gi_history": true},
+      "highlight_verified_ids": ["celecoxib_200mg", "diclofenac_patch"],
+      "display_order": 80
+    },
+    {
+      "rule_code": "oa_nsaid_gi_side_effect",
+      "condition_slug": "osteoarthritis",
+      "rank": 2,
+      "icon": "🧴",
+      "title": "NSAID로 위가 안 좋으면 — 외용·COX-2로 전환",
+      "message": "이부프로펜·나프록센 먹을 때 속이 쓰리거나 소화가 안 되면 ① 외용 디클로페낙 패치(SMD -0.81) — 전신 부작용 거의 없음, ② 셀레콕시브(쎄레브렉스) — COX-2 선택적이라 위장 부작용 적음, 으로 전환을 고려하세요.",
+      "match_conditions": {"nsaid_gi_side_effect": true},
+      "highlight_verified_ids": ["diclofenac_patch", "celecoxib_200mg"],
+      "display_order": 90
+    },
+    {
+      "rule_code": "oa_regular_steroid_injection",
+      "condition_slug": "osteoarthritis",
+      "rank": 3,
+      "icon": "💉",
+      "title": "주사 효과가 줄어들 때 — 영양제·외용약 병용",
+      "message": "관절강내 스테로이드 주사는 1-2주엔 효과 크지만(SMD -0.48), 6개월 지나면 효과가 거의 사라집니다(SMD -0.07). 효과가 떨어지는 시점에 ① 글루코사민 Rotta(오스테민), ② 강황 강화제형, ③ 디클로페낙 패치를 병용하면 약효를 보강할 수 있습니다.",
+      "match_conditions": {"regular_steroid_injection": true},
+      "highlight_verified_ids": ["glucosamine_rotta", "curcumin_enhanced", "diclofenac_patch"],
+      "display_order": 110
+    },
+    {
+      "rule_code": "oa_current_nsaid",
+      "condition_slug": "osteoarthritis",
+      "rank": 3,
+      "icon": "💊",
+      "title": "NSAID 처방받고 계시면 — 외용약 추가 검토",
+      "message": "이미 NSAID를 처방받고 있다면 외용 디클로페낙 패치(SMD -0.81)를 추가해도 전신 부담은 거의 늘지 않습니다. 효과는 더 큽니다. 약사·의사와 상담 후 병용 여부 결정하세요.",
+      "match_conditions": {"current_nsaid": true},
+      "highlight_verified_ids": ["diclofenac_patch"],
+      "display_order": 120
+    },
+    {
+      "rule_code": "oa_elderly",
+      "condition_slug": "osteoarthritis",
+      "rank": 3,
+      "icon": "🧓",
+      "title": "65세 이상 — 외용약 + 확실한 영양제로",
+      "message": "고령에서는 NSAID 부작용(위장·신장·심혈관) 위험이 올라갑니다. ① 외용 디클로페낙 패치(SMD -0.81, 효과 큼) — 전신 부작용 거의 없음. ② 효과 확실한 영양제: 글루코사민 Rotta(오스테민) SMD -1.11, 강황 강화제형 SMD -0.82. 일반 영양제 등급은 효과 작으니 제약 등급 위주로 선택하세요.",
+      "match_conditions": {"age_min": 65},
+      "highlight_verified_ids": ["diclofenac_patch", "glucosamine_rotta", "curcumin_enhanced"],
+      "display_order": 130
+    },
+    {
+      "rule_code": "oa_healthy_default",
+      "condition_slug": "osteoarthritis",
+      "rank": 3,
+      "icon": "✓",
+      "title": "동반질환 없는 일반 추천",
+      "message": "효과 큰 순서로 추천드립니다. ① 글루코사민 Rotta(오스테민, 삼진제약, SMD -1.11) — 한국에서 살 수 있는 가장 강한 영양제. ② 강황 강화제형(쎄라큐민/Meriva/Theracurmin, SMD -0.82) — 일반 강황 분말과 효과 차이 큼. ③ 외용 디클로페낙 패치(SMD -0.81). 일반 영양제 등급(글루코사민 영양제·일반 콘드로이친·MSM)은 효과가 위약 수준입니다.",
+      "match_conditions": {"no_comorbidity": true},
+      "highlight_verified_ids": ["glucosamine_rotta", "curcumin_enhanced", "diclofenac_patch"],
+      "display_order": 140
+    }
+  ]
+}

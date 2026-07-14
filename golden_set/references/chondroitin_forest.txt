@@ -1,0 +1,2443 @@
+         Cochrane             Trusted evidence.
+                              Informed decisions.
+         Library              Better health.                                                           Cochrane Database of Systematic Reviews
+
+
+Wildi 2011 (Continued)
+ Blinding (performance            Unclear risk              Although allocation of treatments was performed with the use of sealed, cod-
+ bias and detection bias)                                   ed, tamper-proof envelopes, it is unclear whether the drug kits were them-
+ All outcomes                                               selves identical or informative into the contents of the drug
+
+ Incomplete outcome data          High risk                 Intention-to-treat analysis was not performed, and significantly more
+ (attrition bias)                                           dropouts were seen in the placebo group than in the treatment group
+ All outcomes
+
+ Selective reporting (re-         Unclear risk              Insufficient information to permit judgment of risk level
+ porting bias)
+
+
+
+
+Zegels 2012
+ Methods                          Multicenter, randomized, double blind, double-dummy study with an allocation ratio of 1:1:1, in 10
+                                  centres in Belgium, three in France and two in Switzerland
+
+ Participants                     Patients aged over 45 years old with primary knee OA diagnosed according to the clinical and radi-
+                                  ographic criteria of the American College of Rheumatology. The symptomatic target knee should have
+                                  a pain score of at least 40 mm on a 0-100 mm visual analogue scale (VAS) and a score 7 at the Lequesne
+                                  index (LI). If both knees were symptomatic, the target knee was the most symptomatic knee.
+
+ Interventions                    Group 1: CS 1200, receiving one oral gel sachet of CS 1200 mg/day & one oral placebo capsule three
+                                  times a day.
+
+                                  Group 2: CS 3*400, receiving one oral placebo gel sachet/day & one oral capsule of CS 400 mg three
+                                  times a day.
+
+                                  Group 3: the control group, receiving one oral placebo gel sachet/day & one oral placebo capsule three
+                                  times a day
+
+ Outcomes                         Primary:
+                                  Algo-functional Lequesne's index
+                                  Secondary:
+
+                                  Global spontaneous pain was measured on a vertical VAS of
+                                  100 mm
+
+                                  Treatment compliance
+
+                                  Adverse events
+
+ Notes                            All these drug supplies were provided by the
+                                  Institut Biochimique SA (IBSA)/Laboratoires Genévrier
+
+ Risk of bias
+
+ Bias                             Authors' judgement        Support for judgement
+
+ Random sequence genera-          Low risk                  The three different types of treatment were allocated according to a randomi-
+ tion (selection bias)                                      sation list balanced/blocks of three
+                                                            established by the sponsor with a randomisation method starting from a vali-
+                                                            dated SAS software.
+
+ Allocation concealment           Unclear risk              Treatment was allocated in ascending order as recruitment proceeded, by as-
+ (selection bias)                                           signing the first available number.
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                     93
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+         Cochrane             Trusted evidence.
+                              Informed decisions.
+         Library              Better health.                                                           Cochrane Database of Systematic Reviews
+
+
+Zegels 2012 (Continued)
+ Blinding (performance            Low risk                  All placebos were identical in form and appearance to the real drugs. This
+ bias and detection bias)                                   study is a multicenter, comparative, randomized, double-blind and dou-
+ All outcomes                                               ble-dummy study
+
+ Incomplete outcome data          Low risk                  Intent-to-treat (ITT) analyses were performed for all randomized
+ (attrition bias)                                           patients, using the last observation carried forward approach.
+ All outcomes
+
+ Selective reporting (re-         Low risk                  Attrition explained; selective outcome reporting not suspected
+ porting bias)
+
+ Other bias                       Low risk                  No baseline imbalance
+
+
+
+Characteristics of excluded studies [ordered by study ID]
+
+
+ Study                                                            Reason for exclusion
+
+ ---, 2000                                                        Short review
+
+ ---, 2000A                                                       Short review
+
+ ---, 2000B                                                       NA randomized
+
+ ---, 2000C                                                       Short review
+
+ ---, 2000D                                                       No data
+
+ ---, 2002                                                        No data
+
+ Alekseeva 2003                                                   duplicate of Nasonova 2001
+
+ Berenbaum 2011                                                   Abstract
+
+ Borovkov 2000                                                    NA randomized
+
+ Brandao 2009                                                     Author contacted; Study not obtainable
+
+ Ciobanu 1994                                                     No clinical outcomes
+
+ Cohen 2003A                                                      NA randomized
+
+ Derrett-Smith 2006                                               Review
+
+ Edelist 2001                                                     NA randomized
+
+ Ernest 2003                                                      Commentary
+
+ Escudero 2011                                                    Abstract only
+
+ Esenyel 2011                                                     Abstract only
+
+ Fleisch 1997                                                     Abstract only
+
+ Fujita 2002                                                      Abstract Only
+
+Chondroitin for osteoarthritis (Review)                                                                                                    94
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+         Cochrane             Trusted evidence.
+                              Informed decisions.
+         Library              Better health.                                                            Cochrane Database of Systematic Reviews
+
+
+
+ Study                                                            Reason for exclusion
+
+ Hochberg 2008                                                    Not original study- summary of observations
+
+ Kahan 2006                                                       Abstract only
+
+ Kerzberg 1987                                                    Injection, not oral administration of chondroitin sulfate
+
+ Lapane 2012                                                      No data on chondroitin sulfate
+
+ Leeb 2000                                                        NA randomized
+
+ Leffler 1999                                                     Studied patients with DJD not osteoarthritis
+
+ Long 2000                                                        Commentary
+
+ Longyhore 2003                                                   NA randomized
+
+ Malaise 1999                                                     Duplicate results of Uebelhart 2004 Study
+
+ Matsuno et al, 2009                                              No clinical outcomes
+
+ Mazieres 2006                                                    Abstract only
+
+ McAlindon 2000                                                   Meta analysis
+
+ McAlindon 2001                                                   Letter
+
+ Monfort 2011                                                     Abstract
+
+ Monfort 2011A                                                    Abstract
+
+ Oliviero 1991                                                    NA randomized
+
+ Orth 2003                                                        NA randomized
+
+ Pelletier 2011                                                   Abstract
+
+ Povoroznyuk 2011                                                 Abstract
+
+ Priebe 2003                                                      Review
+
+ Reginster 2011                                                   Abstract
+
+ Richy 2003                                                       Meta analysis
+
+ Rovetta 1991                                                     Injection rather than oral form of chondroitin sulfate
+
+ Schenck 2000                                                     NA randomized
+
+ Scroggie 2003                                                    Not osteoarthritis
+
+ Shaughnessy 2003                                                 NA randomized
+
+ Soroka & Chyzh 2002                                              Abstract
+
+ Townheed 2002                                                    Meta analysis
+
+Chondroitin for osteoarthritis (Review)                                                                                                     95
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+         Cochrane             Trusted evidence.
+                              Informed decisions.
+         Library              Better health.                                                           Cochrane Database of Systematic Reviews
+
+
+
+ Study                                                            Reason for exclusion
+
+ Treves 1994                                                      NA randomized
+
+ Tsvetkova 1992                                                   Review
+
+ Uebelhart 1999                                                   Abstract
+
+ Vela Marquez 2011                                                Abstract
+
+ Verbruggen 1998                                                  No data
+
+ Vertkin 2007                                                     Obvious mismatch in data
+
+ Villani 1998                                                     Review
+
+ Wagenhauser 1968                                                 Case-series; no control group; no randomization
+
+ Wakitani 2007                                                    NA randomized
+
+ Walker-Bone 2003                                                 Review
+
+ Wildi 2011A                                                      Abstract
+
+
+
+
+DATA AND ANALYSES
+
+
+Comparison 1. Chondroitin versus Placebo
+
+ Outcome or subgroup title                      No. of studies       No. of partici-     Statistical method               Effect size
+                                                                     pants
+
+ 1 Pain on a 0 to 100 scale                     12                                       Std. Mean Difference (IV, Ran-   Subtotals only
+                                                                                         dom, 95% CI)
+
+ 1.1 Short-term studies (< 6 months)—           8                    1077                Std. Mean Difference (IV, Ran-   -0.51 [-0.74,
+ dose ≥ 800 mg/d                                                                         dom, 95% CI)                     -0.28]
+
+ 1.2 Long-term studies (≥ 6 months)—            6                    989                 Std. Mean Difference (IV, Ran-   -0.39 [-0.78, 0.00]
+ dose ≥ 800 mg/d                                                                         dom, 95% CI)
+
+ 2 WOMAC MCII                                   2                    1253                Risk Ratio (M-H, Random,         1.12 [1.01, 1.24]
+                                                                                         95% CI)
+
+ 2.1 Long-term studies (≥ 6 months)—            2                    1253                Risk Ratio (M-H, Random,         1.12 [1.01, 1.24]
+ dose ≥ 800 mg/d                                                                         95% CI)
+
+ 3 Physical Function on a 0 to 100 scale        3                                        Std. Mean Difference (IV, Ran-   Subtotals only
+                                                                                         dom, 95% CI)
+
+ 3.1 Short-term studies (< 6 months)—           2                    303                 Std. Mean Difference (IV, Ran-   0.11 [-0.47, 0.68]
+ dose ≥ 800 mg/d                                                                         dom, 95% CI)
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                        96
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+         Cochrane             Trusted evidence.
+                              Informed decisions.
+         Library              Better health.                                                         Cochrane Database of Systematic Reviews
+
+
+
+ Outcome or subgroup title                      No. of studies       No. of partici-   Statistical method               Effect size
+                                                                     pants
+
+ 3.2 Long-term studies (≥ 6 months)—            2                    677               Std. Mean Difference (IV, Ran-   -0.41 [-1.33, 0.50]
+ dose ≥ 800 mg/d                                                                       dom, 95% CI)
+
+ 4 WOMAC Stiffness on a 0 to 100 scale          1                    631               Mean Difference (IV, Random,     2.5 [-1.43, 6.43]
+                                                                                       95% CI)
+
+ 4.1 Long-term studies (≥ 6 months)—            1                    631               Mean Difference (IV, Random,     2.5 [-1.43, 6.43]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 5 Patient Global Assessment—rating it          3                                      Risk Ratio (M-H, Random,         Subtotals only
+ good to very good                                                                     95% CI)
+
+ 5.1 Short-term studies (< 6 months)—           2                    154               Risk Ratio (M-H, Random,         2.11 [1.49, 2.99]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 5.2 Long-term studies (≥ 6 months)—            1                    85                Risk Ratio (M-H, Random,         2.04 [1.28, 3.27]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 6 Patient Global Assessment on a VAS 0         4                                      Std. Mean Difference (IV, Ran-   Subtotals only
+ to 100-mm scale                                                                       dom, 95% CI)
+
+ 6.1 Short-term studies (< 6 months)—           1                    130               Std. Mean Difference (IV, Ran-   -0.13 [-0.48, 0.21]
+ dose ≥ 800 mg/d                                                                       dom, 95% CI)
+
+ 6.2 Long-term studies (≥ 6 months)—            3                    1415              Std. Mean Difference (IV, Ran-   0.01 [-0.21, 0.23]
+ dose ≥ 800 mg/d                                                                       dom, 95% CI)
+
+ 7 MD Global Assessment of good to              3                                      Risk Ratio (M-H, Random,         Subtotals only
+ very good                                                                             95% CI)
+
+ 7.1 Short-term studies (< 6 months)—           2                    154               Risk Ratio (M-H, Random,         1.95 [1.42, 2.69]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 7.2 Long-term studies (≥ 6 months)—            1                    85                Risk Ratio (M-H, Random,         2.12 [1.33, 3.38]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 8 MD Global Assessment on a VAS 0 to           2                    1259              Std. Mean Difference (IV, Ran-   0.09 [-0.05, 0.23]
+ 100-mm scale                                                                          dom, 95% CI)
+
+ 8.1 Long-term studies (≥ 6 months)—            2                    1259              Std. Mean Difference (IV, Ran-   0.09 [-0.05, 0.23]
+ dose ≥ 800 mg/d                                                                       dom, 95% CI)
+
+ 9 Total Knee Arthroplasty during fol-          1                    69                Risk Ratio (M-H, Random,         0.43 [0.15, 1.27]
+ low-up                                                                                95% CI)
+
+ 10 Grip Strength (kg/cm2)                      1                    162               Mean Difference (IV, Random,     0.90 [-2.29, 4.09]
+                                                                                       95% CI)
+
+ 10.1 Long-term studies (≥ 6 months)—           1                    162               Mean Difference (IV, Random,     0.90 [-2.29, 4.09]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 11 Morning Stiffness, minutes                  1                    162               Mean Difference (IV, Random,     -0.60 [-5.16, 3.96]
+                                                                                       95% CI)
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                      97
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+         Cochrane             Trusted evidence.
+                              Informed decisions.
+         Library              Better health.                                                        Cochrane Database of Systematic Reviews
+
+
+
+ Outcome or subgroup title                      No. of studies       No. of partici-   Statistical method              Effect size
+                                                                     pants
+
+ 11.1 Long-term studies (≥ 6 months)—           1                    162               Mean Difference (IV, Random,    -0.60 [-5.16, 3.96]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 12 Cartilage Volume Loss (global)              1                    69                Mean Difference (IV, Random,    1.80 [0.23, 3.37]
+                                                                                       95% CI)
+
+ 12.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    1.80 [0.23, 3.37]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 13 Cartilage Volume Loss (lateral com-         1                    69                Mean Difference (IV, Random,    2.19 [0.31, 4.07]
+ partment)                                                                             95% CI)
+
+ 13.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    2.19 [0.31, 4.07]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 14 Cartilage Volume Loss (medial com-          1                    69                Mean Difference (IV, Random,    1.47 [-0.88, 3.82]
+ partment)                                                                             95% CI)
+
+ 14.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    1.47 [-0.88, 3.82]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 15 Cartilage Volume Loss (condyles)            1                    69                Mean Difference (IV, Random,    0.64 [-1.59, 2.87]
+                                                                                       95% CI)
+
+ 15.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    0.64 [-1.59, 2.87]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 16 Cartilage Volume Loss (lateral              1                    69                Mean Difference (IV, Random,    1.84 [-0.44, 4.12]
+ condyles)                                                                             95% CI)
+
+ 16.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    1.84 [-0.44, 4.12]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 17 Cartilage Volume Loss (medial               1                    69                Mean Difference (IV, Random,    -0.65 [-4.14, 2.84]
+ condyles)                                                                             95% CI)
+
+ 17.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    -0.65 [-4.14, 2.84]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 18 Cartilage Volume Loss (tibial               1                    69                Mean Difference (IV, Random,    2.98 [1.15, 4.81]
+ plateaus)                                                                             95% CI)
+
+ 18.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    2.98 [1.15, 4.81]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 19 Cartilage Volume Loss (lateral tibial       1                    69                Mean Difference (IV, Random,    2.31 [-0.09, 4.71]
+ plateaus)                                                                             95% CI)
+
+ 19.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    2.31 [-0.09, 4.71]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 20 Cartilage Volume Loss (medial tibial        1                    69                Mean Difference (IV, Random,    4.47 [1.57, 7.37]
+ plateau)                                                                              95% CI)
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                     98
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+         Cochrane             Trusted evidence.
+                              Informed decisions.
+         Library              Better health.                                                        Cochrane Database of Systematic Reviews
+
+
+
+ Outcome or subgroup title                      No. of studies       No. of partici-   Statistical method              Effect size
+                                                                     pants
+
+ 20.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    4.47 [1.57, 7.37]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 21 Cartilage Volume Loss (trochlea)            1                    69                Mean Difference (IV, Random,    0.65 [-1.79, 3.09]
+                                                                                       95% CI)
+
+ 21.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    0.65 [-1.79, 3.09]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 22 Change in Bone Marrow Lesion                1                    69                Mean Difference (IV, Random,    -0.07 [-0.65, 0.51]
+ Score (global)                                                                        95% CI)
+
+ 22.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    -0.07 [-0.65, 0.51]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 23 Change in Bone Marrow Lesion                1                    69                Mean Difference (IV, Random,    -0.10 [-0.30, 0.10]
+ Score (lateral compartment)                                                           95% CI)
+
+ 23.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    -0.10 [-0.30, 0.10]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 24 Change in Bone Marrow Lesion                1                    69                Mean Difference (IV, Random,    0.02 [-0.52, 0.56]
+ score (medial compartment)                                                            95% CI)
+
+ 24.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    0.02 [-0.52, 0.56]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 25 Change in Bone Marrow Lesion                1                    69                Mean Difference (IV, Random,    0.02 [-0.35, 0.39]
+ score (condyles)                                                                      95% CI)
+
+ 25.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    0.02 [-0.35, 0.39]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 26 Change in Bone Marrow Lesion                1                    69                Mean Difference (IV, Random,    -0.04 [-0.14, 0.06]
+ score (lateral condyles)                                                              95% CI)
+
+ 26.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    -0.04 [-0.14, 0.06]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 27 Change in Bone Marrow Lesion                1                    69                Mean Difference (IV, Random,    0.13 [-0.22, 0.48]
+ score (medial condyles)                                                               95% CI)
+
+ 27.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    0.13 [-0.22, 0.48]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 28 Change in Bone Marrow Lesion                1                    69                Mean Difference (IV, Random,    -0.1 [-0.46, 0.26]
+ score (tibial plateaus)                                                               95% CI)
+
+ 28.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    -0.1 [-0.46, 0.26]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 29 Change in Bone Marrow Lesion                1                    69                Mean Difference (IV, Random,    -0.01 [-0.18, 0.16]
+ score (lateral tibial plateaus)                                                       95% CI)
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                     99
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+         Cochrane             Trusted evidence.
+                              Informed decisions.
+         Library              Better health.                                                        Cochrane Database of Systematic Reviews
+
+
+
+ Outcome or subgroup title                      No. of studies       No. of partici-   Statistical method              Effect size
+                                                                     pants
+
+ 29.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    -0.01 [-0.18, 0.16]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 30 Change in Bone Marrow Lesion                1                    69                Mean Difference (IV, Random,    -0.1 [-0.40, 0.20]
+ score (medial tibial plateau)                                                         95% CI)
+
+ 30.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    -0.1 [-0.40, 0.20]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 31 Change in Bone Marrow Lesion                1                    69                Mean Difference (IV, Random,    0.16 [-0.10, 0.42]
+ score (trochlea)                                                                      95% CI)
+
+ 31.1 Long-term studies (≥ 6 months)—           1                    69                Mean Difference (IV, Random,    0.16 [-0.10, 0.42]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 32 OMERACT-OARSI Responder                     1                    631               Risk Ratio (M-H, Random,        1.12 [0.98, 1.27]
+                                                                                       95% CI)
+
+ 32.1 Long-term studies (≥ 6 months)—           1                    631               Risk Ratio (M-H, Random,        1.12 [0.98, 1.27]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 33 Lequesne's Index on 0 to 24 scale           9                                      Mean Difference (IV, Random,    Subtotals only
+ (higher is worse)                                                                     95% CI)
+
+ 33.1 Short-term studies (< 6 months)—          7                    903               Mean Difference (IV, Random,    -1.98 [-2.79,
+ dose ≥ 800 mg/d                                                                       95% CI)                         -1.17]
+
+ 33.2 Long-term studies (≥ 6 months)—           3                    243               Mean Difference (IV, Random,    -1.60 [-3.49, 0.29]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 34 HAQ Disability Score on 0 to 3 scale        1                    631               Mean Difference (IV, Random,    -0.04 [-0.11, 0.03]
+ (higher is worse)                                                                     95% CI)
+
+ 34.1 Long-term studies (≥ 6 months)—           1                    631               Mean Difference (IV, Random,    -0.04 [-0.11, 0.03]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 35 Radiographic Outcome: Minimum               2                    156               Mean Difference (IV, Random,    0.19 [-0.27, 0.65]
+ JSW in mm                                                                             95% CI)
+
+ 35.1 Long-term studies (≥ 6 months)—           2                    156               Mean Difference (IV, Random,    0.19 [-0.27, 0.65]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 36 Radiographic Outcome: Reduction             2                    922               Mean Difference (IV, Random,    0.18 [0.06, 0.30]
+ in Minimum JSW in mm                                                                  95% CI)
+
+ 36.1 Long-term studies (≥ 6 months)—           2                    922               Mean Difference (IV, Random,    0.18 [0.06, 0.30]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 37 Radiographic Outcome: Mean JSW              2                    156               Mean Difference (IV, Random,    0.17 [-0.47, 0.81]
+ in mm                                                                                 95% CI)
+
+ 37.1 Long-term studies (≥ 6 months)—           2                    156               Mean Difference (IV, Random,    0.17 [-0.47, 0.81]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                 100
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+         Cochrane             Trusted evidence.
+                              Informed decisions.
+         Library              Better health.                                                        Cochrane Database of Systematic Reviews
+
+
+
+ Outcome or subgroup title                      No. of studies       No. of partici-   Statistical method              Effect size
+                                                                     pants
+
+ 38 Radiographic Outcome: Change in             3                    1179              Mean Difference (IV, Random,    0.13 [0.07, 0.20]
+ Mean JSW in mm                                                                        95% CI)
+
+ 38.1 Long-term studies (≥ 6 months)—           3                    1179              Mean Difference (IV, Random,    0.13 [0.07, 0.20]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 39 SF-36—Physical Component Score              1                    129               Mean Difference (IV, Random,    2.76 [-19.84,
+                                                                                       95% CI)                         25.36]
+
+ 39.1 Short-term studies (< 6 months)—          1                    129               Mean Difference (IV, Random,    2.76 [-19.84,
+ dose ≥ 800 mg/d                                                                       95% CI)                         25.36]
+
+ 40 SF-36—Mental Component Summa-               1                    129               Mean Difference (IV, Random,    -0.59 [-24.84,
+ ry Score                                                                              95% CI)                         23.66]
+
+ 40.1 Short-term studies (< 6 months)—          1                    129               Mean Difference (IV, Random,    -0.59 [-24.84,
+ dose ≥ 800 mg/d                                                                       95% CI)                         23.66]
+
+ 41 All withdrawals                             15                   2763              Risk Ratio (M-H, Random,        0.80 [0.63, 1.02]
+                                                                                       95% CI)
+
+ 41.1 Short-term studies (< 6 months)—          6                    675               Risk Ratio (M-H, Random,        0.67 [0.41, 1.09]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 41.2 Long-term studies (≥ 6 months)—           9                    2088              Risk Ratio (M-H, Random,        0.82 [0.62, 1.09]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 42 Withdrawals due to adverse events           10                   2406              Risk Ratio (M-H, Random,        1.08 [0.74, 1.57]
+                                                                                       95% CI)
+
+ 42.1 Short-term studies (< 6 months)—          4                    489               Risk Ratio (M-H, Random,        0.95 [0.31, 2.89]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 42.2 Long-term studies (≥ 6 months)—           6                    1917              Risk Ratio (M-H, Random,        1.09 [0.73, 1.63]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 43 Withdrawals due to inefficacy               10                   2314              Risk Ratio (M-H, Random,        1.22 [0.88, 1.70]
+                                                                                       95% CI)
+
+ 43.1 Short-term studies (< 6 months)—          3                    360               Risk Ratio (M-H, Random,        0.62 [0.15, 2.55]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 43.2 Long-term studies (≥ 6 months)—           7                    1954              Risk Ratio (M-H, Random,        1.27 [0.91, 1.78]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 44 Number of adverse events                    8                    1579              Risk Ratio (M-H, Random,        0.97 [0.83, 1.14]
+                                                                                       95% CI)
+
+ 44.1 Short-term studies (< 6 months)—          6                    795               Risk Ratio (M-H, Random,        1.04 [0.81, 1.34]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 44.2 Long-term studies (≥ 6 months)—           2                    784               Risk Ratio (M-H, Random,        0.84 [0.50, 1.40]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                 101
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+          Cochrane             Trusted evidence.
+                               Informed decisions.
+          Library              Better health.                                                                    Cochrane Database of Systematic Reviews
+
+
+
+ Outcome or subgroup title                        No. of studies          No. of partici-        Statistical method                  Effect size
+                                                                          pants
+
+ 45 Number of serious adverse events              6                       954                    Odds Ratio (M-H, Fixed, 95%         0.40 [0.19, 0.82]
+                                                                                                 CI)
+
+ 45.1 Short-term studies (< 6 months)—            3                       466                    Odds Ratio (M-H, Fixed, 95%         0.5 [0.09, 2.78]
+ dose ≥ 800 mg/d                                                                                 CI)
+
+ 45.2 Long-term studies (≥ 6 months)—             3                       488                    Odds Ratio (M-H, Fixed, 95%         0.38 [0.17, 0.84]
+ dose ≥ 800 mg/d                                                                                 CI)
+
+ 46 GI adverse events                             9                       1684                   Risk Ratio (M-H, Random,            0.68 [0.45, 1.04]
+                                                                                                 95% CI)
+
+ 46.1 Short-term studies (< 6 months)—            3                       329                    Risk Ratio (M-H, Random,            0.43 [0.15, 1.19]
+ dose ≥ 800 mg/d                                                                                 95% CI)
+
+ 46.2 Long-term studies (≥ 6 months)—             6                       1355                   Risk Ratio (M-H, Random,            0.75 [0.47, 1.19]
+ dose ≥ 800 mg/d                                                                                 95% CI)
+
+ 47 Other adverse events                          5                       787                    Risk Ratio (M-H, Random,            0.95 [0.79, 1.15]
+                                                                                                 95% CI)
+
+ 47.1 Short-term studies (< 6 months)—            2                       213                    Risk Ratio (M-H, Random,            1.02 [0.72, 1.45]
+ dose ≥ 800 mg/d                                                                                 95% CI)
+
+ 47.2 Long-term studies (≥ 6 months)—             3                       574                    Risk Ratio (M-H, Random,            0.82 [0.35, 1.96]
+ dose ≥ 800 mg/d                                                                                 95% CI)
+
+ 48 Deaths                                        7                       1378                   Risk Ratio (M-H, Random,            0.34 [0.04, 3.20]
+                                                                                                 95% CI)
+
+ 48.1 Short-term studies (< 6 months)—            2                       213                    Risk Ratio (M-H, Random,            0.0 [0.0, 0.0]
+ dose ≥ 800 mg/d                                                                                 95% CI)
+
+ 48.2 Long-term studies (≥ 6 months)—             5                       1165                   Risk Ratio (M-H, Random,            0.34 [0.04, 3.20]
+ dose ≥ 800 mg/d                                                                                 95% CI)
+
+
+
+
+                  Analysis 1.1. Comparison 1 Chondroitin versus Placebo, Outcome 1 Pain on a 0 to 100 scale.
+ Study or subgroup                Favors Chondroitin      Favors Placebo                Std. Mean Difference            Weight      Std. Mean Difference
+                                    N      Mean(SD)       N      Mean(SD)                   Random, 95% CI                               Random, 95% CI
+ 1.1.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Bourgeois 1998                      40        29 (16)     44         45 (19)                                           11.07%               -0.9[-1.35,-0.45]
+ Mazieres 2001                       63      -26 (23.3)    67    -19.7 (22.8)                                           13.36%               -0.27[-0.62,0.07]
+ Morreale 1996                       74     11.5 (12.1)    72       18.9 (13)                                           13.68%              -0.59[-0.92,-0.25]
+ Pavelka 1999                        35     31.4 (19.2)    35      56.8 (21.8)                                           9.84%              -1.22[-1.74,-0.71]
+ Sawitzke 2010                      126     24.7 (19.2)   131      27.8 (21.3)                                          15.68%                -0.15[-0.4,0.09]
+ Uebelhart 1998                      23        36 (23)     23         52 (15)                                             8.3%              -0.81[-1.41,-0.21]
+ Uebelhart 2004                      54     42.9 (23.2)    56      49.1 (24.5)                                          12.68%               -0.26[-0.63,0.12]
+ Zegels 2012                        117     39.4 (24.2)   117      47.1 (24.8)                                          15.39%              -0.31[-0.57,-0.06]
+ Subtotal ***                       532                   545                                                             100%             -0.51[-0.74,-0.28]
+
+                                                          Favors Chondroitin     -2    -1         0          1     2    Favors Placebo
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                    102
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                  Trusted evidence.
+                                     Informed decisions.
+           Library                   Better health.                                                                                         Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                         Favors Chondroitin               Favors Placebo                  Std. Mean Difference                      Weight      Std. Mean Difference
+                                            N           Mean(SD)           N        Mean(SD)                     Random, 95% CI                                        Random, 95% CI
+ Heterogeneity: Tau2=0.07; Chi2=22.99, df=7(P=0); I2=69.56%
+ Test for overall effect: Z=4.3(P<0.0001)
+
+
+ 1.1.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Bucsi 1998                                  39             32 (23)         46           55 (26)                                                      16.68%              -0.92[-1.37,-0.47]
+ Clegg 2006                                 318         30.3 (22.6)        313      30.2 (22.6)                                                       20.73%                  0[-0.15,0.16]
+ Railhac 2012                                25           6.8 (10.7)        23      10.2 (13.3)                                                       14.71%               -0.28[-0.85,0.29]
+ Uebelhart 1998                              23             21 (21)         23           48 (25)                                                      13.77%              -1.15[-1.78,-0.52]
+ Uebelhart 2004                              54         34.3 (27.4)         56      45.8 (27.6)                                                       17.84%              -0.42[-0.79,-0.04]
+ Wildi 2011                                  35         -14.8 (23.7)        34      -20.3 (22.1)                                                      16.28%               0.24[-0.24,0.71]
+ Subtotal ***                               494                            495                                                                          100%                -0.39[-0.78,0]
+ Heterogeneity: Tau2=0.18; Chi2=29.5, df=5(P<0.0001); I2=83.05%
+ Test for overall effect: Z=1.95(P=0.05)
+ Test for subgroup differences: Chi2=0.27, df=1 (P=0.6), I2=0%
+
+                                                                           Favors Chondroitin       -2      -1          0          1           2      Favors Placebo
+
+
+
+
+                          Analysis 1.2. Comparison 1 Chondroitin versus Placebo, Outcome 2 WOMAC MCII.
+ Study or subgroup                          Favors Chon-           Favors Placebo                        Risk Ratio                                Weight                Risk Ratio
+                                               droitin
+                                                  n/N                      n/N                      M-H, Random, 95% CI                                          M-H, Random, 95% CI
+ 1.2.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Clegg 2006                                        208/318                     188/313                                                                74.22%                1.09[0.97,1.23]
+ Kahan 2009                                        128/313                     105/309                                                                25.78%                 1.2[0.98,1.48]
+ Subtotal (95% CI)                                        631                     622                                                                   100%               1.12[1.01,1.24]
+ Total events: 336 (Favors Chondroitin), 293 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=0.72, df=1(P=0.39); I2=0%
+ Test for overall effect: Z=2.09(P=0.04)
+
+
+ Total (95% CI)                                           631                     622                                                                   100%               1.12[1.01,1.24]
+ Total events: 336 (Favors Chondroitin), 293 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=0.72, df=1(P=0.39); I2=0%
+ Test for overall effect: Z=2.09(P=0.04)
+
+                                                                       Favors Placebo    0.5       0.7       1              1.5         2   Favors Chondroitin
+
+
+
+
+        Analysis 1.3. Comparison 1 Chondroitin versus Placebo, Outcome 3 Physical Function on a 0 to 100 scale.
+ Study or subgroup                         Favors Chondroitin               Favors Placebo                  Std. Mean Difference                      Weight      Std. Mean Difference
+                                            N           Mean(SD)           N        Mean(SD)                     Random, 95% CI                                        Random, 95% CI
+ 1.3.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Sawitzke 2010                              126         25.9 (20.5)        131      28.6 (20.7)                                                       60.39%               -0.13[-0.38,0.11]
+ Uebelhart 1998                              23             45 (23)         23           35 (19)                                                      39.61%               0.47[-0.12,1.05]
+ Subtotal ***                               149                            154                                                                          100%              0.11[-0.47,0.68]
+ Heterogeneity: Tau2=0.13; Chi2=3.39, df=1(P=0.07); I2=70.46%
+ Test for overall effect: Z=0.36(P=0.72)
+
+
+ 1.3.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+
+                                                                           Favors Chondroitin              -0.5 -0.25   0    0.25 0.5                 Favors Placebo
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                                                  103
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                   Trusted evidence.
+                                        Informed decisions.
+             Library                    Better health.                                                                                                  Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                         Favors Chondroitin              Favors Placebo                        Std. Mean Difference                           Weight       Std. Mean Difference
+                                            N           Mean(SD)          N        Mean(SD)                         Random, 95% CI                                               Random, 95% CI
+ Clegg 2006                                 318          32 (23.2)        313           31.8 (22)                                                               55.16%                0.01[-0.15,0.16]
+ Uebelhart 1998                              23            14 (14)         23            32 (23)                                                                44.84%              -0.93[-1.54,-0.32]
+ Subtotal ***                               341                           336                                                                                     100%               -0.41[-1.33,0.5]
+ Heterogeneity: Tau2=0.39; Chi2=8.5, df=1(P=0); I2=88.23%
+ Test for overall effect: Z=0.88(P=0.38)
+ Test for subgroup differences: Chi2=0.88, df=1 (P=0.35), I2=0%
+
+                                                                          Favors Chondroitin                     -0.5 -0.25   0        0.25 0.5                 Favors Placebo
+
+
+
+
+        Analysis 1.4. Comparison 1 Chondroitin versus Placebo, Outcome 4 WOMAC Stiffness on a 0 to 100 scale.
+ Study or subgroup                         Favors Chondroitin              Favors Placebo                           Mean Difference                             Weight           Mean Difference
+                                            N           Mean(SD)          N        Mean(SD)                         Random, 95% CI                                               Random, 95% CI
+ 1.4.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Clegg 2006                                 318         37.8 (25.9)       313      35.3 (24.4)                                                                    100%                 2.5[-1.43,6.43]
+ Subtotal ***                               318                           313                                                                                     100%                2.5[-1.43,6.43]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.25(P=0.21)
+
+
+ Total ***                                  318                           313                                                                                     100%                2.5[-1.43,6.43]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.25(P=0.21)
+
+                                                                          Favors Chondroitin              -0.5    -0.25       0          0.25     0.5           Favors Placebo
+
+
+
+
+                                         Analysis 1.5. Comparison 1 Chondroitin versus Placebo, Outcome
+                                             5 Patient Global Assessment—rating it good to very good.
+ Study or subgroup                         Favors Chon-            Favors Placebo                          Risk Ratio                                       Weight                 Risk Ratio
+                                              droitin
+                                                  n/N                     n/N                        M-H, Random, 95% CI                                                     M-H, Random, 95% CI
+ 1.5.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Bourgeois 1998                                         28/40                   15/44                                                                           57.99%                  2.05[1.3,3.25]
+ Pavelka 1999                                           24/35                   11/35                                                                           42.01%                2.18[1.27,3.74]
+ Subtotal (95% CI)                                         75                     79                                                                              100%               2.11[1.49,2.99]
+ Total events: 52 (Favors Chondroitin), 26 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=0.03, df=1(P=0.87); I2=0%
+ Test for overall effect: Z=4.18(P<0.0001)
+
+
+ 1.5.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Bucsi 1998                                             26/39                   15/46                                                                             100%                2.04[1.28,3.27]
+ Subtotal (95% CI)                                         39                     46                                                                              100%               2.04[1.28,3.27]
+ Total events: 26 (Favors Chondroitin), 15 (Favors Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=2.98(P=0)
+ Test for subgroup differences: Chi2=0.01, df=1 (P=0.92), I2=0%
+
+                                                                      Favors Placebo      0.01      0.1            1              10            100     Favors Chondroitin
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                                                            104
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                     Trusted evidence.
+                                        Informed decisions.
+           Library                      Better health.                                                                                            Cochrane Database of Systematic Reviews
+
+
+                                          Analysis 1.6. Comparison 1 Chondroitin versus Placebo, Outcome
+                                              6 Patient Global Assessment on a VAS 0 to 100-mm scale.
+ Study or subgroup                         Favors Chondroitin              Favors Placebo                          Std. Mean Difference                      Weight      Std. Mean Difference
+                                            N           Mean(SD)          N        Mean(SD)                            Random, 95% CI                                         Random, 95% CI
+ 1.6.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Mazieres 2001                               63         36.1 (21.5)        67      38.8 (18.7)                                                                 100%               -0.13[-0.48,0.21]
+ Subtotal ***                                63                            67                                                                                 100%               -0.13[-0.48,0.21]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.76(P=0.45)
+
+
+ 1.6.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Clegg 2006                                 318         34.8 (24.7)       313           34 (23.9)                                                            38.04%                0.03[-0.12,0.19]
+ Gabay 2011                                  80         34.9 (25.3)        82      42.3 (24.9)                                                               24.07%                -0.29[-0.6,0.02]
+ Kahan 2009                                 309         42.2 (31.6)       313      36.6 (30.1)                                                                37.9%                0.18[0.02,0.34]
+ Subtotal ***                               707                           708                                                                                 100%               0.01[-0.21,0.23]
+ Heterogeneity: Tau2=0.03; Chi2=7.4, df=2(P=0.02); I2=72.96%
+ Test for overall effect: Z=0.1(P=0.92)
+ Test for subgroup differences: Chi2=0.48, df=1 (P=0.49), I2=0%
+
+                                                                          Favors Chondroitin              -10      -5        0          5         10         Favors Placebo
+
+
+
+
+  Analysis 1.7. Comparison 1 Chondroitin versus Placebo, Outcome 7 MD Global Assessment of good to very good.
+ Study or subgroup                         Favors Chon-            Favors Placebo                               Risk Ratio                              Weight                  Risk Ratio
+                                              droitin
+                                                  n/N                     n/N                         M-H, Random, 95% CI                                               M-H, Random, 95% CI
+ 1.7.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Bourgeois 1998                                         28/40                   15/44                                                                        49.11%                  2.05[1.3,3.25]
+ Pavelka 1999                                           26/35                   14/35                                                                        50.89%                1.86[1.18,2.91]
+ Subtotal (95% CI)                                         75                     79                                                                          100%                1.95[1.42,2.69]
+ Total events: 54 (Favors Chondroitin), 29 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=0.09, df=1(P=0.76); I2=0%
+ Test for overall effect: Z=4.08(P<0.0001)
+
+
+ 1.7.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Bucsi 1998                                             27/39                   15/46                                                                          100%                2.12[1.33,3.38]
+ Subtotal (95% CI)                                         39                     46                                                                          100%                2.12[1.33,3.38]
+ Total events: 27 (Favors Chondroitin), 15 (Favors Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=3.17(P=0)
+ Test for subgroup differences: Chi2=0.09, df=1 (P=0.77), I2=0%
+
+                                                                      Favors Placebo      0.01      0.1                1         10         100   Favors Chondroitin
+
+
+
+
+                                              Analysis 1.8. Comparison 1 Chondroitin versus Placebo,
+                                            Outcome 8 MD Global Assessment on a VAS 0 to 100-mm scale.
+ Study or subgroup                         Favors Chondroitin              Favors Placebo                          Std. Mean Difference                      Weight      Std. Mean Difference
+                                            N           Mean(SD)          N        Mean(SD)                            Random, 95% CI                                         Random, 95% CI
+ 1.8.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+
+                                                                          Favors Chondroitin        -100         -50         0              50         100   Favors Placebo
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                                                         105
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                                                Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                         Favors Chondroitin             Favors Placebo                       Std. Mean Difference                        Weight      Std. Mean Difference
+                                            N           Mean(SD)         N        Mean(SD)                       Random, 95% CI                                             Random, 95% CI
+ Clegg 2006                                 318         37.6 (22.7)      313       37.1 (22.5)                                                             50.13%                0.02[-0.13,0.18]
+ Kahan 2009                                 309         39.6 (28.1)      319       34.8 (30.1)                                                             49.87%                 0.16[0.01,0.32]
+ Subtotal ***                               627                          632                                                                                 100%               0.09[-0.05,0.23]
+ Heterogeneity: Tau2=0; Chi2=1.59, df=1(P=0.21); I2=37.27%
+ Test for overall effect: Z=1.31(P=0.19)
+
+
+ Total ***                                  627                          632                                                                                 100%               0.09[-0.05,0.23]
+ Heterogeneity: Tau2=0; Chi2=1.59, df=1(P=0.21); I2=37.27%
+ Test for overall effect: Z=1.31(P=0.19)
+
+                                                                         Favors Chondroitin      -100      -50          0               50           100   Favors Placebo
+
+
+
+
+    Analysis 1.9. Comparison 1 Chondroitin versus Placebo, Outcome 9 Total Knee Arthroplasty during follow-up.
+ Study or subgroup                         Favors Chon-            Favors Placebo                        Risk Ratio                                    Weight                 Risk Ratio
+                                              droitin
+                                                  n/N                    n/N                       M-H, Random, 95% CI                                                 M-H, Random, 95% CI
+ Raynauld 2013                                           4/35                   9/34                                                                         100%                 0.43[0.15,1.27]
+
+
+ Total (95% CI)                                            35                     34                                                                         100%               0.43[0.15,1.27]
+ Total events: 4 (Favors Chondroitin), 9 (Favors Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.53(P=0.13)
+
+                                                                Favours Chondroitin    0.01      0.1             1          10          100        Favours placebo
+
+
+
+
+                 Analysis 1.10. Comparison 1 Chondroitin versus Placebo, Outcome 10 Grip Strength (kg/cm2).
+ Study or subgroup                         Favors Chondroitin             Favors Placebo                         Mean Difference                           Weight           Mean Difference
+                                            N           Mean(SD)         N        Mean(SD)                       Random, 95% CI                                             Random, 95% CI
+ 1.10.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Gabay 2011                                  80         26.5 (10.8)       82        25.6 (9.9)                                                               100%                 0.9[-2.29,4.09]
+ Subtotal ***                                80                           82                                                                                 100%                0.9[-2.29,4.09]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.55(P=0.58)
+
+
+ Total ***                                   80                           82                                                                                 100%                0.9[-2.29,4.09]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.55(P=0.58)
+
+                                                                               Favors Placebo           -0.5    -0.25   0        0.25        0.5           Favors Chondroitin
+
+
+
+
+              Analysis 1.11. Comparison 1 Chondroitin versus Placebo, Outcome 11 Morning Stiffness, minutes.
+ Study or subgroup                         Favors Chondroitin             Favors Placebo                         Mean Difference                           Weight           Mean Difference
+                                            N           Mean(SD)         N        Mean(SD)                       Random, 95% CI                                             Random, 95% CI
+ 1.11.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+
+                                                                         Favors Chondroitin              -0.2    -0.1   0        0.1     0.2               Favors Placebo
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                                                       106
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                                         Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                               Mean Difference                        Weight           Mean Difference
+                                            N      Mean(SD)       N        Mean(SD)                            Random, 95% CI                                          Random, 95% CI
+ Gabay 2011                                  80     11.4 (16.6)    82         12 (12.7)                                                                 100%                -0.6[-5.16,3.96]
+ Subtotal ***                                80                    82                                                                                  100%                -0.6[-5.16,3.96]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.26(P=0.8)
+
+
+ Total ***                                   80                    82                                                                                  100%                -0.6[-5.16,3.96]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.26(P=0.8)
+
+                                                                  Favors Chondroitin                   -0.2    -0.1   0    0.1        0.2             Favors Placebo
+
+
+
+
+          Analysis 1.12. Comparison 1 Chondroitin versus Placebo, Outcome 12 Cartilage Volume Loss (global).
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                               Mean Difference                        Weight           Mean Difference
+                                            N      Mean(SD)       N        Mean(SD)                            Random, 95% CI                                          Random, 95% CI
+ 1.12.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35      -2.9 (3.3)    34         -4.7 (3.4)                                                                100%                 1.8[0.23,3.37]
+ Subtotal ***                                35                    34                                                                                  100%                 1.8[0.23,3.37]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=2.25(P=0.02)
+
+
+ Total ***                                   35                    34                                                                                  100%                 1.8[0.23,3.37]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=2.25(P=0.02)
+
+                                                                        Favors Placebo            -2          -1      0          1          2         Favors Chondroitin
+
+
+
+
+Analysis 1.13. Comparison 1 Chondroitin versus Placebo, Outcome 13 Cartilage Volume Loss (lateral compartment).
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                               Mean Difference                        Weight           Mean Difference
+                                            N      Mean(SD)       N        Mean(SD)                            Random, 95% CI                                          Random, 95% CI
+ 1.13.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35      -1.5 (3.4)    34         -3.7 (4.5)                                                                100%                2.19[0.31,4.07]
+ Subtotal ***                                35                    34                                                                                  100%                2.19[0.31,4.07]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=2.29(P=0.02)
+
+
+ Total ***                                   35                    34                                                                                  100%                2.19[0.31,4.07]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=2.29(P=0.02)
+
+                                                                        Favors Placebo     -100         -50           0              50         100   Favors Chondroitin
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                                                  107
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                           Cochrane Database of Systematic Reviews
+
+
+                                                Analysis 1.14. Comparison 1 Chondroitin versus Placebo,
+                                                Outcome 14 Cartilage Volume Loss (medial compartment).
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                       Mean Difference                Weight        Mean Difference
+                                            N      Mean(SD)       N       Mean(SD)                     Random, 95% CI                               Random, 95% CI
+ 1.14.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35      -4.4 (5.3)   34         -5.9 (4.7)                                                 100%                1.47[-0.88,3.82]
+ Subtotal ***                                35                   34                                                                   100%                1.47[-0.88,3.82]
+ Heterogeneity: Tau2=0; Chi2=0, df=0(P<0.0001); I2=100%
+ Test for overall effect: Z=1.22(P=0.22)
+
+
+ Total ***                                   35                   34                                                                   100%                1.47[-0.88,3.82]
+ Heterogeneity: Tau2=0; Chi2=0, df=0(P<0.0001); I2=100%
+ Test for overall effect: Z=1.22(P=0.22)
+
+                                                                       Favors Placebo     -100   -50          0          50     100   Favors Chondroitin
+
+
+
+
+        Analysis 1.15. Comparison 1 Chondroitin versus Placebo, Outcome 15 Cartilage Volume Loss (condyles).
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                       Mean Difference                Weight        Mean Difference
+                                            N      Mean(SD)       N       Mean(SD)                     Random, 95% CI                               Random, 95% CI
+ 1.15.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35      -4.9 (4.6)   34         -5.5 (4.9)                                                 100%                0.64[-1.59,2.87]
+ Subtotal ***                                35                   34                                                                   100%                0.64[-1.59,2.87]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.56(P=0.57)
+
+
+ Total ***                                   35                   34                                                                   100%                0.64[-1.59,2.87]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.56(P=0.57)
+
+                                                                       Favors Placebo     -100   -50          0          50     100   Favors Chondroitin
+
+
+
+
+   Analysis 1.16. Comparison 1 Chondroitin versus Placebo, Outcome 16 Cartilage Volume Loss (lateral condyles).
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                       Mean Difference                Weight        Mean Difference
+                                            N      Mean(SD)       N       Mean(SD)                     Random, 95% CI                               Random, 95% CI
+ 1.16.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35      -2.5 (4.7)   34         -4.4 (4.9)                                                 100%                1.84[-0.44,4.12]
+ Subtotal ***                                35                   34                                                                   100%                1.84[-0.44,4.12]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.58(P=0.11)
+
+
+ Total ***                                   35                   34                                                                   100%                1.84[-0.44,4.12]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.58(P=0.11)
+
+                                                                       Favors Placebo     -100   -50          0          50     100   Favors Chondroitin
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                                  108
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                  Trusted evidence.
+                                       Informed decisions.
+             Library                   Better health.                                                                         Cochrane Database of Systematic Reviews
+
+
+   Analysis 1.17. Comparison 1 Chondroitin versus Placebo, Outcome 17 Cartilage Volume Loss (medial condyles).
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                       Mean Difference                Weight        Mean Difference
+                                            N      Mean(SD)       N       Mean(SD)                     Random, 95% CI                               Random, 95% CI
+ 1.17.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35      -7.5 (7.7)   34         -6.8 (7.1)                                                 100%                -0.65[-4.14,2.84]
+ Subtotal ***                                35                   34                                                                   100%                -0.65[-4.14,2.84]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.37(P=0.71)
+
+
+ Total ***                                   35                   34                                                                   100%                -0.65[-4.14,2.84]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.37(P=0.71)
+
+                                                                       Favors Placebo     -100   -50          0          50     100   Favors Chondroitin
+
+
+
+
+    Analysis 1.18. Comparison 1 Chondroitin versus Placebo, Outcome 18 Cartilage Volume Loss (tibial plateaus).
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                       Mean Difference                Weight        Mean Difference
+                                            N      Mean(SD)       N       Mean(SD)                     Random, 95% CI                               Random, 95% CI
+ 1.18.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35         0 (3.6)   34           -3 (4.1)                                                 100%                 2.98[1.15,4.81]
+ Subtotal ***                                35                   34                                                                   100%                 2.98[1.15,4.81]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=3.2(P=0)
+
+
+ Total ***                                   35                   34                                                                   100%                 2.98[1.15,4.81]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=3.2(P=0)
+
+                                                                       Favors Placebo     -100   -50          0          50     100   Favors Chondroitin
+
+
+
+
+                                                Analysis 1.19. Comparison 1 Chondroitin versus Placebo,
+                                                Outcome 19 Cartilage Volume Loss (lateral tibial plateaus).
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                       Mean Difference                Weight        Mean Difference
+                                            N      Mean(SD)       N       Mean(SD)                     Random, 95% CI                               Random, 95% CI
+ 1.19.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35        -0 (3.6)   34         -2.4 (6.2)                                                 100%                 2.31[-0.09,4.71]
+ Subtotal ***                                35                   34                                                                   100%                2.31[-0.09,4.71]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.89(P=0.06)
+
+
+ Total ***                                   35                   34                                                                   100%                2.31[-0.09,4.71]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.89(P=0.06)
+
+                                                                       Favors Placebo     -100   -50          0          50     100   Favors Chondroitin
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                                   109
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                   Trusted evidence.
+                                        Informed decisions.
+             Library                    Better health.                                                                         Cochrane Database of Systematic Reviews
+
+
+Analysis 1.20. Comparison 1 Chondroitin versus Placebo, Outcome 20 Cartilage Volume Loss (medial tibial plateau).
+ Study or subgroup                         Favors Chondroitin      Favors Placebo                       Mean Difference                Weight        Mean Difference
+                                            N       Mean(SD)       N       Mean(SD)                     Random, 95% CI                               Random, 95% CI
+ 1.20.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35       0.6 (6.1)    34         -3.9 (6.2)                                                 100%                 4.47[1.57,7.37]
+ Subtotal ***                                35                    34                                                                   100%                 4.47[1.57,7.37]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=3.02(P=0)
+
+
+ Total ***                                   35                    34                                                                   100%                 4.47[1.57,7.37]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=3.02(P=0)
+
+                                                                        Favors Placebo            -2     -1    0    1     2            Favors Chondroitin
+
+
+
+
+         Analysis 1.21. Comparison 1 Chondroitin versus Placebo, Outcome 21 Cartilage Volume Loss (trochlea).
+ Study or subgroup                         Favors Chondroitin      Favors Placebo                       Mean Difference                Weight        Mean Difference
+                                            N       Mean(SD)       N       Mean(SD)                     Random, 95% CI                               Random, 95% CI
+ 1.21.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35       -1.1 (4.4)   34         -1.8 (5.9)                                                 100%                 0.65[-1.79,3.09]
+ Subtotal ***                                35                    34                                                                   100%                0.65[-1.79,3.09]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.52(P=0.6)
+
+
+ Total ***                                   35                    34                                                                   100%                0.65[-1.79,3.09]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.52(P=0.6)
+
+                                                                        Favors Placebo     -100   -50          0          50     100   Favors Chondroitin
+
+
+
+
+Analysis 1.22. Comparison 1 Chondroitin versus Placebo, Outcome 22 Change in Bone Marrow Lesion Score (global).
+ Study or subgroup                         Favors Chondroitin      Favors Placebo                       Mean Difference                Weight        Mean Difference
+                                            N       Mean(SD)       N       Mean(SD)                     Random, 95% CI                               Random, 95% CI
+ 1.22.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35       0.1 (1.4)    34         0.2 (1.1)                                                  100%                -0.07[-0.65,0.51]
+ Subtotal ***                                35                    34                                                                   100%                -0.07[-0.65,0.51]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.24(P=0.81)
+
+
+ Total ***                                   35                    34                                                                   100%                -0.07[-0.65,0.51]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.24(P=0.81)
+
+                                                                        Favors Placebo     -100   -50          0          50     100   Favors Chondroitin
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                                    110
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                   Trusted evidence.
+                                        Informed decisions.
+             Library                    Better health.                                                                       Cochrane Database of Systematic Reviews
+
+
+                                        Analysis 1.23. Comparison 1 Chondroitin versus Placebo, Outcome
+                                          23 Change in Bone Marrow Lesion Score (lateral compartment).
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                      Mean Difference                Weight        Mean Difference
+                                            N       Mean(SD)      N       Mean(SD)                    Random, 95% CI                               Random, 95% CI
+ 1.23.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35         0 (0.4)   34         0.1 (0.4)                                                 100%                   -0.1[-0.3,0.1]
+ Subtotal ***                                35                   34                                                                  100%                  -0.1[-0.3,0.1]
+ Heterogeneity: Tau2=0; Chi2=0, df=0(P<0.0001); I2=100%
+ Test for overall effect: Z=1(P=0.32)
+
+
+ Total ***                                   35                   34                                                                  100%                  -0.1[-0.3,0.1]
+ Heterogeneity: Tau2=0; Chi2=0, df=0(P<0.0001); I2=100%
+ Test for overall effect: Z=1(P=0.32)
+
+                                                                       Favors Placebo    -100   -50          0          50     100   Favors Chondroitin
+
+
+
+
+                                        Analysis 1.24. Comparison 1 Chondroitin versus Placebo, Outcome
+                                         24 Change in Bone Marrow Lesion score (medial compartment).
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                      Mean Difference                Weight        Mean Difference
+                                            N       Mean(SD)      N       Mean(SD)                    Random, 95% CI                               Random, 95% CI
+ 1.24.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35       0.1 (1.3)   34           0.1 (1)                                                 100%                0.02[-0.52,0.56]
+ Subtotal ***                                35                   34                                                                  100%                0.02[-0.52,0.56]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.07(P=0.94)
+
+
+ Total ***                                   35                   34                                                                  100%                0.02[-0.52,0.56]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.07(P=0.94)
+
+                                                                       Favors Placebo    -100   -50          0          50     100   Favors Chondroitin
+
+
+
+
+                                              Analysis 1.25. Comparison 1 Chondroitin versus Placebo,
+                                             Outcome 25 Change in Bone Marrow Lesion score (condyles).
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                      Mean Difference                Weight        Mean Difference
+                                            N       Mean(SD)      N       Mean(SD)                    Random, 95% CI                               Random, 95% CI
+ 1.25.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35       0.1 (0.8)   34         0.1 (0.8)                                                 100%                0.02[-0.35,0.39]
+ Subtotal ***                                35                   34                                                                  100%                0.02[-0.35,0.39]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.11(P=0.92)
+
+
+ Total ***                                   35                   34                                                                  100%                0.02[-0.35,0.39]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.11(P=0.92)
+
+                                                                       Favors Placebo    -100   -50          0          50     100   Favors Chondroitin
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                                  111
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                          Cochrane Database of Systematic Reviews
+
+
+                                      Analysis 1.26. Comparison 1 Chondroitin versus Placebo, Outcome
+                                          26 Change in Bone Marrow Lesion score (lateral condyles).
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                      Mean Difference                Weight        Mean Difference
+                                            N      Mean(SD)       N       Mean(SD)                    Random, 95% CI                               Random, 95% CI
+ 1.26.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35         0 (0.2)   34         0.1 (0.3)                                                 100%                -0.04[-0.14,0.06]
+ Subtotal ***                                35                   34                                                                  100%                -0.04[-0.14,0.06]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.76(P=0.45)
+
+
+ Total ***                                   35                   34                                                                  100%                -0.04[-0.14,0.06]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.76(P=0.45)
+
+                                                                       Favors Placebo    -100   -50          0          50     100   Favors Chondroitin
+
+
+
+
+                                      Analysis 1.27. Comparison 1 Chondroitin versus Placebo, Outcome
+                                          27 Change in Bone Marrow Lesion score (medial condyles).
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                      Mean Difference                Weight        Mean Difference
+                                            N      Mean(SD)       N       Mean(SD)                    Random, 95% CI                               Random, 95% CI
+ 1.27.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35       0.1 (0.8)   34           0 (0.7)                                                 100%                 0.13[-0.22,0.48]
+ Subtotal ***                                35                   34                                                                  100%                0.13[-0.22,0.48]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.72(P=0.47)
+
+
+ Total ***                                   35                   34                                                                  100%                0.13[-0.22,0.48]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.72(P=0.47)
+
+                                                                       Favors Placebo    -100   -50          0          50     100   Favors Chondroitin
+
+
+
+
+                                           Analysis 1.28. Comparison 1 Chondroitin versus Placebo,
+                                       Outcome 28 Change in Bone Marrow Lesion score (tibial plateaus).
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                      Mean Difference                Weight        Mean Difference
+                                            N      Mean(SD)       N       Mean(SD)                    Random, 95% CI                               Random, 95% CI
+ 1.28.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35         0 (0.8)   34         0.1 (0.7)                                                 100%                 -0.1[-0.46,0.26]
+ Subtotal ***                                35                   34                                                                  100%                 -0.1[-0.46,0.26]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.55(P=0.58)
+
+
+ Total ***                                   35                   34                                                                  100%                 -0.1[-0.46,0.26]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.55(P=0.58)
+
+                                                                       Favors Placebo    -100   -50          0          50     100   Favors Chondroitin
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                                  112
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                          Cochrane Database of Systematic Reviews
+
+
+                                      Analysis 1.29. Comparison 1 Chondroitin versus Placebo, Outcome
+                                       29 Change in Bone Marrow Lesion score (lateral tibial plateaus).
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                      Mean Difference                Weight        Mean Difference
+                                            N      Mean(SD)       N       Mean(SD)                    Random, 95% CI                               Random, 95% CI
+ 1.29.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35       0.1 (0.4)   34         0.1 (0.4)                                                 100%                -0.01[-0.18,0.16]
+ Subtotal ***                                35                   34                                                                  100%                -0.01[-0.18,0.16]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.12(P=0.91)
+
+
+ Total ***                                   35                   34                                                                  100%                -0.01[-0.18,0.16]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.12(P=0.91)
+
+                                                                       Favors Placebo    -100   -50          0          50     100   Favors Chondroitin
+
+
+
+
+                                      Analysis 1.30. Comparison 1 Chondroitin versus Placebo, Outcome
+                                        30 Change in Bone Marrow Lesion score (medial tibial plateau).
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                      Mean Difference                Weight        Mean Difference
+                                            N      Mean(SD)       N       Mean(SD)                    Random, 95% CI                               Random, 95% CI
+ 1.30.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35        -0 (0.7)   34         0.1 (0.5)                                                 100%                   -0.1[-0.4,0.2]
+ Subtotal ***                                35                   34                                                                  100%                   -0.1[-0.4,0.2]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.65(P=0.52)
+
+
+ Total ***                                   35                   34                                                                  100%                   -0.1[-0.4,0.2]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.65(P=0.52)
+
+                                                                       Favors Placebo    -100   -50          0          50     100   Favors Chondroitin
+
+
+
+
+                                              Analysis 1.31. Comparison 1 Chondroitin versus Placebo,
+                                             Outcome 31 Change in Bone Marrow Lesion score (trochlea).
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                      Mean Difference                Weight        Mean Difference
+                                            N      Mean(SD)       N       Mean(SD)                    Random, 95% CI                               Random, 95% CI
+ 1.31.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Wildi 2011                                  35       0.2 (0.6)   34           0 (0.5)                                                 100%                  0.16[-0.1,0.42]
+ Subtotal ***                                35                   34                                                                  100%                  0.16[-0.1,0.42]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.22(P=0.22)
+
+
+ Total ***                                   35                   34                                                                  100%                  0.16[-0.1,0.42]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.22(P=0.22)
+
+                                                                       Favors Placebo    -2     -1           0          1       2    Favors Chondroitin
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                                  113
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                  Trusted evidence.
+                                     Informed decisions.
+           Library                   Better health.                                                                                           Cochrane Database of Systematic Reviews
+
+
+              Analysis 1.32. Comparison 1 Chondroitin versus Placebo, Outcome 32 OMERACT-OARSI Responder.
+ Study or subgroup                          Favors Chon-            Favors Placebo                            Risk Ratio                          Weight                 Risk Ratio
+                                               droitin
+                                                  n/N                       n/N                         M-H, Random, 95% CI                                        M-H, Random, 95% CI
+ 1.32.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Clegg 2006                                        202/318                      178/313                                                                 100%                1.12[0.98,1.27]
+ Subtotal (95% CI)                                        318                      313                                                                  100%               1.12[0.98,1.27]
+ Total events: 202 (Favors Chondroitin), 178 (Favors Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.7(P=0.09)
+
+
+ Total (95% CI)                                           318                      313                                                                  100%               1.12[0.98,1.27]
+ Total events: 202 (Favors Chondroitin), 178 (Favors Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.7(P=0.09)
+
+                                                                        Favors Placebo         0.5      0.7       1              1.5    2     Favors Chondroitin
+
+
+
+
+                                            Analysis 1.33. Comparison 1 Chondroitin versus Placebo,
+                                          Outcome 33 Lequesne's Index on 0 to 24 scale (higher is worse).
+ Study or subgroup                        Favors Chondroitin                 Favors Placebo                           Mean Difference                 Weight           Mean Difference
+                                            N           Mean(SD)            N        Mean(SD)                         Random, 95% CI                                   Random, 95% CI
+ 1.33.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Bourgeois 1998                              40                 6 (3)        44                9 (4)                                                  12.45%                   -3[-4.5,-1.5]
+ Mazieres 2001                               63          -2.4 (3.1)          67           -1.6 (3.1)                                                  15.82%                -0.8[-1.87,0.27]
+ Moller 2010                                 64             4.5 (4)          65             6.1 (4)                                                   13.35%               -1.6[-2.98,-0.22]
+ Morreale 1996                               74           1.7 (2.2)          72           4.9 (3.2)                                                   17.23%               -3.2[-4.09,-2.31]
+ Pavelka 1999                                35           6.3 (2.8)          35             9 (3.3)                                                   13.07%               -2.68[-4.1,-1.26]
+ Uebelhart 2004                              54           6.8 (3.6)          56           7.4 (4.2)                                                   12.76%                -0.6[-2.06,0.86]
+ Zegels 2012                                117           7.8 (4.2)         117           9.7 (4.6)                                                   15.32%               -1.9[-3.03,-0.77]
+ Subtotal ***                               447                             456                                                                         100%             -1.98[-2.79,-1.17]
+ Heterogeneity: Tau2=0.78; Chi2=18.2, df=6(P=0.01); I2=67.04%
+ Test for overall effect: Z=4.8(P<0.0001)
+
+
+ 1.33.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Bucsi 1998                                  39           7.6 (4.2)          46       11.1 (4.6)                                                      33.22%               -3.5[-5.37,-1.63]
+ Railhac 2012                                25           6.9 (4.3)          23             6.8 (4)                                                   27.98%                 0.1[-2.25,2.45]
+ Uebelhart 2004                              54           5.8 (3.6)          56             7 (3.9)                                                   38.79%                  -1.2[-2.6,0.2]
+ Subtotal ***                               118                             125                                                                         100%               -1.6[-3.49,0.29]
+ Heterogeneity: Tau2=1.88; Chi2=6.28, df=2(P=0.04); I2=68.15%
+ Test for overall effect: Z=1.66(P=0.1)
+ Test for subgroup differences: Chi2=0.13, df=1 (P=0.72), I2=0%
+
+                                                                            Favors Chondroitin         -5      -2.5          0          2.5       5   Favors Placebo
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                                                  114
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                   Trusted evidence.
+                                        Informed decisions.
+             Library                    Better health.                                                                                 Cochrane Database of Systematic Reviews
+
+
+                                             Analysis 1.34. Comparison 1 Chondroitin versus Placebo,
+                                          Outcome 34 HAQ Disability Score on 0 to 3 scale (higher is worse).
+ Study or subgroup                         Favors Chondroitin      Favors Placebo                              Mean Difference                     Weight           Mean Difference
+                                            N       Mean(SD)       N        Mean(SD)                           Random, 95% CI                                       Random, 95% CI
+ 1.34.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Clegg 2006                                 318       0.6 (0.5)    313         0.6 (0.4)                                                             100%                -0.04[-0.11,0.03]
+ Subtotal ***                               318                    313                                                                              100%                -0.04[-0.11,0.03]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.13(P=0.26)
+
+
+ Total ***                                  318                    313                                                                              100%                -0.04[-0.11,0.03]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.13(P=0.26)
+
+                                                                   Favors Chondroitin       -100        -50           0          50          100   Favors Placebo
+
+
+
+
+Analysis 1.35. Comparison 1 Chondroitin versus Placebo, Outcome 35 Radiographic Outcome: Minimum JSW in mm.
+ Study or subgroup                         Favors Chondroitin      Favors Placebo                              Mean Difference                     Weight           Mean Difference
+                                            N       Mean(SD)       N        Mean(SD)                           Random, 95% CI                                       Random, 95% CI
+ 1.35.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Uebelhart 1998                              23         3.5 (1)     23         3.6 (1.3)                                                           40.03%                 -0.1[-0.77,0.57]
+ Uebelhart 2004                              54       3.6 (1.5)     56         3.2 (1.3)                                                           59.97%                  0.38[-0.14,0.9]
+ Subtotal ***                                77                     79                                                                              100%                0.19[-0.27,0.65]
+ Heterogeneity: Tau2=0.02; Chi2=1.23, df=1(P=0.27); I2=18.41%
+ Test for overall effect: Z=0.8(P=0.42)
+
+
+ Total ***                                   77                     79                                                                              100%                0.19[-0.27,0.65]
+ Heterogeneity: Tau2=0.02; Chi2=1.23, df=1(P=0.27); I2=18.41%
+ Test for overall effect: Z=0.8(P=0.42)
+
+                                                                         Favors Placebo     -1          -0.5          0          0.5          1    Favors Chondroitin
+
+
+
+
+                                        Analysis 1.36. Comparison 1 Chondroitin versus Placebo, Outcome
+                                          36 Radiographic Outcome: Reduction in Minimum JSW in mm.
+ Study or subgroup                         Favors Chondroitin      Favors Placebo                              Mean Difference                     Weight           Mean Difference
+                                            N       Mean(SD)       N        Mean(SD)                           Random, 95% CI                                       Random, 95% CI
+ 1.36.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Kahan 2009                                 309       -0.1 (0.5)   313         -0.3 (0.7)                                                          53.54%                 0.24[0.14,0.34]
+ Michel 2005                                150         0 (0.5)    150         -0.1 (0.6)                                                          46.46%                    0.12[-0,0.23]
+ Subtotal ***                               459                    463                                                                              100%                  0.18[0.06,0.3]
+ Heterogeneity: Tau2=0; Chi2=2.54, df=1(P=0.11); I2=60.66%
+ Test for overall effect: Z=2.92(P=0)
+
+
+ Total ***                                  459                    463                                                                              100%                  0.18[0.06,0.3]
+ Heterogeneity: Tau2=0; Chi2=2.54, df=1(P=0.11); I2=60.66%
+ Test for overall effect: Z=2.92(P=0)
+
+                                                                         Favors Placebo          -0.5    -0.25        0      0.25      0.5         Favors Chondroitin
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                                                115
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                              Cochrane Database of Systematic Reviews
+
+
+
+
+  Analysis 1.37. Comparison 1 Chondroitin versus Placebo, Outcome 37 Radiographic Outcome: Mean JSW in mm.
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                         Mean Difference                 Weight           Mean Difference
+                                            N      Mean(SD)       N        Mean(SD)                      Random, 95% CI                                   Random, 95% CI
+ 1.37.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Uebelhart 1998                              23         4.4 (1)    23         4.6 (1.4)                                                  43.89%                    -0.2[-0.9,0.5]
+ Uebelhart 2004                              54       4.2 (1.6)    56         3.7 (1.3)                                                  56.11%                    0.46[-0.08,1]
+ Subtotal ***                                77                    79                                                                     100%                0.17[-0.47,0.81]
+ Heterogeneity: Tau2=0.12; Chi2=2.13, df=1(P=0.14); I2=53.13%
+ Test for overall effect: Z=0.52(P=0.6)
+
+
+ Total ***                                   77                    79                                                                     100%                0.17[-0.47,0.81]
+ Heterogeneity: Tau2=0.12; Chi2=2.13, df=1(P=0.14); I2=53.13%
+ Test for overall effect: Z=0.52(P=0.6)
+
+                                                                        Favors Placebo             -1     -0.5   0   0.5    1            Favors Chondroitin
+
+
+
+
+                                              Analysis 1.38. Comparison 1 Chondroitin versus Placebo,
+                                           Outcome 38 Radiographic Outcome: Change in Mean JSW in mm.
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                         Mean Difference                 Weight           Mean Difference
+                                            N      Mean(SD)       N        Mean(SD)                      Random, 95% CI                                   Random, 95% CI
+ 1.38.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Kahan 2009                                 309      -0.1 (0.5)   313         -0.2 (0.5)                                                 64.85%                  0.14[0.06,0.22]
+ Michel 2005                                150         0 (0.5)   150         -0.1 (0.6)                                                 26.91%                  0.14[0.01,0.27]
+ Sawitzke 2008                              126        -0.1 (1)   131         -0.2 (0.9)                                                  8.24%                 0.06[-0.17,0.29]
+ Subtotal ***                               585                   594                                                                     100%                   0.13[0.07,0.2]
+ Heterogeneity: Tau2=0; Chi2=0.42, df=2(P=0.81); I2=0%
+ Test for overall effect: Z=3.9(P<0.0001)
+
+
+ Total ***                                  585                   594                                                                     100%                   0.13[0.07,0.2]
+ Heterogeneity: Tau2=0; Chi2=0.42, df=2(P=0.81); I2=0%
+ Test for overall effect: Z=3.9(P<0.0001)
+
+                                                                        Favors Placebo     -1     -0.5           0         0.5      1    Favors Chondroitin
+
+
+
+
+       Analysis 1.39. Comparison 1 Chondroitin versus Placebo, Outcome 39 SF-36—Physical Component Score.
+ Study or subgroup                         Favors Chondroitin     Favors Placebo                         Mean Difference                 Weight           Mean Difference
+                                            N      Mean(SD)       N        Mean(SD)                      Random, 95% CI                                   Random, 95% CI
+ 1.39.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Moller 2010                                 64     49.5 (63.2)    65       46.7 (67.7)                                                    100%               2.76[-19.84,25.36]
+ Subtotal ***                                64                    65                                                                     100%             2.76[-19.84,25.36]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.24(P=0.81)
+
+
+ Total ***                                   64                    65                                                                     100%             2.76[-19.84,25.36]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.24(P=0.81)
+
+                                                                  Favors Chondroitin       -100   -50            0         50      100   Favors Placebo
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                                       116
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                                 Cochrane Database of Systematic Reviews
+
+
+
+
+ Analysis 1.40. Comparison 1 Chondroitin versus Placebo, Outcome 40 SF-36—Mental Component Summary Score.
+ Study or subgroup                         Favors Chondroitin           Favors Placebo                       Mean Difference                Weight           Mean Difference
+                                            N           Mean(SD)        N        Mean(SD)                    Random, 95% CI                                  Random, 95% CI
+ 1.40.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Moller 2010                                 64         52.8 (71.2)      65      53.4 (69.3)                                                  100%             -0.59[-24.84,23.66]
+ Subtotal ***                                64                          65                                                                   100%            -0.59[-24.84,23.66]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.05(P=0.96)
+
+
+ Total ***                                   64                          65                                                                   100%            -0.59[-24.84,23.66]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.05(P=0.96)
+
+                                                                        Favors Chondroitin     -100    -50          0          50     100   Favors Placebo
+
+
+
+
+                      Analysis 1.41. Comparison 1 Chondroitin versus Placebo, Outcome 41 All withdrawals.
+ Study or subgroup                         Favors Chon-            Favors Placebo                     Risk Ratio                        Weight                 Risk Ratio
+                                              droitin
+                                                  n/N                   n/N                      M-H, Random, 95% CI                                   M-H, Random, 95% CI
+ 1.41.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Bourgeois 1998                                          1/40                  3/44                                                          1.06%                 0.37[0.04,3.38]
+ Mazieres 1992                                           0/58                  2/58                                                          0.59%                  0.2[0.01,4.08]
+ Mazieres 2001                                           7/63                  7/67                                                          4.52%                  1.06[0.4,2.86]
+ Moller 2010                                             6/64                 14/65                                                          5.32%                 0.44[0.18,1.06]
+ Morreale 1996                                           9/74                 11/72                                                          6.05%                  0.8[0.35,1.81]
+ Pavelka 1999                                            1/35                  1/35                                                          0.72%                  1[0.07,15.36]
+ Subtotal (95% CI)                                        334                  341                                                          18.26%               0.67[0.41,1.09]
+ Total events: 24 (Favors Chondroitin), 38 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=2.91, df=5(P=0.71); I2=0%
+ Test for overall effect: Z=1.63(P=0.1)
+
+
+ 1.41.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Clegg 2006                                         70/318                  65/313                                                          16.67%                 1.06[0.79,1.43]
+ Conrozier 1992                                          5/29                 19/27                                                          5.89%                 0.25[0.11,0.56]
+ Gabay 2011                                              8/80                 15/82                                                          6.25%                 0.55[0.25,1.22]
+ Kahan 2009                                        103/309                  96/313                                                          18.77%                 1.09[0.86,1.37]
+ Michel 2005                                        41/150                  40/150                                                          14.52%                 1.02[0.71,1.49]
+ Uebelhart 1998                                          2/23                  2/23                                                          1.47%                    1[0.15,6.51]
+ Uebelhart 2004                                         11/54                 15/56                                                           7.8%                  0.76[0.38,1.5]
+ Verbruggen 2002                                        10/44                  9/48                                                          6.23%                  1.21[0.54,2.7]
+ Wildi 2011                                              4/35                 11/34                                                          4.15%                    0.35[0.12,1]
+ Subtotal (95% CI)                                       1042                 1046                                                          81.74%               0.82[0.62,1.09]
+ Total events: 254 (Favors Chondroitin), 272 (Favors Placebo)
+ Heterogeneity: Tau2=0.08; Chi2=18.28, df=8(P=0.02); I2=56.25%
+ Test for overall effect: Z=1.37(P=0.17)
+
+
+ Total (95% CI)                                          1376                 1387                                                            100%                 0.8[0.63,1.02]
+ Total events: 278 (Favors Chondroitin), 310 (Favors Placebo)
+ Heterogeneity: Tau2=0.06; Chi2=23.24, df=14(P=0.06); I2=39.76%
+
+                                                                Favors Chondroitin    0.05     0.2           1          5      20   Favors Placebo
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                                        117
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                  Trusted evidence.
+                                     Informed decisions.
+           Library                   Better health.                                                                          Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                         Favors Chon-        Favors Placebo                   Risk Ratio                       Weight            Risk Ratio
+                                              droitin
+                                               n/N                   n/N                   M-H, Random, 95% CI                                M-H, Random, 95% CI
+ Test for overall effect: Z=1.83(P=0.07)
+ Test for subgroup differences: Chi2=0.53, df=1 (P=0.46), I2=0%
+
+                                                             Favors Chondroitin    0.05   0.2       1        5         20    Favors Placebo
+
+
+
+
+       Analysis 1.42. Comparison 1 Chondroitin versus Placebo, Outcome 42 Withdrawals due to adverse events.
+ Study or subgroup                         Favors Chon-        Favors Placebo                   Risk Ratio                       Weight            Risk Ratio
+                                              droitin
+                                               n/N                   n/N                   M-H, Random, 95% CI                                M-H, Random, 95% CI
+ 1.42.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Moller 2010                                          0/64                  0/65                                                                       Not estimable
+ Bourgeois 1998                                       1/40                  3/44                                                      2.86%           0.37[0.04,3.38]
+ Morreale 1996                                        1/74                  1/72                                                      1.86%          0.97[0.06,15.26]
+ Mazieres 2001                                        4/63                  3/67                                                      6.65%           1.42[0.33,6.09]
+ Subtotal (95% CI)                                    241                   248                                                      11.37%          0.95[0.31,2.89]
+ Total events: 6 (Favors Chondroitin), 7 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=1, df=2(P=0.61); I2=0%
+ Test for overall effect: Z=0.09(P=0.93)
+
+
+ 1.42.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Gabay 2011                                           3/80                  8/82                                                      8.47%            0.38[0.11,1.4]
+ Kahan 2009                                       16/309                17/313                                                       31.98%           0.95[0.49,1.85]
+ Michel 2005                                         9/150                 9/150                                                     17.59%              1[0.41,2.45]
+ Uebelhart 2004                                       1/54                  1/56                                                      1.87%          1.04[0.07,16.17]
+ Clegg 2006                                       20/318                11/313                                                       27.31%           1.79[0.87,3.67]
+ Verbruggen 2002                                      1/44                  0/48                                                       1.4%          3.27[0.14,78.15]
+ Subtotal (95% CI)                                    955                   962                                                      88.63%          1.09[0.73,1.63]
+ Total events: 50 (Favors Chondroitin), 46 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=4.98, df=5(P=0.42); I2=0%
+ Test for overall effect: Z=0.44(P=0.66)
+
+
+ Total (95% CI)                                      1196                  1210                                                        100%          1.08[0.74,1.57]
+ Total events: 56 (Favors Chondroitin), 53 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=6.04, df=8(P=0.64); I2=0%
+ Test for overall effect: Z=0.39(P=0.7)
+ Test for subgroup differences: Chi2=0.06, df=1 (P=0.81), I2=0%
+
+                                                             Favors Chondroitin    0.5    0.7       1            1.5    2    Favors Placebo
+
+
+
+
+           Analysis 1.43. Comparison 1 Chondroitin versus Placebo, Outcome 43 Withdrawals due to inefficacy.
+ Study or subgroup                         Favors Chon-        Favors Placebo                   Risk Ratio                       Weight            Risk Ratio
+                                              droitin
+                                               n/N                   n/N                   M-H, Random, 95% CI                                M-H, Random, 95% CI
+ 1.43.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Bourgeois 1998                                       0/40                  0/44                                                                       Not estimable
+ Mazieres 2001                                        2/63                  3/67                                                       3.5%            0.71[0.12,4.1]
+
+                                                             Favors Chondroitin    0.01   0.1       1        10        100   Favors Placebo
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                           118
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                  Trusted evidence.
+                                     Informed decisions.
+           Library                   Better health.                                                                             Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                         Favors Chon-        Favors Placebo                     Risk Ratio                        Weight             Risk Ratio
+                                              droitin
+                                               n/N                   n/N                   M-H, Random, 95% CI                                    M-H, Random, 95% CI
+ Morreale 1996                                        1/74                  2/72                                                         1.91%            0.49[0.05,5.25]
+ Subtotal (95% CI)                                    177                   183                                                          5.41%          0.62[0.15,2.55]
+ Total events: 3 (Favors Chondroitin), 5 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=0.06, df=1(P=0.8); I2=0%
+ Test for overall effect: Z=0.66(P=0.51)
+
+
+ 1.43.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Clegg 2006                                       25/318                22/313                                                           35.5%            1.12[0.64,1.94]
+ Kahan 2009                                       26/309                20/313                                                          34.24%            1.32[0.75,2.31]
+ Michel 2005                                         9/150                 6/150                                                        10.62%             1.5[0.55,4.11]
+ Uebelhart 1998                                       3/63                  3/67                                                         4.42%            1.06[0.22,5.08]
+ Uebelhart 2004                                       3/54                  2/56                                                         3.52%            1.56[0.27,8.95]
+ Verbruggen 2002                                      4/44                  3/48                                                          5.2%            1.45[0.34,6.14]
+ Wildi 2011                                           1/35                  0/34                                                         1.08%            2.92[0.12,69.2]
+ Subtotal (95% CI)                                    973                   981                                                         94.59%          1.27[0.91,1.78]
+ Total events: 71 (Favors Chondroitin), 56 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=0.73, df=6(P=0.99); I2=0%
+ Test for overall effect: Z=1.39(P=0.16)
+
+
+ Total (95% CI)                                      1150                  1164                                                           100%            1.22[0.88,1.7]
+ Total events: 74 (Favors Chondroitin), 61 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=1.72, df=8(P=0.99); I2=0%
+ Test for overall effect: Z=1.2(P=0.23)
+ Test for subgroup differences: Chi2=0.93, df=1 (P=0.33), I2=0%
+
+                                                             Favors Chondroitin    0.01   0.1         1              10   100   Favors Placebo
+
+
+
+
+               Analysis 1.44. Comparison 1 Chondroitin versus Placebo, Outcome 44 Number of adverse events.
+ Study or subgroup                         Favors Chon-        Favors Placebo                     Risk Ratio                        Weight             Risk Ratio
+                                              droitin
+                                               n/N                   n/N                   M-H, Random, 95% CI                                    M-H, Random, 95% CI
+ 1.44.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Bourgeois 1998                                       6/40                 12/44                                                             3%           0.55[0.23,1.33]
+ Mazieres 2001                                       28/63                 21/67                                                        10.46%             1.42[0.9,2.22]
+ Moller 2010                                         31/64                 31/65                                                        15.28%            1.02[0.71,1.45]
+ Morreale 1996                                        3/74                  3/72                                                         0.97%             0.97[0.2,4.66]
+ Pavelka 1999                                         0/35                  3/35                                                         0.28%            0.14[0.01,2.67]
+ Zegels 2012                                      31/117                31/119                                                           11.4%            1.02[0.66,1.56]
+ Subtotal (95% CI)                                    393                   402                                                         41.39%          1.04[0.81,1.34]
+ Total events: 99 (Favors Chondroitin), 101 (Favors Placebo)
+ Heterogeneity: Tau2=0.01; Chi2=5.72, df=5(P=0.33); I2=12.61%
+ Test for overall effect: Z=0.29(P=0.77)
+
+
+ 1.44.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Gabay 2011                                          67/80                 71/82                                                        52.22%             0.97[0.85,1.1]
+ Kahan 2009                                       17/313                26/309                                                           6.39%            0.65[0.36,1.17]
+ Subtotal (95% CI)                                    393                   391                                                         58.61%             0.84[0.5,1.4]
+ Total events: 84 (Favors Chondroitin), 97 (Favors Placebo)
+ Heterogeneity: Tau2=0.1; Chi2=3.14, df=1(P=0.08); I2=68.12%
+
+                                                             Favors Chondroitin           0.5   0.7   1        1.5    2         Favors Placebo
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                               119
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                  Trusted evidence.
+                                     Informed decisions.
+           Library                   Better health.                                                                                     Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                         Favors Chon-        Favors Placebo                         Risk Ratio                            Weight             Risk Ratio
+                                              droitin
+                                               n/N                   n/N                     M-H, Random, 95% CI                                         M-H, Random, 95% CI
+ Test for overall effect: Z=0.68(P=0.5)
+
+
+ Total (95% CI)                                       786                   793                                                                   100%          0.97[0.83,1.14]
+ Total events: 183 (Favors Chondroitin), 198 (Favors Placebo)
+ Heterogeneity: Tau2=0.01; Chi2=8.13, df=7(P=0.32); I2=13.91%
+ Test for overall effect: Z=0.36(P=0.72)
+ Test for subgroup differences: Chi2=0.54, df=1 (P=0.46), I2=0%
+
+                                                             Favors Chondroitin             0.5    0.7    1        1.5       2          Favors Placebo
+
+
+
+
+       Analysis 1.45. Comparison 1 Chondroitin versus Placebo, Outcome 45 Number of serious adverse events.
+ Study or subgroup                         Favors Chon-        Favors Placebo                        Odds Ratio                             Weight            Odds Ratio
+                                              droitin
+                                               n/N                   n/N                          M-H, Fixed, 95% CI                                       M-H, Fixed, 95% CI
+ 1.45.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Bourgeois 1998                                       0/40                  0/44                                                                                  Not estimable
+ Morreale 1996                                        0/74                  0/72                                                                                  Not estimable
+ Zegels 2012                                         2/117                 4/119                                                                15.19%             0.5[0.09,2.78]
+ Subtotal (95% CI)                                    231                   235                                                                 15.19%            0.5[0.09,2.78]
+ Total events: 2 (Favors Chondroitin), 4 (Favors Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.79(P=0.43)
+
+
+ 1.45.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Gabay 2011                                           2/80                  8/82                                                                30.02%            0.24[0.05,1.15]
+ Sawitzke 2010                                       6/126              14/131                                                                  50.95%            0.42[0.16,1.12]
+ Wildi 2011                                           1/35                  1/34                                                                 3.84%           0.97[0.06,16.17]
+ Subtotal (95% CI)                                    241                   247                                                                 84.81%          0.38[0.17,0.84]
+ Total events: 9 (Favors Chondroitin), 23 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=0.8, df=2(P=0.67); I2=0%
+ Test for overall effect: Z=2.4(P=0.02)
+
+
+ Total (95% CI)                                       472                   482                                                                   100%            0.4[0.19,0.82]
+ Total events: 11 (Favors Chondroitin), 27 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=0.87, df=3(P=0.83); I2=0%
+ Test for overall effect: Z=2.51(P=0.01)
+ Test for subgroup differences: Chi2=0.08, df=1 (P=0.77), I2=0%
+
+                                                             Favors Chondroitin      0.05   0.2           1              5       20     Favors Placebo
+
+
+
+
+                     Analysis 1.46. Comparison 1 Chondroitin versus Placebo, Outcome 46 GI adverse events.
+ Study or subgroup                         Favors Chon-        Favors Placebo                         Risk Ratio                            Weight             Risk Ratio
+                                              droitin
+                                               n/N                   n/N                     M-H, Random, 95% CI                                         M-H, Random, 95% CI
+ 1.46.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Bourgeois 1998                                       4/40                 10/44                                                                15.18%            0.44[0.15,1.29]
+
+                                                             Favors Chondroitin    0.01     0.1           1              10       100   Favors Placebo
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                                         120
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                  Trusted evidence.
+                                     Informed decisions.
+           Library                   Better health.                                                                     Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                         Favors Chon-        Favors Placebo                   Risk Ratio                  Weight            Risk Ratio
+                                              droitin
+                                               n/N                   n/N                   M-H, Random, 95% CI                           M-H, Random, 95% CI
+ Mazieres 1992                                        0/58                  1/58                                                 1.74%           0.33[0.01,8.02]
+ Moller 2010                                          0/64                  0/65                                                                  Not estimable
+ Subtotal (95% CI)                                    162                   167                                                 16.92%          0.43[0.15,1.19]
+ Total events: 4 (Favors Chondroitin), 11 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=0.03, df=1(P=0.87); I2=0%
+ Test for overall effect: Z=1.63(P=0.1)
+
+
+ 1.46.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Gabay 2011                                          12/80                 14/82                                                35.28%           0.88[0.43,1.78]
+ Kahan 2009                                          1/309                 1/313                                                  2.3%          1.01[0.06,16.12]
+ Michel 2005                                         6/150              16/150                                                  21.26%           0.38[0.15,0.93]
+ Uebelhart 2004                                       1/54                  1/56                                                 2.34%          1.04[0.07,16.17]
+ Verbruggen 2002                                      1/44                  0/48                                                 1.75%          3.27[0.14,78.15]
+ Wildi 2011                                           7/35                  7/34                                                20.15%           0.97[0.38,2.48]
+ Subtotal (95% CI)                                    672                   683                                                 83.08%          0.75[0.47,1.19]
+ Total events: 28 (Favors Chondroitin), 39 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=3.65, df=5(P=0.6); I2=0%
+ Test for overall effect: Z=1.22(P=0.22)
+
+
+ Total (95% CI)                                       834                   850                                                   100%          0.68[0.45,1.04]
+ Total events: 32 (Favors Chondroitin), 50 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=4.66, df=7(P=0.7); I2=0%
+ Test for overall effect: Z=1.78(P=0.07)
+ Test for subgroup differences: Chi2=0.97, df=1 (P=0.32), I2=0%
+
+                                                             Favors Chondroitin    0.01   0.1       1        10   100   Favors Placebo
+
+
+
+
+                  Analysis 1.47. Comparison 1 Chondroitin versus Placebo, Outcome 47 Other adverse events.
+ Study or subgroup                         Favors Chon-        Favors Placebo                   Risk Ratio                  Weight            Risk Ratio
+                                              droitin
+                                               n/N                   n/N                   M-H, Random, 95% CI                           M-H, Random, 95% CI
+ 1.47.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Bourgeois 1998                                       2/40                  2/44                                                 0.99%            1.1[0.16,7.45]
+ Moller 2010                                         31/64                 31/65                                                28.16%           1.02[0.71,1.45]
+ Subtotal (95% CI)                                    104                   109                                                 29.16%          1.02[0.72,1.45]
+ Total events: 33 (Favors Chondroitin), 33 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=0.01, df=1(P=0.94); I2=0%
+ Test for overall effect: Z=0.1(P=0.92)
+
+
+ 1.47.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Gabay 2011                                           1/80                  5/82                                                  0.8%           0.21[0.02,1.72]
+ Michel 2005                                      72/150                77/150                                                  69.68%           0.94[0.74,1.17]
+ Uebelhart 2004                                       1/54                  0/58                                                 0.36%          3.22[0.13,77.34]
+ Subtotal (95% CI)                                    284                   290                                                 70.84%          0.82[0.35,1.96]
+ Total events: 74 (Favors Chondroitin), 82 (Favors Placebo)
+ Heterogeneity: Tau2=0.23; Chi2=2.57, df=2(P=0.28); I2=22.11%
+ Test for overall effect: Z=0.44(P=0.66)
+
+
+ Total (95% CI)                                       388                   399                                                   100%          0.95[0.79,1.15]
+
+                                                             Favors Chondroitin    0.01   0.1       1        10   100   Favors Placebo
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                      121
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                  Trusted evidence.
+                                     Informed decisions.
+           Library                   Better health.                                                                            Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                         Favors Chon-          Favors Placebo                    Risk Ratio                      Weight             Risk Ratio
+                                              droitin
+                                               n/N                    n/N                     M-H, Random, 95% CI                                M-H, Random, 95% CI
+ Total events: 107 (Favors Chondroitin), 115 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=2.76, df=4(P=0.6); I2=0%
+ Test for overall effect: Z=0.51(P=0.61)
+ Test for subgroup differences: Chi2=0.2, df=1 (P=0.66), I2=0%
+
+                                                             Favors Chondroitin     0.01     0.1         1        10     100   Favors Placebo
+
+
+
+
+                             Analysis 1.48. Comparison 1 Chondroitin versus Placebo, Outcome 48 Deaths.
+ Study or subgroup                         Favors Chon-          Favors Placebo                    Risk Ratio                      Weight             Risk Ratio
+                                              droitin
+                                               n/N                    n/N                     M-H, Random, 95% CI                                M-H, Random, 95% CI
+ 1.48.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Bourgeois 1998                                       0/40                   0/44                                                                        Not estimable
+ Moller 2010                                          0/64                   0/65                                                                        Not estimable
+ Subtotal (95% CI)                                    104                    109                                                                        Not estimable
+ Total events: 0 (Favors Chondroitin), 0 (Favors Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Not applicable
+
+
+ 1.48.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Clegg 2006                                          0/318                  0/313                                                                        Not estimable
+ Gabay 2011                                           0/80                   0/82                                                                        Not estimable
+ Sawitzke 2010                                       0/126                  1/131                                                      49.35%            0.35[0.01,8.43]
+ Uebelhart 1998                                       0/23                   1/23                                                      50.65%            0.33[0.01,7.78]
+ Wildi 2011                                           0/35                   0/34                                                                        Not estimable
+ Subtotal (95% CI)                                    582                    583                                                         100%            0.34[0.04,3.2]
+ Total events: 0 (Favors Chondroitin), 2 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=0, df=1(P=0.99); I2=0%
+ Test for overall effect: Z=0.94(P=0.35)
+
+
+ Total (95% CI)                                       686                    692                                                         100%            0.34[0.04,3.2]
+ Total events: 0 (Favors Chondroitin), 2 (Favors Placebo)
+ Heterogeneity: Tau2=0; Chi2=0, df=1(P=0.99); I2=0%
+ Test for overall effect: Z=0.94(P=0.35)
+ Test for subgroup differences: Not applicable
+
+                                                             Favors Chondroitin     0.01     0.1         1        10     100   Favors Placebo
+
+
+
+
+Comparison 2. Chondroitin sulfate versus Control
+
+ Outcome or subgroup title                                   No. of studies            No. of partici-          Statistical method                Effect size
+                                                                                       pants
+
+ 1 Pain on various scales standardized                       1                                                  Std. Mean Difference (IV, Ran-    Subtotals only
+ to a 0 to 100 scale                                                                                            dom, 95% CI)
+
+ 1.1 Short-term studies (< 6 months)—                        1                         357                      Std. Mean Difference (IV, Ran-    -0.06 [-0.26, 0.15]
+ dose ≥ 800 mg/d                                                                                                dom, 95% CI)
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                              122
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+         Cochrane             Trusted evidence.
+                              Informed decisions.
+         Library              Better health.                                                         Cochrane Database of Systematic Reviews
+
+
+
+ Outcome or subgroup title                      No. of studies       No. of partici-   Statistical method               Effect size
+                                                                     pants
+
+ 1.2 Long-term studies (≥ 6 months)—            1                    357               Std. Mean Difference (IV, Ran-   -0.10 [-0.31, 0.11]
+ dose ≥ 800 mg/d                                                                       dom, 95% CI)
+
+ 2 WOMAC Stiffness on a 0 to 100 scale          1                                      Mean Difference (IV, Random,     Subtotals only
+                                                                                       95% CI)
+
+ 2.1 Short-term studies (< 6 months)—           1                    357               Mean Difference (IV, Random,     -1.0 [-5.77, 3.77]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 2.2 Long-term studies (≥ 6 months)—            1                    357               Mean Difference (IV, Random,     -0.60 [-5.25, 4.05]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 3 WOMAC Physical Function on a 0 to            1                                      Mean Difference (IV, Random,     Subtotals only
+ 100 scale                                                                             95% CI)
+
+ 3.1 Short-term studies (< 6 months)—           1                    357               Mean Difference (IV, Random,     -2.10 [-6.44, 2.24]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 3.2 Long-term studies (≥ 6 months)—            1                    357               Mean Difference (IV, Random,     -1.56 [-5.70, 2.58]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 4 WOMAC Total                                  1                                      Mean Difference (IV, Random,     Subtotals only
+                                                                                       95% CI)
+
+ 4.1 Short-term studies (< 6 months)—           1                    357               Mean Difference (IV, Random,     -1.80 [-6.06, 2.46]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 4.2 Long-term studies (≥ 6 months)—            1                    357               Mean Difference (IV, Random,     -1.60 [-5.69, 2.49]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 5 Lequesne's Index (higher is worse)           2                    1187              Mean Difference (IV, Random,     -1.36 [-3.60, 0.89]
+                                                                                       95% CI)
+
+ 5.1 Short-term studies (< 6 months)—           1                    357               Mean Difference (IV, Random,     0.0 [-2.51, 2.51]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 5.2 Long-term studies (≥ 6 months)—            2                    830               Mean Difference (IV, Random,     -2.02 [-5.06, 1.01]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 6 Patient Global Assessment (% with            2                    573               Odds Ratio (M-H, Random,         5.04 [1.95, 13.05]
+ improvement)                                                                          95% CI)
+
+ 6.1 Long-term studies (≥ 6 months)—            2                    573               Odds Ratio (M-H, Random,         5.04 [1.95, 13.05]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 7 MD Global Assessment (% with im-             1                    473               Odds Ratio (M-H, Random,         7.68 [4.48, 13.15]
+ provement)                                                                            95% CI)
+
+ 7.1 Long-term studies (≥ 6 months)—            1                    473               Odds Ratio (M-H, Random,         7.68 [4.48, 13.15]
+ dose ≥ 800 mg/d                                                                       95% CI)
+
+ 8 NSAID consumption                            1                                      Mean Difference (IV, Random,     Subtotals only
+                                                                                       95% CI)
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                     123
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                  Trusted evidence.
+                                     Informed decisions.
+           Library                   Better health.                                                                         Cochrane Database of Systematic Reviews
+
+
+
+ Outcome or subgroup title                                   No. of studies          No. of partici-        Statistical method                   Effect size
+                                                                                     pants
+
+ 8.1 Short-term studies (< 6 months)—                        1                       357                    Mean Difference (IV, Random,         -0.02 [-0.23, 0.19]
+ dose ≥ 800 mg/d                                                                                            95% CI)
+
+ 8.2 Long-term studies (≥ 6 months)—                         1                       357                    Mean Difference (IV, Random,         0.0 [-0.20, 0.20]
+ dose ≥ 800 mg/d                                                                                            95% CI)
+
+ 9 All withdrawals                                           3                       1012                   Odds Ratio (M-H, Random,             0.39 [0.09, 1.74]
+                                                                                                            95% CI)
+
+ 9.1 Long-term studies (≥ 6 months)—                         3                       1012                   Odds Ratio (M-H, Random,             0.39 [0.09, 1.74]
+ dose ≥ 800 mg/d                                                                                            95% CI)
+
+ 10 Withdrawals due to adverse events                        2                       457                    Odds Ratio (M-H, Random,             0.27 [0.03, 2.65]
+                                                                                                            95% CI)
+
+ 10.1 Long-term studies (≥ 6 months)—                        2                       457                    Odds Ratio (M-H, Random,             0.27 [0.03, 2.65]
+ dose ≥ 800 mg/d                                                                                            95% CI)
+
+ 11 Number of adverse events                                 2                       457                    Odds Ratio (M-H, Random,             0.08 [0.00, 4.82]
+                                                                                                            95% CI)
+
+ 11.1 Long-term studies (≥ 6 months)—                        2                       457                    Odds Ratio (M-H, Random,             0.08 [0.00, 4.82]
+ dose ≥ 800 mg/d                                                                                            95% CI)
+
+ 12 GI adverse events                                        2                       457                    Odds Ratio (M-H, Random,             0.41 [0.03, 6.60]
+                                                                                                            95% CI)
+
+ 12.1 Long-term studies (≥ 6 months)—                        2                       457                    Odds Ratio (M-H, Random,             0.41 [0.03, 6.60]
+ dose ≥ 800 mg/d                                                                                            95% CI)
+
+
+
+
+                                        Analysis 2.1. Comparison 2 Chondroitin sulfate versus Control,
+                                       Outcome 1 Pain on various scales standardized to a 0 to 100 scale.
+ Study or subgroup                             Chondroitin                Control                  Std. Mean Difference             Weight      Std. Mean Difference
+                                           N        Mean(SD)        N        Mean(SD)                  Random, 95% CI                             Random, 95% CI
+ 2.1.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Pavelka 2010                              176        30 (20.1)     181       31.1 (20.2)                                             100%             -0.06[-0.26,0.15]
+ Subtotal ***                              176                      181                                                              100%             -0.06[-0.26,0.15]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.53(P=0.59)
+
+
+ 2.1.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Pavelka 2010                              176        22.9 (20)     181       24.9 (19.5)                                             100%              -0.1[-0.31,0.11]
+ Subtotal ***                              176                      181                                                              100%              -0.1[-0.31,0.11]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.96(P=0.34)
+ Test for subgroup differences: Chi2=0.09, df=1 (P=0.76), I2=0%
+
+                                                                   Favours Chondroitin      -2    -1         0          1       2   Favours Control
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                              124
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                  Trusted evidence.
+                                     Informed decisions.
+           Library                   Better health.                                                                           Cochrane Database of Systematic Reviews
+
+
+   Analysis 2.2. Comparison 2 Chondroitin sulfate versus Control, Outcome 2 WOMAC Stiffness on a 0 to 100 scale.
+ Study or subgroup                             Chondroitin               Control                       Mean Difference                Weight        Mean Difference
+                                           N        Mean(SD)       N        Mean(SD)                   Random, 95% CI                               Random, 95% CI
+ 2.2.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Pavelka 2010                              176      30.3 (23.1)    181      31.3 (22.9)                                                 100%               -1[-5.77,3.77]
+ Subtotal ***                              176                    181                                                                  100%               -1[-5.77,3.77]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.41(P=0.68)
+
+
+ 2.2.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Pavelka 2010                              176      23.8 (22.4)    181      24.4 (22.4)                                                 100%             -0.6[-5.25,4.05]
+ Subtotal ***                              176                    181                                                                  100%             -0.6[-5.25,4.05]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.25(P=0.8)
+ Test for subgroup differences: Chi2=0.01, df=1 (P=0.91), I2=0%
+
+                                                                  Favours Chondroitin     -100   -50          0          50     100   Favours Control
+
+
+
+
+                                           Analysis 2.3. Comparison 2 Chondroitin sulfate versus Control,
+                                              Outcome 3 WOMAC Physical Function on a 0 to 100 scale.
+ Study or subgroup                             Chondroitin               Control                       Mean Difference                Weight        Mean Difference
+                                           N        Mean(SD)       N        Mean(SD)                   Random, 95% CI                               Random, 95% CI
+ 2.3.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Pavelka 2010                              176        32 (20.7)    181      34.1 (21.1)                                                 100%             -2.1[-6.44,2.24]
+ Subtotal ***                              176                    181                                                                  100%             -2.1[-6.44,2.24]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.95(P=0.34)
+
+
+ 2.3.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Pavelka 2010                              176      25.2 (20.1)    181      26.8 (19.8)                                                 100%             -1.56[-5.7,2.58]
+ Subtotal ***                              176                    181                                                                  100%             -1.56[-5.7,2.58]
+ Heterogeneity: Tau2=0; Chi2=0, df=0(P<0.0001); I2=100%
+ Test for overall effect: Z=0.74(P=0.46)
+ Test for subgroup differences: Chi2=0.03, df=1 (P=0.86), I2=0%
+
+                                                                  Favours Chondroitin     -100   -50          0          50     100   Favours Control
+
+
+
+
+                    Analysis 2.4. Comparison 2 Chondroitin sulfate versus Control, Outcome 4 WOMAC Total.
+ Study or subgroup                             Chondroitin               Control                       Mean Difference                Weight        Mean Difference
+                                           N        Mean(SD)       N        Mean(SD)                   Random, 95% CI                               Random, 95% CI
+ 2.4.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Pavelka 2010                              176      31.4 (20.4)    181      33.2 (20.7)                                                 100%             -1.8[-6.06,2.46]
+ Subtotal ***                              176                    181                                                                  100%             -1.8[-6.06,2.46]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.83(P=0.41)
+
+
+ 2.4.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Pavelka 2010                              176      24.6 (19.9)    181      26.2 (19.5)                                                 100%             -1.6[-5.69,2.49]
+
+                                                                  Favours Chondroitin     -100   -50          0          50     100   Favours Control
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                               125
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                   Trusted evidence.
+                                        Informed decisions.
+             Library                    Better health.                                                                                  Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                              Chondroitin                    Control                          Mean Difference                 Weight        Mean Difference
+                                            N           Mean(SD)         N        Mean(SD)                      Random, 95% CI                                Random, 95% CI
+ Subtotal ***                               176                          181                                                                      100%             -1.6[-5.69,2.49]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.77(P=0.44)
+ Test for subgroup differences: Chi2=0, df=1 (P=0.95), I2=0%
+
+                                                                        Favours Chondroitin      -100     -50          0          50      100   Favours Control
+
+
+
+
+   Analysis 2.5. Comparison 2 Chondroitin sulfate versus Control, Outcome 5 Lequesne's Index (higher is worse).
+ Study or subgroup                              Chondroitin                    Control                          Mean Difference                 Weight        Mean Difference
+                                            N           Mean(SD)         N        Mean(SD)                      Random, 95% CI                                Random, 95% CI
+ 2.5.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Pavelka 2010                               176         31.7 (11.8)      181       31.7 (12.4)                                                  33.54%                 0[-2.51,2.51]
+ Subtotal ***                               176                          181                                                                    33.54%                0[-2.51,2.51]
+ Heterogeneity: Not applicable
+ Test for overall effect: Not applicable
+
+
+ 2.5.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Nasonova 2001                              110             7 (7.6)      363       10.5 (18.5)                                                  35.17%              -3.5[-5.87,-1.13]
+ Pavelka 2010                               176         27.1 (13.1)      181       27.5 (13.1)                                                  31.28%               -0.4[-3.12,2.32]
+ Subtotal ***                               286                          544                                                                    66.46%            -2.02[-5.06,1.01]
+ Heterogeneity: Tau2=3.11; Chi2=2.84, df=1(P=0.09); I2=64.81%
+ Test for overall effect: Z=1.31(P=0.19)
+
+
+ Total ***                                  462                          725                                                                      100%             -1.36[-3.6,0.89]
+ Heterogeneity: Tau2=2.27; Chi2=4.73, df=2(P=0.09); I2=57.76%
+ Test for overall effect: Z=1.18(P=0.24)
+ Test for subgroup differences: Chi2=1.02, df=1 (P=0.31), I2=1.53%
+
+                                                                        Favours Chondroitin      -100     -50          0          50      100   Favours Control
+
+
+
+
+                                           Analysis 2.6. Comparison 2 Chondroitin sulfate versus Control,
+                                            Outcome 6 Patient Global Assessment (% with improvement).
+ Study or subgroup                          Chondroitin                Control                          Odds Ratio                          Weight                Odds Ratio
+                                                  n/N                    n/N                       M-H, Random, 95% CI                                      M-H, Random, 95% CI
+ 2.6.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Alekseeva 1999                                         21/50                  10/50                                                            43.13%                2.9[1.19,7.07]
+ Nasonova 2001                                      44/110                   29/363                                                             56.87%              7.68[4.48,13.15]
+ Subtotal (95% CI)                                        160                    413                                                              100%             5.04[1.95,13.05]
+ Total events: 65 (Chondroitin), 39 (Control)
+ Heterogeneity: Tau2=0.34; Chi2=3.4, df=1(P=0.07); I2=70.55%
+ Test for overall effect: Z=3.34(P=0)
+
+
+ Total (95% CI)                                           160                    413                                                              100%             5.04[1.95,13.05]
+ Total events: 65 (Chondroitin), 39 (Control)
+ Heterogeneity: Tau2=0.34; Chi2=3.4, df=1(P=0.07); I2=70.55%
+ Test for overall effect: Z=3.34(P=0)
+
+                                                                Favours Chondroitin      0.01    0.1            1          10     100   Favours Control
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                                           126
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                  Trusted evidence.
+                                     Informed decisions.
+           Library                   Better health.                                                                                         Cochrane Database of Systematic Reviews
+
+
+
+
+                                           Analysis 2.7. Comparison 2 Chondroitin sulfate versus Control,
+                                             Outcome 7 MD Global Assessment (% with improvement).
+ Study or subgroup                         Chondroitin                Control                           Odds Ratio                              Weight                Odds Ratio
+                                                 n/N                    n/N                        M-H, Random, 95% CI                                          M-H, Random, 95% CI
+ 2.7.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Nasonova 2001                                     44/110                    29/363                                                                   100%              7.68[4.48,13.15]
+ Subtotal (95% CI)                                       110                    363                                                                   100%             7.68[4.48,13.15]
+ Total events: 44 (Chondroitin), 29 (Control)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=7.43(P<0.0001)
+
+
+ Total (95% CI)                                          110                    363                                                                   100%             7.68[4.48,13.15]
+ Total events: 44 (Chondroitin), 29 (Control)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=7.43(P<0.0001)
+
+                                                               Favours Chondroitin      0.01      0.1          1          10         100    Favours Control
+
+
+
+
+                Analysis 2.8. Comparison 2 Chondroitin sulfate versus Control, Outcome 8 NSAID consumption.
+ Study or subgroup                             Chondroitin                    Control                          Mean Difference                      Weight        Mean Difference
+                                           N           Mean(SD)         N        Mean(SD)                      Random, 95% CI                                     Random, 95% CI
+ 2.8.1 Short-term studies (< 6 months)—dose ≥ 800 mg/d
+ Pavelka 2010                              176             1.1 (1)      181           1.1 (1.1)                                                       100%              -0.02[-0.23,0.19]
+ Subtotal ***                              176                          181                                                                           100%            -0.02[-0.23,0.19]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.19(P=0.85)
+
+
+ 2.8.2 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Pavelka 2010                              176           0.9 (0.9)      181             0.9 (1)                                                       100%                    0[-0.2,0.2]
+ Subtotal ***                              176                          181                                                                           100%                   0[-0.2,0.2]
+ Heterogeneity: Not applicable
+ Test for overall effect: Not applicable
+ Test for subgroup differences: Chi2=0.02, df=1 (P=0.89), I2=0%
+
+                                                                       Favours Chondroitin              -0.2   -0.1   0        0.1    0.2           Favours Control
+
+
+
+
+                  Analysis 2.9. Comparison 2 Chondroitin sulfate versus Control, Outcome 9 All withdrawals.
+ Study or subgroup                         Chondroitin                Control                           Odds Ratio                              Weight                Odds Ratio
+                                                 n/N                    n/N                        M-H, Random, 95% CI                                          M-H, Random, 95% CI
+ 2.9.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Alekseeva 1999                                         2/50                  17/50                                                                 27.03%               0.08[0.02,0.37]
+ Nasonova 2001                                     33/192                   149/363                                                                 36.61%                0.3[0.19,0.46]
+ Pavelka 1999                                      55/176                    39/181                                                                 36.36%               1.66[1.03,2.67]
+ Subtotal (95% CI)                                       418                    594                                                                   100%              0.39[0.09,1.74]
+ Total events: 90 (Chondroitin), 205 (Control)
+ Heterogeneity: Tau2=1.54; Chi2=34.37, df=2(P<0.0001); I2=94.18%
+
+                                                               Favours Chondroitin      0.01      0.1          1          10         100    Favours Control
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                                               127
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                  Trusted evidence.
+                                     Informed decisions.
+           Library                   Better health.                                                                       Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                         Chondroitin               Control                      Odds Ratio                  Weight            Odds Ratio
+                                                n/N                    n/N                   M-H, Random, 95% CI                            M-H, Random, 95% CI
+ Test for overall effect: Z=1.23(P=0.22)
+
+
+ Total (95% CI)                                        418                     594                                                  100%          0.39[0.09,1.74]
+ Total events: 90 (Chondroitin), 205 (Control)
+ Heterogeneity: Tau2=1.54; Chi2=34.37, df=2(P<0.0001); I2=94.18%
+ Test for overall effect: Z=1.23(P=0.22)
+
+                                                              Favours Chondroitin    0.01   0.1       1        10   100   Favours Control
+
+
+
+
+  Analysis 2.10. Comparison 2 Chondroitin sulfate versus Control, Outcome 10 Withdrawals due to adverse events.
+ Study or subgroup                         Chondroitin               Control                      Odds Ratio                  Weight            Odds Ratio
+                                                n/N                    n/N                   M-H, Random, 95% CI                            M-H, Random, 95% CI
+ 2.10.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Alekseeva 1999                                        2/50                  17/50                                                48.65%           0.08[0.02,0.37]
+ Pavelka 1999                                         4/176                  5/181                                                51.35%            0.82[0.22,3.1]
+ Subtotal (95% CI)                                     226                     231                                                  100%          0.27[0.03,2.65]
+ Total events: 6 (Chondroitin), 22 (Control)
+ Heterogeneity: Tau2=2.22; Chi2=5.14, df=1(P=0.02); I2=80.55%
+ Test for overall effect: Z=1.13(P=0.26)
+
+
+ Total (95% CI)                                        226                     231                                                  100%          0.27[0.03,2.65]
+ Total events: 6 (Chondroitin), 22 (Control)
+ Heterogeneity: Tau2=2.22; Chi2=5.14, df=1(P=0.02); I2=80.55%
+ Test for overall effect: Z=1.13(P=0.26)
+
+                                                              Favours Chondroitin    0.01   0.1       1        10   100   Favours Control
+
+
+
+
+        Analysis 2.11. Comparison 2 Chondroitin sulfate versus Control, Outcome 11 Number of adverse events.
+ Study or subgroup                         Chondroitin               Control                      Odds Ratio                  Weight            Odds Ratio
+                                                n/N                    n/N                   M-H, Random, 95% CI                            M-H, Random, 95% CI
+ 2.11.1 Long-term studies (≥ 6 months)—dose ≥ 800 mg/d
+ Alekseeva 1999                                        2/50                  41/50                                                48.35%              0.01[0,0.04]
+ Pavelka 1999                                     31/176                  50/181                                                  51.65%           0.56[0.34,0.93]
+ Subtotal (95% CI)                                     226                     231                                                  100%             0.08[0,4.82]
+ Total events: 33 (Chondroitin), 91 (Control)
+ Heterogeneity: Tau2=8.58; Chi2=24.72, df=1(P<0.0001); I2=95.96%
+ Test for overall effect: Z=1.22(P=0.22)
+
+
+ Total (95% CI)                                        226                     231                                                  100%             0.08[0,4.82]
+ Total events: 33 (Chondroitin), 91 (Control)
+ Heterogeneity: Tau2=8.58; Chi2=24.72, df=1(P<0.0001); I2=95.96%
+ Test for overall effect: Z=1.22(P=0.22)
+
+                                                              Favours Chondroitin    0.01   0.1       1        10   100   Favours Control
+
+
+
+
+Chondroitin for osteoarthritis (Review)                                                                                                                        128
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+

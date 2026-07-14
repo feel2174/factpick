@@ -1,0 +1,1436 @@
+         Cochrane             Trusted evidence.
+                              Informed decisions.
+         Library              Better health.                                                     Cochrane Database of Systematic Reviews
+
+
+Reginster 2001 (Continued)
+ Allocation concealment?          Low risk                  A - Adequate
+
+
+
+
+Reichelt 1994
+ Methods                          Randomized controlled trial
+                                  Double blinded
+                                  Multicenter
+                                  Parallel group
+
+ Participants                     Outpatients with osteoarthritis of the knee
+                                  Country: Germany
+                                  N = 155
+                                  Mean age: 56.5 years
+                                  Female: 65%
+                                  Male: 35%
+
+ Interventions                    GS 400 mg IM x two per week versus placebo IM x two per week
+                                  Duration: 6 weeks of treatment and two weeks of follow up
+
+ Outcomes                         Lequesne Index
+                                  Global investigator derived
+                                  Safety
+
+ Notes
+
+ Risk of bias
+
+ Bias                             Authors' judgement        Support for judgement
+
+ Allocation concealment?          High risk                 C - Inadequate
+
+
+
+
+Rindone 2000
+ Methods                          Randomized controlled trial
+                                  Double blinded
+                                  Parallel group
+                                  Single center
+
+ Participants                     Outpatients with osteoarthritis of the knee
+                                  Country: USA
+                                  N = 114
+                                  Female: 5%
+                                  Male: 95%
+
+ Interventions                    GS 500 mg PO TID versus placebo PO TID
+                                  Duration: 2 months
+
+ Outcomes                         VAS pain at rest
+                                  VAS pain while walking
+
+ Notes
+
+ Risk of bias
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                             32
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+         Cochrane             Trusted evidence.
+                              Informed decisions.
+         Library              Better health.                                                          Cochrane Database of Systematic Reviews
+
+
+Rindone 2000 (Continued)
+ Bias                             Authors' judgement        Support for judgement
+
+ Allocation concealment?          High risk                 C - Inadequate
+
+
+
+
+Rovati 1997
+ Methods                          Randomized controlled trial
+                                  Double blinded
+                                  Multicenter
+                                  Parallel group
+                                  This study is unpublished at this time (the authors have provided us data from this study in the form of
+                                  a full manuscript ). Preliminary data from the study were also presented in abstract form by Rovati LC,
+                                  1997
+
+ Participants                     Outpatients with primary osteoarthritis of the knee
+                                  Country: France
+                                  N = 319
+                                  Mean age: 65.5 years
+                                  Female: 75%
+                                  Male: 25%
+                                  Age range = 45-85 years
+
+ Interventions                    GS 1500 mg per day versus piroxicam 20 mg per day versus the combination of the two versus double
+                                  placebo
+                                  Duration 12 weeks of treatment and 8 weeks of follow up
+
+ Outcomes                         Lequesne Index
+                                  Pain (VAS)
+                                  Safety
+
+ Notes
+
+ Risk of bias
+
+ Bias                             Authors' judgement        Support for judgement
+
+ Allocation concealment?          Low risk                  A - Adequate
+
+
+
+
+Rozendaal 2008
+ Methods                          Randomized controlled trial
+                                  Double blinded
+                                  Parallel group
+                                  Single center
+
+ Participants                     Outpatients with osteoarthritis of the hip
+                                  Country: Netherlands
+                                  N = 222
+                                  69% female
+                                  31% male
+                                  Mean age = 63.4 years
+
+ Interventions                    GS 1500 mg per day versus placebo
+
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                                     33
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+         Cochrane             Trusted evidence.
+                              Informed decisions.
+         Library              Better health.                                                           Cochrane Database of Systematic Reviews
+
+
+Rozendaal 2008 (Continued)
+                                  Duration: 2 years
+
+ Outcomes                         WOMAC pain, WOMAC stiffness, WOMAC function, VAS pain, joint space narrowing, usage of pain med-
+                                  ication
+
+ Notes
+
+ Risk of bias
+
+ Bias                             Authors' judgement        Support for judgement
+
+ Allocation concealment?          Low risk                  A - Adequate
+
+
+
+
+Usha 2004
+ Methods                          Randomized controlled trial
+
+                                  Double blinded
+                                  Parallel group
+                                  Single center
+
+ Participants                     Outpatients with mild to moderate osteoarthritis of the knee
+                                  Country: India
+                                  N =118
+                                  Mean age = 51 years
+                                  60% female
+                                  40% male
+
+ Interventions                    GS versus MSM versus GS+MSM versus placebo
+                                  Duration: 12 weeks
+
+ Outcomes                         Pain, Lequesne Index, walk time, joint swelling, usage of rescue analgesics, global patient, global inves-
+                                  tigator
+
+ Notes
+
+ Risk of bias
+
+ Bias                             Authors' judgement        Support for judgement
+
+ Allocation concealment?          High risk                 C - Inadequate
+
+
+
+
+Vajaradul 1981
+ Methods                          Controlled trial (query randomized)
+                                  Double blinded
+                                  Multicenter
+                                  Parallel group
+
+ Participants                     Outpatients with osteoarthritis of the knee
+                                  Country: Thailand
+                                  N = 60
+                                  Mean age: 52.6 years
+                                  Female: 83%
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                                   34
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+         Cochrane             Trusted evidence.
+                              Informed decisions.
+         Library              Better health.                                        Cochrane Database of Systematic Reviews
+
+
+Vajaradul 1981 (Continued)
+                                  Male: 17%
+
+ Interventions                    GS IA weekly versus placebo IA weekly
+                                  Duration: 5 weeks and 4 weeks follow up
+
+ Outcomes                         Pain spontaneous (0 to 2 scale)
+                                  Pain on standing (0 to 2 scale)
+                                  Pain on walking (0 to 2 scale)
+                                  Range of motion
+                                  Time to climb five steps
+                                  Knee joint circumference
+                                  Safety
+
+ Notes
+
+ Risk of bias
+
+ Bias                             Authors' judgement        Support for judgement
+
+ Allocation concealment?          High risk                 C - Inadequate
+
+
+
+
+Vaz 1982
+ Methods                          Randomized controlled trial
+                                  Double blinded
+                                  Single center
+                                  Parallel group
+
+ Participants                     Outpatients with osteoarthritis of the knee
+                                  Country: Portugal
+                                  N = 40
+                                  Mean age: 57.8 years
+                                  Female: 74%
+                                  Male: 26%
+
+ Interventions                    GS 500 mg PO TID versus ibuprofen 400 mg PO TID
+                                  Duration: 8 weeks
+
+ Outcomes                         Articular pain (0 to 3 scale)
+                                  Swelling
+                                  Global investigator derived
+
+ Notes
+
+ Risk of bias
+
+ Bias                             Authors' judgement        Support for judgement
+
+ Allocation concealment?          High risk                 C - Inadequate
+
+
+
+
+Zenk 2002
+ Methods                          Randomized controlled trial
+                                  Double blinded
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                35
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+         Cochrane             Trusted evidence.
+                              Informed decisions.
+         Library              Better health.                                                         Cochrane Database of Systematic Reviews
+
+
+Zenk 2002 (Continued)
+                                  Parallel group
+                                  Single center
+
+ Participants                     Outpatients with osteoarthritis of the knee and/or hip
+                                  Country: USA
+                                  N = 42
+                                  Mean age = 59 years
+                                  Female: 81%
+                                  Male: 19%
+
+ Interventions                    GS 500 mg PO TID versus placebo versus milk protein concentrate 2000 mg PO TID
+                                  Duration: 6 weeks
+
+ Outcomes                         WOMAC pain
+                                  WOMAC stiffness
+                                  WOMAC function
+                                  WOMAC total
+
+ Notes
+
+ Risk of bias
+
+ Bias                             Authors' judgement        Support for judgement
+
+ Allocation concealment?          Low risk                  A - Adequate
+
+
+GS = Glucosamine sulfate
+GH = Glucosamine hydrochloride
+OD = per day
+IM = Intramuscular
+IA = intrarticular
+IV = Intravenous
+TID = three times per day
+BID = two times per day
+PO = oral
+WOMAC = Western Ontario and McMaster Universities Osteoarthritis Index
+OARSI = Osteoarthritis Research Society International Responder Criteria
+MSM = methylsulfonylmethane
+NA = not available
+
+Characteristics of excluded studies [ordered by study ID]
+
+
+ Study                                Reason for exclusion
+
+ Braham 2003                          This RCT compared glucosamine to placebo in subjects who experienced regular knee pain. How-
+                                      ever, the cause of the knee pain was not clearly established, and may possibly not have been
+                                      caused by OA of the knee.
+
+ Magi 1997                            Unpublished brief technical report prepared by Rottapharm primarily for regulatory authorities.
+                                      Report describes a pilot long-term feasibility study in subjects with OA of the knee. This was a
+                                      phase 3 RCT.
+
+ Pipitone 1997                        Unpublished brief technical report prepared by Rottapharm primarily for regulatory authorities.
+                                      Report describes a pilot long-term feasibility study in subjects with OA of the knee. This was a
+                                      phase 3 RCT.
+
+
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                                 36
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+          Cochrane            Trusted evidence.
+                              Informed decisions.
+          Library             Better health.                                                         Cochrane Database of Systematic Reviews
+
+
+
+ Study                                Reason for exclusion
+
+ Rovati 1993                          Unpublished brief technical report prepared by Rottapharm primarily for regulatory authorities.
+                                      Report describes a pilot short-term in subjects with OA of the spine. This was a phase 3 RCT.
+                                      Some of the data from this study was published in abstract form by Foerster KK in the 2000
+                                      September Supplemental Issue of Arthritis and Rheumatism.
+
+
+
+
+DATA AND ANALYSES
+
+
+Comparison 1. Glucosamine versus placebo
+
+ Outcome or subgroup title                   No. of studies       No. of partici-   Statistical method                 Effect size
+                                                                  pants
+
+ 1 Pain                                      18                   2543              Std. Mean Difference (IV, Ran-     -0.47 [-0.72, -0.23]
+                                                                                    dom, 95% CI)
+
+ 2 Lequesne Index                            5                    951               Std. Mean Difference (IV, Ran-     -0.47 [-0.82, -0.12]
+                                                                                    dom, 95% CI)
+
+ 3 Lequesne Index                            2                    407               Risk Ratio (M-H, Fixed, 95% CI)    1.52 [1.20, 1.91]
+
+ 4 WOMAC Pain Subscale                       10                   2017              Std. Mean Difference (IV, Fixed,   -0.06 [-0.14, 0.03]
+                                                                                    95% CI)
+
+ 5 WOMAC Stiffness Subscale                  7                    1390              Std. Mean Difference (IV, Fixed,   -0.02 [-0.13, 0.08]
+                                                                                    95% CI)
+
+ 6 WOMAC Function Subscale                   10                   2017              Std. Mean Difference (IV, Fixed,   -0.08 [-0.17, 0.00]
+                                                                                    95% CI)
+
+ 7 WOMAC Total                               6                    882               Std. Mean Difference (IV, Fixed,   -0.18 [-0.31, -0.05]
+                                                                                    95% CI)
+
+ 8 Mean Joint Space Width                    1                    212               Std. Mean Difference (IV, Fixed,   0.07 [-0.20, 0.34]
+                                                                                    95% CI)
+
+ 9 Minimum Joint Space Width                 2                    414               Mean Difference (IV, Fixed, 95%    0.32 [0.05, 0.58]
+                                                                                    CI)
+
+ 10 Patient global assessment of dis-        1                    630               Mean Difference (IV, Fixed, 95%    1.10 [-2.77, 4.97]
+ ease status score (0-100mm scale)                                                  CI)
+
+ 11 Patient global assessment - num-         1                    118               Risk Ratio (M-H, Fixed, 95% CI)    1.21 [0.80, 1.82]
+ ber responding they are better than
+ at start of trial
+
+ 12 Physician global assessment of           1                    630               Mean Difference (IV, Fixed, 95%    0.80 [-2.78, 4.38]
+ disease status score (0-100)                                                       CI)
+
+ 13 Physician global assessment of           2                    100               Risk Ratio (M-H, Fixed, 95% CI)    2.26 [1.49, 3.43]
+ good or excellent response
+
+
+
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                                      37
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                   Trusted evidence.
+                                        Informed decisions.
+             Library                    Better health.                                                                         Cochrane Database of Systematic Reviews
+
+
+
+ Outcome or subgroup title                              No. of studies             No. of partici-          Statistical method                    Effect size
+                                                                                   pants
+
+ 14 Osteoarthritis Research Society                     3                          918                      Risk Ratio (M-H, Random, 95%          1.23 [0.83, 1.83]
+ International Responder Criteria                                                                           CI)
+ (OARSI)
+
+ 15 Toxicity (Number of Patients Re-                    16                         2117                     Risk Ratio (M-H, Fixed, 95% CI)       0.99 [0.91, 1.07]
+ porting Adverse Events)
+
+ 16 Toxicity (Number of Withdrawals                     20                         2970                     Risk Ratio (M-H, Fixed, 95% CI)       0.76 [0.55, 1.05]
+ due to Adverse Events)
+
+
+
+
+                                Analysis 1.1. Comparison 1 Glucosamine versus placebo, Outcome 1 Pain.
+ Study or subgroup                              Glucosamine                 Placebo                   Std. Mean Difference             Weight      Std. Mean Difference
+                                            N        Mean(SD)        N         Mean(SD)                   Random, 95% CI                             Random, 95% CI
+ Cibere 2004                                 71            129.7       66      129.6 (118)                                              6.36%                 0[-0.33,0.34]
+                                                         (113.2)
+ Clegg 2006                                 317            149.3      313      151 (113.1)                                                 7%              -0.01[-0.17,0.14]
+                                                         (115.9)
+ Crolle 1980                                 15         0.2 (0.4)      15         1.1 (0.9)                                             4.12%             -1.28[-2.08,-0.49]
+ D'ambrosio 1981                             15         0.3 (0.1)      15         1.2 (0.2)                                             1.76%             -5.33[-6.94,-3.71]
+ Drovanti 1980                               40           1 (0.8)      40         1.9 (0.4)                                              5.6%              -1.4[-1.89,-0.91]
+ Herrero-Beaumont 2007                      106           5.1 (3)     104               6 (3)                                           6.63%              -0.3[-0.57,-0.03]
+ Houpt 1999                                  45           7.1 (4)      53         7.7 (4.1)                                             6.07%              -0.12[-0.52,0.27]
+ Hughes 2002                                 39         7.5 (4.8)      39         7.4 (4.4)                                             5.84%              0.03[-0.41,0.48]
+ McAlindon 2004                             101         6.8 (3.3)     104         6.6 (4.2)                                             6.62%              0.05[-0.22,0.33]
+ Pavelka 2002                               101         4.6 (3.5)     101             5 (3.1)                                           6.61%               -0.13[-0.4,0.15]
+ Pujalte 1980                                10         1.3 (0.3)      10         2.4 (0.8)                                             3.03%             -1.81[-2.89,-0.74]
+ Reginster 2001                             106            156.1      106            164.2                                              6.64%              -0.08[-0.35,0.19]
+                                                         (101.9)                   (104.5)
+ Rindone 2000                                49         3.2 (2.5)      49         3.4 (2.5)                                             6.08%              -0.08[-0.48,0.32]
+ Rovati 1997                                 79      24.3 (19.3)       77          50 (22)                                              6.32%             -1.24[-1.58,-0.89]
+ Rozendaal 2008                             111      35.2 (26.8)      111      34.4 (25.6)                                              6.66%              0.03[-0.23,0.29]
+ Usha 2004                                   30         0.7 (0.7)      28         1.2 (0.8)                                              5.4%             -0.68[-1.22,-0.15]
+ Vajaradul 1981                              28         0.2 (0.2)      26         0.7 (0.9)                                             5.28%             -0.78[-1.33,-0.22]
+ Zenk 2002                                   13      -74.7 (26.3)      10      -76.5 (25.1)                                             3.99%              0.07[-0.76,0.89]
+
+
+ Total ***                                 1276                     1267                                                                100%             -0.47[-0.72,-0.23]
+ Heterogeneity: Tau2=0.22; Chi2=136.13, df=17(P<0.0001); I2=87.51%
+ Test for overall effect: Z=3.76(P=0)
+
+                                                                    Favours Glucosamine         -4   -2         0          2       4   Favours Placebo
+
+
+
+
+                       Analysis 1.2. Comparison 1 Glucosamine versus placebo, Outcome 2 Lequesne Index.
+ Study or subgroup                              Glucosamine                 Placebo                   Std. Mean Difference             Weight      Std. Mean Difference
+                                            N        Mean(SD)        N         Mean(SD)                   Random, 95% CI                             Random, 95% CI
+ Herrero-Beaumont 2007                      106           8 (3.1)     104             9 (2.6)                                          20.46%             -0.35[-0.62,-0.07]
+ Noack 1994                                 120         7.4 (5.5)     121         8.4 (4.4)                                            20.81%               -0.2[-0.45,0.05]
+
+                                                                    Favours Glucosamine         -4   -2         0          2       4   Favours Placebo
+
+
+
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                                                                  38
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                  Trusted evidence.
+                                       Informed decisions.
+             Library                   Better health.                                                                                               Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                              Glucosamine                    Placebo                               Std. Mean Difference                   Weight        Std. Mean Difference
+                                            N           Mean(SD)         N        Mean(SD)                                Random, 95% CI                                    Random, 95% CI
+ Pavelka 2002                               101            7.3 (2.3)     101           8.1 (2.3)                                                            20.35%               -0.38[-0.66,-0.1]
+ Reichelt 1994                               73            6.8 (6.9)      69           8.3 (8.3)                                                            19.34%                -0.2[-0.53,0.13]
+ Rovati 1997                                 79            5.5 (2.8)      77           9.7 (3.7)                                                            19.03%              -1.28[-1.62,-0.93]
+
+
+ Total ***                                  479                         472                                                                                  100%              -0.47[-0.82,-0.12]
+ Heterogeneity: Tau2=0.14; Chi2=28.67, df=4(P<0.0001); I2=86.05%
+ Test for overall effect: Z=2.63(P=0.01)
+
+                                                                       Favours Glucosamine           -4             -2              0         2         4   Favours Placebo
+
+
+
+
+                        Analysis 1.3. Comparison 1 Glucosamine versus placebo, Outcome 3 Lequesne Index.
+ Study or subgroup                         Glucosamine                 Placebo                                    Risk Ratio                            Weight                 Risk Ratio
+                                                  n/N                   n/N                                M-H, Fixed, 95% CI                                              M-H, Fixed, 95% CI
+ Noack 1994                                         66/126                   46/126                                                                         66.24%                1.43[1.08,1.91]
+ Reichelt 1994                                          40/79                  23/76                                                                        33.76%                1.67[1.12,2.51]
+
+
+ Total (95% CI)                                           205                    202                                                                         100%                 1.52[1.2,1.91]
+ Total events: 106 (Glucosamine), 69 (Placebo)
+ Heterogeneity: Tau2=0; Chi2=0.37, df=1(P=0.54); I2=0%
+ Test for overall effect: Z=3.5(P=0)
+
+                                                                   Favours placebo       0.1   0.2          0.5          1      2        5     10   Favours glucosamine
+
+
+
+
+                  Analysis 1.4. Comparison 1 Glucosamine versus placebo, Outcome 4 WOMAC Pain Subscale.
+ Study or subgroup                              Glucosamine                    Placebo                               Std. Mean Difference                   Weight        Std. Mean Difference
+                                            N           Mean(SD)         N        Mean(SD)                                   Fixed, 95% CI                                    Fixed, 95% CI
+ Cibere 2004                                 71               129.7       66      129.6 (118)                                                                 6.8%                   0[-0.33,0.34]
+                                                            (113.2)
+ Clegg 2006                                 317               149.3      313      151 (113.1)                                                                31.3%               -0.01[-0.17,0.14]
+                                                            (115.9)
+ Herrero-Beaumont 2007                      106              5.1 (3)     104               6 (3)                                                            10.32%               -0.3[-0.57,-0.03]
+ Houpt 1999                                  45              7.1 (4)      53           7.7 (4.1)                                                             4.83%               -0.12[-0.52,0.27]
+ Hughes 2002                                 39            7.5 (4.8)      39           7.4 (4.4)                                                             3.88%                0.03[-0.41,0.48]
+ McAlindon 2004                             101            6.8 (3.3)     104           6.6 (4.2)                                                            10.18%                0.05[-0.22,0.33]
+ Pavelka 2002                               101            4.6 (3.5)     101             5 (3.1)                                                            10.02%                -0.13[-0.4,0.15]
+ Reginster 2001                             106               156.1      106              164.2                                                             10.53%               -0.08[-0.35,0.19]
+                                                            (101.9)                     (104.5)
+ Rozendaal 2008                             111           32 (24.1)      111           32.3 (23)                                                            11.03%               -0.01[-0.28,0.25]
+ Zenk 2002                                   13         -74.7 (26.3)      10      -76.5 (25.1)                                                               1.12%                0.07[-0.76,0.89]
+
+
+ Total ***                                 1010                        1007                                                                                  100%              -0.06[-0.14,0.03]
+ Heterogeneity: Tau2=0; Chi2=4.74, df=9(P=0.86); I2=0%
+ Test for overall effect: Z=1.26(P=0.21)
+
+                                                                       Favours Glucosamine            -1           -0.5             0        0.5       1    Favours Placebo
+
+
+
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                                                                                         39
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                             Cochrane Database of Systematic Reviews
+
+
+                Analysis 1.5. Comparison 1 Glucosamine versus placebo, Outcome 5 WOMAC Stiffness Subscale.
+ Study or subgroup                              Glucosamine                 Placebo                  Std. Mean Difference               Weight      Std. Mean Difference
+                                            N        Mean(SD)        N         Mean(SD)                   Fixed, 95% CI                                   Fixed, 95% CI
+ Cibere 2004                                 71      56.1 (47.5)       66        54 (49.1)                                               9.87%                0.04[-0.29,0.38]
+ Clegg 2006                                 317      70.6 (52.2)      313      70.5 (48.8)                                              45.45%                   0[-0.15,0.16]
+ Houpt 1999                                  45         3.4 (1.8)      53         3.7 (1.8)                                              6.99%               -0.19[-0.59,0.21]
+ Hughes 2002                                 39         3.6 (2.3)      39         3.2 (1.6)                                              5.59%                0.21[-0.23,0.66]
+ Pavelka 2002                               101         1.9 (1.5)     101         2.3 (1.4)                                             14.49%                -0.22[-0.5,0.06]
+ Rozendaal 2008                             111      38.2 (25.5)      111      38.1 (23.6)                                              16.02%                   0[-0.26,0.27]
+ Zenk 2002                                   13      -59.6 (27.1)      10       -70 (20.6)                                               1.59%                0.41[-0.43,1.24]
+
+
+ Total ***                                  697                      693                                                                 100%              -0.02[-0.13,0.08]
+ Heterogeneity: Tau2=0; Chi2=4.97, df=6(P=0.55); I2=0%
+ Test for overall effect: Z=0.39(P=0.7)
+
+                                                                    Favours Glucosamine       -1   -0.5         0         0.5       1   Favours Placebo
+
+
+
+
+                Analysis 1.6. Comparison 1 Glucosamine versus placebo, Outcome 6 WOMAC Function Subscale.
+ Study or subgroup                              Glucosamine                 Placebo                  Std. Mean Difference               Weight      Std. Mean Difference
+                                            N        Mean(SD)        N         Mean(SD)                   Fixed, 95% CI                                   Fixed, 95% CI
+ Cibere 2004                                 71            419.9       66            418.6                                                6.8%                   0[-0.33,0.34]
+                                                         (362.1)                   (367.4)
+ Clegg 2006                                 317            531.8      313            540.3                                              31.32%               -0.02[-0.18,0.13]
+                                                         (388.6)                   (374.1)
+ Herrero-Beaumont 2007                      106      18.6 (11.4)      104      21.7 (10.9)                                              10.34%                 -0.28[-0.55,-0]
+ Houpt 1999                                  45        26 (14.7)       53      27.2 (14.1)                                               4.84%               -0.08[-0.48,0.32]
+ Hughes 2002                                 39      26.6 (19.1)       39        23.3 (15)                                               3.86%                0.19[-0.26,0.63]
+ McAlindon 2004                             101        25 (11.2)      104        27 (12.8)                                              10.16%               -0.17[-0.44,0.11]
+ Pavelka 2002                               101        16 (10.7)      101        18.3 (11)                                               9.99%               -0.21[-0.48,0.07]
+ Reginster 2001                             106            580.1      106            610.8                                              10.53%               -0.08[-0.35,0.19]
+                                                         (364.2)                   (367.8)
+ Rozendaal 2008                             111      32.6 (24.2)      111      34.1 (23.5)                                              11.03%                -0.06[-0.33,0.2]
+ Zenk 2002                                   13       -73 (26.9)       10       -77 (21.1)                                               1.12%                0.16[-0.67,0.98]
+
+
+ Total ***                                 1010                     1007                                                                 100%                  -0.08[-0.17,0]
+ Heterogeneity: Tau2=0; Chi2=5.68, df=9(P=0.77); I2=0%
+ Test for overall effect: Z=1.87(P=0.06)
+
+                                                                    Favours Glucosamine       -1   -0.5         0         0.5       1   Favours Placebo
+
+
+
+
+                         Analysis 1.7. Comparison 1 Glucosamine versus placebo, Outcome 7 WOMAC Total.
+ Study or subgroup                              Glucosamine                 Placebo                  Std. Mean Difference               Weight      Std. Mean Difference
+                                            N        Mean(SD)        N         Mean(SD)                   Fixed, 95% CI                                   Fixed, 95% CI
+ Cibere 2004                                 71            605.6       66      602.3 (531)                                              15.63%                0.01[-0.33,0.34]
+                                                         (506.6)
+ Herrero-Beaumont 2007                      106      25.4 (15.2)      104      29.7 (14.3)                                              23.73%              -0.29[-0.56,-0.01]
+ Houpt 1999                                  45      36.6 (19.5)       53      38.6 (19.3)                                               11.1%                  -0.1[-0.5,0.3]
+ Pavelka 2002                               101      22.7 (14.4)      101      25.6 (14.4)                                              22.95%                -0.2[-0.48,0.08]
+ Reginster 2001                             106            909.7      106          1031.8                                               24.01%               -0.25[-0.52,0.02]
+                                                         (473.8)                   (484.8)
+                                                                    Favours Glucosamine       -1   -0.5         0         0.5       1   Favours Placebo
+
+
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                                                                     40
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                                     Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                             Glucosamine                 Placebo                        Std. Mean Difference                   Weight      Std. Mean Difference
+                                           N        Mean(SD)        N         Mean(SD)                           Fixed, 95% CI                                     Fixed, 95% CI
+ Zenk 2002                                  13      -72.2 (26.5)      10      -76.3 (21.5)                                                        2.57%                0.16[-0.66,0.99]
+
+
+ Total ***                                 442                      440                                                                           100%              -0.18[-0.31,-0.05]
+ Heterogeneity: Tau2=0; Chi2=2.89, df=5(P=0.72); I2=0%
+ Test for overall effect: Z=2.68(P=0.01)
+
+                                                                   Favours Glucosamine       -1         -0.5           0          0.5        1   Favours Placebo
+
+
+
+
+                  Analysis 1.8. Comparison 1 Glucosamine versus placebo, Outcome 8 Mean Joint Space Width.
+ Study or subgroup                             Glucosamine                 Placebo                        Std. Mean Difference                   Weight      Std. Mean Difference
+                                           N        Mean(SD)        N         Mean(SD)                           Fixed, 95% CI                                     Fixed, 95% CI
+ Reginster 2001                            106         5.2 (1.4)     106         5.1 (1.3)                                                         100%                 0.07[-0.2,0.34]
+
+
+ Total ***                                 106                      106                                                                           100%                 0.07[-0.2,0.34]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.49(P=0.62)
+
+                                                                        Favours Placebo      -1         -0.5           0          0.5        1   Favours Glucosamine
+
+
+
+
+              Analysis 1.9. Comparison 1 Glucosamine versus placebo, Outcome 9 Minimum Joint Space Width.
+ Study or subgroup                             Glucosamine                 Placebo                              Mean Difference                  Weight        Mean Difference
+                                           N        Mean(SD)        N         Mean(SD)                           Fixed, 95% CI                                     Fixed, 95% CI
+ Pavelka 2002                              101         3.9 (1.5)     101         3.4 (1.6)                                                       40.17%                0.49[0.07,0.91]
+ Reginster 2001                            106         3.8 (1.3)     106         3.6 (1.2)                                                       59.83%                 0.2[-0.14,0.54]
+
+
+ Total ***                                 207                      207                                                                           100%                0.32[0.05,0.58]
+ Heterogeneity: Tau2=0; Chi2=1.09, df=1(P=0.3); I2=8.4%
+ Test for overall effect: Z=2.33(P=0.02)
+
+                                                                        Favours Placebo      -1         -0.5           0          0.5        1   Favours Glucosamine
+
+
+
+
+                                     Analysis 1.10. Comparison 1 Glucosamine versus placebo, Outcome
+                                    10 Patient global assessment of disease status score (0-100mm scale).
+ Study or subgroup                             Glucosamine                 Placebo                              Mean Difference                  Weight        Mean Difference
+                                           N        Mean(SD)        N         Mean(SD)                           Fixed, 95% CI                                     Fixed, 95% CI
+ Clegg 2006                                317      35.1 (25.7)      313        34 (23.9)                                                          100%                 1.1[-2.77,4.97]
+
+
+ Total ***                                 317                      313                                                                           100%                 1.1[-2.77,4.97]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.56(P=0.58)
+
+                                                                        Favours placebo           -10      -5          0          5     10       Favours glucosamine
+
+
+
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                                                                              41
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                   Trusted evidence.
+                                        Informed decisions.
+             Library                    Better health.                                                                                               Cochrane Database of Systematic Reviews
+
+
+                             Analysis 1.11. Comparison 1 Glucosamine versus placebo, Outcome 11 Patient
+                              global assessment - number responding they are better than at start of trial.
+ Study or subgroup                          Glucosamine               Placebo                                     Risk Ratio                                Weight              Risk Ratio
+                                                  n/N                   n/N                            M-H, Fixed, 95% CI                                                   M-H, Fixed, 95% CI
+ Houpt 1999                                             28/58                 24/60                                                                              100%                  1.21[0.8,1.82]
+
+
+ Total (95% CI)                                            58                   60                                                                               100%                1.21[0.8,1.82]
+ Total events: 28 (Glucosamine), 24 (Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.9(P=0.37)
+
+                                                                   Favours placebo      0.2           0.5             1             2           5    Favours glucosamine
+
+
+
+
+                                        Analysis 1.12. Comparison 1 Glucosamine versus placebo, Outcome
+                                          12 Physician global assessment of disease status score (0-100).
+ Study or subgroup                              Glucosamine                   Placebo                                     Mean Difference                      Weight        Mean Difference
+                                            N           Mean(SD)        N        Mean(SD)                                  Fixed, 95% CI                                      Fixed, 95% CI
+ Clegg 2006                                 317         37.9 (23.3)     313      37.1 (22.5)                                                                     100%                 0.8[-2.78,4.38]
+
+
+ Total ***                                  317                         313                                                                                      100%                0.8[-2.78,4.38]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.44(P=0.66)
+
+                                                                            Favours placebo           -10            -5             0       5          10      Favours glucosamine
+
+
+
+
+                                        Analysis 1.13. Comparison 1 Glucosamine versus placebo, Outcome
+                                          13 Physician global assessment of good or excellent response.
+ Study or subgroup                          Glucosamine               Placebo                                     Risk Ratio                                Weight              Risk Ratio
+                                                  n/N                   n/N                            M-H, Fixed, 95% CI                                                   M-H, Fixed, 95% CI
+ Drovanti 1980                                          29/40                 17/40                                                                            97.14%                1.71[1.13,2.56]
+ Pujalte 1980                                           10/10                  0/10                                                                             2.86%                 21[1.4,315.98]
+
+
+ Total (95% CI)                                            50                   50                                                                               100%            2.26[1.49,3.43]
+ Total events: 39 (Glucosamine), 17 (Placebo)
+ Heterogeneity: Tau2=0; Chi2=4.41, df=1(P=0.04); I2=77.33%
+ Test for overall effect: Z=3.82(P=0)
+
+                                                                   Favours placebo            0.005     0.1           1            10   200          Favours glucosamine
+
+
+
+
+                                  Analysis 1.14. Comparison 1 Glucosamine versus placebo, Outcome 14
+                                 Osteoarthritis Research Society International Responder Criteria (OARSI).
+ Study or subgroup                          Glucosamine               Placebo                                     Risk Ratio                                Weight              Risk Ratio
+                                                  n/N                   n/N                           M-H, Random, 95% CI                                                  M-H, Random, 95% CI
+ Clegg 2006                                         192/317                 178/313                                                                            47.43%                1.07[0.93,1.21]
+ Herrero-Beaumont 2007                               42/106                  22/104                                                                            31.06%                1.87[1.21,2.91]
+ Hughes 2002                                            12/39                 13/39                                                                            21.51%                0.92[0.48,1.76]
+
+                                                                   Favours Placebo      0.1     0.2         0.5       1        2        5       10   Favours Glucosamine
+
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                                                                                            42
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                  Trusted evidence.
+                                     Informed decisions.
+           Library                   Better health.                                                                                       Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                         Glucosamine          Placebo                                Risk Ratio                             Weight                 Risk Ratio
+                                              n/N                 n/N                         M-H, Random, 95% CI                                               M-H, Random, 95% CI
+
+
+ Total (95% CI)                                      462                  456                                                                       100%              1.23[0.83,1.83]
+ Total events: 246 (Glucosamine), 213 (Placebo)
+ Heterogeneity: Tau2=0.08; Chi2=6.35, df=2(P=0.04); I2=68.53%
+ Test for overall effect: Z=1.02(P=0.31)
+
+                                                             Favours Placebo    0.1     0.2      0.5       1        2        5       10   Favours Glucosamine
+
+
+
+
+                                     Analysis 1.15. Comparison 1 Glucosamine versus placebo, Outcome
+                                         15 Toxicity (Number of Patients Reporting Adverse Events).
+ Study or subgroup                         Glucosamine          Placebo                                Risk Ratio                             Weight                 Risk Ratio
+                                              n/N                 n/N                          M-H, Fixed, 95% CI                                                M-H, Fixed, 95% CI
+ Crolle 1980                                         0/15                0/15                                                                                           Not estimable
+ D'ambrosio 1981                                     0/15                0/15                                                                                           Not estimable
+ Drovanti 1980                                       4/40                7/40                                                                      1.67%                 0.57[0.18,1.8]
+ Herrero-Beaumont 2007                            95/106             89/104                                                                       21.45%                1.05[0.95,1.16]
+ Houpt 1999                                          6/46                7/55                                                                      1.52%                1.02[0.37,2.84]
+ Hughes 2002                                        25/40               27/40                                                                      6.45%                0.93[0.67,1.28]
+ McAlindon 2004                                   18/101             14/104                                                                        3.29%                 1.32[0.7,2.52]
+ Noack 1994                                         8/126            13/126                                                                         3.1%                0.62[0.26,1.43]
+ Pavelka 2002                                     67/101             65/101                                                                       15.52%                1.03[0.84,1.26]
+ Pujalte 1980                                        0/12                1/12                                                                      0.36%                0.33[0.01,7.45]
+ Reginster 2001                                 100/106              99/106                                                                       23.63%                1.01[0.94,1.08]
+ Reichelt 1994                                       5/79                7/76                                                                       1.7%                0.69[0.23,2.07]
+ Rindone 2000                                       17/49               11/49                                                                      2.63%                1.55[0.81,2.95]
+ Rovati 1997                                        12/79               19/77                                                                      4.59%                0.62[0.32,1.18]
+ Rozendaal 2008                                   57/111             59/111                                                                       14.08%                0.97[0.75,1.24]
+ Vajaradul 1981                                      0/30                0/30                                                                                           Not estimable
+
+
+ Total (95% CI)                                     1056                1061                                                                        100%              0.99[0.91,1.07]
+ Total events: 414 (Glucosamine), 418 (Placebo)
+ Heterogeneity: Tau2=0; Chi2=9.59, df=12(P=0.65); I2=0%
+ Test for overall effect: Z=0.28(P=0.78)
+
+                                                         Favours Glucosamine          0.2      0.5         1            2        5        Favours Placebo
+
+
+
+
+                                     Analysis 1.16. Comparison 1 Glucosamine versus placebo, Outcome
+                                        16 Toxicity (Number of Withdrawals due to Adverse Events).
+ Study or subgroup                         Glucosamine          Placebo                                Risk Ratio                             Weight                 Risk Ratio
+                                              n/N                 n/N                          M-H, Fixed, 95% CI                                                M-H, Fixed, 95% CI
+ Cibere 2004                                         0/71                0/66                                                                                           Not estimable
+ Clegg 2006                                         9/317            11/313                                                                       14.34%                0.81[0.34,1.92]
+ Crolle 1980                                         0/15                0/15                                                                                           Not estimable
+ D'ambrosio 1981                                     0/15                0/15                                                                                           Not estimable
+ Drovanti 1980                                       0/40                0/40                                                                                           Not estimable
+ Herrero-Beaumont 2007                              4/106               9/104                                                                     11.77%                0.44[0.14,1.37]
+ Houpt 1999                                          0/46                0/55                                                                                           Not estimable
+
+                                                         Favours Glucosamine      0.005        0.1         1            10       200      Favours Placebo
+
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                                                                              43
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                                      Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                        Glucosamine               Placebo                           Risk Ratio                             Weight                Risk Ratio
+                                                n/N                  n/N                        M-H, Fixed, 95% CI                                           M-H, Fixed, 95% CI
+ Hughes 2002                                           0/40                  1/40                                                                 1.94%               0.33[0.01,7.95]
+ McAlindon 2004                                       1/101                 3/104                                                                 3.83%               0.34[0.04,3.25]
+ Noack 1994                                           5/126                 8/126                                                                10.37%               0.63[0.21,1.86]
+ Pavelka 2002                                         8/101               10/101                                                                 12.96%                 0.8[0.33,1.94]
+ Pujalte 1980                                          0/12                  0/12                                                                                      Not estimable
+ Reginster 2001                                   21/106                  18/106                                                                 23.32%               1.17[0.66,2.06]
+ Reichelt 1994                                         3/79                  0/76                                                                 0.66%             6.74[0.35,128.29]
+ Rindone 2000                                          2/49                  4/49                                                                 5.18%                   0.5[0.1,2.6]
+ Rovati 1997                                           0/79                  4/77                                                                  5.9%               0.11[0.01,1.98]
+ Rozendaal 2008                                       4/111                 6/111                                                                 7.77%                 0.67[0.19,2.3]
+ Usha 2004                                             0/30                  0/28                                                                                      Not estimable
+ Vajaradul 1981                                        0/30                  0/30                                                                                      Not estimable
+ Zenk 2002                                             0/14                  1/14                                                                 1.94%               0.33[0.01,7.55]
+
+
+ Total (95% CI)                                        1488                 1482                                                                   100%              0.76[0.55,1.05]
+ Total events: 57 (Glucosamine), 75 (Placebo)
+ Heterogeneity: Tau2=0; Chi2=8.36, df=11(P=0.68); I2=0%
+ Test for overall effect: Z=1.64(P=0.1)
+
+                                                           Favours Glucosamine          0.005   0.1          1          10         200   Favours Placebo
+
+
+
+
+Comparison 2. Glucosamine versus NSAIDs (piroxicam, ibuprofen, celecoxib)
+
+ Outcome or subgroup title                       No. of studies               No. of partici-            Statistical method                                 Effect size
+                                                                              pants
+
+ 1 Pain                                          4                            997                        Std. Mean Difference (IV, Random,                  -0.27 [-0.65, 0.11]
+                                                                                                         95% CI)
+
+ 2 Lequesne Index                                2                            345                        Std. Mean Difference (IV, Random,                  -0.36 [-1.07, 0.35]
+                                                                                                         95% CI)
+
+ 3 Toxicity (Number of Patients                  4                            580                        Risk Ratio (M-H, Fixed, 95% CI)                    0.29 [0.19, 0.44]
+ Reporting Adverse Events)
+
+ 4 Toxicity (Number of With-                     5                            1215                       Risk Ratio (M-H, Random, 95% CI)                   0.16 [0.02, 1.46]
+ drawals due to Adverse Events)
+
+
+
+
+      Analysis 2.1. Comparison 2 Glucosamine versus NSAIDs (piroxicam, ibuprofen, celecoxib), Outcome 1 Pain.
+ Study or subgroup                            Glucosamine                   NSAIDs                       Std. Mean Difference                    Weight     Std. Mean Difference
+                                          N           Mean(SD)        N        Mean(SD)                      Random, 95% CI                                      Random, 95% CI
+ Clegg 2006                               317              149.3      318              135.7                                                     30.58%               0.12[-0.03,0.28]
+                                                         (115.9)                     (108.3)
+ Qiu 1998                                  87           3.6 (3.1)      81           4.2 (2.8)                                                    26.75%                -0.2[-0.5,0.11]
+ Rovati 1997                               79         24.3 (19.3)      77      35.7 (22.4)                                                       26.26%             -0.54[-0.86,-0.22]
+ Vaz 1982                                  18           0.8 (0.5)      20           1.2 (0.6)                                                    16.41%             -0.71[-1.36,-0.05]
+
+
+ Total ***                                501                        496                                                                           100%             -0.27[-0.65,0.11]
+
+                                                                    Favours Glucosamine                 -1       -0.5   0    0.5     1           Favours NSAID
+
+
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                                                                             44
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                                                          Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                             Glucosamine                    NSAIDs                                 Std. Mean Difference                            Weight     Std. Mean Difference
+                                           N            Mean(SD)       N         Mean(SD)                                Random, 95% CI                                              Random, 95% CI
+ Heterogeneity: Tau2=0.12; Chi2=18.44, df=3(P=0); I2=83.73%
+ Test for overall effect: Z=1.41(P=0.16)
+
+                                                                      Favours Glucosamine                           -1       -0.5       0        0.5   1             Favours NSAID
+
+
+
+
+                                              Analysis 2.2. Comparison 2 Glucosamine versus NSAIDs
+                                           (piroxicam, ibuprofen, celecoxib), Outcome 2 Lequesne Index.
+ Study or subgroup                             Glucosamine                    NSAID                                  Std. Mean Difference                            Weight     Std. Mean Difference
+                                           N            Mean(SD)       N         Mean(SD)                                Random, 95% CI                                              Random, 95% CI
+ Muller-FassBender 94                        94           9.6 (5.8)      95           9.6 (5.8)                                                                      50.59%                  0[-0.29,0.29]
+ Rovati 1997                                 79           5.5 (2.8)      77           7.9 (3.7)                                                                      49.41%              -0.73[-1.05,-0.4]
+
+
+ Total ***                                 173                         172                                                                                            100%              -0.36[-1.07,0.35]
+ Heterogeneity: Tau2=0.24; Chi2=10.95, df=1(P=0); I2=90.87%
+ Test for overall effect: Z=0.99(P=0.32)
+
+                                                                      Favours Glucosamine            -4             -2                  0              2         4   Favours NSAID
+
+
+
+
+                            Analysis 2.3. Comparison 2 Glucosamine versus NSAIDs (piroxicam, ibuprofen,
+                            celecoxib), Outcome 3 Toxicity (Number of Patients Reporting Adverse Events).
+ Study or subgroup                         Glucosamine                NSAIDs                                      Risk Ratio                                     Weight                Risk Ratio
+                                                  n/N                  n/N                                 M-H, Fixed, 95% CI                                                    M-H, Fixed, 95% CI
+ Muller-FassBender 94                                   6/100                 35/99                                                                                  39.87%               0.17[0.07,0.39]
+ Qiu 1998                                                5/88                 14/90                                                                                  15.69%               0.37[0.14,0.97]
+ Rovati 1997                                            12/79                 36/86                                                                                  39.07%                 0.36[0.2,0.65]
+ Vaz 1982                                                2/18                  5/20                                                                                   5.37%                 0.44[0.1,2.01]
+
+
+ Total (95% CI)                                           285                  295                                                                                    100%               0.29[0.19,0.44]
+ Total events: 25 (Glucosamine), 90 (NSAIDs)
+ Heterogeneity: Tau2=0; Chi2=2.73, df=3(P=0.43); I2=0%
+ Test for overall effect: Z=5.95(P<0.0001)
+
+                                                             Favours Glucosamine        0.1    0.2          0.5          1          2             5     10   Favours NSAIDs
+
+
+
+
+                            Analysis 2.4. Comparison 2 Glucosamine versus NSAIDs (piroxicam, ibuprofen,
+                            celecoxib), Outcome 4 Toxicity (Number of Withdrawals due to Adverse Events).
+ Study or subgroup                         Glucosamine                NSAIDs                                      Risk Ratio                                     Weight                Risk Ratio
+                                                  n/N                  n/N                                M-H, Random, 95% CI                                                   M-H, Random, 95% CI
+ Clegg 2006                                             9/317                 7/318                                                                                  31.27%               1.29[0.49,3.42]
+ Muller-FassBender 94                                   1/100                  7/99                                                                                  25.66%               0.14[0.02,1.13]
+ Qiu 1998                                                0/88                  9/90                                                                                  21.44%                  0.05[0,0.91]
+ Rovati 1997                                             0/79                 18/86                                                                                  21.63%                  0.03[0,0.48]
+ Vaz 1982                                                0/18                  0/20                                                                                                        Not estimable
+
+
+                                                             Favours Glucosamine        0.01         0.1                 1                  10         100   Favours NSAIDs
+
+
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                                                                                                 45
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                  Trusted evidence.
+                                     Informed decisions.
+           Library                   Better health.                                                                                   Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                         Glucosamine              NSAIDs                              Risk Ratio                        Weight                Risk Ratio
+                                                 n/N                 n/N                           M-H, Random, 95% CI                                   M-H, Random, 95% CI
+ Total (95% CI)                                          602                 613                                                               100%              0.16[0.02,1.46]
+ Total events: 10 (Glucosamine), 41 (NSAIDs)
+ Heterogeneity: Tau2=3.75; Chi2=13.97, df=3(P=0); I2=78.52%
+ Test for overall effect: Z=1.62(P=0.11)
+
+                                                           Favours Glucosamine        0.01    0.1              1         10     100   Favours NSAIDs
+
+
+
+
+Comparison 3. Glucosamine versus placebo (adequate allocation concealment)
+
+ Outcome or subgroup title                  No. of studies               No. of partici-              Statistical method                                Effect size
+                                                                         pants
+
+ 1 Pain                                     11                           2173                         Std. Mean Difference (IV, Random,                 -0.16 [-0.36, 0.04]
+                                                                                                      95% CI)
+
+ 2 Lequesne Index                           4                            809                          Std. Mean Difference (IV, Random,                 -0.54 [-0.96, -0.12]
+                                                                                                      95% CI)
+
+ 3 Lequesne Index                           1                            252                          Risk Ratio (M-H, Fixed, 95% CI)                   1.43 [1.08, 1.91]
+
+ 4 WOMAC Pain Subscale                      10                           2017                         Std. Mean Difference (IV, Fixed, 95%              -0.06 [-0.14, 0.03]
+                                                                                                      CI)
+
+ 5 WOMAC Stiffness Subscale                 7                            1390                         Std. Mean Difference (IV, Fixed, 95%              -0.02 [-0.13, 0.08]
+                                                                                                      CI)
+
+ 6 WOMAC Function Sub-                      10                           2017                         Std. Mean Difference (IV, Fixed, 95%              -0.08 [-0.17, 0.00]
+ scale                                                                                                CI)
+
+ 7 WOMAC Total                              6                            882                          Std. Mean Difference (IV, Fixed, 95%              -0.18 [-0.31, -0.05]
+                                                                                                      CI)
+
+ 8 Minimum Joint Space                      2                            414                          Mean Difference (IV, Fixed, 95% CI)               0.32 [0.05, 0.58]
+ Width
+
+ 9 Toxicity (Number of Pa-                  9                            1640                         Risk Ratio (M-H, Fixed, 95% CI)                   0.99 [0.91, 1.07]
+ tients Reporting Adverse
+ Events)
+
+ 10 Toxicity (Number of                     12                           2435                         Risk Ratio (M-H, Fixed, 95% CI)                   0.76 [0.54, 1.07]
+ Withdrawals due to Adverse
+ Events)
+
+
+
+
+    Analysis 3.1. Comparison 3 Glucosamine versus placebo (adequate allocation concealment), Outcome 1 Pain.
+ Study or subgroup                             Glucosamine                  Placebo                        Std. Mean Difference               Weight      Std. Mean Difference
+                                           N           Mean(SD)      N          Mean(SD)                       Random, 95% CI                               Random, 95% CI
+ Cibere 2004                                71              129.7      66       129.6 (118)                                                    9.17%                 0[-0.33,0.34]
+                                                          (113.2)
+                                                                    Favours Glucosamine       -4          -2         0          2         4   Favours Placebo
+
+
+
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                                                                         46
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                                             Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                              Glucosamine                    Placebo                              Std. Mean Difference                Weight        Std. Mean Difference
+                                            N           Mean(SD)         N        Mean(SD)                              Random, 95% CI                                  Random, 95% CI
+ Clegg 2006                                 317               149.3      313      151 (113.1)                                                           11.51%              -0.01[-0.17,0.14]
+                                                            (115.9)
+ Herrero-Beaumont 2007                      106              5.1 (3)     104               6 (3)                                                        10.06%               -0.3[-0.57,-0.03]
+ Houpt 1999                                  45              7.1 (4)      53           7.7 (4.1)                                                         8.29%              -0.12[-0.52,0.27]
+ Hughes 2002                                 39            7.5 (4.8)      39           7.4 (4.4)                                                         7.66%               0.03[-0.41,0.48]
+ McAlindon 2004                             101            6.8 (3.3)     104           6.6 (4.2)                                                        10.03%               0.05[-0.22,0.33]
+ Pavelka 2002                               101            4.6 (3.5)     101             5 (3.1)                                                             10%              -0.13[-0.4,0.15]
+ Reginster 2001                             106               156.1      106              164.2                                                          10.1%              -0.08[-0.35,0.19]
+                                                            (101.9)                     (104.5)
+ Rovati 1997                                 79         24.3 (19.3)       77            50 (22)                                                          9.05%              -1.24[-1.58,-0.89]
+ Rozendaal 2008                             111         35.2 (26.8)      111       34.4 (25.6)                                                          10.18%               0.03[-0.23,0.29]
+ Zenk 2002                                   13         -74.7 (26.3)      10      -76.5 (25.1)                                                           3.96%               0.07[-0.76,0.89]
+
+
+ Total ***                                 1089                        1084                                                                              100%              -0.16[-0.36,0.04]
+ Heterogeneity: Tau2=0.08; Chi2=48.06, df=10(P<0.0001); I2=79.19%
+ Test for overall effect: Z=1.58(P=0.11)
+
+                                                                       Favours Glucosamine           -4            -2             0       2         4   Favours Placebo
+
+
+
+
+                                              Analysis 3.2. Comparison 3 Glucosamine versus placebo
+                                           (adequate allocation concealment), Outcome 2 Lequesne Index.
+ Study or subgroup                              Glucosamine                    Placebo                              Std. Mean Difference                Weight        Std. Mean Difference
+                                            N           Mean(SD)         N        Mean(SD)                              Random, 95% CI                                  Random, 95% CI
+ Herrero-Beaumont 2007                      106              8 (3.1)     104             9 (2.6)                                                        25.31%              -0.35[-0.62,-0.07]
+ Noack 1994                                 120            7.4 (5.5)     121           8.4 (4.4)                                                        25.68%                -0.2[-0.45,0.05]
+ Pavelka 2002                               101            7.3 (2.3)     101           8.1 (2.3)                                                         25.2%               -0.38[-0.66,-0.1]
+ Rovati 1997                                 79            5.5 (2.8)      77           9.7 (3.7)                                                         23.8%              -1.28[-1.62,-0.93]
+
+
+ Total ***                                  406                         403                                                                              100%             -0.54[-0.96,-0.12]
+ Heterogeneity: Tau2=0.16; Chi2=26.52, df=3(P<0.0001); I2=88.69%
+ Test for overall effect: Z=2.5(P=0.01)
+
+                                                                       Favours Glucosamine           -4            -2             0       2         4   Favours Placebo
+
+
+
+
+                                              Analysis 3.3. Comparison 3 Glucosamine versus placebo
+                                           (adequate allocation concealment), Outcome 3 Lequesne Index.
+ Study or subgroup                         Glucosamine                 Placebo                                   Risk Ratio                         Weight                 Risk Ratio
+                                                  n/N                   n/N                               M-H, Fixed, 95% CI                                           M-H, Fixed, 95% CI
+ Noack 1994                                         66/126                   46/126                                                                       100%                1.43[1.08,1.91]
+
+
+ Total (95% CI)                                           126                    126                                                                     100%               1.43[1.08,1.91]
+ Total events: 66 (Glucosamine), 46 (Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=2.49(P=0.01)
+
+                                                                   Favours placebo       0.1   0.2         0.5          1     2       5    10   Favours glucosamine
+
+
+
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                                                                                     47
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                               Cochrane Database of Systematic Reviews
+
+
+                                      Analysis 3.4. Comparison 3 Glucosamine versus placebo (adequate
+                                         allocation concealment), Outcome 4 WOMAC Pain Subscale.
+ Study or subgroup                              Glucosamine                 Placebo                    Std. Mean Difference               Weight      Std. Mean Difference
+                                            N        Mean(SD)        N         Mean(SD)                     Fixed, 95% CI                                   Fixed, 95% CI
+ Cibere 2004                                 71            129.7       66      129.6 (118)                                                  6.8%                   0[-0.33,0.34]
+                                                         (113.2)
+ Clegg 2006                                 317            149.3      313      151 (113.1)                                                 31.3%               -0.01[-0.17,0.14]
+                                                         (115.9)
+ Herrero-Beaumont 2007                      106           5.1 (3)     104               6 (3)                                             10.32%               -0.3[-0.57,-0.03]
+ Houpt 1999                                  45           7.1 (4)      53         7.7 (4.1)                                                4.83%               -0.12[-0.52,0.27]
+ Hughes 2002                                 39         7.5 (4.8)      39         7.4 (4.4)                                                3.88%                0.03[-0.41,0.48]
+ McAlindon 2004                             101         6.8 (3.3)     104         6.6 (4.2)                                               10.18%                0.05[-0.22,0.33]
+ Pavelka 2002                               101         4.6 (3.5)     101             5 (3.1)                                             10.02%                -0.13[-0.4,0.15]
+ Reginster 2001                             106            156.1      106            164.2                                                10.53%               -0.08[-0.35,0.19]
+                                                         (101.9)                   (104.5)
+ Rozendaal 2008                             111        32 (24.1)      111        32.3 (23)                                                11.03%               -0.01[-0.28,0.25]
+ Zenk 2002                                   13      -74.7 (26.3)      10      -76.5 (25.1)                                                1.12%                0.07[-0.76,0.89]
+
+
+ Total ***                                 1010                     1007                                                                   100%              -0.06[-0.14,0.03]
+ Heterogeneity: Tau2=0; Chi2=4.74, df=9(P=0.86); I2=0%
+ Test for overall effect: Z=1.26(P=0.21)
+
+                                                                    Favours Glucosamine         -4   -2           0         2         4   Favours Placebo
+
+
+
+
+                                      Analysis 3.5. Comparison 3 Glucosamine versus placebo (adequate
+                                       allocation concealment), Outcome 5 WOMAC Stiffness Subscale.
+ Study or subgroup                              Glucosamine                 Placebo                    Std. Mean Difference               Weight      Std. Mean Difference
+                                            N        Mean(SD)        N         Mean(SD)                     Fixed, 95% CI                                   Fixed, 95% CI
+ Cibere 2004                                 71      56.1 (47.5)       66        54 (49.1)                                                 9.87%                0.04[-0.29,0.38]
+ Clegg 2006                                 317      70.6 (52.2)      313      70.5 (48.8)                                                45.45%                   0[-0.15,0.16]
+ Houpt 1999                                  45         3.4 (1.8)      53         3.7 (1.8)                                                6.99%               -0.19[-0.59,0.21]
+ Hughes 2002                                 39         3.6 (2.3)      39         3.2 (1.6)                                                5.59%                0.21[-0.23,0.66]
+ Pavelka 2002                               101         1.9 (1.5)     101         2.3 (1.4)                                               14.49%                -0.22[-0.5,0.06]
+ Rozendaal 2008                             111      38.2 (25.5)      111      38.1 (23.6)                                                16.02%                   0[-0.26,0.27]
+ Zenk 2002                                   13      -59.6 (27.1)      10       -70 (20.6)                                                 1.59%                0.41[-0.43,1.24]
+
+
+ Total ***                                  697                      693                                                                   100%              -0.02[-0.13,0.08]
+ Heterogeneity: Tau2=0; Chi2=4.97, df=6(P=0.55); I2=0%
+ Test for overall effect: Z=0.39(P=0.7)
+
+                                                                    Favours Glucosamine         -1   -0.5         0         0.5       1   Favours Placebo
+
+
+
+
+                                      Analysis 3.6. Comparison 3 Glucosamine versus placebo (adequate
+                                       allocation concealment), Outcome 6 WOMAC Function Subscale.
+ Study or subgroup                              Glucosamine                 Placebo                    Std. Mean Difference               Weight      Std. Mean Difference
+                                            N        Mean(SD)        N         Mean(SD)                     Fixed, 95% CI                                   Fixed, 95% CI
+ Cibere 2004                                 71            419.9       66            418.6                                                  6.8%                   0[-0.33,0.34]
+                                                         (362.1)                   (367.4)
+ Clegg 2006                                 317            531.8      313            540.3                                                31.32%               -0.02[-0.18,0.13]
+                                                         (388.6)                   (374.1)
+                                                                    Favours Glucosamine         -1   -0.5         0         0.5       1   Favours Placebo
+
+
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                                                                       48
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                               Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                              Glucosamine                 Placebo                  Std. Mean Difference                 Weight      Std. Mean Difference
+                                            N        Mean(SD)        N         Mean(SD)                    Fixed, 95% CI                                    Fixed, 95% CI
+ Herrero-Beaumont 2007                      106      18.6 (11.4)      104      21.7 (10.9)                                                10.34%                 -0.28[-0.55,-0]
+ Houpt 1999                                  45        26 (14.7)       53      27.2 (14.1)                                                 4.84%               -0.08[-0.48,0.32]
+ Hughes 2002                                 39      26.6 (19.1)       39        23.3 (15)                                                 3.86%                0.19[-0.26,0.63]
+ McAlindon 2004                             101        25 (11.2)      104        27 (12.8)                                                10.16%               -0.17[-0.44,0.11]
+ Pavelka 2002                               101        16 (10.7)      101        18.3 (11)                                                 9.99%               -0.21[-0.48,0.07]
+ Reginster 2001                             106            580.1      106            610.8                                                10.53%               -0.08[-0.35,0.19]
+                                                         (364.2)                   (367.8)
+ Rozendaal 2008                             111      32.6 (24.2)      111      34.1 (23.5)                                                11.03%                -0.06[-0.33,0.2]
+ Zenk 2002                                   13       -73 (26.9)       10       -77 (21.1)                                                 1.12%                0.16[-0.67,0.98]
+
+
+ Total ***                                 1010                     1007                                                                   100%                  -0.08[-0.17,0]
+ Heterogeneity: Tau2=0; Chi2=5.68, df=9(P=0.77); I2=0%
+ Test for overall effect: Z=1.87(P=0.06)
+
+                                                                    Favours Glucosamine       -1   -0.5          0          0.5       1   Favours Placebo
+
+
+
+
+                                              Analysis 3.7. Comparison 3 Glucosamine versus placebo
+                                            (adequate allocation concealment), Outcome 7 WOMAC Total.
+ Study or subgroup                              Glucosamine                 Placebo                  Std. Mean Difference                 Weight      Std. Mean Difference
+                                            N        Mean(SD)        N         Mean(SD)                    Fixed, 95% CI                                    Fixed, 95% CI
+ Cibere 2004                                 71            605.6       66      602.3 (531)                                                15.63%                0.01[-0.33,0.34]
+                                                         (506.6)
+ Herrero-Beaumont 2007                      106      25.4 (15.2)      104      29.7 (14.3)                                                23.73%              -0.29[-0.56,-0.01]
+ Houpt 1999                                  45      36.6 (19.5)       53      38.6 (19.3)                                                 11.1%                  -0.1[-0.5,0.3]
+ Pavelka 2002                               101      22.7 (14.4)      101      25.6 (14.4)                                                22.95%                -0.2[-0.48,0.08]
+ Reginster 2001                             106            909.7      106          1031.8                                                 24.01%               -0.25[-0.52,0.02]
+                                                         (473.8)                   (484.8)
+ Zenk 2002                                   13      -72.2 (26.5)      10      -76.3 (21.5)                                                2.57%                0.16[-0.66,0.99]
+
+
+ Total ***                                  442                      440                                                                   100%              -0.18[-0.31,-0.05]
+ Heterogeneity: Tau2=0; Chi2=2.89, df=5(P=0.72); I2=0%
+ Test for overall effect: Z=2.68(P=0.01)
+
+                                                                    Favours Glucosamine       -1   -0.5          0          0.5       1   Favours Placebo
+
+
+
+
+                                      Analysis 3.8. Comparison 3 Glucosamine versus placebo (adequate
+                                       allocation concealment), Outcome 8 Minimum Joint Space Width.
+ Study or subgroup                              Glucosamine                 Placebo                       Mean Difference                 Weight        Mean Difference
+                                            N        Mean(SD)        N         Mean(SD)                    Fixed, 95% CI                                    Fixed, 95% CI
+ Pavelka 2002                               101         3.9 (1.5)     101         3.4 (1.6)                                               40.17%                0.49[0.07,0.91]
+ Reginster 2001                             106         3.8 (1.3)     106         3.6 (1.2)                                               59.83%                 0.2[-0.14,0.54]
+
+
+ Total ***                                  207                      207                                                                   100%                0.32[0.05,0.58]
+ Heterogeneity: Tau2=0; Chi2=1.09, df=1(P=0.3); I2=8.4%
+ Test for overall effect: Z=2.33(P=0.02)
+
+                                                                         Favours Placebo      -1   -0.5          0          0.5       1   Favours Glucosamine
+
+
+
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                                                                       49
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                  Trusted evidence.
+                                     Informed decisions.
+           Library                   Better health.                                                                                Cochrane Database of Systematic Reviews
+
+
+                            Analysis 3.9. Comparison 3 Glucosamine versus placebo (adequate allocation
+                          concealment), Outcome 9 Toxicity (Number of Patients Reporting Adverse Events).
+ Study or subgroup                         Glucosamine          Placebo                            Risk Ratio                          Weight             Risk Ratio
+                                              n/N                 n/N                       M-H, Fixed, 95% CI                                        M-H, Fixed, 95% CI
+ Herrero-Beaumont 2007                            95/106             89/104                                                                 22.9%            1.05[0.95,1.16]
+ Houpt 1999                                          6/46                7/55                                                               1.63%            1.02[0.37,2.84]
+ Hughes 2002                                        25/40               27/40                                                               6.88%            0.93[0.67,1.28]
+ McAlindon 2004                                   18/101             14/104                                                                 3.52%             1.32[0.7,2.52]
+ Noack 1994                                         8/126            13/126                                                                 3.31%            0.62[0.26,1.43]
+ Pavelka 2002                                     67/101             65/101                                                                16.57%            1.03[0.84,1.26]
+ Reginster 2001                                 100/106              99/106                                                                25.24%            1.01[0.94,1.08]
+ Rovati 1997                                        12/79               19/77                                                               4.91%            0.62[0.32,1.18]
+ Rozendaal 2008                                   57/111             59/111                                                                15.04%            0.97[0.75,1.24]
+
+
+ Total (95% CI)                                      816                  824                                                                100%          0.99[0.91,1.07]
+ Total events: 388 (Glucosamine), 392 (Placebo)
+ Heterogeneity: Tau2=0; Chi2=6.01, df=8(P=0.65); I2=0%
+ Test for overall effect: Z=0.29(P=0.77)
+
+                                                         Favours Glucosamine          0.5   0.7        1            1.5   2        Favours Placebo
+
+
+
+
+                          Analysis 3.10. Comparison 3 Glucosamine versus placebo (adequate allocation
+                        concealment), Outcome 10 Toxicity (Number of Withdrawals due to Adverse Events).
+ Study or subgroup                         Glucosamine          Placebo                            Risk Ratio                          Weight             Risk Ratio
+                                              n/N                 n/N                       M-H, Fixed, 95% CI                                        M-H, Fixed, 95% CI
+ Cibere 2004                                         0/71                0/66                                                                                Not estimable
+ Clegg 2006                                         9/317            11/313                                                                16.36%            0.81[0.34,1.92]
+ Herrero-Beaumont 2007                              4/106               9/104                                                              13.43%            0.44[0.14,1.37]
+ Houpt 1999                                          0/46                0/55                                                                                Not estimable
+ Hughes 2002                                         0/40                1/40                                                               2.22%            0.33[0.01,7.95]
+ McAlindon 2004                                     1/101               3/104                                                               4.37%            0.34[0.04,3.25]
+ Noack 1994                                         5/126               8/126                                                              11.82%            0.63[0.21,1.86]
+ Pavelka 2002                                       8/101            10/101                                                                14.78%             0.8[0.33,1.94]
+ Reginster 2001                                   21/106             18/106                                                                 26.6%            1.17[0.66,2.06]
+ Rovati 1997                                         0/79                4/77                                                               6.73%            0.11[0.01,1.98]
+ Rozendaal 2008                                     2/111               1/111                                                               1.48%             2[0.18,21.74]
+ Zenk 2002                                           0/14                1/14                                                               2.22%            0.33[0.01,7.55]
+
+
+ Total (95% CI)                                     1218                1217                                                                 100%          0.76[0.54,1.07]
+ Total events: 50 (Glucosamine), 66 (Placebo)
+ Heterogeneity: Tau2=0; Chi2=6.61, df=9(P=0.68); I2=0%
+ Test for overall effect: Z=1.56(P=0.12)
+
+                                                         Favours Glucosamine    0.1   0.2    0.5       1        2         5   10   Favours Placebo
+
+
+
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                                                                   50
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane               Trusted evidence.
+                                    Informed decisions.
+             Library                Better health.                                                                                 Cochrane Database of Systematic Reviews
+
+
+Comparison 4. Glucosamine versus placebo (Rotta preparation)
+
+ Outcome or sub-                   No. of studies               No. of partici-                 Statistical method                               Effect size
+ group title                                                    pants
+
+ 1 Pain                            8                            940                             Std. Mean Difference (IV, Random, 95%            -1.11 [-1.66, -0.57]
+                                                                                                CI)
+
+ 2 Lequesne Index                  5                            951                             Std. Mean Difference (IV, Random, 95%            -0.47 [-0.82, -0.12]
+                                                                                                CI)
+
+ 3 Lequesne Index                  2                            407                             Risk Ratio (M-H, Fixed, 95% CI)                  1.52 [1.20, 1.91]
+
+ 4 WOMAC Pain Sub-                 3                            624                             Std. Mean Difference (IV, Fixed, 95% CI)         -0.17 [-0.32, -0.01]
+ scale
+
+ 5 WOMAC Stiffness                 1                            202                             Std. Mean Difference (IV, Fixed, 95% CI)         -0.22 [-0.50, 0.06]
+ Subscale
+
+ 6 WOMAC Function                  3                            624                             Std. Mean Difference (IV, Fixed, 95% CI)         -0.19 [-0.35, -0.03]
+ Subscale
+
+ 7 WOMAC Total                     4                            626                             Std. Mean Difference (IV, Fixed, 95% CI)         -0.25 [-0.40, -0.09]
+
+
+
+
+                  Analysis 4.1. Comparison 4 Glucosamine versus placebo (Rotta preparation), Outcome 1 Pain.
+ Study or subgroup                           Glucosamine                    Placebo                       Std. Mean Difference             Weight      Std. Mean Difference
+                                         N        Mean(SD)            N        Mean(SD)                       Random, 95% CI                             Random, 95% CI
+ Crolle 1980                                 15     0.2 (0.4)          15        1.1 (0.9)                                                 11.54%             -1.28[-2.08,-0.49]
+ D'ambrosio 1981                             15     0.3 (0.1)          15        1.2 (0.2)                                                  6.53%             -5.33[-6.94,-3.71]
+ Drovanti 1980                               40       1 (0.8)          40        1.9 (0.4)                                                 13.62%              -1.4[-1.89,-0.91]
+ Herrero-Beaumont 2007                   106          5.1 (3)         104               6 (3)                                              14.76%              -0.3[-0.57,-0.03]
+ Pavelka 2002                            101        4.6 (3.5)         101             5 (3.1)                                              14.75%               -0.13[-0.4,0.15]
+ Pujalte 1980                                10     1.3 (0.3)          10        2.4 (0.8)                                                  9.57%             -1.81[-2.89,-0.74]
+ Reginster 2001                          106           156.1          106           164.2                                                  14.77%              -0.08[-0.35,0.19]
+                                                     (101.9)                      (104.5)
+ Rovati 1997                                 79   24.3 (19.3)          77         50 (22)                                                  14.45%             -1.24[-1.58,-0.89]
+
+
+ Total ***                               472                          468                                                                   100%             -1.11[-1.66,-0.57]
+ Heterogeneity: Tau2=0.5; Chi2=92.89, df=7(P<0.0001); I2=92.46%
+ Test for overall effect: Z=4.01(P<0.0001)
+
+                                                                  Favours Glucosamine           -4       -2         0          2       4   Favours Placebo
+
+
+
+
+       Analysis 4.2. Comparison 4 Glucosamine versus placebo (Rotta preparation), Outcome 2 Lequesne Index.
+ Study or subgroup                           Glucosamine                    Placebo                       Std. Mean Difference             Weight      Std. Mean Difference
+                                         N        Mean(SD)            N        Mean(SD)                       Random, 95% CI                             Random, 95% CI
+ Herrero-Beaumont 2007                   106          8 (3.1)         104             9 (2.6)                                              20.46%             -0.35[-0.62,-0.07]
+ Noack 1994                              120        7.4 (5.5)         121        8.4 (4.4)                                                 20.81%               -0.2[-0.45,0.05]
+ Pavelka 2002                            101        7.3 (2.3)         101        8.1 (2.3)                                                 20.35%              -0.38[-0.66,-0.1]
+ Reichelt 1994                               73     6.8 (6.9)          69        8.3 (8.3)                                                 19.34%               -0.2[-0.53,0.13]
+
+                                                                  Favours Glucosamine           -4       -2         0          2       4   Favours Placebo
+
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                                                                      51
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                  Trusted evidence.
+                                       Informed decisions.
+             Library                   Better health.                                                                                           Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                             Glucosamine                   Placebo                              Std. Mean Difference                  Weight        Std. Mean Difference
+                                           N           Mean(SD)        N        Mean(SD)                               Random, 95% CI                                   Random, 95% CI
+ Rovati 1997                                79           5.5 (2.8)      77           9.7 (3.7)                                                          19.03%              -1.28[-1.62,-0.93]
+
+
+ Total ***                                 479                         472                                                                               100%              -0.47[-0.82,-0.12]
+ Heterogeneity: Tau2=0.14; Chi2=28.67, df=4(P<0.0001); I2=86.05%
+ Test for overall effect: Z=2.63(P=0.01)
+
+                                                                     Favours Glucosamine           -4            -2              0        2         4   Favours Placebo
+
+
+
+
+        Analysis 4.3. Comparison 4 Glucosamine versus placebo (Rotta preparation), Outcome 3 Lequesne Index.
+ Study or subgroup                         Glucosamine               Placebo                                   Risk Ratio                           Weight                 Risk Ratio
+                                                 n/N                   n/N                              M-H, Fixed, 95% CI                                             M-H, Fixed, 95% CI
+ Noack 1994                                        66/126                  46/126                                                                       66.24%                1.43[1.08,1.91]
+ Reichelt 1994                                         40/79                 23/76                                                                      33.76%                1.67[1.12,2.51]
+
+
+ Total (95% CI)                                          205                   202                                                                       100%                 1.52[1.2,1.91]
+ Total events: 106 (Glucosamine), 69 (Placebo)
+ Heterogeneity: Tau2=0; Chi2=0.37, df=1(P=0.54); I2=0%
+ Test for overall effect: Z=3.5(P=0)
+
+                                                                  Favours placebo      0.1   0.2         0.5          1      2        5    10   Favours glucosamine
+
+
+
+
+   Analysis 4.4. Comparison 4 Glucosamine versus placebo (Rotta preparation), Outcome 4 WOMAC Pain Subscale.
+ Study or subgroup                             Glucosamine                   Placebo                              Std. Mean Difference                  Weight        Std. Mean Difference
+                                           N           Mean(SD)        N        Mean(SD)                                  Fixed, 95% CI                                   Fixed, 95% CI
+ Herrero-Beaumont 2007                     106             5.1 (3)     104               6 (3)                                                          33.43%               -0.3[-0.57,-0.03]
+ Pavelka 2002                              101           4.6 (3.5)     101             5 (3.1)                                                          32.46%                -0.13[-0.4,0.15]
+ Reginster 2001                            106              156.1      106              164.2                                                           34.11%               -0.08[-0.35,0.19]
+                                                          (101.9)                     (104.5)
+
+
+ Total ***                                 313                         311                                                                               100%              -0.17[-0.32,-0.01]
+ Heterogeneity: Tau2=0; Chi2=1.38, df=2(P=0.5); I2=0%
+ Test for overall effect: Z=2.09(P=0.04)
+
+                                                                     Favours Glucosamine           -4            -2              0        2         4   Favours Placebo
+
+
+
+
+Analysis 4.5. Comparison 4 Glucosamine versus placebo (Rotta preparation), Outcome 5 WOMAC Stiffness Subscale.
+ Study or subgroup                             Glucosamine                   Placebo                              Std. Mean Difference                  Weight        Std. Mean Difference
+                                           N           Mean(SD)        N        Mean(SD)                                  Fixed, 95% CI                                   Fixed, 95% CI
+ Pavelka 2002                              101           1.9 (1.5)     101           2.3 (1.4)                                                            100%                -0.22[-0.5,0.06]
+
+
+ Total ***                                 101                         101                                                                               100%                -0.22[-0.5,0.06]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.55(P=0.12)
+
+                                                                     Favours Glucosamine           -1           -0.5             0        0.5       1   Favours Placebo
+
+
+
+
+Glucosamine therapy for treating osteoarthritis (Review)                                                                                                                                     52
+Copyright © 2009 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+

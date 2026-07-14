@@ -1,0 +1,928 @@
+        REVIEW ARTICLE
+
+   Safety and Efficacy of Turmeric (Curcuma longa)
+        Extract and Curcumin Supplements in
+         Musculoskeletal Health: A Systematic
+              Review and Meta-Analysis
+  Lynda Doyle, MBA, MS; Prabakaran Desomayanandam, MPharm, PhD; Arun Bhuvanendran, MPharm;
+  Shefali Thanawala, BAMS; Rajat Shah, MBA; Venkateswarlu Somepalli, PhD; Surendra Bachu, MPharm
+
+ ABSTRACT
+ Context • Turmeric is a well-known herb that has been         health. Statistical heterogeneity was established based on
+ used in many traditional medicinal systems since ancient      the results of heterogeneity analysis of a Chi-square (χ2)
+ times. Turmeric roots contain hydrophobic polyphenols         value for Cochran’s Q statistic of 29.3765 for
+ called curcuminoids, which have proven anti-inflammatory      musculoskeletal and 3666.80 for joint health studies
+ and antioxidant effects and are shown to be beneficial for    (P < .0001 for both analyses). Therefore, the random effects
+ the management of musculoskeletal health. Various             model was used. The χ2 value of the random effects model
+ products containing curcumin or turmeric extract are          was 216.5545 for skeletal muscle health studies and
+ commercially available.                                       1400.65 for joint health studies, which was statistically
+ Objective • This systematic review and meta-analysis of       significant with P < .0001 for both analyses.
+ randomized clinical trials (RCTs) is intended to evaluate     Conclusions • Turmeric extract and curcumin
+ the effective dose, safety, and efficacy of commercial        supplements can be effective adjuvants for the management
+ turmeric extract and curcumin supplements in                  of musculoskeletal health, with a low incidence of AEs.
+ musculoskeletal health.                                       The water-dispersible turmeric extract, WDTE60N, at a
+ Design • The research team performed a systematic             dose of 250 mg per day, was found to be more effective
+ literature search of PubMed, Google Scholar, and              than other curcumin products. However, the studies
+ Cochrane Library databases and conducted a meta-              included in the analysis were conducted using diverse
+ analysis according to PRISMA guidelines.                      doses and treatment durations. Further evaluation using
+ Setting • Authors from India and USA contributed to this      comparisons in future clinical trials can establish the
+ systematic review and meta-analysis.                          appropriate effective dose of curcumin supplements for
+ Results • The research team analyzed 21 prospective,          the overall maintenance of musculoskeletal health. (Altern
+ randomized clinical studies, of which seven studies were      Ther Health Med. 2023;29(6):12-24).
+ focused on skeletal muscle health and fourteen on joint
+
+
+Lynda Doyle, MS Human Nutrition, MBA, President &
+CEO, Avant Nutrition, Amenia, NY, USA. MS Human                Corresponding author: Shefali Thanawala, BAMS
+Nutrition, MBA International Business & Marketing.             E-mail: shefali@nutriventia.com
+Prabakaran Desomayanandam, MPharm, PhD, Sr. Vice
+President, Technical Operations, and Arun Bhuvanendran,
+MPharm, Sr. Manager, Data Analytics & Scientific Writing, In        Botanicals and herbs have been used throughout human
+vitro Research Solutions (iVRS), Bengaluru, Karnataka,         history for consumption as delicacies, and more important,
+India. Shefali Thanawala, Bachelor of Ayurvedic Medicine &     for their health benefits, owing to their biological or
+Surgery (BAMS), Bombay University, General Manager -           pharmacological applications.1 Many of these herbs and
+Medical Affairs, and Rajat Shah, MBA, Marketing, Strategy &    botanicals have been extensively studied, with increasing
+Entrepreneurship, USA, Director, Executive Management ,        evidence of their therapeutic applications and health benefits,
+Nutriventia Limited Mumbai, Maharashtra, India.                and they are considered valuable ingredients in the
+Venkateswarlu Somepalli, PhD, Head, Drug Discovery, and        nutraceutical sector.
+Surendra Bachu, MPharm, Pharmaceutical Analysis, Head,              The term nutraceuticals refers to specialized foods or
+Bioanalytical Department, Laila Nutraceuticals, Vijayawada,    food-derived products that provide health and medical
+Andhra Pradesh, India.                                         benefits, including the prevention and treatment of diseases,
+
+12 ALTERNATIVE THERAPIES, SEPTEMBER 2023 VOL. 29 NO. 6                                Doyle—Safety and Efficacy of Turmeric Extract
+without major adverse effects (AEs).2,3 Turmeric or Curcuma           The first-line management of musculoskeletal health
+longa is a nutraceutical, a natural herbal ingredient with       conditions includes analgesics, such as paracetamol and
+medicinal properties1 that provides multiple health benefits.    nonsteroidal anti-inflammatory drugs (NSAIDs). However,
+     Curcuma longa is a rhizomatous, herbaceous, perennial       these drugs have low and transient analgesic effects, and
+herb belonging to the ginger family and has a broad variety      several studies have observed AEs, especially in senior
+of biological properties, such as antioxidant, anti-             patients with pre-existing comorbidities. In particular, the
+inflammatory, antimutagenic, antimicrobial, and anticancer       safety of NSAIDs remains a concern when selecting a dose
+properties.4,5 These properties belong to the bioactive          regimen for patients.11
+principles in the rhizomes, the hydrophobic polyphenols               The long-term use of NSAIDs can cause gastrointestinal
+called curcuminoids, which comprise curcumin,                    disorders, such as dyspepsia, ulcers, bleeding, and perforation
+demethoxycurcumin, and bisdemethoxycurcumin,6 of which           as well as cardiovascular, and kidney problems.14 These
+curcumin—1,7-bis(4-hydroxy-3-methoxyphenyl)-1,6-                 factors contribute to the increased need for alternative
+heptadiene-3,5-dione—is the major natural polyphenol.            options for managing musculoskeletal conditions, such as
+     Curcuminoids, commonly called curcumin, have been           dietary supplements and natural products.4
+shown to exhibit a broad spectrum of pharmacological                  Curcumin is one such option that has shown the
+actions proven in several in-vitro and in-vivo studies as well   potential for improving musculoskeletal health due to its
+as in clinical trials.6 Curcumin has also been recognized as     anti-inflammatory action, as observed in many in-vitro and
+safe by the US Food and Drug Administration (FDA).7              in-vivo studies as well as in clinical trials. Curcumin has
+     The musculoskeletal system relates to an individual’s       demonstrated efficacy in reducing the impact of DOMS, as
+mobility and dexterity. It comprises muscles, bones, joints,     suggested by its effects on pain intensity and muscle injury,13
+and adjacent connective tissue. It plays a major role in         and its anti-arthritic effects, include inhibition of joint
+mobility and is important in maintaining an active,              inflammation and periarticular joint destruction.1
+productive, and prolonged working life.8 Common
+musculoskeletal conditions that often hamper the body’s          Mechanism of Action
+mobility include osteoarthritis (OA), rheumatoid arthritis            Curcumin is a pleiotropic molecule that has multiple
+(RA), lower back pain (LBP), and osteoporosis (OP)9,10 as        mechanisms of action. It inhibits mRNA expression of
+well as acute conditions, such as delayed onset muscle           inflammatory mediators, including interleukin-1β (IL-1β),
+soreness (DOMS).                                                 tumor necrosis factor-α (TNF-α), and matrix
+     DOMS is a constellation of muscular pain and stiffness      metalloproteinases (MMPs), which play an important role in
+that occurs in healthy individuals several hours after           musculoskeletal disorders through various pathways.5
+undergoing unaccustomed exercise. It is caused by eccentric           Curcumin alters enzyme activities, growth factor
+muscle activity associated with inflammatory responses and       receptors, co-factors, and other molecules,15 including
+the production of reactive oxygen species (ROS) that cause       protecting IL-1β-induced apoptotic chondrocytes, decreasing
+inflammation and oxidative stress.9-11                           the early degenerative changes of articular cartilage, and
+     Musculoskeletal disorders cause the highest global          inhibiting cytoplasmic phospholipase A2 (cPLA2),
+burden on individuals, health, and social-care systems.          cyclooxygenase 2 (COX-2), and 5-lipoxygenase (5-LOX)
+According to the Global Burden of Disease (GBD) Study, as        pathways.16
+of 2019, 1.71 billion cases of musculoskeletal disorders have         Curcumin helps reduce muscle pain and muscle damage,
+been reported globally.12 Lower back pain was the most           as evidenced by the reduction in lactate dehydrogenase
+prevalent (36.8%), followed by other musculoskeletal             (LDH) levels and ensures faster muscle recovery. It exerts an
+disorders (21.5%), OA (19.3%), neck pain (18.4%), gout           anti-inflammatory effect by modulating pro-inflammatory
+(2.6%), and RA (1.3%).11                                         cytokines, such as TNF-α, IL-6, and IL-8, and exerts an
+     According to the World Health Organization (WHO)            antioxidant effect.17
+statement in July 2022, musculoskeletal conditions, along
+with increasing the risk in non-communicable diseases, are       Current Review and Meta-analysis
+also the highest contributor to the global need for                   This systematic review and meta-analysis of randomized
+rehabilitation, which accounts for approximately two-thirds      clinical trials (RCTs) is intended to evaluate the effective
+of all adults in need of rehabilitation. Individuals with        dose, safety, and efficacy of commercial turmeric extract and
+musculoskeletal conditions are also at a higher risk of          curcumin supplements in musculoskeletal health.
+developing mental health issues.12
+     According to a systematic analysis of the Global Burden     METHODS
+of Disease Study, as of 2015, musculoskeletal disorders were     Procedures
+a leading cause of disability worldwide and a long-term              The data for this meta-analysis were reviewed and
+burden from the sequelae of fractures and dislocations.13        analyzed by the authors from India and the USA.
+Considering these data, effective management of                      Search strategy and selection criteria. The research
+musculoskeletal diseases is important.14                         team performed the systematic review by searching PubMed,
+
+
+Doyle—Safety and Efficacy of Turmeric Extract                    ALTERNATIVE THERAPIES, SEPTEMBER 2023 VOL. 29 NO. 6 13
+Google Scholar, and Cochrane Library databases and                  Figure 1.Flowchart of the literature search and selection
+conducted a meta-analysis according to PRISMA guidelines.18
+     The review and meta-analysis included studies if they: (1)
+were prospective RCTs; (2) evaluated the safety, efficacy, and
+effective dose of curcumin for musculoskeletal health; and (3)
+recruited participants older than 18 years of age who were
+either healthy or had reported musculoskeletal disorders.
+     The review and meta-analysis excluded studies if they
+used no musculoskeletal health indications, or if they used a
+study design other than RCT.
+     As search terms, the electronic searches used medical
+subject headings (MeSH) terms and the corresponding
+keywords. The search terms used were (MeSH “Curcuma,”
+“Curcumin” and keywords “curcuma,” “turmeric,” “turmeric
+extract,” “curcumin,” “curcuminoid”), and (MeSH “Arthritis,”
+“Osteoarthritis,” “knee osteoarthritis,” “rheumatoid arthritis”          The IL-6 levels were significantly higher at one hour
+and the keywords were “arthritis,” “osteoarthritis,”                (P < .05), 24 h (P < .01), and 72 h (P < .05) postexercise in the
+“musculoskeletal disorders,” “DOMS,” “muscle soreness”).            curcumin group than in the placebo group. No significant
+     Additionally, the research team manually checked the           differences were observed between the groups for CK, LDH,
+bibliographies of the identified articles, including relevant       Mb, HS-CRP, or TNF-α levels at any time point.
+systematic reviews and meta-analyses, to identify additional             Thanawala et al.20 These researchers conducted a
+eligible studies.                                                   randomized, double-blind, placebo-controlled, parallel-
+                                                                    group study to evaluate the efficacy, safety, and tolerability of
+Search                                                              a commercial supplement, a Natural, Water-Dispersible
+     The research team identified 1540 records through Google       Turmeric Extract (WDTE60N) TurmXTRA 60N, on DOMS
+Scholar, followed by 370 from PubMed and 73 from Cochrane           in comparison with a placebo for 30 recreationally active,
+database. Forty-two records were included after removing            healthy participants. Participants were randomly assigned to
+duplicates, of which 23 were excluded because they didn’t meet      receive a 250-mg capsule, containing 150 mg of curcuminoids
+the required criteria. Ultimately, 19 prospective RCTs were         or a placebo, once daily for 33 days, with a pre-exercise
+included in this systematic review and meta-analysis (Figure 1).    period of 29 days and a postexercise period of 4 days.
+     Of those 19 prospective RCTs that evaluated the efficacy            Pain intensity was assessed using a VAS scale and measured
+and safety of curcumin, seven studies were related to skeletal      before and immediately after exercise and at 12, 24, 48, 72, and 96
+muscle health and 12 studies were related to joint conditions.      h after eccentric exercise. Participants’ well-being was assessed
+                                                                    using the adapted version of the Hooper and MacKinnon
+Muscle Health: Systematic Review                                    questionnaire at the same time points.21 The muscle-damage
+     Table 1 shows the characteristics of the included studies.     markers serum CK and serum LDH were measured at baseline
+     Mallard et al.19 These researchers conducted a                 and at 24, 48, 72, and 96 h after eccentric exercise.
+randomized, double-blind, placebo-controlled study over                  The turmeric extract group reported significantly less
+three days to assess the effects of a commercial, cold-water-       pain after eccentric exercise compared to the placebo group,
+dispersible curcumin, HydroCurc, on exercise recovery when          based on the VAS score at the 12-hour time point. For all of
+consumed as a drink by recreationally trained, healthy males.       the adapted Hooper and MacKinnon questionnaire’s
+The study included 28 healthy males with strength-training          subdomains—fatigue, mood, general muscle soreness, sleep
+experience. Participants received a single dose of 1000 mg of       quality, and stress, the turmeric extract group demonstrated
+powder containing 500 mg of HydroCurc, which contains               significantly greater improvement postexercise including
+427 mg of curcuminoids, or a matched placebo drink. The             overall well-being, compared to the placebo group.
+supplement was dispersed in 250 ml of water, pre-exercise                A decrease in serum CK levels and significantly lower
+and at 24 hours and 48 hours postexercise.                          serum LDH levels were also observed in the turmeric extract
+     Pain was evaluated using a visual analog scale (VAS), as was   group compared to the placebo group. The study showed that
+thigh circumference (TC), lactates, creatine kinase (CK), LDH,      an intake of a water dispersible turmeric extract before and
+high-sensitivity C-reactive protein (HS-CRP), myoglobin (Mb),       after eccentric exercise could significantly reduce subjective
+IL-6, IL-10, and TNF-α levels. At 48-h and 72-h postexercise,       perceptions of pain and muscle soreness as well as serum
+higher muscle pain was reported in the placebo group than in        LDH activity, and the extract also significantly improved
+the curcumin group, which suggests that the curcumin treatment      sleep quality and psychological well-being in recreationally
+might provide a quicker return to exercise training than the        active participants compared to placebo.
+placebo, by reducing postexercise pain, modulating inflammatory          Jäger et al.22 These researchers conducted a randomized,
+pathways, and reducing lactate accumulation.                        double-blind, placebo-controlled study to examine the effects
+
+14 ALTERNATIVE THERAPIES, SEPTEMBER 2023 VOL. 29 NO. 6                                      Doyle—Safety and Efficacy of Turmeric Extract
+Table 1. Safety and Efficacy of Monotherapy With Turmeric Extracts and Curcumin Supplements in Exercise-related Skeletal-
+muscle Health. None of the studies reported an adverse event.
+
+                                                                        Curcuminoids/
+                                                                        Curcumin
+Study          Sample Size           Age, y    Treatment                Administered Daily Indication   Duration   Scale             Mean ± SD                             Efficacy
+Mallard et al, Intervention group    18-35     Single daily dose of     427 mg of          Muscle       3 days     VAS               VAS scores not        • Curcumin supplementation
+202019
+               (n=13)                          1000 mg of powder        curcuminoids       soreness and                              provided in the         significantly reduced DOMS pain at
+                                               containing 500 mg of                        postexercise                              publication             48 and 72 h postexercise compared to
+                Placebo group                  cold-water dispersible                      lactate                                                           the placebo group.
+                (n =14)                        curcumin in 250 ml of                       accumulation                                                    • Curcumin helped in reducing
+                                               water                                                                                                         postexercise pain, modulating
+                                                                                                                                                             inflammatory pathways, and reducing
+                                                                                                                                                             lactate accumulation in an exercising
+                                                                                                                                                             population.
+Thanawala et    Intervention group   18-35     250 mg of natural,       150 mg             DOMS          33 days   VAS (hrs)         Intervention (hrs):   • In intervention group, lower pain was
+al, 202220      (n=15)                         water-dispersible        curcuminoids                               Intervention:     12 4.0 ± 0.7            evident within 12 hours of eccentric
+                                               turmeric extract in                                                 12, 24, 48, 72,   24: 5.0 ± 0.8           exercise, thus indicating faster
+                Placebo group                  capsule, once daily                                                 96,               48: 3.3 ± 0.7           recovery.
+                (n =15)                                                                                                              72: 1.9 ± 0.7         • Significantly reduced muscle soreness
+                                                                                                                   Placebo: 12,      96: 0.7 ± 0.5           postintervention
+                                                                                                                   24, 48, 72, 96
+                                                                                                                                     Placebo (hrs):
+                                                                                                                                     12: 4.5 ± 0.6
+                                                                                                                                     24: 5.9 ± 0.5
+                                                                                                                                     48: 5.5 ± 0.6
+                                                                                                                                     72: 4.5 ± 0.6
+                                                                                                                                     96: 3.3 ± 0.5
+Jager et al,    Intervention LD      19-29     LD: 250 mg daily of      LD: 50 mg of       Muscle-       56 days   VAS               VAS scores not        • In 50-mg curcuminoids group,
+201921          group (n=20)                   curcumin,                curcuminoids       damaging                                  provided in the         observed decreases in peak extension
+                Intervention HD                HD: 1000 mg daily of                        exercise                                  publication.            torque values occurred at one and 24 h
+                group (n=22)                   curcumin                 HD: 200 mg of                                                                        after muscle-damaging exercise.
+                Placebo group                                           curcuminoids                                                                       • In 200-mg curcuminoids group,
+                (n=21)                                                                                                                                       attenuated reductions occurred in
+                                                                                                                                                             some but not all participants.
+Tanabe et al,   Intervention PRE     _         90 mg twice daily of     64.8 mg of         Exercise-     4 days    VAS               VAS scores not        • Muscle soreness was lower at 3 days
+201922          group (n=8)                    surface-controlled       curcuminoids.      induced                                   provided in the         after exercise.
+                                               water-dispersible                           muscle                                    publication.          • Curcumin ingestion after exercise had
+                Test POST group                curcumin, for 180 mg/                       soreness                                                          a more beneficial effect in attenuating
+                (n= 8)                         day                                                                                                           muscle soreness.
+
+               Placebo group (n=8)
+Amalraj et al, Intervention group  ≥20         500 mg once daily of    250 mg of           DOMS,         4 days    VAS               Intervention          • After 4 days, the curcumin
+202024         (n=15)                          turmeric matrix         curcuminoids        induced by                                Screening:              formulation improved recovery and
+                                               formulated in a capsule                     eccentric                                 2.90 ± 0.39             reduction of DOMS, without any side
+                Placebo group                                                              continuous                                Visit:                  effects.
+                (n=15)                                                                     exercise                                  5: 1.17 ± 0.52
+
+                                                                                                                                     Placebo
+                                                                                                                                     Screening:
+                                                                                                                                     2.70 ± 0.46
+                                                                                                                                     Visit 5:
+                                                                                                                                     2.37 ± 0.48
+ Drobnic et     Intervention group   _         1000 mg of curcumin- 400 mg of curcumin     DOMS          4 days    Pain intensity    Intervention:         • After 4 days, curcumin was effective in
+al, 201410      (n=9)                          phosphatidylcholine                                                 point scale       23.3 ± 7.9 (17.2;       preventing DOMS by reducing pain
+                                               complex twice daily, for                                            (0-4)             29.4)                   intensity and muscle injury.
+                Placebo group                  2000 mg/day
+                (n=10)                                                                                                             Placebo: 30.6 ± 7.9
+                                                                                                                                   (24.9;36.2)
+Wang et al,     Intervention group   21 (avg   1500 mg daily of NCE     230.9 mg of        Injury risk   28 days   No pain assess- _                   • After 28 days of supplementation,
+201926          (n=6)                age)      extract                  curcumin           on drop                 ment endpoint                         NCE was effective, providing a
+                                                                                           jumps                                                         variety of benefits for athletes.
+                Placebo group
+                (n=6)
+
+Abbreviations: DOMS, delayed-onset muscle soreness; HD, high dose; LD, low dose; NCE, Nanobubbles water curcumin
+extract; VAS, Visual analogue scale.
+
+of a commercial curcumin supplement, CurcuWIN. The                                                      Nonsignificant improvements in total soreness were
+study examined the effects of a low dose of 250 mg test                                            observed in the 1000-mg group. When compared to the
+product, containing 50 mg curcuminoids, and of a high dose                                         placebo group, that group showed attenuated reductions for
+of 1000 mg test product, containing 200 mg of curcuminoids,                                        some, but not all, outcome measures for performance and
+on blood flow, exercise performance, and muscle damage in                                          soreness after completion of a downhill running bout.
+physically active individuals.                                                                     Additionally, the 250-mg dose didn’t offer any advantage over
+     The 63 eligible participants, divided into 3 groups, were                                     the changes observed in the placebo and 1000-mg groups.
+randomly assigned to ingest a low dose or a high dose of the                                            Tanabe et al.23 These researchers performed a
+supplement or a placebo daily for 8 weeks. Muscle function,                                        randomized, single-blind, parallel study to determine the
+as measured using isokinetic dynamometry, and perceived                                            effects before and after exercise of a commercial, surface-
+soreness were assessed at baseline and at one, 24, 48, and 72                                      controlled water-dispersible curcumin, Theracurmin, on the
+hours after a downhill run.                                                                        changes in muscle-damage markers after eccentric exercise.
+
+
+Doyle—Safety and Efficacy of Turmeric Extract                                                    ALTERNATIVE THERAPIES, SEPTEMBER 2023 VOL. 29 NO. 6 15
+The 24 participants were randomly assigned to one of three         in the levels of the muscle-damage markers CK, HS-CRP, and
+groups. The two intervention groups received 90 mg twice           monocyte chemoattractant protein-1 (MCP-1) in either group
+daily, or 180 mg/d, of the test product, containing 32.4 mg        postintervention, except IL-8, which was significantly lower in
+curcuminoids: (1) the PRE group, for 7 days before exercise,       the curcumin group only at 2 h after exercise. No differences in
+and (2) the POST group, for 4 days after exercise. The CON         oxidative stress markers or muscle histology were observed.
+group received a placebo for 4 days after exercise.                     Wang et al.25 These researchers conducted a study to
+     The maximal voluntary contraction (MVC) torque of the         evaluate the effects of nanobubbles water curcumin extract
+elbow flexors, elbow joint range of motion (ROM), muscle           (NCE) on reducing the risk of musculoskeletal injury in 12
+soreness, and serum creatine kinase (CK) activity were measured    female participants. Participants were randomly assigned to
+at baseline, immediately after, and at 1, 2, 3, and 4 days after   receive either 1500 mg of NCE, containing 230.9 mg
+exercise. In the POST group, ROM was higher at 3-4 days and        curcumin, or a placebo daily for 4 weeks. Postintervention,
+muscle soreness was lower at 3 days after exercise than in the     the muscle-strength indices, contact time, significantly
+CON group (P < .05). However, in the PRE group, no significant     increased for the 100% drop jumps.
+differences existed in ROM and muscle soreness compared to              The levels of the muscle-damage marker CK weren’t
+those in the CON group after exercise. Additionally, no            significantly different between the placebo and NCE groups.
+significant differences existed between the groups in terms of     Postintervention, the NCE supplementation had decreased
+changes in MVC torque or serum CK activity.                        the peak vertical ground reaction force (PVGRF) during
+     Amalraj et al.24 These researchers conducted a                drop jumps, which might help reduce the risk of injury for
+randomized, placebo-controlled, double-blind clinical study        drop jumps.
+to test the efficacy of a commercial, complete natural turmeric
+matrix formulation, Cureit, in decreasing damage from              Muscle Health: Meta-analysis
+oxidative stress and inflammation related to severe muscle              For participants aged 18-35 years, who were treated with
+damage induced by eccentric continuous exercise. The 30            monotherapy using turmeric extracts and curcumin
+participants were randomly assigned to one of two treatment        supplements, pain intensity was assessed using a VAS or a pain
+groups and took either a 500 mg capsule of the test product,       intensity point scale. Curcumin was effective and well-tolerated
+containing 250 mg of curcuminoids, or a placebo for 4 days.        in reducing pain intensity. The water dispersible turmeric
+     Pain reduction was assessed using a VAS. No significant       extract demonstrated significant reductions in pain intensity
+reduction in the VAS scores for pain occurred between              within 12 h postexercise, compared to other turmeric extract
+baseline and postintervention for the participants treated         and curcumin supplements. Thus, the water dispersible
+with curcumin, and no significant differences were observed        turmeric extract proved to be more effective and safer than
+in the placebo group. The oral consumption of curcumin             other turmeric extracts and curcumin supplements for the
+significantly reduced DOMS and caused a nonsignificant             management of exercise-related skeletal muscle health.
+reduction in CK concentrations and a slight increase in the
+VO2 max value as compared with the placebo.                        Statistical Analysis
+     Drobnic et al.10 These researchers performed a                     The research team analyzed the data in the meta-analysis
+randomized, placebo-controlled, single-blinded, pilot study        using NCSS 2021 statistical software (Utah, USA). The Odds
+to examine whether a commercial, curcumin-                         Ratio (OR) or Mean Difference (MD) and the 95% Confidence
+phosphatidylcholine complex, Meriva, could attenuate               Intervals (CIs) were used as the efficacy and safety statistics.
+damage from oxidative stress and inflammation related to           The Chi-square (χ2) test was used to evaluate the heterogeneity
+acute muscle injury induced by eccentric continuous exercise.      in the literature. If the studies weren’t heterogeneous, they
+The 20 male participants were randomly assigned to receive         were analyzed using a fixed-effects model; if they were
+either 1000 mg of the test product, containing 200 mg of           heterogeneous, a random-effects model was used.
+curcumin, or a matching placebo, both twice daily.                      Two RCTs that studied DOMS and that used supplements
+     Supplementation was initiated at 48 h prior to the test       that were either a water dispersible turmeric extract or a
+and continued for 24 h after exercise. Muscle damage was           turmeric matrix formulation, had used VAS to evaluate pain
+quantified by magnetic resonance imaging (MRI), laboratory         as an efficacy parameter and were included in the analysis.
+tests, and histological analyses of muscle samples obtained at
+48 h after the exercise. Pain intensity was recorded using a       Results
+pain-intensity scale (0-4). Participants in the curcumin                The heterogeneity analysis found an χ2 value for
+group reported less pain in the lower limbs than those in the      Cochran’s Q statistic of 29.3765 and P < .0001, which showed
+placebo group, and the results were significant only for the       that statistical heterogeneity existed between the two studies;
+right and left anterior thighs out of the three compartments       therefore, the random effects model was used. The χ2 value of
+evaluated—anterior, posterior, and medial.                         the random effects model was 216.5545 with P < .0001, which
+     Significantly fewer participants in the curcumin group had    was statistically significant. Table 2 shows that the difference
+MRI evidence of muscle injury in the posterior or medial           between the intervention and control groups was significant
+compartments of either thigh. No significant differences existed   [SMD -1.9 (-3.27; -0.53), P < .00001.
+
+16 ALTERNATIVE THERAPIES, SEPTEMBER 2023 VOL. 29 NO. 6                                    Doyle—Safety and Efficacy of Turmeric Extract
+Table 2. Efficacy of Turmeric Extracts and Curcumin                                                           In addition, when comparing the efficacy between the
+Supplements in Exercise-related Skeletal Muscles Health                                                  water dispersible turmeric extract and the turmeric matrix
+Using Random Effect Model                                                                                formulation using VAS for pain as an efficacy parameter, the
+                                                                                                         meta-analysis showed a statistically significant difference
+                                                   Mean     Standard                       Weightage     between the two groups [SMD -0.47 (-0.85; -0.09], P = .0116].
+Product Comparison                               Difference   Error          95% CI           %
+Intervention vs Comparator                                                                                    The differences between the water dispersible turmeric
+Amalraj et al24: turmeric matrix formulation        -1.2           0.18   [-1.57, -0.83]     50.00       extract and the placebo and between the turmeric matrix
+and placebo
+Thanawala et al27: water dispersible turmeric       -2.6           0.18   [-2.97, -2.23]     50.00
+                                                                                                         formulation and the placebo were statistically significant,
+extract and placebo                                                                                      with [SMD -1.2 (-1.5743, -0.8252), P < .00001] and [SMD -2.6
+Combined
+Average                                             -1.9           0.7    [-3.27, -0.53]
+                                                                                                         (-2.974, -2.226), P < .00001], respectively.
+New vs existing treatment: water dispersible       -0.47           0.19   [-0.85, -0.09]                      The forest plot shows the results of each study in a single
+turmeric extract vs turmeric matrix
+formulation                                                                                              plot (Figure 2). The size of the plot symbols is proportional to
+                                                                                                         the sample size of the study. The points on the plot are sorted
+Figure 2. Forest plot showing the Efficacy in Musculoskeletal                                            by study and mean difference. The lines represent the
+Health                                                                                                   confidence intervals for the mean differences. A narrow
+                                                                                                         confidence interval indicates a greater degree of precision.
+
+                                                                                                         Joint Health: Systematic Review
+                                                                                                              The most common joint health disorders include chronic
+                                                                                                         knee pain, knee OA, and RA. The effects of curcumin on joint
+                                                                                                         health and these disorders have been evaluated in several
+                                                                                                         clinical trials pertaining to its potent anti-inflammatory
+                                                                                                         action. Tables 3 and 4 show the characteristics of the included
+                                                                                                         studies.
+                                                                                                              Thanawala et al.26 These researchers conducted a
+                                                                                                         double-blind, randomized, placebo-controlled, parallel-
+                                                                                                         group study of healthy participants with chronic knee pain
+
+Table 3. Safety and Efficacy of Monotherapy With Turmeric Extracts and Curcumin Supplements for Joint Health, Using VAS
+Scale
+
+                                                                     Curcuminoids /
+                                                                     Curcumin
+Study            Sample Size          Age, y    Treatment            Administered Daily     Indication Duration   Scale           Mean ± SD                       AE/ safety     Efficacy
+Thanawala et     Intervention         18-60     250 mg once          150 mg of              Chronic    90 days    VAS             Intervention Baseline: 5.4 ±    No AEs         Turmeric extract
+al, 202127       group                          daily of water       curcuminoids           knee pain             Baseline to     0.9                             reported       alleviated knee pain, and
+                 (n=53)                         dispersible                                                       day 90          Day 90: 3.8 ± 0.8                              improved joint function in
+                                                turmeric extract                                                                                                                 healthy patients with
+                 Placebo group                  in capsule                                                                        Placebo Baseline: -1.5 ± 0.7                   chronic knee pain and was
+                 (n=53)                                                                                                           Day 90: -0.6 ± 0.8                             well tolerated and safe.
+Singhal et al,   Intervention         40-80     500 mg twice         950 mg of              Knee OA    42 days    WOMAC           Intervention Baseline: 56.3     Restlessness   After 42 days,
+202128           group                          daily of             curcuminoids                                 Baseline to     (20.5)                          (4.11%),       bioavailable turmeric
+                 (n=73)                         curcuminoid-                                                      Week 6          Week 6: 43.01 ± 2.62            tingling       extract was effective in
+                                                essential oil                                                                                                     sensation      reducing pain and other
+                 Paracetamol                    complex in                                                                      Paracetamol Baseline: 50.2        (1.37%)        symptoms of knee OA
+                 group                          capsule, for 1000                                                               (19.5)                                           and found to be safe.
+                 (n=71)                         mg/ day                                                                         Week 6: 37.93 ± 2.16
+Amalraj et al,   Intervention: LD       _       LD turmeric          LD: 250 mg             RA         90 days    VAS and DAS28 VAS Intervention LD               Mild nausea After 90 days, turmeric
+201729           group:                         matrix capsule,      curcuminoids                                               Baseline: 7.01 ± 0.86             and diarrhea matrix formula acted as
+                 (n= 12)                        250 mg twice         HD: 500 mg                                   LD turmeric   Postintervention: 2.63 ± 0.74                  an analgesic, anti-
+                 HD group (n=12)                daily, 500 mg/       curcuminoids                                 group         Intervention HD Baseline:                      inflammatory agent for
+                                                day                                                                             7.99 ± 0.71                                    the management of RA
+                 Placebo group                                                                                    HD turmeric   Postintervention 2.21 ± 0.45                   and was well tolerated
+                 (n=12)                         HD turmeric                                                       group         Placebo Baseline: 6.61 ± 0.73                  and without side effects.
+                                                matrix capsule,                                                   Placebo       Postintervention: 6.84 ± 0.63
+                                                500 mg twice
+                                                daily, 1000 mg/                                                                   DAS 28 Intervention LD
+                                                day                                                                               Baseline: 4.51 ± 0.64
+                                                                                                                                  Postintervention: 2.14 ± 0.16
+                                                                                                                                  Intervention HD Baseline:
+                                                                                                                                  5.29 ± 0.54
+                                                                                                                                  Postintervention: 1.80 ± 0.36
+                                                                                                                                  Placebo Baseline: 3.53 ± 0.47
+                                                                                                                                  Postintervention: 3.53 ± 0.47
+
+
+
+
+Doyle—Safety and Efficacy of Turmeric Extract                                                           ALTERNATIVE THERAPIES, SEPTEMBER 2023 VOL. 29 NO. 6 17
+Table 3. (continued)
+                                                               Curcuminoids /
+                                                               Curcumin
+Study           Sample Size         Age, y   Treatment         Administered Daily Indication Duration    Scale            Mean ± SD                           AE/ safety     Efficacy
+Kuptniratsaikul Intervention         50      500 mg of         1000 mg of curcumi- Knee OA   42 days     Numeric scale    Intervention Pain on level          Dyspepsia      The mean scores of the
+et al, 200930   group                        Curcuma           noids                                     Week 0 to Week   walking:                            (20.8%),       outcomes at weeks 0, 2, 4,
+                (n=52)                       domestica four                                              6                Week 0: 5.3 ± 2.3                   dizziness      and 6 were significantly
+                                             times daily, 2000                                                            Week 6: 2.7 ± 2.5                   (10.4%),       improved.
+                 Ibuprofen group             mg/day                                                                       Pain on stairs:                     nausea/
+                 (n=55)                                                                                                   Week 0: 5.7 ± 2.1                   vomiting       C. domestica extracts
+                                                                                                                          Week 6: 3.1 ± 1.5                   (6.3%), and    seem to be more
+                                                                                                                          Time spent on 100-m walk (sec):     loose stool    efficacious and safer than
+                                                                                                                          Week 0: 107.9 ± 24.6                (4.2%).        Ibuprofen for knee OA.
+                                                                                                                          Week 6: 96.7 ±17.0
+                                                                                                                          Time spent on going up and
+                                                                                                                          down a flight of stairs (sec):
+                                                                                                                          Week 0: 31.2 ± 12.6
+                                                                                                                          Week 6: 24.8 ± 10.2
+                                                                                                                          Ibuprofen Pain on level:
+                                                                                                                          Week 0: 5.0 ± 1.9
+                                                                                                                          Week 6: 3.1 ± 2.3
+                                                                                                                          Pain on stairs:
+                                                                                                                          Week 0: 6.2 ± 2.2
+                                                                                                                          Week 6: 3.8 ± 2.4
+                                                                                                                          Time spent on 100-m walk
+                                                                                                                          (sec):
+                                                                                                                          Week 0: 103.6 ± 22.2
+                                                                                                                          Week 6: 97.0 ± 25.7
+                                                                                                                          Time spent on going up and
+                                                                                                                          down a flight of stairs (sec)
+                                                                                                                          Week 0: 30.3 ± 13.8
+                                                                                                                          Week 6: 25.9 ± 12.3
+Javadi et al,    Intervention         _      40 mg of           120 mg of curcumin, RA         84 days   DAS28            DAS28 Test Intervention             No AEs         After 84 days, curcumin
+201931           group                       curcumin           100% encapsulation                       Baseline to      Baseline 3.75 ± 1.01                reported       nanomicelles reduced the
+                 (n=24)                      nanomicelle in     of curcumin as                           Postintervention Postintervention 2.87 ± 0.74                       DAS‐28 score significantly.
+                                             capsule, three     nanomicelles                                              Placebo Baseline 3.45 ± 0.95
+                 Placebo group               times daily, 120                                                             Postintervention 2.90 ± 1.02                  Curcumin was safe and
+                 (n=25)                      mg/day                                                                                                                     effective in management of
+                                                                                                                                                                        RA
+Atabaki et al,   Intervention       40-55    80 mg of           80 mg of curcumin,   OA        90 days   VAS               VAS Intervention Predose:       No AEs       After 90 days, Curcumin
+202032           group (n=15)                curcumin           100% encapsulation                       Predose,          7.93 ± 0.39                     reported     nanomicelles significantly
+                                             nanomicelles       of curcumin as                           postdose          Postdose: 3.4 ± 0.27                         reduced inflammation
+                 Placebo group               once daily         nanomicelles                                               Placebo Predose 8.46 ± 0.5                   and pain in patients with
+                 (n=15)                                                                                                    Postdose 9. 1 ± 0.25                         OA.
+Shep et al,      Intervention       38-65    500 mg of         1425 mg of            Knee OA   28 days   VAS, KOOS         VAS Intervention Baseline       Nausea (9%), After 28 days, Curcumin
+201933           group                       BCM-95            curcuminoids                              Baseline to       7.84 ± 0.63                     diarrhea     had efficacy that was
+                 (n=70)                      Capsule, three                                              day 28            Day 28: 2.20 ± 0.81             (7%)         similar to diclofenac but
+                                             times daily, 1500                                                                                                          demonstrated better
+                 Diclofenac group            mg/day                                                                        Diclofenac Baseline 7.81 ± 0.73              tolerance among
+                 (n=69)                                                                                                    Day 28 2.20 ± 0.61                           participants with knee OA.
+
+                                                                                                                           KOOS Intervention Baseline                      Curcumin can be
+                                                                                                                           53.29 ± 5.70                                    alternative treatment in the
+                                                                                                                           Day 28: 88.77 ± 5.62                            patients with knee OA who
+                                                                                                                           Diclofenac Baseline 53.15 ± 4.24                are intolerant to the side
+                                                                                                                           Day 28 90.38 ± 3.61                             effects of non-steroidal
+                                                                                                                                                                           anti-inflammatory drugs.
+Henrotin et al, Intervention HD       _      HD bio-            HD: 280.02 mg of     Knee OA   90 days   VAS               VAS Baseline Intervention          No severe    At the end of 90 days,
+201933          group (n=48)                 optimized          curcumin extract                         KOOS              HD: 62.9 (13.8)                    AEs;         bio-optimized Curcuma
+                                             Curcuma longa      LD: 186.68 mg of                         HD and LD         LD: 63.3 (15.8)                    abdominal    longa extract was safe and
+                 Intervention LD             extract high       curcumin extract                                           Placebo 59.9 (12.3)                discomfort   well-tolerated, with no
+                 group                       dose, 2x3 caps/                                                               EOT Intervention                   and diarrhea evidence of severe AEs.
+                  (n=38)                     day,                                                                          HD: -25.04 (26.985)                frequently
+                                                                                                                           LD: -28.00 (28.176)                reported AEs
+                 Placebo (n=40)              LD bio-                                                                       Placebo -12.25 (26.249)
+                                             optimized                                                                     Change in KOOS global score
+                                             Curcuma longa                                                                 T1 Baseline Intervention
+                                             extract, 2x2                                                                  HD: 35.2 ± 67.5
+                                             caps/day plus                                                                 LD: 18.0 ± 57.6
+                                             placebo 2x1                                                                   Placebo 7.9 ± 60.2
+                                             caps/day                                                                      T3 Followup Intervention
+                                                                                                                           HD: 56.3 ± 82.6
+                                                                                                                           LD: 48. ± 73.1
+                                                                                                                           Placebo 42.1 ± 66.2
+                                                                                                                           Change in KOOS Pain
+                                                                                                                           T1 Baseline Intervention
+                                                                                                                           HD: 7.1 ± 17.5
+                                                                                                                           LD: 4.8 ± 16.7
+                                                                                                                           Placebo 3.1 ± 13.9
+                                                                                                                           T3 Followup Intervention
+                                                                                                                           HD: 12.3 ± 19.4
+                                                                                                                           LD: 12.8 ± 18.4
+                                                                                                                           Placebo 10.8 ± 16.5
+
+
+
+
+18 ALTERNATIVE THERAPIES, SEPTEMBER 2023 VOL. 29 NO. 6                                                                             Doyle—Safety and Efficacy of Turmeric Extract
+Table 3. (continued)
+                                                               Curcuminoids /
+                                                               Curcumin
+Study              Sample Size     Age, y   Treatment          Administered Daily   Indication Duration   Scale              Mean ± SD                      AE/ safety     Efficacy
+Gupte et al,       Intervention    40-65    400 mg of solid    160 mg of curcumin   Knee OA    90 days    VAS, WOMAC                       _                Rash and       Curcumin significantly
+201923             group                    lipid curcumin                                                                                                  itching        decreased VAS and
+                   (n=17)                   particles                                                                                                                      WOMAC scores
+                                            twice daily, 800                                                                                                               compared to baseline
+                   Ibuprofen                mg/day                                                                                                                         from day 45 onward.
+                   with placebo
+                   group                                                                                                                                                   SLCPs in a dose of 160 mg
+                   (n=25)                                                                                                                                                  daily was effective and safe
+                                                                                                                                                                           in alleviating symptoms of
+                                                                                                                                                                           knee OA when
+                                                                                                                                                                           administered for 90 days.
+Nakagawa et        Intervention     40      90 mg of            64.8 mg of          Knee OA    180 days   JKOM, VAS,         VAS Intervention               No serious     After 180 days, curcumin
+al, 202025         group (n=18)             surface-           curcuminoids.                              JOA, WOMAC         Baseline: 0.52                 AEs            was effective in the
+                                            controlled                                                    Baseline to week   8 weeks: 0.20                                 treatment of knee OA.
+                   Placebo group            water-dispersible                                             8                  Placebo Baseline: 0.42
+                   (n=23)                   curcumin twice                                                                   8 weeks: 0.21
+                                            daily, 180 mg/
+                                            day, in 6 capsules
+                                            daily
+ Belcaro et al,    Test group      40-53    1000 mg of         200 mg curcumin      OA         90 days    WOMAC              WOMAC Baseline                 No AEs         After 90 days,
+201035             (n=23)                   curcumin-                                                     Baseline to        Intervention: 83.4             reported       complex was clinically
+                                            phosphatidyl-                                                 3 months           Control: 80.6                                 effective in management
+                   Control group            choline complex                                               postintervention   After 3 months                                and treatment of OA
+                   (n=25)                   daily                                                                            Intervention: 34.8
+                                                                                                                             Control: 78.8
+
+
+Abbreviations: AEs, adverse events; DAS28, Disease Activity Score 28; HD, high dose; JOA, Japanese Orthopedic Association;
+JKOM, Japanese Knee Osteoarthritis Measure; KOOS, Knee Injury and Osteoarthritis Outcome Score; LD, low dose; OA,
+osteoarthritis; RA, rheumatoid arthritis; SLCPs, solid lipid curcumin particles; VAS, Visual analogue scale; WOMAC,
+Western Ontario and McMaster Universities Osteoarthritis Index.
+
+Table 4. Safety and Efficacy of Combination Therapy With Turmeric Extracts and Curcumin Supplements for Joint Health
+Using VAS Scale
+
+                                                         Curcuminoids /
+                                                         Curcumin
+Study          Sample Size
+                        Age, y Treatment                 Administered Daily Indication Duration Scale         Mean ± SD AE/ safety      Efficacy
+Panahi et      Intervention
+                         <80 500 mg of                   1500 mg of         Knee OA    42 days  VAS               _     No AEs reported After 42 days, treatment with curcumin-piperine
+al, 201536     group (n=19)    curcuminoid plus 5        curcuminoids                                                                   supplementation successfully ameliorated the
+                               mg of piperine in                                                                                        symptoms of knee osteoarthritis
+          Placebo group        capsules three times
+          (n=21)               daily, 1500 mg/ day
+Rahimnia Intervention     _    500 mg of            1500 mg of               Knee OA     42 days     VAS,          _         No AEs reported After 42 days, Significant improvement in clinical
+et al,    group (n=19)         curcuminoid plus 5 curcuminoids                                       WOMAC,                                  symptoms of OA in curcuminoid-piperine
+2016   37
+                               mg piperine in                                                        LPFI                                    supplement treated participants cannot be
+          Placebo group        capsule three times                                                                                           attributed to the systemic anti-inflammatory effects
+          (n=21)               daily, 1500 mg/day                                                                                            of these phytochemicals.
+
+
+Abbreviations: AEs, adverse events; OA, osteoarthritis; LPFI, lateral patellar facet impingement; VAS, visual analogue scale;
+WOMAC, Western Ontario and McMaster Universities Osteoarthritis Index
+
+following physical exertion. The 106 participants were                                             knee pain and improved joint function in healthy participants
+randomly assigned to two groups: group 1 was administered                                          with chronic knee pain.
+250 mg of a commercial, water dispersible turmeric extract,                                              Singhal et al.27 These researchers conducted a study to
+TurmXTRA 60N, in one capsule containing 150 mg                                                     compare the efficacy and safety of a commercial, curcuminoid-
+curcuminoids, and group 2 received a placebo, both once                                            essential oil complex BCM-95, Curcugreen, and paracetamol
+daily for 90 days.                                                                                 in 144 patients with knee OA. One group received 500 mg of
+     Reduction in pain intensity was measured using a VAS                                          the oil complex, containing 475 mg curcuminoids, twice
+after an 80-m, fast-paced walk test. The turmeric extract                                          daily, and the other group received 650 mg of paracetamol
+significantly reduced the VAS score between baseline and                                           three times daily, for 6 weeks.
+day 90, with a greater mean reduction, 2.5 times, than that                                              The intensity of pain and other symptoms of OA were
+for the placebo. It also significantly decreased time taken for                                    assessed using the Western Ontario and McMaster
+the 80-m, fast-paced walk test and nine-step stair-climb test,                                     Universities Osteoarthritis Index (WOMAC) scale.28 After 6
+and improved all inflammatory biomarkers compared to the                                           weeks of treatment, most patients in the curcumin group
+placebo, with a significant reduction in median TNF-α and                                          reported improvement in WOMAC pain and function and
+MMP-3 compared to baseline. The study showed that the                                              stiffness scores. The C-reactive protein (CRP) and TNF-α
+water dispersible turmeric extract significantly alleviated                                        levels were significantly reduced in the curcumin group.
+
+
+Doyle—Safety and Efficacy of Turmeric Extract                                                      ALTERNATIVE THERAPIES, SEPTEMBER 2023 VOL. 29 NO. 6 19
+     Amalraj et al.29 These researchers conducted a three-             Shep et al.35 These researchers conducted a randomized,
+arm study to compare the efficacy of two doses of a               open-label, parallel, active-controlled study in patients with
+commercial, complete natural turmeric matrix formulation,         knee OA to compare the efficacy and safety of a commercial,
+Acumin, with that of a placebo for patients with active RA.       curcuminoid-essential oil complex, BCM-95, with that of
+The 36 participants were randomly assigned to one of three        diclofenac. The study included 139 patients who were randomly
+groups. Twice daily for 90 days, participants received either a   assigned to receive either 500 mg of the oil complex, containing
+placebo or a low, 250-mg dose of the matrix formulation           475 mg curcuminoids, in a capsule three times daily or a
+containing 125 mg of curcuminoids, or a high, 500 mg dose         50-mg tablet of diclofenac twice daily for 28 days.
+of the matrix formulation containing 250 mg of curcuminoids.           Pain was evaluated using the VAS and the Knee Injury
+     Participants’ responses were assessed using the American     and Osteoarthritis Outcome Score (KOOS).36 Patients who
+College of Rheumatology (ACR) criteria response,30 a VAS,         received curcumin showed a improvement in the KOOS
+the Disease Activity Score 28 (DAS28),31 and CRP levels.          score and pain severity that was similar to that of diclofenac.
+Both matrix formulations demonstrated significant anti-                Henrotin et al.37 These researchers conducted a
+inflammatory and analgesic properties by improving the            randomized, double-blind, placebo-controlled study to
+erythrocyte sedimentation rate (ESR), CRP, VAS, rheumatoid        compare the efficacy of two doses of a commercial, bio-
+factor (RF), DAS28, and ACR responses relative to the             optimized Curcuma longa extract (BCL), Flexofytol, which
+baseline. The high dose curcumin group showed greater             contains 46.67 mg of turmeric rhizome extract, for
+reductions in the DAS and VAS scores.                             symptomatic knee OA. 150 patients with knee OA in the
+     Kuptniratsaikul et al.32 These researchers conducted         study were followed up for 90 days. Patients were randomly
+RCT to determine the efficacy and safety of Curcuma               assigned to one of three groups, receiving either three
+domestica (C. Domestica) extracts for pain reduction and          placebo capsules twice a day, a low dose of curcumin in two
+functional improvement in patients with knee OA. The 107          capsules plus one capsule of placebo twice a day, or a high
+patients with primary knee OA who had pain scores of              dose of curcumin in 3 capsules twice a day.
+greater than or equal to 5 of 10 on a numerical rating scale           Pain intensity was assessed using VAS and KOOS Scores.
+were randomly divided into two groups. They received either       Pain reduction at day 90 in the low- and high-dose BCL groups,
+500 mg of the C. Domestica extract, containing 250 mg of          at -29.5 mm and -36.5 mm, respectively, was higher than that in
+curcuminoids, four times daily, or 800 mg of ibuprofen daily      the placebo group. The KOOS global score and subscales were
+for 6 weeks.                                                      significantly improved over time in all the groups (P < .001), and
+     Pain intensity was assessed using a numerical rating         no significant differences existed between the groups.
+scale, and knee function was assessed by the time spent on a      Significantly more AEs occurred in the high-dose curcumin
+100-m walk and going up and down a flight of stairs with 10       group than in the low-dose curcumin and placebo groups.
+steps. All parameters showed decreasing trends in both                 Gupte et al.38 These researchers performed a randomized,
+groups. No significant difference existed in the scores among     placebo-controlled study to evaluate the efficacy and safety of
+patients receiving ibuprofen or C. domestica.                     commercial, solid lipid curcumin particles (SLCP), Longvida,
+     Javadi et al.33 These researchers conducted a randomized,    in 42 patients with knee OA. The patients were randomly
+double-blind, controlled study to determine the effects of        assigned to receive 400 mg in an SLCP capsule containing 80
+commercial curcumin nanomicelles, SinaCurcumin, on the            mg of curcumin twice daily or 400 mg of ibuprofen in a
+clinical symptoms of patients with RA. The 65 patients were       placebo capsule once daily, for 90 days.
+divided into two groups, with one to receive 40 mg of                  Knee pain and function were assessed using WOMAC
+curcumin nanomicelles in a capsule and the other a placebo        and a VAS. Curcumin significantly decreased the VAS and
+capsule, both three times daily for 12 weeks.                     WOMAC scores compared to baseline from day 45 onward.
+     Disease activity was measured using the DAS28 after 12       This effect was comparable to that of the low-dose ibuprofen
+weeks, which showed a reduction in both groups. However,          used in the study.
+the difference between the two groups wasn’t significant.              Nakagawa et al.39 These researchers performed an open-
+     Atabaki et al.34 These researchers conducted a double-       label, noncomparative study to evaluate the efficacy and
+blind, randomized, placebo-controlled study to assess the         safety of a commercial, surface-controlled water-dispersible
+effects of commercial curcumin nanomicelles, SinaCurcumin,        curcumin, Theracurmin, in knee OA. The 50 patients were
+on the immune responses of patients with OA. The 30 patients      randomly assigned to receive 90 mg of curcumin, containing
+were equally divided into two groups: one group received 80       32.4 mg curcuminoids, or a placebo, both twice daily in 6
+mg of curcumin nanomicelles, and the other group received a       capsules daily for 6 months.
+placebo, both once a day for 3 months. In addition, all                Knee symptoms were measured using the Japanese Knee
+participants received 50 mg of diclofenac sodium.                 Osteoarthritis Measure (JKOM)40 and the knee scoring
+     The intervention group had decreased scores on a VAS;        system of the Japanese Orthopedic Association (JOA).41 A
+decreased levels of CRP, CD4+, CD8+ T cells, and Th17 cells;      knee pain VAS is included in the JKOM. The VAS, JKOM,
+and decreased B-cell frequency, demonstrating a significant       and JOA scores at 6 months after treatment were significantly
+reduction in inflammation and pain in patients with OA.           better than those at baseline.
+
+20 ALTERNATIVE THERAPIES, SEPTEMBER 2023 VOL. 29 NO. 6                                   Doyle—Safety and Efficacy of Turmeric Extract
+     Belcaro et al.42 These researchers conducted a three-       Table 5. Efficacy of Turmeric Extracts and Curcumin
+month pilot study to assess the efficacy and safety of a         Supplements in Joint Health Using Random Effects Model
+commercial curcumin-phosphatidylcholine complex,
+Meriva, in 50 patients with OA. Participants in Group A were                                                  Mean     Standard                Weightage
+                                                                  Product Comparison                        Difference   Error      95% CI         %
+assigned to receive either the best available treatment as        Intervention vs Comparator
+defined by a patient’s physician; and Group B was managed         Amalraj et al24
+                                                                  Low-dose turmeric matrix formulation and    -4.21       0.28  [-4.79, -3.63]   17.33
+using the best available treatment plus 1000 mg of a curcumin-    placebo
+phosphatidylcholine complex containing 200 mg curcumin,           High-dose turmeric matrix formulation and   -4.63       0.22  [-5.09, -4.17]   17.36
+                                                                  placebo
+daily for 3 months.                                               Average                                        0          0   [-4.86, -4.05]
+     The WOMAC score was used to assess pain intensity. At        Shep et al33
+the end of treatment, the reduction in the WOMAC score in         Curcuminoid essential oil complex and
+                                                                  Diclofenac
+                                                                                                                 0        0.12   [-0.24, 0.24]   17.39
+
+the curcumin group was significantly greater than that in the     Average                                        0          0    [-0.24, 0.24]
+control group.                                                    Atabaki et al32
+                                                                  Curcumin nanomicelles and placebo           -5.70       0.10  [-5.89: -5.51]   17.39
+     Panahi et al.43 These researchers conducted a                Average                                        0          0   [-5.89: -5.51]
+randomized, double-blind, placebo-controlled study to             Thanawala et al27
+
+investigate the efficacy of a curcuminoid-piperine supplement,    Water dispersible turmeric extract and
+                                                                  placebo
+                                                                                                               4.40       0.16    [4.09, 4.71]   17.38
+
+C3 Curcumin Complex, in reducing the systemic oxidative           Average                                        0          0     [4.09, 4.71]
+burden in patients with knee OA. The 40 patients with mild-       Henrotin et al33
+                                                                  High-dose bio-optimized Curcuma longa       13.15       5.43  [2.36, 23.94]     7.17
+to-moderate, primary knee OA were randomly divided into           extract and placebo
+two groups, with one group receiving 500 mg of curcuminoids       Low-dose bio-optimized Curcuma longa
+                                                                  extract and placebo
+                                                                                                              15.75       6.28  [3.23, 28.27]     5.98
+
+plus 5 mg of piperine (Bioperine) in a capsule three times        Average                                        0          0   [6.21, 22.32]
+daily or matched placebo capsules, for 6 weeks.
+                                                                  Combined
+     A significant improvement was observed in the systemic       Average                                    0.12       1.90     [-3.59, 3.85]
+oxidative stress biomarkers after 6 weeks of curcuminoid-
+piperine supplementation. A significant elevation in serum
+superoxide dismutase (SOD) activity and in glutathione           Results
+(GSH) concentrations occurred as well as a significant           The heterogeneity analysis found a χ2 value for Cochran’s Q
+reduction in malondialdehyde (MDA) concentrations in the         statistic of 3666.80 and P < .0001, which showed that statistical
+curcuminoid-piperine group compared to the placebo group.        heterogeneity existed among the studies; therefore, the
+     Rahimnia et al.44 These researchers performed a             random effects model was used. The χ2 value of the random
+randomized, double-blind, placebo-controlled, parallel           effects model was 1400.65, with P < .0001, which was
+group study to determine effects of a curcuminoid-piperine       statistically significant. Table 5 shows that the difference
+supplementation, the C3 complex, on inflammatory                 between the intervention and control groups was statistically
+biomarkers in 40 patients with OA. Patients were randomly        significant [SMD 0.12 (-3.59; 3.85), P < .00001].
+allocated to receive either 500 mg of curcuminoids plus 5 mg          The research team analyzed data for five RCTs for
+of piperine (Bioperine) in a capsule or a placebo, three times   patients with RA, OA, chronic knee pain, or knee OA. The
+daily for 6 weeks.                                               studies used treatments: (1) of a low dose of turmeric matrix
+     Serum levels of inflammatory biomarkers, such as IL-4,      formulation, (2) a high dose of a turmeric matrix formulation,
+IL-6, TNF-α, transforming growth factor-β (TGF-β), and           (3) a curcuminoid essential oil complex, (4) curcumin
+HS-CRP, together with ESR, were determined at baseline and       nanomicelles, (5) a water dispersible turmeric extract, (6) a
+at the end of the trial. A comparison of the magnitude of the    high dose of bio-optimized Curcuma longa extract, and (7) a
+changes in the evaluated inflammatory biomarkers indicated       low dose of bio-optimized Curcuma longa extract. The VAS
+no significant differences between the groups.                   score was considered to be an efficacy parameter.
+                                                                      Significant differences existed between groups:
+Joint Health: Meta-analysis                                      (1) between the low-dose turmeric matrix formulation and
+     Participants aged 18 to 80 years were treated with either   the placebo [SMD -4.21 (-4.79, -3.63)], (2) between the high-
+a monotherapy, a turmeric extract standardized for               dose turmeric matrix formulation and the placebo [SMD
+curcuminoids, or a combination of a curcuminoids and a           -4.63 (-5.09, -4.17), (1) & (2) combined P < .00001],
+pharmacological treatment. Pain intensity was assessed using     (3) between the curcumin nanomicelles and the placebo
+VAS, WOMAC, DAS28, JKOM, JOA, KOOS, a numerical                  [SMD -5.70 (-5.89, -5.51), P < .00001], (4) between the water
+rating scale, and ACR, and Lequesne’s Pain Functional Index      dispersible turmeric extract and the placebo [SMD 4.40
+(LPFI). The studies for both monotherapy and the                 (4.09, 4.71), P < .00001], (5) between the high-dose bio-
+combination therapies concluded that curcumin was effective      optimized Curcuma longa extract and the placebo [SMD
+in reducing pain intensity and improving joint function, with    13.15 (2.36, 23.94)], and (6) between the low-dose
+no major or severe AEs.                                          bio-optimized Curcuma longa extract and the placebo with
+                                                                 [SMD 15.75 (3.23, 28.27), (5) & (6) combined P < .00001].
+
+
+Doyle—Safety and Efficacy of Turmeric Extract                    ALTERNATIVE THERAPIES, SEPTEMBER 2023 VOL. 29 NO. 6 21
+     Figure 3 shows the forest plot for each study on a single      Figure 3. Forest plot showing efficacy of curcumin
+plot. The size of the plot symbols is proportional to the           supplements in joint health
+sample size of the study. The points on the plot are sorted by
+study and mean difference. The lines represent the confidence
+intervals for the mean differences. A narrow confidence
+interval indicates a greater degree of precision.
+     The heterogeneity analysis had a χ2 value for Cochran’s Q
+statistic of 372.6017, with P < .0001, which showed that
+statistical heterogeneity existed among the studies; therefore,
+the random effects model was used. The χ2 value of the
+random effects model was 48.0968 (P < .0001), which was
+statistically significant. Table 6 shows that the difference
+between the intervention and control groups was statistically
+significant [SMD -0.76 (-1.86, 0.337], P < .00001].
+     Statistically significant differences existed between          Table 6. Efficacy of Curcumin Supplements Using Random
+groups: (1) between the water dispersible turmeric extract          Effects Model.
+and the low-dose bio-optimized Curcuma longa extract
+[SMD -24.20 (-31.87, -16.53), (2) between the curcuminoid-                                                     Mean     Standard
+                                                                    Product Comparison                       Difference   Error        95% CI         Weightage
+essential oil complex and the high-dose bio-optimized               Intervention vs Comparator
+Curcuma longa extract [SMD -23.20 (-29.58, -16.82), and (3)         Water dispersible turmeric extract and    -24.20     3.8547    [-31.87, -16.53]    1.8195
+                                                                    low-dose Curcuma longa extract
+between the water dispersible turmeric extract and the high-        Curcuminoid-essential oil complex and     -23.20     3.2211    [-29.58, -16.82]    2.4628
+dose bio-optimized Curcuma longa extract [SMD -21.60                high-dose Curcuma longa extract
+                                                                    Water dispersible turmeric extract and    -21.60     3.7065    [-28.95, -14.25]    1.9466
+(-28.95, -14.25).                                                   high-dose Curcuma longa extract
+     Figure 4 shows a forest plot that presents the results of      High-dose and low-dose bio-optimized       -2.60     6.3876    [-15.32, 10.12]     0.7245
+                                                                    Curcuma longa extract
+each study on a single plot. It shows that the studies with no      High-dose turmeric matrix formulation      -1.19     0.1396     [-1.48, -0.90]     13.4372
+significant differences tentatively fell on the plot’s vertical     and curcumin nanomicelles
+                                                                    Water dispersible turmeric extract and     0.40      0.2108     [-0.02, 0.82]      13.2944
+line. Those comparisons were: (1) the water dispersible             curcumin nanomicelles
+turmeric extract and the curcuminoid-essential oil complex          Low Dose and high dose turmeric matrix     0.42      0.2500     [-0.10, 0.94]      13.1929
+                                                                    formulation
+[SMD 1.60 (1.31, 1.89)], (2) between the curcumin                   Water dispersible turmeric extract and     1.17      0.2525      [0.67, 1.67]      13.1860
+nanomicelles and the curcuminoid-essential oil complex              low-dose turmeric matrix formulation
+                                                                    Curcumin nanomicelles and curcuminoid      1.20      0.2125      [0.78, 1.62]      13.2904
+[SMD 1.20 (0.78, 1.62)], (3) between the water dispersible          essential oil complex
+turmeric extract and the low-dose turmeric matrix                   Water dispersible turmeric extract and     1.59      0.2400      [1.11, 2.07]      13.2204
+                                                                    high-dose turmeric matrix formulation
+formulation [SMD 1.17 (0.67, 1.67)], and (4) between the            Water dispersible turmeric extract and     1.60      0.1467      [1.31, 1.89]      13.4254
+high-dose turmeric matrix formulation and the curcumin              curcuminoid essential oil complex
+                                                                    Combined
+nanomicelles [SMD -1.19 (-1.48, -0.90)].                            Average                                    -0.76     0.5588     [-1.86, 0.337]
+     On Figure 4, the size of the plot symbols is proportional
+to the sample size of the study. The points on the plot are         Figure 4. Forest plot showing efficacy of various curcumin
+sorted by study and mean difference. The lines represent the        supplements
+confidence intervals for the mean differences. A narrow
+confidence interval indicates a greater degree of precision.
+
+OBSERVATIONS ON SAFETY
+     In most studies, very few AEs or no severe AEs occurred
+with turmeric extract and curcumin supplements, showing
+that it’s well tolerated globally. The most reported AEs in the
+evaluated trials were dyspepsia,34 dizziness,29 nausea, 38,26,34
+vomiting,34 abdominal discomfort,26 diarrhea,26,34,38,39 rash,
+itching,37 tingling sensation, and restlessness,32 all which were
+reported to be self-limiting.                                       DISCUSSION
+     None of the patients required rescue medication for AE              The current meta-analysis has demonstrated the
+management. Overall, the benefits of Curcuma longa extract          effectiveness of curcumin in skeletal muscle health. Several
+and curcumin supplementation were significantly greater             studies in the current review demonstrated that turmeric
+than their risks. Therefore, it can be recommended for              extract and curcumin can effectively reduce postexercise
+musculoskeletal conditions.                                         pain, inflammation, oxidative stress, and muscle soreness.
+                                                                    Thanawala et al20 conducted a study and reported that the
+                                                                    intake of 250 mg of water dispersible turmeric extract before
+
+22 ALTERNATIVE THERAPIES, SEPTEMBER 2023 VOL. 29 NO. 6                                              Doyle—Safety and Efficacy of Turmeric Extract
+and after eccentric exercise could significantly reduce the             AUTHORS’ DISCLOSURE STATEMENT
+                                                                        Lynda Doyle is an employee of Avant Nutrition; Prabakaran Desomayanandam and Arun Bhuvanendran
+subjective perception of muscle soreness.                               are employees of In vitro Research Solutions (iVRS); Somepalli Venkateswarlu and Surendra Bachu are
+     Mallard et al,19 Jager et al,22 Drobnic et al,10 Tanabe et al,23   employees of Laila Nutraceuticals; and Shefali Thanawala and Rajat Shah are employees of Nutriventia.
+                                                                        The authors don’t have any other conflicts of interest to declare related to the meta-analysis.
+and Amalraj et al24 demonstrated the effectiveness of curcumin
+in reducing postexercise pain, modulating inflammatory                  ACKNOWLEDGMENTS
+                                                                        Nutriventia Limited and Laila Nutraceuticals, India supported the meta-analysis.
+pathways, reducing lactate accumulation in an exercising
+population, attenuating damage from oxidative stress and                REFERENCES
+                                                                           1.   Prasad S, Aggarwal BB. Turmeric, the Golden Spice: From Traditional Medicine to Modern Medicine.
+inflammation related to acute muscle injury, and reducing                       In: Benzie IFF, Wachtel-Galor S, editors. Herbal Medicine: Biomolecular and Clinical Aspects. 2nd ed.
+DOMS without major side effects. Wang et al25 demonstrated                 2.
+                                                                                Boca Raton (FL): CRC Press/Taylor & Francis; (2011). Chapter 13. PMID: 225939222
+                                                                                Henrotin Y, Priem F, Mobasheri A. Curcumin: a new paradigm and therapeutic opportunity for the
+that nanobubble water curcumin extract (NCE) has the                            treatment of osteoarthritis: curcumin for osteoarthritis management. Springerplus. (2013) Dec;
+                                                                                2(1):56. doi:10.1186/2193-1801-2-56. Epub 2013 Feb 18. PMID: 23487030; PMCID: PMC3591524.
+potential to reduce the risk of musculoskeletal injury.                    3.   Verma G, Mishra MK. A Review On Nutraceuticals: Classification And Its Role In Various
+                                                                                Diseases International. International Journal of Pharmacy & Therapeutics. 2016;7(4):152-160.
+     The current meta-analysis has demonstrated the                        4.   Hewlings SJ, Kalman DS. Curcumin: A Review of Its Effects on Human Health. Foods. (2017)
+effectiveness of curcumin in improving joint health. Several                    Oct 22; 6(10):92. doi:10.3390/foods6100092. PMID: 29065496; PMCID: PMC5664031.
+                                                                           5.   Peng Y, Ao M, Dong B, Jiang Y, Yu L, Chen Z, Hu C, Xu R. Anti-Inflammatory Effects of Curcumin
+studies have reported that curcumin is safe and effective for                   in the Inflammatory Diseases: Status, Limitations and Countermeasures. Drug Des Devel Ther. (2021)
+                                                                                Nov 2; 15:4503-4525. doi:10.2147/DDDT.S327378. PMID: 34754179; PMCID: PMC8572027.
+various joint health conditions, such as joint pain, OA, and               6.   Thanawala S, Shah R, Alluri KV, Somepalli V, Vaze S, Upadhyay V. Comparative bioavailability
+RA. Thanawala et al26 demonstrated that a dose of 250 mg of                     of curcuminoids from a water-dispersible high curcuminoid turmeric extract against a generic
+                                                                                turmeric extract: a randomized, cross-over, comparative, pharmacokinetic study. J Pharm
+water dispersible turmeric extract can substantially alleviate                  Pharmacol. (2021) Apr 27; 73(6):816-823. doi:10.1093/jpp/rgab028. PMID: 33755149.
+                                                                           7.   Wang Z, Singh A, Jones G, Winzenberg T, Ding C, Chopra A, Das S, Danda D, Laslett L, Antony
+knee pain and improve joint function in healthy participants                    B. Efficacy and Safety of Turmeric Extracts for the Treatment of Knee Osteoarthritis: a
+                                                                                Systematic Review and Meta-analysis of Randomized Controlled Trials. Curr Rheumatol Rep.
+without any AEs. Singhal et al27 reported a significant                         (2021) Jan 28; 23(2):11. doi:10.1007/s11926-020-00975-8. PMID: 33511486.Randomized
+improvement in WOMAC scores in knee OA patients,                           8.   Briggs AM, Cross MJ, Hoy DG, Sànchez-Riera L, Blyth FM, Woolf AD, March L. Musculoskeletal
+                                                                                Health Conditions Represent a Global Threat to Healthy Aging: A Report for the 2015 World
+whereas Shep D et al35 reported a nonsignificant improvement                    Health Organization World Report on Ageing and Health. Gerontologist. (2016) Apr; 56 Suppl
+                                                                                2:S243-55. doi:10.1093/geront/gnw002. PMID: 26994264.
+in the KOOS scores of patients with knee OA, using a                       9.   Lewis R, Gómez Álvarez CB, Rayman M, Lanham-New S, Woolf A, Mobasheri A. Strategies for
+bioavailable turmeric extract. Atabaki et al,34 Panahi et al,43                 optimising musculoskeletal health in the 21st century. BMC Musculoskelet Disord. (2019) Apr 11;
+                                                                                20(1):164. doi:10.1186/s12891-019-2510-7. PMID: 30971232; PMCID: PMC6458786.
+Belcaro et al,42 and Rahimnia et al44 demonstrated that                  10.    Drobnic F, Riera J, Appendino G, Togni S, Franceschi F, Valle X, Pons A, Tur J. Reduction of
+                                                                                delayed onset muscle soreness by a novel curcumin delivery system (Meriva): a randomized,
+curcumin at doses of up to 1500 mg/day was effective and                        placebo-controlled trial. J Int Soc Sports Nutr. (2014) Jun 18; 11:31. doi:10.1186/1550-2783-11-
+                                                                                31. PMID: 24982601; PMCID: PMC4074833.randomized
+significantly reduced inflammation, systemic oxidative                   11.    Dai W, Yan W, Leng X, Chen J, Hu X, Ao Y. Effectiveness of Curcuma longa extract versus
+burden, and pain without any AEs in patients with OA.                           placebo for the treatment of knee osteoarthritis: A systematic review and meta-analysis of
+                                                                                randomized controlled trials. Phytother Res. (2021) Nov; 35(11):5921-5935. doi:10.1002/
+     Amalraj et al,29 at doses of 250 mg and 500 mg, and                        ptr.7204. Epub 2021 Jul 2. PMID: 34216044.
+                                                                         12.    Cieza A, Causey K, Kamenov K, Hanson SW, Chatterji S, Vos T. Global estimates of the need
+Javadi et al,33 at a dose of 120 mg or 40 mg three times a day                  for rehabilitation based on the Global Burden of Disease study 2019: a systematic analysis for
+evaluated the efficacy of curcumin in relieving the symptoms                    the Global Burden of Disease Study 2019. Lancet. (2021) Dec 19; 396(10267):2006-
+                                                                                2017. doi:10.1016/S0140-6736(20)32340-0. Epub 2020 Dec 1. Erratum in: Lancet. 2020 Dec 4;:
+of RA and reported the safety and efficacy of curcumin in                       PMID: 33275908; PMCID: PMC7811204.
+                                                                         13.    Global, regional, and national incidence, prevalence, and years lived with disability for 310
+patients with RA. Henrotin et al37 and Nakagawa Yet al39                        diseases and injuries, 1990–2015: a systematic analysis for the Global Burden of Disease Study
+                                                                                (2015). The Lancet, 388(10053), 1545–1602. doi:10.1016/S0140-6736(16)31678-6.
+demonstrated that curcumin is safe and effective for                     14.    Gor AP, Saksena M. Adverse drug reactions of nonsteroidal anti-inflammatory drugs in
+management of knee OA.                                                          orthopedic patients. J Pharmacol Pharmacother. (2011) Jan; 2(1):26-9. doi:10.4103/0976-
+                                                                                500X.77104. PMID: 21701643; PMCID: PMC3117565.
+     Based on the current literature review of randomized                15.    Fadus MC, Lau C, Bikhchandani J, Lynch HT. Curcumin: An age-old anti-inflammatory and
+                                                                                anti-neoplastic agent. J Tradit Complement Med. (2016) Sep 9; 7(3):339-346. doi:10.1016/j.
+clinical studies, the research team observes that most of the                   jtcme.2016.08.002. PMID: 28725630; PMCID: PMC5506636.
+turmeric extract formulations contained approximately                    16.    Zeng L, Yu G, Hao W, Yang K, Chen H. The efficacy and safety of Curcuma longa extract and
+                                                                                curcumin supplements on osteoarthritis: a systematic review and meta-analysis. Biosci Rep. (2021)
+20-40% curcuminoids, whereas the water dispersible                              Jun 25; 41(6):BSR20210817. doi:10.1042/BSR20210817. PMID: 34017975; PMCID: PMC8202067.
+                                                                         17.    Fernández-Lázaro D, Mielgo-Ayuso J, Seco Calvo J, Córdova Martínez A, Caballero García A,
+turmeric extract, WDTE60N, contained 60% natural                                Fernandez-Lazaro CI. Modulation of Exercise-Induced Muscle Damage, Inflammation, and Oxidative
+                                                                                Markers by Curcumin Supplementation in a Physically Active Population: A Systematic Review.
+curcuminoids. In the randomized, double-blind, placebo                          Nutrients. (2020) Feb 15; 12(2):501. doi:10.3390/nu12020501. PMID: 32075287; PMCID: PMC7071279.
+controlled, clinical trials for joint health and DOMS, the               18.    Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: an updated guideline for
+                                                                                reporting systematic reviews. BMJ. 2021;372(71):n71. doi:10.1136/bmj.n71
+water dispersible turmeric extract showed clinical benefits at           19.    Mallard AR, Briskey D, Richards BExSSc A, Rao A. Curcumin Improves Delayed Onset Muscle
+                                                                                Soreness and Postexercise Lactate Accumulation. J Diet Suppl. 2021;18(5):531-542.
+the same single daily dose of 250 mg, 150 mg of curcuminoids,                   PMID:32705925 doi:10.1080/19390211.2020.1796885
+as compared to placebo.20,26                                             20.    Thanawala S, Shah R, Karlapudi V, Desomayanandam P, Bhuvanendran A. Efficacy and Safety of
+                                                                                TurmXTRA 60N in Delayed Onset Muscle Soreness in Healthy, Recreationally Active Subjects: A
+                                                                                Randomized, Double-Blind, Placebo-Controlled Trial. Evid Based Complement Alternat Med.
+                                                                                (2022) Aug 5; 2022:9110414. doi:10.1155/2022/9110414. PMID: 35966736; PMCID: PMC9374544.
+CONCLUSIONS                                                              21.    McLean BD, Coutts AJ, Kelly V, McGuigan MR, Cormack SJ. Neuromuscular, endocrine, and
+                                                                                perceptual fatigue responses during different length between-match microcycles in professional
+     Turmeric extract and curcumin supplements can be                           rugby league players. Int J Sports Physiol Perform. 2010;5(3):367-383. doi:10.1123/ijspp.5.3.367
+effective adjuvants for the management of musculoskeletal                22.    Jäger R, Purpura M, Kerksick CM. Eight Weeks of a High Dose of Curcumin Supplementation
+                                                                                May Attenuate Performance Decrements Following Muscle-Damaging Exercise. Nutrients.
+health, with a low incidence of AEs. The water-dispersible                      (2019) Jul 23; 11(7):1692. doi:10.3390/nu11071692. PMID: 31340534; PMCID: PMC6683062
+                                                                         23.    Tanabe Y, Chino K, Sagayama H, et al. Effective Timing of Curcumin Ingestion to Attenuate
+turmeric extract, WDTE60N, at a dose of 250 mg per day was                      Eccentric Exercise-Induced Muscle Soreness in Men. J Nutr Sci Vitaminol (Tokyo). 2019;65(1):82-
+found to be more effective than other curcumin products.                 24.
+                                                                                89. PMID:30814417 doi:10.3177/jnsv.65.82
+                                                                                Amalraj A, Divya C, Gopi S. The Effects of Bioavailable Curcumin (Cureit) on Delayed Onset
+However, the studies included in the analysis were conducted                    Muscle Soreness Induced By Eccentric Continuous Exercise: A Randomized, Placebo-
+                                                                                Controlled, Double-Blind Clinical Study. J Med Food. (2020) May; 23(5):545-553. doi:10.1089/
+using diverse doses and treatment durations. Further evaluation                 jmf.2019.4533. Epub (2020) Feb 28. PMID: 32109179.
+                                                                         25.    Wang IL, Hsiao CY, Li YH, Meng FB, Huang CC, Chen YM. Nanobubbles Water Curcumin Extract
+using comparisons in future clinical trials can establish the                   Reduces Injury Risks on Drop Jumps in Women: A Pilot Study. Evid Based Complement Alternat Med.
+appropriate effective dose of curcumin supplements for the                      (2019) Apr 1; 2019:8647587. doi:10.1155/2019/8647587. PMID: 31057656; PMCID: PMC6463623.
+
+overall maintenance of musculoskeletal health.
+
+
+Doyle—Safety and Efficacy of Turmeric Extract                           ALTERNATIVE THERAPIES, SEPTEMBER 2023 VOL. 29 NO. 6 23
+26.   Thanawala S, Shah R, Somepalli V, Alluri KV, Desomayanandam P, Bhuvanendran A. A
+      Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial Assessing Efficacy and Safety
+      of a Novel Low-Dose Turmeric Extract Formulation in Healthy Adults with Chronic Knee Pain.
+      Clin Pharmacol. (2021) May 21; 13:91-100. doi:10.2147/CPAA.S307464. PMID: 34045905;
+      PMCID: PMC8149286.
+27.   Singhal S, Hasan N, Nirmal K, Chawla R, Chawla S, Kalra BS, Dhal A. Bioavailable turmeric extract
+      for knee osteoarthritis: a randomized, non-inferiority trial versus paracetamol. Trials. (2021) Jan 30;
+      22(1):105. doi:10.1186/s13063-021-05053-7. PMID: 33516238; PMCID: PMC7847013.
+28.   Bellamy N, Campbell J, Stevens J, Pilch L, Stewart C, Mahmood Z. Validation study of a
+      computerized version of the Western Ontario and McMaster Universities VA3.0 Osteoarthritis
+      Index. J Rheumatol. 1997;24(12):2413-2415. PMID:9415651
+29.   Amalraj A, Varma K, Jacob J, Divya C, Kunnumakkara AB, Stohs SJ, Gopi S. A Novel Highly
+      Bioavailable Curcumin Formulation Improves Symptoms and Diagnostic Indicators in
+      Rheumatoid Arthritis Patients: A Randomized, Double-Blind, Placebo-Controlled, Two-Dose,
+      Three-Arm, and Parallel-Group Study. J Med Food. (2017) Oct; 20(10):1022-1030. doi:10.1089/
+      jmf.2017.3930. Epub 2017 Aug 29. PMID: 28850308.
+30.   van Gestel AM, Anderson JJ, van Riel PL, et al; American College of Rheumatology European League
+      of Associations for Rheumatology. ACR and EULAR improvement criteria have comparable validity
+      in rheumatoid arthritis trials. J Rheumatol. 1999;26(3):705-711. PMID:10090187
+31.   Salaffi F, Cimmino MA, Leardini G, Gasparini S, Grassi W. Disease activity assessment of
+      rheumatoid arthritis in daily practice: validity, internal consistency, reliability and congruency of
+      the Disease Activity Score including 28 joints (DAS28) compared with the Clinical Disease
+      Activity Index (CDAI). Clin Exp Rheumatol. 2009;27(4):552-559. PMID:19772784
+32.   Kuptniratsaikul V, Thanakhumtorn S, Chinswangwatanakul P, Wattanamongkonsil L, Thamlikitkul
+      V. Efficacy and safety of Curcuma domestica extracts in patients with knee osteoarthritis. J Altern
+      Complement Med. (2009) Aug; 15(8):891-7. doi:10.1089/acm.2008.0186. PMID: 19678780.
+33.   Javadi M, Khadem Haghighian H, Goodarzy S, Abbasi M, Nassiri-Asl M. Effect of curcumin
+      nanomicelle on the clinical symptoms of patients with rheumatoid arthritis: A randomized,
+      double-blind, controlled trial. Int J Rheum Dis. (2019) Oct; 22(10):1857-1862. doi:10.1111/1756-
+      185X.13688. Epub 2019 Sep 3. PMID: 31482684.
+34.   Atabaki M, Shariati-Sarabi Z, Tavakkol-Afshari J, Mohammadi M. Significant immunomodulatory
+      properties of curcumin in patients with osteoarthritis; a successful clinical trial in Iran. Int
+      Immunopharmacol. 2020 Aug;85:106607. doi:10.1016/j.intimp.2020.106607. Epub (2020) Jun 12.
+      PMID: 32540725.
+35.   Shep D, Khanwelkar C, Gade P, Karad S. Safety and efficacy of curcumin versus diclofenac in
+      knee osteoarthritis: a randomized open-label parallel-arm study. Trials. (2019) Apr 11;
+      20(1):214. doi:10.1186/s13063-019-3327-2. PMID: 30975196; PMCID: PMC6460672.
+36.   Roos EM, Roos HP, Lohmander LS, Ekdahl C, Beynnon BD. Knee Injury and Osteoarthritis
+      Outcome Score (KOOS)--development of a self-administered outcome measure. J Orthop Sports
+      Phys Ther. 1998;28(2):88-96. PMID:9699158 doi:10.2519/jospt.1998.28.2.88
+37.   Henrotin Y, Malaise M, Wittoek R, de Vlam K, Brasseur JP, Luyten FP, Jiangang Q, Van den
+      Berghe M, Uhoda R, Bentin J, De Vroey T, Erpicum L, Donneau AF, Dierckxsens Y. Bio-
+      optimized Curcuma longa extract is efficient on knee osteoarthritis pain: a double-blind
+      multicenter randomized placebo controlled three-arm study. Arthritis Res Ther. (2019) Jul 27;
+      21(1):179. doi:10.1186/s13075-019-1960-5. PMID: 31351488; PMCID: PMC6661105.
+38.   Gupte PA, Giramkar SA, Harke SM, Kulkarni SK, Deshmukh AP, Hingorani LL, Mahajan MP,
+      Bhalerao SS. Evaluation of the efficacy and safety of Capsule Longvida Optimized Curcumin
+      (solid lipid curcumin particles) in knee osteoarthritis: a pilot clinical study. J Inflamm Res. (2019)
+      Jun 5; 12:145-152. doi:10.2147/JIR.S205390. PMID: 31239749; PMCID: PMC6559772.
+39.   Nakagawa Y, Mukai S, Yamada S, Murata S, Yabumoto H, Maeda T, Akamatsu S. The Efficacy and
+      Safety of Highly-Bioavailable Curcumin for Treating Knee Osteoarthritis: A 6-Month Open-
+      Labeled Prospective Study. Clin Med Insights Arthritis Musculoskelet Disord. (2020) Aug 12;
+      13:1179544120948471. doi:10.1177/1179544120948471. PMID: 32848491; PMCID: PMC7425263.
+40.   Akai M, Doi T, Fujino K, Iwaya T, Kurosawa H, Nasu T. An outcome measure for Japanese people
+      with knee osteoarthritis. J Rheumatol. 2005;32(8):1524-1532. PMID:16078330
+41.   Okuda M, Omokawa S, Okahashi K, Akahane M, Tanaka Y. Validity and reliability of the
+      Japanese Orthopaedic Association score for osteoarthritic knees. J Orthop Sci. 2012;17(6):750-
+      756. PMID:22868702 doi:10.1007/s00776-012-0274-0
+42.   Belcaro G, Cesarone MR, Dugall M, Pellegrini L, Ledda A, Grossi MG, Togni S, Appendino G. Product-
+      evaluation registry of Meriva, a curcumin-phosphatidylcholine complex, for the complementary
+      management of osteoarthritis. Panminerva Med. (2010) Jun; 52(2 Suppl 1):55-62. PMID: 20657536.
+43.   Panahi Y, Alishiri GH, Parvin S, Sahebkar A. Mitigation of Systemic Oxidative Stress by
+      Curcuminoids in Osteoarthritis: Results of a Randomized Controlled Trial. J Diet Suppl.
+      2016;13(2):209-220. PMID:25688638 doi:10.3109/19390211.2015.1008611
+44.   Rahimnia AR, Panahi Y, Alishiri G, Sharafi M, Sahebkar A. Impact of Supplementation with
+      Curcuminoids on Systemic Inflammation in Patients with Knee Osteoarthritis: Findings from a
+      Randomized Double-Blind Placebo-Controlled Trial. Drug Res (Stuttg). (2015) Oct;65(10):521-
+      5. doi:10.1055/s-0034-1384536. Epub 2014 Jul 22. PMID: 25050518.
+
+
+
+
+24 ALTERNATIVE THERAPIES, SEPTEMBER 2023 VOL. 29 NO. 6                                                          Doyle—Safety and Efficacy of Turmeric Extract
+Reproduced with permission of copyright owner. Further reproduction
+                  prohibited without permission.
+

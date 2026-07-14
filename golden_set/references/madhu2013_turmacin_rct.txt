@@ -1,0 +1,485 @@
+Inflammopharmacol (2013) 21:129–136
+DOI 10.1007/s10787-012-0163-3                                                         Inflammopharmacology
+ RESEARCH ARTICLE
+
+
+
+Safety and efficacy of Curcuma longa extract in the treatment
+of painful knee osteoarthritis: a randomized placebo-controlled
+trial
+K. Madhu • K. Chanda • M. J. Saji
+
+
+
+
+Received: 4 November 2012 / Accepted: 29 November 2012 / Published online: 16 December 2012
+Ó Springer Basel 2012
+
+
+Abstract Curcuma longa Linn. is widely used for the                safety and efficacy of NR-INF-02 as a useful treatment
+treatment of disorders associated with inflammation and            option for patients with primary painful knee OA.
+was evaluated for its safety and efficacy in the treatment of
+painful knee osteoarthritis (OA). This was a randomized,           Keywords Curcuma longa Linn.  Osteoarthritis 
+single blind, placebo-controlled trial. Total of 120 patients      Visual Analog Scale (VAS)  Western Ontario
+(37 males and 83 females) with primary knee OA received            and McMaster Universities Osteoarthritis Index
+either placebo (400 mg twice daily) or NR-INF-02                   (WOMAC)  Clinician Global Impression Change (CGIC) 
+(500 mg twice daily) or glucosamine sulphate (GS)                  Placebo-controlled clinical trial
+(750 mg twice daily) alone or combination of NR-INF-02
+and GS for 42 days. The efficacy was assessed during
+treatment period, on day 21 and day 42. The decrease in            Introduction
+severity of pain symptom and function of affected knee as
+primary efficacy outcome measure was assessed by Visual            Osteoarthritis (OA) is one of the most common types of
+Analog Scale (VAS) and Western Ontario and McMaster                arthritis. A community survey in rural and urban parts of
+Universities Osteoarthritis Index (WOMAC) scale,                   India shows its prevalence to be 17–60.6 % (Sharma et al.
+respectively. The clinical examination of affected joint was       2007). OA is reported to affect 20 million people in US
+measured by an orthopaedic specialist and using a Clini-           alone and the number is expected to increase to 66–100 %
+cian Global Impression Change (CGIC) scale. The analysis           over the next two decades (Felson 2008).
+of post-treatment scores following administration of NR-              The treatment options for OA include pharmacological,
+INF-02 using VAS, WOMAC, and CGIC at each clinical                 non pharmacological, and surgical. The most frequently
+visit showed significant decrease (p \ 0.05) compared to           used pharmacological agents include analgesics (Felson
+placebo. NR-INF-02 treated group showed a significant              2006) viz., acetaminophen, NSAIDs like naproxen, salic-
+(p \ 0.01) decrease in use of rescue medication, along with        ylates, ibuprofen, selective COX2 inhibitor (celecoxib),
+clinical and subjective improvement compared to placebo.           and glucosamine, chondroitin sulphate, capsaicin, intra-
+The tolerability and acceptability profile of NR-INF-02            articular injections of hyaluronic acid, steroids, etc. The
+was better during the trial period. The study demonstrates         side effects of analgesics vary from mild gastritis to gastric
+                                                                   ulcers, bleeding and perforation (Fries et al. 1991).
+                                                                      The use of oral glucosamine is well established in the
+                                                                   treatment of OA over decades. Glucosamine as a precursor
+K. Madhu  K. Chanda (&)
+Division of Clinical Pharmacology, St. John’s Medical College,     of glycosaminoglycans forms a major component of the
+Bangalore 560034, India                                            joint cartilage. It is therefore hypothesized that supple-
+e-mail: drchandakulkarni@gmail.com                                 mental glucosamine may help rebuild cartilage and relieve
+                                                                   the symptoms of arthritis (Felson 2006; Clegg et al. 2006).
+M. J. Saji
+Department of Orthopaedics,                                           Usage of alternative therapies, such as acupuncture and
+St. John’s Medical College and Hospital, Bangalore, India          medicinal herbs, are on the rise since there are risks and
+
+
+                                                                                                                      123
+130                                                                                                            K. Madhu et al.
+
+
+limitations associated with commonly used NSAID group            months and showing radiological evidence (tibiofemoral
+of drugs. According to Ahmed et al. (2005), 60–90 % of           osteophytes of at least 1 mm and Kellgren and Lawrence
+OA patients are reported to seek treatment with comple-          grade 2 or 3) (Kellgren and Lawrence 1957) of OA Grade 2
+mentary and alternative medicine (CAM). Many herbal              [definite osteophytes, definite narrowing of joint space] and
+drugs have been investigated for their utility in the treat-     Grade 3 [moderate multiple osteophytes, definite narrow-
+ment of OA and also found to be safe. Curcuma longa, one         ing of joints space, some sclerosis, and possible deformity
+of the herbal preparations, is shown to be effective in the      of bone contour]. Patients with concurrent medical or
+management of OA (Khanna et al. 2007). Curcuminoids, a           arthritic conditions confounding evaluation of the knee
+component of Curcuma longa, has been extensively stud-           OA, primary predominant patella-femoral disease, history
+ied for the treatment of different types of arthritis (Jurenka   of clinically significant trauma/surgery to the affected
+2009). However, there are no reports on anti-inflammatory        knee, and co-existing disease that could preclude the suc-
+and analgesic activity of polar fraction especially poly-        cessful completion of the trial were excluded from the trial.
+saccharides containing Curcuma longa extract.                       A specially designed proforma was used to collect
+   Hence, the present placebo-controlled, randomized trial       demographic data such as, age, sex, weight, height, etc.
+was designed to investigate efficacy and safety of poly-         The disease data, duration, and severity of the OA
+saccharide rich Curcuma longa extract (NR-INF-02) for its        including co-existing disease conditions such as controlled
+analgesic and anti-inflammatory property in patients with        diabetes mellitus, hypertension, and data on drug treatment,
+knee OA and to compare the same with placebo, gluco-             on oral, and topical use of NSAIDs were recorded.
+samine sulphate (GS) alone, and its combination with GS.            The subjects enrolled for clinical trial were allocated to
+                                                                 either one of the treatment groups viz., placebo, NR-INF-
+                                                                 02, GS, combination of NR-INF-02 and GS using com-
+Methods                                                          puter-generated simple randomization sequence. The
+                                                                 unique integer random numbers were then considered (box
+The investigational product NR-INF-02, an extract from           containing either placebo or NR-INF-02 or combination)
+rhizome of Curcuma longa Linn., developed and registered         for allocation of treatment with trial medication generated
+as TurmacinTM by Natural Remedies Pvt. Ltd, Bangalore,           at Natural Remedies Pvt. Ltd., Bangalore, India. The trial
+India was used as a trial medication. This was supplied as       subjects and orthopedic consultant were blinded, during the
+oral gelatin capsules each 500 mg of active NR-INF-02            entire trial period except study investigator (single blind)
+containing 12.6 % w/w polysaccharides as determined by           who was aware of treatment intervention. The trial proce-
+high pressure liquid chromatography (HPLC) described by          dure was explained to patients in their respective language
+Gomis et al. (2001).                                             before randomization and enrollment procedure.
+   This was a randomized, single blind, placebo-controlled,         The treatment schedule of various study groups and
+comparative study carried out by the Division of Clinical        doses are mentioned in Table 1. The dose of NR-INF-02
+Pharmacology at the outpatient Department of Orthope-            was administered based on the pre-clinical studies, wherein
+dics, of a tertiary care hospital. Approval from Institutional   NR-INF-02 showed significant anti-inflammatory and
+Ethical Review Board (IERB) was obtained. The study was          analgesic activity at 90 mg/kg rat body weight (unpub-
+carried out according to the principles of the International     lished data). The dose for glucosamine was arrived on the
+Conference on Harmonization (ICH) and Good Clinical              basis of previous published literature (Herrero-Beaumont
+Practice (GCP) as well as World Health Organization              et al. 2007).
+(WHO) and Indian Council of Medical Research (ICMR)                 The assessment of primary outcome measure among
+guidelines for controlled trials on pharmaceutical products,     study patients was carried out on day zero, 21 and 42 for
+2006. The trial was registered at Clinical Trial Registry of     severity of OA pain using Visual Analogue Scale (VAS)
+India [CTRI/2010/091/001251]. Written and informed               which was scored between 0 and 100 [‘0’ = no pain to
+consent was obtained from each patient at screening before       ‘100’ = most severe pain].
+the initiation of study-related procedures. The power of the        WOMAC scale (Bellamy 1989), validated in previous
+study was 87 % with a sample size of 30 in each of the four      study and modified for Indian use [CRD Pune version]
+groups (N = 120 excluding drop outs) to detect the dif-          (Likert Version-3.0), was used for functional assessment
+ference of 45 % reduction in pain scores using VAS scale         with 24 questions (Q) to grade the pain (Q1–5), stiffness
+compared to placebo.                                             (Q6–7), and physical functional difficulty (Q8–24) per-
+   Patients of both genders were included in the trial if they   taining to the affected knee joint/joints. The patient
+were above 40 years of age with clinical evidence con-           response was graded qualitatively (0 = none, 1 = mild,
+firming diagnosis of knee OA. The duration of pain was at        2 = moderate, 3 = severe, 4 = extreme) with a maximum
+least 6 months on majority of days during the preceding          score of 96 (Chopra et al. 2004).
+
+
+123
+Safety and efficacy of Curcuma longa extract in the treatment of painful knee osteoarthritis                                     131
+
+
+Table 1 Treatment schedule with trial medications in patients with knee OA
+Pt.             Treatment                                                     Morning             Night                Total
+group no.       groups and doses                                              (No. of capsules)   (No. of capsules)    dose/day in mg
+
+I               Placebo (Microcrystalline cellulose)—400 mg/capsule           1                   1                    800
+II              NR-INF-02 (500 mg/capsule)                                    1                   1                    1,000
+III             GS (375 mg/capsule)                                           2                   2                    1,500
+IV              NR-INF-02 (500 mg/capsule) ? GS (375 mg/capsule)              1?2                 1?2                  1,000 ? 1,500
+
+
+   The Clinician Global Impression of change (CGIC) was                  intervention among the groups as per intension to treat
+employed to assess improvement in patients’ overall con-                 [ITT] principle. p value less than 0.05 was considered as
+dition and was rated based on the clinical examination on                statistically significant.
+day 21 and 42. The scale range was from 0 to 7 [‘0’ = no
+pain and ‘7’ = worst pain]. Assessment through clinical
+examination was carried out by the designated orthopedic                 Results
+consultant for presence or absence of joint tenderness,
+crepitus, limitation of movement, subluxation of joint, and              Of the 157 screened, 120 eligible patients were randomized
+muscle wasting.                                                          into the study [Fig. 1]. There was no significant difference
+   Tablets, acetaminophen (paracetamol) 2,000–4,000 mg                   in the demographic, anthropometric, and clinical charac-
+per day, were allowed as rescue medication in patients of                teristics between the four study groups except gender wise
+all groups. Patients were instructed to withhold rescue                  distribution (p = 0.03) and the intake of NSAIDs for OA
+medication 24 h prior to clinical examination of knee joint              (p = 0.019) (Table 2).
+at each clinic visit. The use of other drugs from NSAID                      The reduction in VAS, WOMAC, and CGIC at baseline,
+group and narcotic analgesics were not permitted. The                    first follow-up and second follow-up are presented in
+assessment of compliance to medications was carried out                  Table 3. Overall, there was a significant reduction in VAS,
+by directing study patients to record number of times study              WOMAC, and CGIC scales over the treatment period.
+medications taken on a calendar given to each patient. This              There was a significant interaction effect between the four
+secondary outcome measure was assessed by recording                      study groups and time for VAS, WOMAC, and CGIC
+number of acetaminophen (paracetamol) tablets used as                    scales (p \ 0.01). Significantly greater reduction was
+rescue medication by each patient and was entered in Case                observed in the VAS pain scores in patients who were
+Report Form (CRF) at each clinic visit. The total number of              administered NR-INF-02 and GS alone compared to pla-
+rescue medications consumed was then calculated for each                 cebo and combination of NR-INF-02 with GS groups
+individual group. The acceptability of test medications                  (p \ 0.05). However, no significant difference was
+by study patients wherever available was recorded at the                 observed between NR-INF-02 and GS alone. Reduction in
+end of study period and graded as 0–3 (0 = Not accept-                   the WOMAC scores was significantly higher in the
+able, and 1–3 as acceptable—1 = good, 2 = better, and                    NR-INF-02 compared to placebo and combination of NR-
+3 = best).                                                               INF-02 with GS groups (p \ 0.05) with no significant
+   The data on frequency of occurrence of adverse events                 difference observed with group treated with GS. NR-INF-
+as a measure of assessment of safety in each trial group was             02 alone and combination of NR-INF-02 with GS showed
+recorded throughout the study period and categorized                     significant reduction (p \ 0.05) for Clinicians Global
+based on organ system involved. The causality was eval-                  Impression of Change (CGIC) compared with placebo and
+uated using WHO guidelines.                                              GS alone with greater effect being observed for NR-INF-02
+                                                                         group.
+Statistical analysis                                                         There was a significant reduction in the number of
+                                                                         patients complaining of joint tenderness from initial 29
+Data were analyzed using one-way ANOVA to compare                        patients to 4 patients at the end of the study [86.2 %
+the baseline values for demographic, anthropometric, and                 reduction] in the NR-INF-02 treated group compared to
+clinical characteristics. The Chi square test was used for               other groups (p \ 0.01). However, for the joint crepitus, a
+the analysis of categorical variables and repeated measure               significant difference was seen in NR-INF-02 and also its
+ANOVA for the primary efficacy and safety parameters,                    combination with GS at the end of the study period. Sig-
+i.e., clinical assessment from day 0 to day 42, and when                 nificant decrease was obtained when patients were assessed
+found significant Bonferroni’s post hoc test and mixed                   for joint effusion, terminal limitation of joint movement
+model analysis to assess the effect of pharmacological                   across all treatment groups compared to placebo (Table 4).
+
+
+                                                                                                                             123
+132                                                                                                                                             K. Madhu et al.
+
+Fig. 1 Patient disposition for                                                     Screened (N=157)
+the study                                                                                                                 Not randomized N=37
+                                                                                                                          Refusal for consent = 10
+                                                                                                                          Patients on other trials = 9
+                                                                                                                          Uncontrolled Hypertension = 4
+                                                                                                                          Uncontrolled DM = 6
+                                                                                                                          Surgery of knee joint = 4
+                                                                                    Randomized (N=120)                    Unable to come for follow up =4
+
+
+
+
+                                         Placebo (n=30)        NR-INF-02 (n=30)                   Glucosamine sulphate (n=30)           NR-INF-02 + GS (n=30)
+
+
+
+
+                                       Poor compliance [5]            Poor compliance [3]                 Poor compliance [4]              Poor compliance [8]
+                                       Lost to follow-up [1]          Lost to follow-up [1]               Lost to follow-up [2]            Lost to follow-up [6]
+                                       Adverse events [2]             Adverse events [2]                  Adverse events [5]              Adverse events [4]
+
+
+
+
+                                            Completed (n=29)        Completed (n=29)                      Completed (n=28)                  Completed (n=24)
+
+
+
+
+Table 2 Baseline demographic, anthropometric, and clinical characteristics among the four study groups
+General baseline characteristics        Treatment groups*
+                                        Placebo                NR-INF-02                   Glucosamine             NR-INF-02              P value (One way
+                                                                                           sulphate (GS)           ?GS                    ANOVA/Chi square)
+
+Gender
+ Male                                   13                     13                          5                       6
+ Female                                 17                     17                          25                      24                     0.03** Significant
+Age (year)                              56.77 ± 9.98           56.63 ± 10.58               56.80 ± 7.99            58.17 ± 9.30           0.91 Not significant
+Weight (kg)                             67.13 ± 9.54           65.53 ± 12.59               66.27 ± 9.34            67.00 ± 12.73          0.91 Not significant
+Height (cm)                             155.13 ± 8.31          155.67 ± 8.08               154.27 ± 7.43           155.13 ± 6.32          0.94 Not significant
+Body mass index [BMI]                   27.97 ± 4.21           27.01 ± 4.60                27.80 ± 3.08            27.89 ± 5.20           0.81 Not significant
+Grade of OA
+ Mild                                   1                      2                           2                       2                      0.72 Not significant
+ Moderate                               22                     23                          18                      22
+ Severe                                 7                      5                           10                      6
+Diabetes (yes/no)                       5/25                   7/23                        4/26                    4/26                   0.69 Not significant
+Hypertension (yes/no)                   9/21                   7/23                        9/21                    8/22                   0.92 Not significant
+Local NSAID’s application (yes/no)      11/19                  4/26                        4/26                    7/23                   0.90 Not significant
+Oral NSAID’s intake (yes/no)            6/24                   2/28                        0/30                    7/23                   0.019**Significant
+Baseline VAS                            61.50 ± 13.71          66.50 ± 21.06               60.97 ± 16.80           65.83 ± 15.48          0.466 Not significant
+Baseline WOMAC                          57.23 ± 9.63           54.97 ± 9.85                58.30 ± 12.73           60.73 ± 11.47          0.240 Not significant
+Baseline CGIC                           05.77 ± 0.85           05.13 ± 1.16                05.67 ± 1.093           05.33 ± 1.32           0.110 Not significant
+* All values are mean ± SD except for Gender, Diabetes, Hypertension, Local and Oral NSIAD’s application
+** p \ 0.05
+
+
+
+123
+Safety and efficacy of Curcuma longa extract in the treatment of painful knee osteoarthritis                                                    133
+
+
+Table 3 Effect of treatment on VAS, WOMAC, and CGIC over 21st day and 42nd day follow-up
+Variables ? GS              Placebo (n = 29)           NR-INF-02 (n = 29)                Glucosamine (n = 24)            NR-INF-02 ? GS (n = 28)
+
+VAS#
+    Baseline                61.50 ± 13.71              66.50 ± 21.06                     60.97 ± 16.80                   65.83 ± 15.48
+    21st day1               53.83 ± 15.84              38.83 ± 21.36a,c                  41.33 ± 17.66a,c                49.48 ± 24.14
+               2                                                        a,c                              a,c
+    42nd day                46.03 ± 20.84              19.48 ± 17.84                     29.29 ± 20.58                   36.33 ± 28.99
+WOMAC#
+    Baseline                57.23 ± 9.63               54.97 ± 9.85                      58.30 ± 12.73                   60.73 ± 11.47
+    21st day1               52.23 ± 9.63               36.67 ± 16.08a,c                  44.17 ± 15.77                   47.31 ± 19.16
+    42nd day2               47.90 ± 12.59              27.14 ± 16.13a,c                  34.92 ± 19.48                   36.21 ± 24.74
+CGIC#
+    Baseline                 5.77 ± 0.85                  5.13 ± 1.16                     5.67 ± 1.09                     5.33 ± 1.32
+    21st day1                5.53 ± 0.97                  3.73 ± 1.92a,b                  4.57 ± 1.40                     4.41 ± 1.82a,b
+    42nd day2                4.72 ± 1.27                  2.21 ± 1.80a,b                  3.32 ± 1.78                     3.37 ± 2.41a,b
+#
+     Significant interaction effect between time and treatment (p \ 0.01)
+1
+     Significantly different from baseline to first follow-up (p \ 0.01)
+2
+     Significantly different from baseline to second follow-up (p \ 0.01)
+a
+   Significantly different from Placebo (p \ 0.05); b Significantly different from GS (p \ 0.05); c Significantly different from NR-INF-02 ? GS
+(p \ 0.05)
+
+
+Table 4 Findings of parameters following clinical assessment among various treatment groups expressed as number (n) of patients and
+percentages (%)
+Parameters of clinical examination              Placebo              NR-INF-02               Glucosamine sulphate (GS)            NR-INF-02 ? GS
+
+Presence of joint tenderness
+    Baseline (n)                                30 (100)             29 (100)                29 (100)                             27 (100)
+    21st day                                    25 (83.3)            13 (44.8)               16 (55.1)                            17 (62.9)
+    42nd day                                    20 (66.7)               4 (13.7)              8 (27.5)                            10 (37.0)
+Number and % reduction                          10 (16.7)            25 (86.2)**             21 (72.4)                            17 (62.9)
+Presence of joint crepitation
+    Baseline (n)                                30 (100)             27 (100)                29 (100)                             29 (100)
+    21st day                                    29 (96.7)            22 (81.4)               28 (96.5)                            27 (93.1)
+    42nd day                                    28 (93.3)            17 (62.9)               26 (89.6)                            18 (62.8)
+Number and % reduction                            2 (6.7)            10 (37)**                3 (10.3)                            11 (37.9)**
+Joint effusion
+    Baseline (n)                                11 (100)             13 (100)                13 (100)                             13 (100)
+    21st day                                      8 (72.7)              2 (15.3)              3 (23.3)                             1 (7.6)
+    42nd day                                      8 (72.7)              0 (0)                 3 (23.3)                             1 (7.6)
+Number and % reduction                            3 (27.2)           13 (100)**              10 (76.9)**                          12 (92.3)**
+Terminal limitation of joint movement
+    Baseline (n)                                  7 (100)               6 (100)               6 (100)                              6 (100)
+    21st day                                      6 (85.7)              2 (33.3)              0 (100)                              3 (50)
+    42nd day                                      8 (114)               1 (16.6)              0 (100)                              3 (50)
+Number and % reduction                          -1 (14.2)               5 (83.3)**            6 (100)**                            3 (50)**
+** Indicates p \ 0.01
+
+   The use of acetaminophen (paracetamol) tablets in a                            patients’ acceptability of the study medications from those
+dose range of 2,000 to 4,000 mg/day as rescue medication                          available showed significantly [p \ 0.05] higher rating for
+was reported as a secondary outcome measure which was                             NR-INF-02 followed by GS, combination of NR-INF-02
+significantly lesser in the NR-INF-02 group compared to                           with GS and placebo (93.1, 83.3, 67.9, and 60 %),
+other groups (p \ 0.01) (Table 5). The assessment on                              respectively (data not shown).
+
+
+                                                                                                                                           123
+134                                                                                                                 K. Madhu et al.
+
+Table 5 Extent of use of
+                                 Variables        Placebo           NR-INF-02a          Glucosamine sulphate       NR-INF-02 ? GS
+acetaminophen as rescue
+                                                  (n = 30)          (n = 30)            (GS) (n = 30)              (n = 30)
+medication by patients in
+various treatment groups         Rescue medications
+                                  Yes             25 (83.3 %)       13 (43.3 %)         22 (73.3 %)                18 (60.0 %)
+a
+  Significantly different from    No               5 (16.7 %)       17 (56.7 %)          8 (26.7 %)                12 (40.0 %)
+placebo (p \ 0.01)
+
+
+Table 6 Pattern and extent of
+                                 Pattern of AEs                 Placebo           NR-INF-02           GS             NR-INF-02
+Adverse events (AEs) reported
+                                                                (n = 30)          (n = 30)            (n = 30)       ? GS (n = 30)
+in various treatment groups
+                                 Generalized body pain          1                 –                   1              –
+                                 Cough                          1                 –                   –              1
+                                 Dyspepsia                      –                 2                   1              1
+                                 Fever                          –                 –                   1              1
+                                 Sore throat                    –                 –                   2              0
+                                 Pedal edema                    –                 –                   –              1
+                                 Total AEs—13 (10.8 %)          2 (6.6 %)         2 (6.6 %)           5 (16.6 %)     4 (13.3 %)
+
+
+
+   A total of thirteen [10.8 %] adverse events (AEs) were           and many other are reported to be involved in its beneficial
+observed across four treatment groups. The patients treated         effects (Chainani-Wu 2003; Badreldin et al. 2006).
+with NR-INF-02 exhibited least number of AEs during the                The VAS scores are reported to indicate severity of
+intervention period. The AEs in all the study groups were           subjective symptomatic pain in patients with chronic con-
+mild and did not warrant the withdrawal of any study                ditions like OA, whereas WOMAC is mainly for functional
+medications (Table 6).                                              assessment of pain. In the present study, NR-INF-02
+                                                                    treatment significantly reduced both VAS and WOMAC
+                                                                    scores in comparison with placebo thus supporting its dual
+Discussion                                                          beneficial effects among OA patients in terms of symp-
+                                                                    tomatic and functional improvement along with pain relief
+Osteoarthritis is one of the most common types of arthritis         thereby contributing to overall efficacy. It is interesting to
+among elderly population with a significant impact on               note that the onset of beneficial effect of NR-INF-02, an
+quality of life. To the best of our knowledge, this would be        herbal product was observed within 1 month. While it is
+the first clinical study using curcuminoids-free Curcuma            difficult to justify the same, it may be attributed to the
+longa Linn. as a single ingredient in the treatment of knee         physicochemical properties of improved extract of poly-
+OA. Hence, in the present study, safety and efficacy of NR-         saccharides contributing to enhanced potency and therefore
+INF-02 was investigated and compared with placebo, GS               pharmacological activity of this investigational product.
+alone and combination of NR-INF-02 with GS. The results                The use of functional scale WOMAC is an established
+showed a significant reduction in pain as the primary               validated scale for the evaluation of pain as a manifestation
+efficacy outcome measure following administration of NR-            of OA. A number of national and international studies have
+INF-02 over a period of 42 days using standard validated            been conducted using the same (Clegg et al. 2006; Bellamy
+scales viz. VAS, WOMAC, and CGIC. In addition, a                    1989). However, in the present study the source WOMAC
+reduced intake of rescue medications was observed in this           modified for Indian use (CRD Pune version) validated in
+group which is further supportive of efficacy profile of NR-        the previous studies was used for convenience (Chopra
+INF-02.                                                             et al. 2004). A differential response as a significant
+   The mechanisms of actions of Curcuma longa Linn.                 decrease in algofunctional parameters was observed in
+implicated in improving symptoms and signs of OA have               patients treated with NR-INF-02 compared to placebo and
+been explored extensively in the past which primarily               its combination with GS. The failure to observe similar
+include anti-inflammatory and anti-oxidant properties. In           response in patients treated with GS alone may be attrib-
+addition, the various biochemical parameters that influence         uted to its lack of optimal anti-inflammatory effects within
+pharmacological activity have been proposed which                   42 days of treatment as against 6-month treatment in the
+include phospholipase, lipoxygenase, cycloxygenase 2,               previous study (Clegg et al. 2006). Further, a recent meta-
+leukotrienes, thromboxane, prostaglandins, nitric oxide,            analysis on glucosamine and chondroitin supplements has
+
+
+123
+Safety and efficacy of Curcuma longa extract in the treatment of painful knee osteoarthritis                                       135
+
+
+reported that the joint health ingredients do not reduce joint           (ARTREX, MENDAR), a standardized polyherbal ayurv-
+pain or have a significant impact on narrowing of joint                  edic formulation containing Curcuma longa Linn. as one of
+space (Wandel et al. 2010) indicating lack of their efficacy             its components. This study design was a double blind,
+on structural changes. In addition, it may be important to               randomized, placebo-controlled trial for 32 weeks and the
+note that the unfavorable pharmacokinetic characteristic                 inclusion and exclusion criteria were similar to the present
+profile of regular GS formulation involving negligible                   study. The results of this study showed a significant
+concentration attainable in the joint cartilage may be con-              improvement in scores in the RA-11 treated group (Chopra
+tributing to observed ineffectiveness in OA (Kulkarni                    et al. 2004). Another study by Kulkarni et al. (1991) has
+2012). Surprisingly, the combination of GS and NR-INF-                   also evaluated the clinical efficacy of a herbo-mineral
+02 was not superior to effects of NR-INF-02 alone as                     formulation containing roots of Withania somnifera, the
+would be anticipated except in improving a few of the                    stem of Boswellia serrata, rhizomes of Curcuma longa,
+clinical outcome parameters such as joint crepitation and                and a zinc complex (Articulin-F), which was a randomized,
+effusion in a limited number of patients.                                double-blind, placebo-controlled, cross-over study in
+   A third scale—Clinician Global Impression of Change                   patients with OA for 12 weeks. The primary efficacy
+[CGIC] adopted based on clinical examination of affected                 parameters were assessed based on severity of pain,
+joint/joints by an orthopedic consultant showed significant              morning stiffness, Ritchie articular index joint score, dis-
+improvement in patients treated with NR-INF-02. This                     ability score, and grip strength. This study showed a
+effect may be considered as an additional parameter sup-                 significant decrease in the severity of pain (p \ 0.001) and
+porting its therapeutic efficacy. As clinical examination                disability score (p \ 0.05) with no improvement in radio-
+plays a crucial role in evaluation of symptoms the observed              logical assessment in either groups. Hence, in the present
+decrease in the joint tenderness and effusion in the present             study trial patients were subjected for X-ray examination
+study following treatment with NR-INF-02 may be attrib-                  only as inclusion criteria and not for post-treatment eval-
+uted to its possible anti-inflammatory effect.                           uation. It is important to note that the above studies did not
+   It is a well established fact that radiological features              involve clinical examination of the affected joint/joints by
+correlate poorly with pain relief in OA (Sharma 2003) and                the orthopedic expert. In addition, in both these studies
+hence it was felt reasonable to do X-ray examination only                Curcuma longa Linn. was used in combination with other
+for diagnostic purposes at the time of enrollment. Studies               herbs/mineral components as against NR-INF-02 which
+with long-term GS administration have revealed recog-                    contained polysaccharide extract as a single ingredient
+nizable radiological improvement due to its modulatory                   which produced significant effect within 21 days of its oral
+effects on structural changes in OA. Hence, it may be                    administration.
+prudent to examine the influence of NR-INF-02 on struc-                     The present study has many strengths: (1) the trial
+tural changes in OA through radiological examination only                product had a single ingredient (2) the study design was a
+following its long-term administration. A significant                    parallel group, placebo-controlled evaluation (3) validated
+reduction in pain along with reduced intake of acetami-                  tools such as VAS and WOMAC were used for assessment
+nophen [NSAID] permitted as rescue medication in                         of efficacy along with CGIC (4) efficacy outcome also
+patients treated with NR-INF-02 implies its efficacy in                  included patients’ overall acceptability of the trial formu-
+relieving pain and hence may benefit patients by mini-                   lation (5) study analysis was adjusted for the covariables
+mizing treatment costs as well as reduced risk of ADRs                   such as age, gender, and BMI which removed the con-
+associated with regular NSAID consumption in the elderly.                founding variables. A few limitations to the present study
+   Different classes of immunomodulatory polysaccharides                 include—(1) a small sample size (2) the study design was a
+are known to be present in herbal products which include                 single blind, due to differences in doses and formulations
+glucans and mannans and are found to possess anti-                       (3) short treatment duration not sufficient enough to assess
+inflammatory activity in vivo after oral administration.                 safety and efficacy in long-term pain management (4) lastly
+These polysaccharides have been demonstrated to have                     even though validated scales were used to assess the OA
+good bioavailability after oral administration (Ramberg                  pain these were subjective. It would have been appropriate
+et al. 2010; Trnovec and Hrmová 1993). In addition,                     to document the improvement and future course of OA in
+Curcuma longa Linn. is reported to contain bioactive                     terms of preventing progression of structural damage seen
+polysaccharides, ukonans, as shown in various in vitro                   as pathological sequel of OA to confirm the reliable effi-
+models (Gonda et al. 1993). Hence, it is hypothesized that               cacy outcome. The same was not possible due to shorter
+these polysaccharides may be a contributory factor for the               duration of treatment which was inadequate to reflect on
+observed efficacy despite short-term treatment with NR-                  these parameters. Hence, there is a need to confirm the
+INF-02. Further, the efficacy outcome measures of our                    above results in a larger number of patients with longer
+study are similar to those seen in earlier study with RA-11              duration of treatment. However, the clinical and subjective
+
+
+                                                                                                                            123
+136                                                                                                                            K. Madhu et al.
+
+
+correlation of the achieved pain reduction is valid and the               Felson DT (2006) Clinical practice. Osteoarthritis of the knee. N Engl
+study provides supportive evidence for the basic proof of                      J Med 354:841–848
+                                                                          Felson DT (2008) Osteoarthritis. In: Fauci A, Braunwald E, Kasper D,
+concept data on efficacy of NR-INF-02 for symptomatic                          Hauser S, Longo D, Jameson J, Loscalzo J (Eds). Harrison’s
+management of painful knee OA.                                                 principles of internal medicine, New York, McGraw-Hill,
+                                                                               pp 2158–2164
+                                                                          Fries JF, Williams CA, Bloch DA (1991) The relative toxicity of
+                                                                               nonsteroidal antiinflammatory drugs. Arthritis Rheum
+Conclusions                                                                    34:1353–1360
+                                                                          Gomis DB, Tamayoa DM, Alonso JM (2001) Determination of
+The present study evaluated the efficacy and safety of NR-                     monosaccharides in cider by reversed-phase liquid chromatog-
+INF-02, GS and combination of two in the treatment of                          raphy. Anal Chim Acta 436:173–180
+                                                                          Gonda R, Tomoda M, Ohara N, Takada K (1993) Arabinogalactan
+painful knee OA, in a placebo-controlled trial. This study                     core structure and immunological activities of ukonan C, an
+effectively demonstrated acceptable efficacy and tolera-                       acidic polysaccharide from the rhizome of Curcuma longa. Biol
+bility profile of NR-INF-02 in a small group of subjects                       Pharm Bull 16:235–238
+indicating its utility as one of the treatment options in                 Herrero-Beaumont G, Ivorra JA, Del Carmen Trabado M et al (2007)
+                                                                               Glucosamine sulfate in the treatment of knee osteoarthritis
+symptomatic management of pain among patients with                             symptoms: a randomized, double-blind, placebo-controlled study
+uncomplicated knee OA.                                                         using acetaminophen as a side comparator. Arthritis Rheum
+                                                                               56:555–567
+Acknowledgments The authors wish to gratefully acknowledge                Jurenka JS (2009) Anti-inflammatory properties of curcumin, a major
+Natural Remedies Private Limited, Bangalore, India, for providing              constituent of Curcuma longa: a review of preclinical and
+test medications for this trial and to Mr. Devesh Mishra, lecturer,            clinical research. Altern Med Rev 14:141–153
+Division of Clinical Pharmacology, St. John’s Medical College,            Kellgren JH, Lawrence JS (1957) Radiological assessment of osteo-
+Bangalore, for his assistance in preparation of protocol in the initial        arthrosis. Ann Rheum Dis 16:494–502
+part of this clinical trial.                                              Khanna D, Sethi G, Ahn KS et al (2007) Natural products as a gold
+                                                                               mine for arthritis treatment. Curr Opin Pharmacol 3:344–351
+                                                                          Kulkarni RR, Patki PS, Jog VP et al (1991) Treatment of osteoar-
+                                                                               thritis with a herbomineral formulation: a double-blind, placebo-
+References                                                                     controlled, cross-over study. J Ethnopharmacol 33:91–95
+                                                                          Kulkarni Chanda, Leena A, Lohit K et al (2012) A randomized
+Ahmed S, Anuntiyo J, Malemud CJ, Haqqi TM (2005) Biological                    comparative study of safety and efficacy of immediate release
+     basis for the use of botanicals in osteoarthritis and rheumatoid          glucosamine HCL and glucosamine HCL sustained release
+     arthritis: a review. Evid Based Complement Alternat Med                   formulation in the treatment of knee osteoarthritis: A proof of
+     2:301–308                                                                 concept study. J Pharmacol Pharmacotherapeut 3:48–54
+Badreldin H, Husnia M, Salwa A et al (2006) Some biological               Ramberg JE, Nelson ED, Sinnott RA (2010) Immunomodulatory
+     properties of curcumin: a review. Nat Prod Commun 1:509–521               dietary polysaccharides: a systematic review of the literature.
+Bellamy N (1989) Pain assessment in osteoarthritis: experience with            Nutr J 9:54
+     the WOMAC osteoarthritis index. Semin Arthritis Rheum                Sharma L (2003) Proprioception in osteoarthritis. In: Brandt K,
+     18:14–17                                                                  Doherty M, Lohmander S (eds) Osteoarthritis. Oxford University
+Chainani-Wu N (2003) Safety and anti-inflammatory activity of                  Press, New York, pp 172–177
+     Curcumin: a component of turmeric (Curcuma longa). J Altern          Sharma M, Swami H, Bhatia V et al (2007) An epidemiological study
+     Compliment Medicine 9:161–168                                             of correlates of osteo-arthritis in geriatric population of UT
+Chopra A, Lavin P, Patwardhan B, Chitre D (2004) A 32-week                     Chandigarh. Indian J Commun Med 32:77–78
+     randomized, placebo-controlled clinical evaluation of RA-11, an      Trnovec T, Hrmová M (1993) Immunomodulator polysaccharides:
+     Ayurvedic drug, on osteoarthritis of the knees. J Clin Rheumatol          chemistry, disposition and metabolism. Biopharm Drug Dispos
+     10:236–245                                                                14:187–198
+Clegg DO, Reda DJ, Harris CL et al (2006) Glucosamine, chondroitin        Wandel S, Juni P, Tendal B et al (2010) Effects of glucosamine,
+     sulfate, and the two in combination for painful knee osteoar-             chondroitin, or placebo in patients with osteoarthritis of hip or
+     thritis. N Engl J Med 354:795–808                                         knee: network meta-analysis. Br Med Assoc 341:c4675
+
+
+
+
+123
+

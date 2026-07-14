@@ -1,0 +1,1424 @@
+         Cochrane             Trusted evidence.
+                              Informed decisions.
+         Library              Better health.                                                           Cochrane Database of Systematic Reviews
+
+
+Schnitzer 2005b (Continued)
+ Outcomes
+
+ Notes
+
+ Risk of bias
+
+ Bias                             Authors' judgement        Support for judgement
+
+ Allocation concealment?          Unclear risk              D - Not used
+
+
+
+
+Schnitzer 2005c
+ Methods
+
+ Participants
+
+ Interventions
+
+ Outcomes
+
+ Notes
+
+ Risk of bias
+
+ Bias                             Authors' judgement        Support for judgement
+
+ Allocation concealment?          Unclear risk              D - Not used
+
+
+
+
+Shen 2004
+ Methods                          Randomized, parallel group trial of 3 months duration.
+
+ Participants                     20 patients with symptomatic OA of the knee. Lacking other details.
+
+ Interventions                    Acetaminophen (up to 4 gms/day) versus rofecoxib 25 mg/day.
+
+ Outcomes                         VAS pain scores, changes in serum levels of serotonin, substance P, beta-endorphin, and opioid recep-
+                                  tor kappa.
+
+ Notes                            This is still only available as an abstract, and was identified through the meta-analysis published by
+                                  Zhang et al, 2004. The abstract was presented at the 2003 EULAR meeting.
+
+ Risk of bias
+
+ Bias                             Authors' judgement        Support for judgement
+
+ Allocation concealment?          Unclear risk              B - Unclear
+
+
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                  21
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+         Cochrane             Trusted evidence.
+                              Informed decisions.
+         Library              Better health.                                                             Cochrane Database of Systematic Reviews
+
+
+Williams 1993
+ Methods                            Randomized, double-blind, cross-over clinical trial of 2 years' duration.
+
+ Participants                       Adults with radiographic OA of the knee. Mean age 59.6 years. 75% female.
+
+ Interventions                      Acetaminophen 650 mg po qid versus naproxen 375 mg po bid.
+
+ Outcomes                           Pain at rest, pain on motion, 50' walk time, physician global, patient global, knee effusion, knee crepi-
+                                    tus, knee range of motion, radiographic progression, toxicity, pain on motion or tenderness
+
+ Notes
+
+ Risk of bias
+
+ Bias                               Authors' judgement        Support for judgement
+
+ Allocation concealment?            Unclear risk              B - Unclear
+
+
+
+
+Zoppi 1995
+ Methods                            Randomized, double-blind, parallel group trial of 7 days duration.
+
+ Participants                       Adults with radiographic OA of the knee. Mean age 56 years. 62% female.
+
+ Interventions                      Acetaminophen 1000 mg po tid versus placebo.
+
+ Outcomes                           Pain, functional assessments, patient global assessments, number of awakenings during the night.
+
+ Notes                              This study was identified only through the meta-analysis published by Zhang et al, 2004.
+
+ Risk of bias
+
+ Bias                               Authors' judgement        Support for judgement
+
+ Allocation concealment?            Unclear risk              B - Unclear
+
+
+
+
+DATA AND ANALYSES
+
+
+Comparison 1. Group 1: NSAID (ibuprofen 2400 mg, diclofenac, arthrotec, celecoxib, naproxen) vs Acetaminophen
+
+ Outcome or subgroup            No. of studies         No. of partici-       Statistical method                         Effect size
+ title                                                 pants
+
+ 1 Rest Pain                    3                      573                   Std. Mean Difference (IV, Fixed, 95% CI)   -0.20 [-0.36, -0.03]
+
+ 2 HAQ Pain                     4                      1075                  Std. Mean Difference (IV, Random, 95%      -0.26 [-0.45, -0.07]
+                                                                             CI)
+
+ 3 Pain on motion (walk-        2                      270                   Std. Mean Difference (IV, Fixed, 95% CI)   0.04 [-0.20, 0.28]
+ ing)
+
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                       22
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+          Cochrane            Trusted evidence.
+                              Informed decisions.
+          Library             Better health.                                                                            Cochrane Database of Systematic Reviews
+
+
+
+ Outcome or subgroup            No. of studies              No. of partici-              Statistical method                              Effect size
+ title                                                      pants
+
+ 4 HAQ Disability               2                           349                          Std. Mean Difference (IV, Fixed, 95% CI)        -0.20 [-0.41, 0.01]
+
+ 5 50 Foot Walk Time            3                           571                          Std. Mean Difference (IV, Fixed, 95% CI)        0.02 [-0.14, 0.19]
+
+ 6 Physician Global (di-        1                           122                          Risk Ratio (M-H, Random, 95% CI)                1.0 [0.63, 1.58]
+ chotomous)
+
+ 7 Physician Global             2                           359                          Std. Mean Difference (IV, Fixed, 95% CI)        -0.33 [-0.54, -0.12]
+ (means)
+
+ 8 Patient Global (mean)        2                           280                          Std. Mean Difference (IV, Fixed, 95% CI)        -0.21 [-0.44, 0.03]
+
+ 9 Patient Global (di-          2                           967                          Risk Ratio (M-H, Random, 95% CI)                1.23 [1.06, 1.43]
+ chotomous)
+
+ 10 Toxicity 1 (Total Num-      7                           3168                         Risk Ratio (M-H, Fixed, 95% CI)                 1.01 [0.92, 1.11]
+ ber of Patients with any
+ AE)
+
+ 11 Toxicity 2 (With-           8                           2793                         Risk Ratio (M-H, Fixed, 95% CI)                 0.79 [0.59, 1.05]
+ drawals due to toxicity)
+
+ 12 WOMAC Pain                  2                           832                          Std. Mean Difference (IV, Fixed, 95% CI)        -0.24 [-0.38, -0.09]
+
+ 13 WOMAC Stiffness             2                           828                          Std. Mean Difference (IV, Fixed, 95% CI)        -0.20 [-0.34, -0.05]
+
+ 14 WOMAC Function              2                           832                          Std. Mean Difference (IV, Fixed, 95% CI)        -0.25 [-0.40, -0.11]
+
+ 15 WOMAC Total                 3                           780                          Std. Mean Difference (IV, Fixed, 95% CI)        -0.25 [-0.39, -0.11]
+
+ 16 Lequesne Pain               1                           54                           Std. Mean Difference (IV, Fixed, 95% CI)        -0.13 [-0.66, 0.41]
+
+ 17 Lequesne Walking            1                           54                           Std. Mean Difference (IV, Fixed, 95% CI)        -0.19 [-0.73, 0.35]
+
+ 18 Lequesne Function           1                           54                           Std. Mean Difference (IV, Fixed, 95% CI)        -0.07 [-0.60, 0.47]
+
+ 19 Lequesne Total              1                           54                           Std. Mean Difference (IV, Fixed, 95% CI)        -0.13 [-0.67, 0.40]
+
+ 20 Overall Pain (multiple      8                           2358                         Std. Mean Difference (IV, Fixed, 95% CI)        -0.25 [-0.33, -0.17]
+ methods)
+
+
+
+
+                           Analysis 1.1. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac,
+                            arthrotec, celecoxib, naproxen) vs Acetaminophen, Outcome 1 Rest Pain.
+ Study or subgroup                        NSAID              Acetaminophen                      Std. Mean Difference            Weight      Std. Mean Difference
+                                    N       Mean(SD)         N        Mean(SD)                      Fixed, 95% CI                              Fixed, 95% CI
+ Bradley 1991b                       61           0.9 (1)     61          1 (0.9)                                               21.37%             -0.14[-0.49,0.22]
+ Golden 2004                        158           0.9 (1)    145        1.2 (1.1)                                               52.77%                 -0.22[-0.45,0]
+ Williams 1993                       75           2 (2.4)     73        2.5 (2.8)                                               25.86%             -0.19[-0.52,0.13]
+
+
+                                                                   Favours NSAID    -4         -2         0         2       4   Favours Acetaminophe
+
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                                          23
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                      Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                               NSAID             Acetaminophen                Std. Mean Difference             Weight     Std. Mean Difference
+                                           N       Mean(SD)        N        Mean(SD)                 Fixed, 95% CI                              Fixed, 95% CI
+ Total ***                                 294                     279                                                            100%            -0.2[-0.36,-0.03]
+ Heterogeneity: Tau2=0; Chi2=0.16, df=2(P=0.93); I2=0%
+ Test for overall effect: Z=2.37(P=0.02)
+
+                                                                         Favours NSAID    -4   -2          0         2       4   Favours Acetaminophe
+
+
+
+
+                               Analysis 1.2. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac,
+                                arthrotec, celecoxib, naproxen) vs Acetaminophen, Outcome 2 HAQ Pain.
+ Study or subgroup                               NSAID             Acetaminophen                Std. Mean Difference             Weight     Std. Mean Difference
+                                           N       Mean(SD)        N        Mean(SD)                Random, 95% CI                            Random, 95% CI
+ Bradley 1991b                              61           1.3 (1)    61        1.2 (0.8)                                          17.61%             0.11[-0.24,0.47]
+ Pincus 2001                               112     32.5 (25.2)     115        46 (29.2)                                          24.06%           -0.49[-0.76,-0.23]
+ Pincus a 2004                             181       43 (25.6)     171      50.1 (27.1)                                          28.87%           -0.27[-0.48,-0.06]
+ Pincus b 2004                             189     43.4 (26.4)     185      50.8 (25.8)                                          29.46%           -0.28[-0.49,-0.08]
+
+
+ Total ***                                 543                     532                                                            100%           -0.26[-0.45,-0.07]
+ Heterogeneity: Tau2=0.02; Chi2=7.16, df=3(P=0.07); I2=58.08%
+ Test for overall effect: Z=2.64(P=0.01)
+
+                                                                         Favours NSAID    -4   -2          0         2       4   Favours Acetaminophe
+
+
+
+
+                      Analysis 1.3. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac, arthrotec,
+                          celecoxib, naproxen) vs Acetaminophen, Outcome 3 Pain on motion (walking).
+ Study or subgroup                               NSAID             Acetaminophen                Std. Mean Difference             Weight     Std. Mean Difference
+                                           N       Mean(SD)        N        Mean(SD)                 Fixed, 95% CI                              Fixed, 95% CI
+ Bradley 1991b                              61           1.2 (1)    61        1.2 (0.9)                                          45.21%             0.01[-0.34,0.37]
+ Williams 1993                              75       4.3 (2.9)      73        4.1 (3.1)                                          54.79%             0.07[-0.25,0.39]
+
+
+ Total ***                                 136                     134                                                            100%             0.04[-0.2,0.28]
+ Heterogeneity: Tau2=0; Chi2=0.06, df=1(P=0.81); I2=0%
+ Test for overall effect: Z=0.36(P=0.72)
+
+                                                                         Favours NSAID    -4   -2          0         2       4   Favours Acetaminophe
+
+
+
+
+                              Analysis 1.4. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac,
+                             arthrotec, celecoxib, naproxen) vs Acetaminophen, Outcome 4 HAQ Disability.
+ Study or subgroup                               NSAID             Acetaminophen                Std. Mean Difference             Weight     Std. Mean Difference
+                                           N       Mean(SD)        N        Mean(SD)                 Fixed, 95% CI                              Fixed, 95% CI
+ Bradley 1991b                              61       0.7 (0.7)      61        0.8 (0.6)                                          35.15%            -0.07[-0.43,0.28]
+ Pincus 2001                               112       1.4 (0.3)     115        1.5 (0.4)                                          64.85%           -0.27[-0.53,-0.01]
+
+
+ Total ***                                 173                     176                                                            100%             -0.2[-0.41,0.01]
+ Heterogeneity: Tau2=0; Chi2=0.75, df=1(P=0.39); I2=0%
+ Test for overall effect: Z=1.86(P=0.06)
+
+                                                                         Favours NSAID    -4   -2          0         2       4   Favours Acetaminophe
+
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                                          24
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                   Trusted evidence.
+                                        Informed decisions.
+             Library                    Better health.                                                                                           Cochrane Database of Systematic Reviews
+
+
+
+
+                             Analysis 1.5. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac,
+                          arthrotec, celecoxib, naproxen) vs Acetaminophen, Outcome 5 50 Foot Walk Time.
+ Study or subgroup                                NSAID                 Acetaminophen                               Std. Mean Difference                 Weight     Std. Mean Difference
+                                            N           Mean(SD)        N        Mean(SD)                                   Fixed, 95% CI                               Fixed, 95% CI
+ Bradley 1991b                               61          12.6 (5.6)      61        12.5 (5.2)                                                            21.39%             0.02[-0.34,0.37]
+ Golden 2004                                158          17.3 (6.9)     145        17.1 (7.4)                                                            53.03%             0.03[-0.19,0.26]
+ Williams 1993                               75          16.2 (9.7)      71        16.1 (8.1)                                                            25.58%                 0[-0.32,0.33]
+
+
+ Total ***                                  294                         277                                                                               100%            0.02[-0.14,0.19]
+ Heterogeneity: Tau2=0; Chi2=0.03, df=2(P=0.99); I2=0%
+ Test for overall effect: Z=0.27(P=0.79)
+
+                                                                              Favours NSAID         -4             -2              0        2        4   Favours Acetaminophe
+
+
+
+
+                       Analysis 1.6. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac, arthrotec,
+                        celecoxib, naproxen) vs Acetaminophen, Outcome 6 Physician Global (dichotomous).
+ Study or subgroup                              NSAID              Acetaminophen                                 Risk Ratio                          Weight              Risk Ratio
+                                                  n/N                   n/N                              M-H, Random, 95% CI                                        M-H, Random, 95% CI
+ Bradley 1991b                                          23/61                 23/61                                                                        100%                  1[0.63,1.58]
+
+
+ Total (95% CI)                                            61                   61                                                                        100%                  1[0.63,1.58]
+ Total events: 23 (NSAID), 23 (Acetaminophen)
+ Heterogeneity: Not applicable
+ Test for overall effect: Not applicable
+
+                                                           Favours Acetaminophe         0.1   0.2          0.5          1      2        5   10   Favours NSAID
+
+
+
+
+                       Analysis 1.7. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac, arthrotec,
+                           celecoxib, naproxen) vs Acetaminophen, Outcome 7 Physician Global (means).
+ Study or subgroup                                NSAID                 Acetaminophen                               Std. Mean Difference                 Weight     Std. Mean Difference
+                                            N           Mean(SD)        N        Mean(SD)                                   Fixed, 95% CI                               Fixed, 95% CI
+ Pincus 2001                                101         35.4 (18.1)     111      43.8 (21.6)                                                              58.6%           -0.42[-0.69,-0.15]
+ Williams 1993                               74           2.3 (0.6)      73           2.4 (0.7)                                                           41.4%            -0.21[-0.54,0.11]
+
+
+ Total ***                                  175                         184                                                                               100%           -0.33[-0.54,-0.12]
+ Heterogeneity: Tau2=0; Chi2=0.92, df=1(P=0.34); I2=0%
+ Test for overall effect: Z=3.13(P=0)
+
+                                                                              Favours NSAID         -4             -2              0        2        4   Favours Acetaminophe
+
+
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                                                                   25
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                                               Cochrane Database of Systematic Reviews
+
+
+                            Analysis 1.8. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac,
+                       arthrotec, celecoxib, naproxen) vs Acetaminophen, Outcome 8 Patient Global (mean).
+ Study or subgroup                               NSAID                   Acetaminophen                               Std. Mean Difference                 Weight     Std. Mean Difference
+                                           N           Mean(SD)         N         Mean(SD)                                   Fixed, 95% CI                                 Fixed, 95% CI
+ Pincus 2001                               106          26 (23.4)        112      31.6 (24.4)                                                             78.04%               -0.23[-0.5,0.03]
+ Williams 1993                              35           2.4 (0.9)        27           2.5 (0.9)                                                          21.96%              -0.11[-0.61,0.39]
+
+
+ Total ***                                 141                          139                                                                                100%              -0.21[-0.44,0.03]
+ Heterogeneity: Tau2=0; Chi2=0.19, df=1(P=0.67); I2=0%
+ Test for overall effect: Z=1.72(P=0.08)
+
+                                                                               Favours NSAID         -4             -2              0        2        4   Favours Acetaminophe
+
+
+
+
+                      Analysis 1.9. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac, arthrotec,
+                        celecoxib, naproxen) vs Acetaminophen, Outcome 9 Patient Global (dichotomous).
+ Study or subgroup                             NSAID              Acetaminophen                                   Risk Ratio                          Weight                 Risk Ratio
+                                                 n/N                    n/N                               M-H, Random, 95% CI                                        M-H, Random, 95% CI
+ Geba 2002c                                            45/97                   37/94                                                                      20.87%                1.18[0.85,1.64]
+ Schnitzer 2005a                                  259/512                   107/264                                                                       79.13%                1.25[1.05,1.48]
+
+
+ Total (95% CI)                                          609                    358                                                                        100%               1.23[1.06,1.43]
+ Total events: 304 (NSAID), 144 (Acetaminophen)
+ Heterogeneity: Tau2=0; Chi2=0.09, df=1(P=0.76); I2=0%
+ Test for overall effect: Z=2.73(P=0.01)
+
+                                                          Favours Acetaminophe           0.1   0.2          0.5          1      2        5   10   Favours NSAID
+
+
+
+
+              Analysis 1.10. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac, arthrotec, celecoxib,
+                naproxen) vs Acetaminophen, Outcome 10 Toxicity 1 (Total Number of Patients with any AE).
+ Study or subgroup                             NSAID              Acetaminophen                                   Risk Ratio                          Weight                 Risk Ratio
+                                                 n/N                    n/N                                M-H, Fixed, 95% CI                                            M-H, Fixed, 95% CI
+ Bradley 1991b                                         24/61                   19/61                                                                       3.48%                1.26[0.78,2.05]
+ Geba 2002c                                            50/97                   51/94                                                                       9.49%                0.95[0.73,1.24]
+ Golden 2004                                       52/161                    47/148                                                                        8.97%                1.02[0.73,1.41]
+ Pincus 2001                                      105/195                    94/205                                                                       16.79%                1.17[0.96,1.43]
+ Pincus a 2004                                    100/350                    85/300                                                                       16.77%                1.01[0.79,1.29]
+ Pincus b 2004                                    103/373                    87/331                                                                       16.89%                1.05[0.82,1.34]
+ Schnitzer 2005a                                  194/523                   114/269                                                                       27.59%                0.88[0.73,1.05]
+
+
+ Total (95% CI)                                         1760                   1408                                                                        100%               1.01[0.92,1.11]
+ Total events: 628 (NSAID), 497 (Acetaminophen)
+ Heterogeneity: Tau2=0; Chi2=5.82, df=6(P=0.44); I2=0%
+ Test for overall effect: Z=0.23(P=0.82)
+
+                                                                     Favours NSAID       0.1   0.2          0.5          1      2        5   10   Favours Acetaminophe
+
+
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                                                                     26
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                   Trusted evidence.
+                                        Informed decisions.
+             Library                    Better health.                                                                                            Cochrane Database of Systematic Reviews
+
+
+                     Analysis 1.11. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac, arthrotec,
+                  celecoxib, naproxen) vs Acetaminophen, Outcome 11 Toxicity 2 (Withdrawals due to toxicity).
+ Study or subgroup                              NSAID              Acetaminophen                                  Risk Ratio                          Weight                 Risk Ratio
+                                                  n/N                     n/N                              M-H, Fixed, 95% CI                                            M-H, Fixed, 95% CI
+ Bradley 1991b                                           6/61                     5/61                                                                     5.39%                 1.2[0.39,3.72]
+ Case 2003                                               3/25                     2/29                                                                         2%                1.74[0.32,9.6]
+ Geba 2002c                                              4/97                     6/94                                                                     6.57%                0.65[0.19,2.22]
+ Pincus 2001                                            7/195                    8/205                                                                     8.41%                0.92[0.34,2.49]
+ Pincus a 2004                                      11/181                    16/171                                                                      17.74%                0.65[0.31,1.36]
+ Pincus b 2004                                      13/373                    11/331                                                                      12.56%                1.05[0.48,2.31]
+ Schnitzer 2005a                                    13/523                    21/269                                                                       29.9%                0.32[0.16,0.63]
+ Williams 1993                                          21/90                    16/88                                                                    17.44%                1.28[0.72,2.29]
+
+
+ Total (95% CI)                                          1545                    1248                                                                      100%               0.79[0.59,1.05]
+ Total events: 78 (NSAID), 85 (Acetaminophen)
+ Heterogeneity: Tau2=0; Chi2=11.94, df=7(P=0.1); I2=41.38%
+ Test for overall effect: Z=1.65(P=0.1)
+
+                                                                      Favours NSAIDs     0.1   0.2          0.5          1      2        5   10   Favours Acetaminophe
+
+
+
+
+                              Analysis 1.12. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac,
+                              arthrotec, celecoxib, naproxen) vs Acetaminophen, Outcome 12 WOMAC Pain.
+ Study or subgroup                                NSAID                    Acetaminophen                             Std. Mean Difference                 Weight     Std. Mean Difference
+                                            N           Mean(SD)          N         Mean(SD)                                 Fixed, 95% CI                                 Fixed, 95% CI
+ Case 2003                                   25         146 (101.2)         29             186.9                                                           7.07%                -0.36[-0.9,0.18]
+                                                                                         (121.5)
+ Schnitzer 2005a                            514         35.6 (24.4)       264       41.1 (23.6)                                                           92.93%              -0.23[-0.38,-0.08]
+
+
+ Total ***                                  539                           293                                                                              100%             -0.24[-0.38,-0.09]
+ Heterogeneity: Tau2=0; Chi2=0.21, df=1(P=0.65); I2=0%
+ Test for overall effect: Z=3.24(P=0)
+
+                                                                                 Favours NSAID       -10            -5              0        5       10   Favours Acetaminophe
+
+
+
+
+                            Analysis 1.13. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac,
+                          arthrotec, celecoxib, naproxen) vs Acetaminophen, Outcome 13 WOMAC Stiffness.
+ Study or subgroup                                NSAID                    Acetaminophen                             Std. Mean Difference                 Weight     Std. Mean Difference
+                                            N           Mean(SD)          N         Mean(SD)                                 Fixed, 95% CI                                 Fixed, 95% CI
+ Case 2003                                   25         66.4 (48.6)         29      86.8 (59.3)                                                            7.07%              -0.37[-0.91,0.17]
+ Schnitzer 2005a                            510         39.7 (25.4)       264       44.3 (24.9)                                                           92.93%              -0.18[-0.33,-0.03]
+
+
+ Total ***                                  535                           293                                                                              100%              -0.2[-0.34,-0.05]
+ Heterogeneity: Tau2=0; Chi2=0.42, df=1(P=0.52); I2=0%
+ Test for overall effect: Z=2.67(P=0.01)
+
+                                                                                 Favours NSAID       -10            -5              0        5       10   Favours Acetaminophe
+
+
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                                                                     27
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                   Trusted evidence.
+                                        Informed decisions.
+             Library                    Better health.                                                                     Cochrane Database of Systematic Reviews
+
+
+                            Analysis 1.14. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac,
+                          arthrotec, celecoxib, naproxen) vs Acetaminophen, Outcome 14 WOMAC Function.
+ Study or subgroup                                NSAID             Acetaminophen                  Std. Mean Difference            Weight     Std. Mean Difference
+                                            N       Mean(SD)        N        Mean(SD)                  Fixed, 95% CI                              Fixed, 95% CI
+ Case 2003                                   25             506.3    29            615.2                                            7.12%            -0.29[-0.83,0.25]
+                                                          (383.2)                (360.2)
+ Schnitzer 2005a                            514       38.1 (24)     264      44.1 (23.5)                                           92.88%             -0.25[-0.4,-0.1]
+
+
+ Total ***                                  539                     293                                                             100%            -0.25[-0.4,-0.11]
+ Heterogeneity: Tau2=0; Chi2=0.02, df=1(P=0.89); I2=0%
+ Test for overall effect: Z=3.47(P=0)
+
+                                                                          Favours NSAID     -10   -5         0         5      10   Favours Acetaminophe
+
+
+
+
+                             Analysis 1.15. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac,
+                             arthrotec, celecoxib, naproxen) vs Acetaminophen, Outcome 15 WOMAC Total.
+ Study or subgroup                                NSAID             Acetaminophen                  Std. Mean Difference            Weight     Std. Mean Difference
+                                            N       Mean(SD)        N        Mean(SD)                  Fixed, 95% CI                              Fixed, 95% CI
+ Case 2003                                   25             718.6    29      889 (520.4)                                            6.85%            -0.32[-0.86,0.21]
+                                                          (515.7)
+ Pincus a 2004                              181     38.2 (23.1)     171      44.4 (23.5)                                           45.08%           -0.27[-0.48,-0.06]
+ Pincus b 2004                              189     38.5 (21.6)     185      43.2 (20.8)                                           48.07%           -0.22[-0.42,-0.02]
+
+
+ Total ***                                  395                     385                                                             100%           -0.25[-0.39,-0.11]
+ Heterogeneity: Tau2=0; Chi2=0.17, df=2(P=0.92); I2=0%
+ Test for overall effect: Z=3.45(P=0)
+
+                                                                          Favours NSAID     -10   -5         0         5      10   Favours Acetaminophe
+
+
+
+
+                             Analysis 1.16. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac,
+                            arthrotec, celecoxib, naproxen) vs Acetaminophen, Outcome 16 Lequesne Pain.
+ Study or subgroup                                NSAID             Acetaminophen                  Std. Mean Difference            Weight     Std. Mean Difference
+                                            N       Mean(SD)        N        Mean(SD)                  Fixed, 95% CI                              Fixed, 95% CI
+ Case 2003                                   25             4 (2)    29         4.3 (2.6)                                           100%             -0.13[-0.66,0.41]
+
+
+ Total ***                                   25                      29                                                             100%           -0.13[-0.66,0.41]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.46(P=0.64)
+
+                                                                          Favours NSAID     -10   -5         0         5      10   Favours Acetaminophe
+
+
+
+
+                            Analysis 1.17. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac,
+                         arthrotec, celecoxib, naproxen) vs Acetaminophen, Outcome 17 Lequesne Walking.
+ Study or subgroup                                NSAID             Acetaminophen                  Std. Mean Difference            Weight     Std. Mean Difference
+                                            N       Mean(SD)        N        Mean(SD)                  Fixed, 95% CI                              Fixed, 95% CI
+ Case 2003                                   25       1.8 (1.6)      29         2.1 (1.5)                                           100%             -0.19[-0.73,0.35]
+
+                                                                          Favours NSAID     -10   -5         0         5      10   Favours Acetaminophe
+
+
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                                            28
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                      Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                               NSAID             Acetaminophen                 Std. Mean Difference            Weight     Std. Mean Difference
+                                           N       Mean(SD)        N        Mean(SD)                 Fixed, 95% CI                              Fixed, 95% CI
+
+
+ Total ***                                 25                      29                                                             100%           -0.19[-0.73,0.35]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.7(P=0.48)
+
+                                                                         Favours NSAID    -10   -5         0         5      10   Favours Acetaminophe
+
+
+
+
+                            Analysis 1.18. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac,
+                         arthrotec, celecoxib, naproxen) vs Acetaminophen, Outcome 18 Lequesne Function.
+ Study or subgroup                               NSAID             Acetaminophen                 Std. Mean Difference            Weight     Std. Mean Difference
+                                           N       Mean(SD)        N        Mean(SD)                 Fixed, 95% CI                              Fixed, 95% CI
+ Case 2003                                  25        3.3 (1.3)     29        3.4 (1.5)                                           100%              -0.07[-0.6,0.47]
+
+
+ Total ***                                 25                      29                                                             100%             -0.07[-0.6,0.47]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.26(P=0.8)
+
+                                                                         Favours NSAID    -10   -5         0         5      10   Favours Acetaminophe
+
+
+
+
+                             Analysis 1.19. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac,
+                            arthrotec, celecoxib, naproxen) vs Acetaminophen, Outcome 19 Lequesne Total.
+ Study or subgroup                               NSAID             Acetaminophen                 Std. Mean Difference            Weight     Std. Mean Difference
+                                           N       Mean(SD)        N        Mean(SD)                 Fixed, 95% CI                              Fixed, 95% CI
+ Case 2003                                  25             9 (4)    29        9.6 (4.7)                                           100%              -0.13[-0.67,0.4]
+
+
+ Total ***                                 25                      29                                                             100%             -0.13[-0.67,0.4]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.49(P=0.62)
+
+                                                                         Favours NSAID    -10   -5         0         5      10   Favours Acetaminophe
+
+
+
+
+                      Analysis 1.20. Comparison 1 Group 1: NSAID (ibuprofen 2400 mg, diclofenac, arthrotec,
+                       celecoxib, naproxen) vs Acetaminophen, Outcome 20 Overall Pain (multiple methods).
+ Study or subgroup                               NSAID             Acetaminophen                 Std. Mean Difference            Weight     Std. Mean Difference
+                                           N       Mean(SD)        N        Mean(SD)                 Fixed, 95% CI                              Fixed, 95% CI
+ Bradley 1991b                              61           1.3 (1)    61        1.2 (0.8)                                            5.4%             0.11[-0.24,0.47]
+ Case 2003                                  25     146 (101.2)      29           186.9                                            2.34%             -0.36[-0.9,0.18]
+                                                                               (121.5)
+ Golden 2004                               158           0.9 (1)   145        1.2 (1.1)                                          13.33%                 -0.22[-0.45,0]
+ Pincus 2001                               112     32.5 (25.2)     115        46 (29.2)                                           9.76%           -0.49[-0.76,-0.23]
+ Pincus a 2004                             181       43 (25.6)     171      50.1 (27.1)                                          15.46%           -0.27[-0.48,-0.06]
+ Pincus b 2004                             189     43.4 (26.4)     185      50.8 (25.8)                                          16.42%           -0.28[-0.49,-0.08]
+ Schnitzer 2005a                           514     35.6 (24.4)     264      41.1 (23.6)                                          30.76%           -0.23[-0.38,-0.08]
+ Williams 1993                              75           2 (2.4)    73        2.5 (2.8)                                           6.53%            -0.19[-0.52,0.13]
+
+                                                                         Favours NSAID    -10   -5         0         5      10   Favours Acetaminophe
+
+
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                                           29
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane               Trusted evidence.
+                                    Informed decisions.
+             Library                Better health.                                                                    Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                             NSAID         Acetaminophen                    Std. Mean Difference            Weight      Std. Mean Difference
+                                         N       Mean(SD)    N        Mean(SD)                    Fixed, 95% CI                              Fixed, 95% CI
+
+
+ Total ***                              1315                1043                                                               100%            -0.25[-0.33,-0.17]
+ Heterogeneity: Tau2=0; Chi2=7.74, df=7(P=0.36); I2=9.6%
+ Test for overall effect: Z=5.96(P<0.0001)
+
+                                                                   Favours NSAID   -10       -5         0         5      10   Favours Acetaminophe
+
+
+
+
+Comparison 2. Group 2: Acetaminophen vs Placebo
+
+ Outcome or subgroup ti-                 No. of studies      No. of partici-             Statistical method                            Effect size
+ tle                                                         pants
+
+ 1 Pain Response (dichoto-               1                   44                          Risk Ratio (M-H, Random, 95% CI)              8.00 [2.08, 30.73]
+ mous)
+
+ 2 Pain on Motion (dichoto-              1                   44                          Risk Ratio (M-H, Random, 95% CI)              3.75 [1.48, 9.52]
+ mous)
+
+ 3 Physician Global Assess-              1                   42                          Risk Ratio (M-H, Random, 95% CI)              20.00 [2.95, 135.75]
+ ment (dichotomous)
+
+ 4 Patient Global Assess-                1                   38                          Risk Ratio (M-H, Random, 95% CI)              18.00 [2.66, 121.63]
+ ment (dichotomous)
+
+ 5 Toxicity 1 (Total number              6                   2385                        Risk Ratio (M-H, Fixed, 95% CI)               1.02 [0.89, 1.17]
+ of Patients with any AE)
+
+ 6 WOMAC Pain                            1                   57                          Std. Mean Difference (IV, Fixed, 95%          0.03 [-0.49, 0.55]
+                                                                                         CI)
+
+ 7 WOMAC Stiffness                       1                   57                          Std. Mean Difference (IV, Fixed, 95%          0.11 [-0.41, 0.63]
+                                                                                         CI)
+
+ 8 WOMAC Function                        2                   829                         Std. Mean Difference (IV, Fixed, 95%          -0.04 [-0.18, 0.10]
+                                                                                         CI)
+
+ 9 WOMAC Total                           3                   767                         Std. Mean Difference (IV, Fixed, 95%          -0.12 [-0.26, 0.02]
+                                                                                         CI)
+
+ 10 Lequesne Pain                        1                   57                          Std. Mean Difference (IV, Fixed, 95%          -0.16 [-0.68, 0.36]
+                                                                                         CI)
+
+ 11 Lequesne Walking                     1                   57                          Std. Mean Difference (IV, Fixed, 95%          0.17 [-0.35, 0.69]
+                                                                                         CI)
+
+ 12 Lequesne Function                    1                   57                          Std. Mean Difference (IV, Fixed, 95%          0.18 [-0.34, 0.71]
+                                                                                         CI)
+
+ 13 Lequesne Total                       1                   57                          Std. Mean Difference (IV, Fixed, 95%          0.0 [-0.52, 0.52]
+                                                                                         CI)
+
+ 14 Pain at rest                         1                   294                         Std. Mean Difference (IV, Fixed, 95%          -0.17 [-0.39, 0.06]
+                                                                                         CI)
+
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                                        30
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                     Trusted evidence.
+                                        Informed decisions.
+           Library                      Better health.                                                                         Cochrane Database of Systematic Reviews
+
+
+
+ Outcome or subgroup ti-                    No. of studies          No. of partici-            Statistical method                              Effect size
+ tle                                                                pants
+
+ 15 Pain on passive motion                  1                       294                        Std. Mean Difference (IV, Fixed, 95%            -0.10 [-0.33, 0.12]
+                                                                                               CI)
+
+ 16 Pain Response (contin-                  3                       1411                       Std. Mean Difference (IV, Fixed, 95%            -0.11 [-0.22, -0.01]
+ uous)                                                                                         CI)
+
+ 17 Stiffness at rest                       1                       294                        Std. Mean Difference (IV, Fixed, 95%            -0.21 [-0.44, 0.02]
+                                                                                               CI)
+
+ 18 Day pain                                1                       294                        Std. Mean Difference (IV, Fixed, 95%            -0.29 [-0.52, -0.06]
+                                                                                               CI)
+
+ 19 Night pain                              1                       294                        Std. Mean Difference (IV, Fixed, 95%            -0.28 [-0.51, -0.05]
+                                                                                               CI)
+
+ 20 50 foot walk time                       1                       294                        Std. Mean Difference (IV, Fixed, 95%            -0.05 [-0.28, 0.18]
+                                                                                               CI)
+
+ 21 MDHAQ VAS Pain                          2                       710                        Std. Mean Difference (IV, Fixed, 95%            -0.18 [-0.33, -0.03]
+                                                                                               CI)
+
+ 22 Toxicity 2 (Withdrawals                 6                       2146                       Risk Ratio (M-H, Fixed, 95% CI)                 1.24 [0.87, 1.77]
+ due to toxicity)
+
+ 23 Overall Pain (multiple                  5                       1835                       Std. Mean Difference (IV, Fixed, 95%            -0.13 [-0.22, -0.04]
+ methods)                                                                                      CI)
+
+ 24 Patient Global Assess-                  1                       776                        Std. Mean Difference (IV, Fixed, 95%            -0.09 [-0.23, 0.05]
+ ment (continuous)                                                                             CI)
+
+
+
+
+      Analysis 2.1. Comparison 2 Group 2: Acetaminophen vs Placebo, Outcome 1 Pain Response (dichotomous).
+ Study or subgroup                        Acetaminophen          Placebo                             Risk Ratio                    Weight              Risk Ratio
+                                                n/N                n/N                       M-H, Random, 95% CI                                  M-H, Random, 95% CI
+ Amadio 1983                                          16/22               2/22                                                          100%                 8[2.08,30.73]
+
+
+ Total (95% CI)                                         22                 22                                                           100%              8[2.08,30.73]
+ Total events: 16 (Acetaminophen), 2 (Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=3.03(P=0)
+
+                                                              Favours Placebo    0.1   0.2     0.5       1        2   5   10   Favours Acetaminophe
+
+
+
+
+      Analysis 2.2. Comparison 2 Group 2: Acetaminophen vs Placebo, Outcome 2 Pain on Motion (dichotomous).
+ Study or subgroup                        Acetaminophen          Placebo                             Risk Ratio                    Weight              Risk Ratio
+                                                n/N                n/N                       M-H, Random, 95% CI                                  M-H, Random, 95% CI
+ Amadio 1983                                          15/22               4/22                                                          100%              3.75[1.48,9.52]
+
+
+                                                              Favours Placebo    0.1   0.2     0.5       1        2   5   10   Favours Acetaminophe
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                                                31
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                     Trusted evidence.
+                                        Informed decisions.
+           Library                      Better health.                                                                        Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                         Acetaminophen         Placebo                            Risk Ratio                    Weight                 Risk Ratio
+                                                n/N                n/N                      M-H, Random, 95% CI                                  M-H, Random, 95% CI
+ Total (95% CI)                                         22                 22                                                           100%              3.75[1.48,9.52]
+ Total events: 15 (Acetaminophen), 4 (Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=2.78(P=0.01)
+
+                                                              Favours Placebo   0.1   0.2     0.5       1        2   5   10   Favours Acetaminophe
+
+
+
+
+                                           Analysis 2.3. Comparison 2 Group 2: Acetaminophen vs Placebo,
+                                               Outcome 3 Physician Global Assessment (dichotomous).
+ Study or subgroup                         Acetaminophen         Placebo                            Risk Ratio                    Weight                 Risk Ratio
+                                                n/N                n/N                      M-H, Random, 95% CI                                  M-H, Random, 95% CI
+ Amadio 1983                                          20/21              1/21                                                           100%               20[2.95,135.75]
+
+
+ Total (95% CI)                                         21                 21                                                           100%              20[2.95,135.75]
+ Total events: 20 (Acetaminophen), 1 (Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=3.07(P=0)
+
+                                                              Favours Placebo   0.1   0.2     0.5       1        2   5   10   Favours Acetaminophe
+
+
+
+
+                                               Analysis 2.4. Comparison 2 Group 2: Acetaminophen vs
+                                            Placebo, Outcome 4 Patient Global Assessment (dichotomous).
+ Study or subgroup                         Acetaminophen         Placebo                            Risk Ratio                    Weight                 Risk Ratio
+                                                n/N                n/N                      M-H, Random, 95% CI                                  M-H, Random, 95% CI
+ Amadio 1983                                          18/19              1/19                                                           100%               18[2.66,121.63]
+
+
+ Total (95% CI)                                         19                 19                                                           100%              18[2.66,121.63]
+ Total events: 18 (Acetaminophen), 1 (Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=2.97(P=0)
+
+                                                              Favours Placebo   0.1   0.2     0.5       1        2   5   10   Favours Acetaminophe
+
+
+
+
+                                           Analysis 2.5. Comparison 2 Group 2: Acetaminophen vs Placebo,
+                                             Outcome 5 Toxicity 1 (Total number of Patients with any AE).
+ Study or subgroup                         Acetaminophen         Placebo                            Risk Ratio                    Weight                 Risk Ratio
+                                                n/N                n/N                       M-H, Fixed, 95% CI                                      M-H, Fixed, 95% CI
+ Amadio 1983                                          10/25              8/25                                                          2.67%                1.25[0.59,2.64]
+ Golden 2004                                       47/148              50/155                                                          16.3%                0.98[0.71,1.37]
+ Miceli-Richard 2004                               85/405              86/374                                                         29.83%                 0.91[0.7,1.19]
+ Pincus a 2004                                     85/300              76/289                                                         25.83%                 1.08[0.83,1.4]
+ Pincus b 2004                                     87/331              63/273                                                         23.04%                1.14[0.86,1.51]
+ Zoppi 1995                                            4/30              7/30                                                          2.34%                0.57[0.19,1.75]
+
+
+                                                         Favours Acteaminophe   0.1   0.2     0.5       1        2   5   10   Favours placebo
+
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                                                 32
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                                               Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                         Acetaminophen               Placebo                                    Risk Ratio                          Weight                 Risk Ratio
+                                                  n/N                    n/N                               M-H, Fixed, 95% CI                                          M-H, Fixed, 95% CI
+ Total (95% CI)                                          1239                  1146                                                                         100%               1.02[0.89,1.17]
+ Total events: 318 (Acetaminophen), 290 (Placebo)
+ Heterogeneity: Tau2=0; Chi2=2.79, df=5(P=0.73); I2=0%
+ Test for overall effect: Z=0.28(P=0.78)
+
+                                                           Favours Acteaminophe          0.1   0.2          0.5          1      2        5   10   Favours placebo
+
+
+
+
+                    Analysis 2.6. Comparison 2 Group 2: Acetaminophen vs Placebo, Outcome 6 WOMAC Pain.
+ Study or subgroup                          Acetaminophen                      Placebo                               Std. Mean Difference                 Weight      Std. Mean Difference
+                                            N           Mean(SD)         N        Mean(SD)                                   Fixed, 95% CI                                  Fixed, 95% CI
+ Case 2003                                   29              186.9        28            183.4                                                               100%                0.03[-0.49,0.55]
+                                                           (121.5)                    (122.9)
+
+
+ Total ***                                   29                           28                                                                                100%              0.03[-0.49,0.55]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.11(P=0.92)
+
+                                                                      Favours Acetaminophe           -10            -5              0        5       10   Favours Placebo
+
+
+
+
+                  Analysis 2.7. Comparison 2 Group 2: Acetaminophen vs Placebo, Outcome 7 WOMAC Stiffness.
+ Study or subgroup                          Acetaminophen                      Placebo                               Std. Mean Difference                 Weight      Std. Mean Difference
+                                            N           Mean(SD)         N        Mean(SD)                                   Fixed, 95% CI                                  Fixed, 95% CI
+ Case 2003                                   29         86.8 (59.3)       28      80.6 (50.9)                                                               100%                0.11[-0.41,0.63]
+
+
+ Total ***                                   29                           28                                                                                100%              0.11[-0.41,0.63]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.42(P=0.68)
+
+                                                                      Favours Acetaminophe           -10            -5              0        5       10   Favours Placebo
+
+
+
+
+                Analysis 2.8. Comparison 2 Group 2: Acetaminophen vs Placebo, Outcome 8 WOMAC Function.
+ Study or subgroup                          Acetaminophen                      Placebo                               Std. Mean Difference                 Weight      Std. Mean Difference
+                                            N           Mean(SD)         N        Mean(SD)                                   Fixed, 95% CI                                  Fixed, 95% CI
+ Case 2003                                   29              615.2        28            611.5                                                              6.88%                0.01[-0.51,0.53]
+                                                           (360.2)                    (365.4)
+ Miceli-Richard 2004                        399         41.7 (19.4)      373      42.6 (19.7)                                                             93.12%                -0.04[-0.19,0.1]
+
+
+ Total ***                                  428                          401                                                                                100%               -0.04[-0.18,0.1]
+ Heterogeneity: Tau2=0; Chi2=0.04, df=1(P=0.84); I2=0%
+ Test for overall effect: Z=0.59(P=0.56)
+
+                                                                      Favours Acetaminophe           -10            -5              0        5       10   Favours Placebo
+
+
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                                                                      33
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                      Cochrane Database of Systematic Reviews
+
+
+                   Analysis 2.9. Comparison 2 Group 2: Acetaminophen vs Placebo, Outcome 9 WOMAC Total.
+ Study or subgroup                         Acetaminophen                 Placebo                 Std. Mean Difference            Weight      Std. Mean Difference
+                                           N     Mean(SD)          N        Mean(SD)                 Fixed, 95% CI                                 Fixed, 95% CI
+ Case 2003                                  29   889 (520.4)        28           875.5                                            7.45%                0.03[-0.49,0.54]
+                                                                               (520.5)
+ Pincus a 2004                             171   44.4 (23.5)       172        45.5 (24)                                          44.83%               -0.05[-0.26,0.17]
+ Pincus b 2004                             185   43.2 (20.8)       182      47.8 (23.7)                                          47.72%                 -0.21[-0.41,-0]
+
+
+ Total ***                                 385                     382                                                            100%              -0.12[-0.26,0.02]
+ Heterogeneity: Tau2=0; Chi2=1.44, df=2(P=0.49); I2=0%
+ Test for overall effect: Z=1.62(P=0.11)
+
+                                                                Favours Acetaminophe      -10   -5         0         5      10   Favours Placebo
+
+
+
+
+                 Analysis 2.10. Comparison 2 Group 2: Acetaminophen vs Placebo, Outcome 10 Lequesne Pain.
+ Study or subgroup                         Acetaminophen                 Placebo                 Std. Mean Difference            Weight      Std. Mean Difference
+                                           N     Mean(SD)          N        Mean(SD)                 Fixed, 95% CI                                 Fixed, 95% CI
+ Case 2003                                  29      4.3 (2.6)       28        4.7 (2.4)                                            100%               -0.16[-0.68,0.36]
+
+
+ Total ***                                  29                      28                                                            100%              -0.16[-0.68,0.36]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.59(P=0.55)
+
+                                                                Favours Acetaminophe      -10   -5         0         5      10   Favours Placebo
+
+
+
+
+              Analysis 2.11. Comparison 2 Group 2: Acetaminophen vs Placebo, Outcome 11 Lequesne Walking.
+ Study or subgroup                         Acetaminophen                 Placebo                 Std. Mean Difference            Weight      Std. Mean Difference
+                                           N     Mean(SD)          N        Mean(SD)                 Fixed, 95% CI                                 Fixed, 95% CI
+ Case 2003                                  29      2.1 (1.5)       28        1.8 (1.9)                                            100%                0.17[-0.35,0.69]
+
+
+ Total ***                                  29                      28                                                            100%               0.17[-0.35,0.69]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.65(P=0.51)
+
+                                                                Favours Acetaminophe      -10   -5         0         5      10   Favours Placebo
+
+
+
+
+             Analysis 2.12. Comparison 2 Group 2: Acetaminophen vs Placebo, Outcome 12 Lequesne Function.
+ Study or subgroup                         Acetaminophen                 Placebo                 Std. Mean Difference            Weight      Std. Mean Difference
+                                           N     Mean(SD)          N        Mean(SD)                 Fixed, 95% CI                                 Fixed, 95% CI
+ Case 2003                                  29      3.4 (1.5)       28        3.1 (1.7)                                            100%                0.18[-0.34,0.71]
+
+
+ Total ***                                  29                      28                                                            100%               0.18[-0.34,0.71]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.7(P=0.49)
+
+                                                                 Favours Acetaminoph      -10   -5         0         5      10   Favours Placebo
+
+
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                                             34
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                        Cochrane Database of Systematic Reviews
+
+
+
+
+                 Analysis 2.13. Comparison 2 Group 2: Acetaminophen vs Placebo, Outcome 13 Lequesne Total.
+ Study or subgroup                         Acetaminophen                Placebo                    Std. Mean Difference            Weight      Std. Mean Difference
+                                           N     Mean(SD)         N        Mean(SD)                    Fixed, 95% CI                                 Fixed, 95% CI
+ Case 2003                                  29     9.6 (4.7)       28        9.6 (4.9)                                               100%                  0[-0.52,0.52]
+
+
+ Total ***                                  29                     28                                                               100%                  0[-0.52,0.52]
+ Heterogeneity: Not applicable
+ Test for overall effect: Not applicable
+
+                                                               Favours Acetaminophe         -10   -5         0         5      10   Favours Placebo
+
+
+
+
+                   Analysis 2.14. Comparison 2 Group 2: Acetaminophen vs Placebo, Outcome 14 Pain at rest.
+ Study or subgroup                         Acetaminophen                Placebo                    Std. Mean Difference            Weight      Std. Mean Difference
+                                           N     Mean(SD)         N        Mean(SD)                    Fixed, 95% CI                                 Fixed, 95% CI
+ Golden 2004                               145     1.2 (1.1)      149        1.4 (1.2)                                               100%               -0.17[-0.39,0.06]
+
+
+ Total ***                                 145                    149                                                               100%              -0.17[-0.39,0.06]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.42(P=0.16)
+
+                                                               Favours Acetaminophe         -10   -5         0         5      10   Favours Placebo
+
+
+
+
+          Analysis 2.15. Comparison 2 Group 2: Acetaminophen vs Placebo, Outcome 15 Pain on passive motion.
+ Study or subgroup                         Acetaminophen                Placebo                    Std. Mean Difference            Weight      Std. Mean Difference
+                                           N     Mean(SD)         N        Mean(SD)                    Fixed, 95% CI                                 Fixed, 95% CI
+ Golden 2004                               145     1.9 (1.1)      149             2 (1.2)                                            100%                -0.1[-0.33,0.12]
+
+
+ Total ***                                 145                    149                                                               100%                -0.1[-0.33,0.12]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.89(P=0.37)
+
+                                                               Favours Acetaminophe         -10   -5         0         5      10   Favours Placebo
+
+
+
+
+      Analysis 2.16. Comparison 2 Group 2: Acetaminophen vs Placebo, Outcome 16 Pain Response (continuous).
+ Study or subgroup                         Acetaminophen                Placebo                    Std. Mean Difference            Weight      Std. Mean Difference
+                                           N     Mean(SD)         N        Mean(SD)                    Fixed, 95% CI                                 Fixed, 95% CI
+ Golden 2004                               145     2.2 (1.1)      149        2.4 (1.1)                                             20.79%                -0.2[-0.43,0.03]
+ Miceli-Richard 2004                       401   43.6 (26.4)      373      45.6 (27.4)                                             54.89%               -0.08[-0.22,0.07]
+ Pincus a 2004                             171   50.1 (27.1)      172        53.5 (27)                                             24.32%               -0.13[-0.34,0.09]
+
+
+ Total ***                                 717                    694                                                               100%              -0.11[-0.22,-0.01]
+ Heterogeneity: Tau2=0; Chi2=0.8, df=2(P=0.67); I2=0%
+ Test for overall effect: Z=2.11(P=0.03)
+
+                                                               Favours Acetaminophe         -10   -5         0         5      10   Favours Placebo
+
+
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                                              35
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                     Cochrane Database of Systematic Reviews
+
+
+
+
+               Analysis 2.17. Comparison 2 Group 2: Acetaminophen vs Placebo, Outcome 17 Stiffness at rest.
+ Study or subgroup                         Acetaminophen                Placebo                 Std. Mean Difference            Weight      Std. Mean Difference
+                                           N     Mean(SD)         N        Mean(SD)                 Fixed, 95% CI                                 Fixed, 95% CI
+ Golden 2004                               145     1.9 (1.1)      149        2.1 (1.1)                                            100%               -0.21[-0.44,0.02]
+
+
+ Total ***                                 145                    149                                                            100%              -0.21[-0.44,0.02]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.81(P=0.07)
+
+                                                               Favours Acetaminophe      -10   -5         0         5      10   Favours Placebo
+
+
+
+
+                     Analysis 2.18. Comparison 2 Group 2: Acetaminophen vs Placebo, Outcome 18 Day pain.
+ Study or subgroup                         Acetaminophen                Placebo                 Std. Mean Difference            Weight      Std. Mean Difference
+                                           N     Mean(SD)         N        Mean(SD)                 Fixed, 95% CI                                 Fixed, 95% CI
+ Golden 2004                               145     1.9 (1.1)      149        2.2 (1.1)                                            100%              -0.29[-0.52,-0.06]
+
+
+ Total ***                                 145                    149                                                            100%              -0.29[-0.52,-0.06]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=2.44(P=0.01)
+
+                                                               Favours Acetaminophe      -10   -5         0         5      10   Favours Placebo
+
+
+
+
+                    Analysis 2.19. Comparison 2 Group 2: Acetaminophen vs Placebo, Outcome 19 Night pain.
+ Study or subgroup                         Acetaminophen                Placebo                 Std. Mean Difference            Weight      Std. Mean Difference
+                                           N     Mean(SD)         N        Mean(SD)                 Fixed, 95% CI                                 Fixed, 95% CI
+ Golden 2004                               145     1.4 (1.2)      149        1.8 (1.4)                                            100%              -0.28[-0.51,-0.05]
+
+
+ Total ***                                 145                    149                                                            100%              -0.28[-0.51,-0.05]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=2.42(P=0.02)
+
+                                                               Favours Acetaminophe      -10   -5         0         5      10   Favours Placebo
+
+
+
+
+               Analysis 2.20. Comparison 2 Group 2: Acetaminophen vs Placebo, Outcome 20 50 foot walk time.
+ Study or subgroup                         Acetaminophen                Placebo                 Std. Mean Difference            Weight      Std. Mean Difference
+                                           N     Mean(SD)         N        Mean(SD)                 Fixed, 95% CI                                 Fixed, 95% CI
+ Golden 2004                               145    17.1 (7.4)      149       17.4 (5.7)                                            100%               -0.05[-0.28,0.18]
+
+
+ Total ***                                 145                    149                                                            100%              -0.05[-0.28,0.18]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.43(P=0.67)
+
+                                                               Favours Acetaminophe      -10   -5         0         5      10   Favours Placebo
+
+
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                                           36
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                   Trusted evidence.
+                                        Informed decisions.
+             Library                    Better health.                                                                                            Cochrane Database of Systematic Reviews
+
+
+               Analysis 2.21. Comparison 2 Group 2: Acetaminophen vs Placebo, Outcome 21 MDHAQ VAS Pain.
+ Study or subgroup                          Acetaminophen                      Placebo                               Std. Mean Difference                 Weight      Std. Mean Difference
+                                            N           Mean(SD)         N        Mean(SD)                                   Fixed, 95% CI                                  Fixed, 95% CI
+ Pincus a 2004                              171         50.1 (27.1)      172           53.5 (27)                                                          48.43%               -0.13[-0.34,0.09]
+ Pincus b 2004                              185         50.8 (25.8)      182           56.8 (26)                                                          51.57%              -0.23[-0.44,-0.03]
+
+
+ Total ***                                  356                          354                                                                               100%              -0.18[-0.33,-0.03]
+ Heterogeneity: Tau2=0; Chi2=0.49, df=1(P=0.48); I2=0%
+ Test for overall effect: Z=2.39(P=0.02)
+
+                                                                      Favours Acetaminophe           -10            -5              0        5       10   Favours Placebo
+
+
+
+
+                                              Analysis 2.22. Comparison 2 Group 2: Acetaminophen vs
+                                            Placebo, Outcome 22 Toxicity 2 (Withdrawals due to toxicity).
+ Study or subgroup                         Acetaminophen               Placebo                                    Risk Ratio                          Weight                 Risk Ratio
+                                                  n/N                    n/N                               M-H, Fixed, 95% CI                                            M-H, Fixed, 95% CI
+ Case 2003                                               2/29                   0/28                                                                       0.97%               4.83[0.24,96.42]
+ Golden 2004                                            0/148                  0/155                                                                                             Not estimable
+ Miceli-Richard 2004                                36/405                   29/374                                                                       57.66%                1.15[0.72,1.83]
+ Pincus a 2004                                      16/171                   12/172                                                                       22.88%                1.34[0.65,2.75]
+ Pincus b 2004                                      11/331                     7/273                                                                      14.67%                   1.3[0.51,3.3]
+ Zoppi 1995                                              2/30                   2/30                                                                       3.82%                   1[0.15,6.64]
+
+
+ Total (95% CI)                                          1114                  1032                                                                        100%                1.24[0.87,1.77]
+ Total events: 67 (Acetaminophen), 50 (Placebo)
+ Heterogeneity: Tau2=0; Chi2=1.01, df=4(P=0.91); I2=0%
+ Test for overall effect: Z=1.21(P=0.22)
+
+                                                                   Favours Placebo       0.1   0.2          0.5          1      2        5   10   Favours Acetaminophe
+
+
+
+
+   Analysis 2.23. Comparison 2 Group 2: Acetaminophen vs Placebo, Outcome 23 Overall Pain (multiple methods).
+ Study or subgroup                          Acetaminophen                      Placebo                               Std. Mean Difference                 Weight      Std. Mean Difference
+                                            N           Mean(SD)         N        Mean(SD)                                   Fixed, 95% CI                                  Fixed, 95% CI
+ Case 2003                                   29              186.9        28              183.4                                                            3.12%                0.03[-0.49,0.55]
+                                                           (121.5)                      (122.9)
+ Golden 2004                                145           2.2 (1.1)      149           2.4 (1.1)                                                               16%              -0.2[-0.43,0.03]
+ Miceli-Richard 2004                        401         43.6 (26.4)      373      45.6 (27.4)                                                             42.24%               -0.08[-0.22,0.07]
+ Pincus a 2004                              171         50.1 (27.1)      172           53.5 (27)                                                          18.72%               -0.13[-0.34,0.09]
+ Pincus b 2004                              185         50.8 (25.8)      182           56.8 (26)                                                          19.93%              -0.23[-0.44,-0.03]
+
+
+ Total ***                                  931                          904                                                                               100%              -0.13[-0.22,-0.04]
+ Heterogeneity: Tau2=0; Chi2=2.2, df=4(P=0.7); I2=0%
+ Test for overall effect: Z=2.82(P=0)
+
+                                                                      Favours Acetaminophe           -10            -5              0        5       10   Favours Placebo
+
+
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                                                                      37
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                          Cochrane Database of Systematic Reviews
+
+
+                                              Analysis 2.24. Comparison 2 Group 2: Acetaminophen vs
+                                           Placebo, Outcome 24 Patient Global Assessment (continuous).
+ Study or subgroup                         Acetaminophen                 Placebo                     Std. Mean Difference            Weight      Std. Mean Difference
+                                           N     Mean(SD)          N        Mean(SD)                     Fixed, 95% CI                                 Fixed, 95% CI
+ Miceli-Richard 2004                       402    44.1 (25.3)      374      46.5 (26.7)                                                100%               -0.09[-0.23,0.05]
+
+
+ Total ***                                 402                     374                                                                100%              -0.09[-0.23,0.05]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.31(P=0.19)
+
+                                                                Favours Acetaminophe      -10       -5         0         5      10   Favours Placebo
+
+
+
+
+Comparison 3. Group 3: NSAIDS (ibuprofen 1200 mg,arthrotec, rofecoxib 25 mg, naproxen) vs Acetaminophen
+
+ Outcome or subgroup ti-                   No. of studies          No. of partici-              Statistical method                            Effect size
+ tle                                                               pants
+
+ 1 Rest pain                               4                       594                          Std. Mean Difference (IV, Fixed, 95%          -0.19 [-0.35, -0.03]
+                                                                                                CI)
+
+ 2 HAQ Pain                                2                       341                          Std. Mean Difference (IV, Random,             -0.22 [-0.77, 0.33]
+                                                                                                95% CI)
+
+ 3 Pain on motion (walking)                2                       271                          Std. Mean Difference (IV, Fixed, 95%          -0.03 [-0.27, 0.21]
+                                                                                                CI)
+
+ 4 50 Foot Walk Time                       3                       571                          Std. Mean Difference (IV, Fixed, 95%          0.03 [-0.14, 0.19]
+                                                                                                CI)
+
+ 5 HAQ disability index                    2                       341                          Std. Mean Difference (IV, Fixed, 95%          -0.14 [-0.36, 0.07]
+                                                                                                CI)
+
+ 6 Physician Global (Di-                   1                       123                          Risk Ratio (M-H, Random, 95% CI)              1.15 [0.75, 1.77]
+ chotomous)
+
+ 7 Patient Global (Dichoto-                3                       1190                         Risk Ratio (M-H, Random, 95% CI)              1.50 [1.27, 1.76]
+ mous)
+
+ 8 Toxicity 1 (Total number                6                       2039                         Risk Ratio (M-H, Fixed, 95% CI)               1.02 [0.92, 1.14]
+ of Patients with any AE)
+
+ 9 Toxicity 2 (Withdrawals                 6                       1908                         Risk Ratio (M-H, Fixed, 95% CI)               0.94 [0.68, 1.30]
+ due to toxicity)
+
+ 10 WOMAC Pain                             2                       1000                         Std. Mean Difference (IV, Fixed, 95%          -0.37 [-0.50, -0.24]
+                                                                                                CI)
+
+ 11 WOMAC Stiffness                        2                       998                          Std. Mean Difference (IV, Fixed, 95%          -0.38 [-0.51, -0.25]
+                                                                                                CI)
+
+ 12 WOMAC Function                         2                       1000                         Std. Mean Difference (IV, Fixed, 95%          -0.40 [-0.53, -0.27]
+                                                                                                CI)
+
+ 13 WOMAC Total                            1                       217                          Std. Mean Difference (IV, Fixed, 95%          -0.46 [-0.73, -0.19]
+                                                                                                CI)
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                                                38
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                               Cochrane Database of Systematic Reviews
+
+
+
+ Outcome or subgroup ti-                   No. of studies              No. of partici-              Statistical method                             Effect size
+ tle                                                                   pants
+
+ 14 Overall Pain (multiple                 7                           1812                         Std. Mean Difference (IV, Fixed, 95%           -0.31 [-0.40, -0.21]
+ methods)                                                                                           CI)
+
+
+
+
+                               Analysis 3.1. Comparison 3 Group 3: NSAIDS (ibuprofen 1200 mg,arthrotec,
+                                  rofecoxib 25 mg, naproxen) vs Acetaminophen, Outcome 1 Rest pain.
+ Study or subgroup                                  NSAIDs             Acetaminophen                     Std. Mean Difference             Weight      Std. Mean Difference
+                                           N          Mean(SD)         N        Mean(SD)                      Fixed, 95% CI                              Fixed, 95% CI
+ Bradley 1991a                                 62        0.9 (0.9)      61          1 (0.9)                                               20.78%             -0.14[-0.49,0.22]
+ Golden 2004                               158               0.9 (1)   145        1.2 (1.1)                                                50.9%                 -0.22[-0.45,0]
+ Shen 2004                                     10        3.2 (2.1)      10        3.1 (2.9)                                                3.39%               0.03[-0.85,0.9]
+ Williams 1993                                 75            2 (2.4)    73        2.5 (2.8)                                               24.94%             -0.19[-0.52,0.13]
+
+
+ Total ***                                 305                         289                                                                 100%            -0.19[-0.35,-0.03]
+ Heterogeneity: Tau2=0; Chi2=0.4, df=3(P=0.94); I2=0%
+ Test for overall effect: Z=2.31(P=0.02)
+
+                                                                             Favours NSAID    -10       -5          0         5      10   Favours Acetaminophe
+
+
+
+
+                               Analysis 3.2. Comparison 3 Group 3: NSAIDS (ibuprofen 1200 mg,arthrotec,
+                                  rofecoxib 25 mg, naproxen) vs Acetaminophen, Outcome 2 HAQ Pain.
+ Study or subgroup                                  NSAIDs             Acetaminophen                     Std. Mean Difference             Weight      Std. Mean Difference
+                                           N          Mean(SD)         N        Mean(SD)                     Random, 95% CI                             Random, 95% CI
+ Bradley 1991a                                 62        1.2 (0.8)      61        1.2 (0.8)                                               47.86%             0.07[-0.28,0.43]
+ Pincus 2001                               106         32.5 (25.2)     112        46 (29.2)                                               52.14%            -0.49[-0.76,-0.22]
+
+
+ Total ***                                 168                         173                                                                 100%            -0.22[-0.77,0.33]
+ Heterogeneity: Tau2=0.13; Chi2=6.19, df=1(P=0.01); I2=83.84%
+ Test for overall effect: Z=0.78(P=0.43)
+
+                                                                             Favours NSAID    -10       -5          0         5      10   Favours Acetaminophe
+
+
+
+
+                            Analysis 3.3. Comparison 3 Group 3: NSAIDS (ibuprofen 1200 mg,arthrotec,
+                        rofecoxib 25 mg, naproxen) vs Acetaminophen, Outcome 3 Pain on motion (walking).
+ Study or subgroup                                  NSAIDs             Acetaminophen                     Std. Mean Difference             Weight      Std. Mean Difference
+                                           N          Mean(SD)         N        Mean(SD)                      Fixed, 95% CI                              Fixed, 95% CI
+ Bradley 1991a                                 62        1.1 (0.9)      61        1.2 (0.9)                                               45.33%                 -0.15[-0.5,0.2]
+ Williams 1993                                 75        4.3 (2.9)      73        4.1 (3.1)                                               54.67%             0.07[-0.25,0.39]
+
+
+ Total ***                                 137                         134                                                                 100%            -0.03[-0.27,0.21]
+ Heterogeneity: Tau2=0; Chi2=0.82, df=1(P=0.37); I2=0%
+ Test for overall effect: Z=0.24(P=0.81)
+
+                                                                             Favours NSAID    -10       -5          0         5      10   Favours Acetaminophe
+
+
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                                                     39
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                                            Cochrane Database of Systematic Reviews
+
+
+
+
+                              Analysis 3.4. Comparison 3 Group 3: NSAIDS (ibuprofen 1200 mg,arthrotec,
+                             rofecoxib 25 mg, naproxen) vs Acetaminophen, Outcome 4 50 Foot Walk Time.
+ Study or subgroup                               NSAIDs                Acetaminophen                              Std. Mean Difference                 Weight     Std. Mean Difference
+                                           N           Mean(SD)        N        Mean(SD)                                  Fixed, 95% CI                               Fixed, 95% CI
+ Bradley 1991a                              62          12.7 (5.1)      61        12.5 (5.2)                                                           21.56%             0.04[-0.31,0.39]
+ Golden 2004                               158          17.3 (6.9)     145        17.1 (7.4)                                                           53.02%             0.03[-0.19,0.26]
+ Williams 1993                              74          16.2 (9.7)      71        16.1 (8.1)                                                           25.41%                  0[-0.32,0.33]
+
+
+ Total ***                                 294                         277                                                                              100%            0.03[-0.14,0.19]
+ Heterogeneity: Tau2=0; Chi2=0.03, df=2(P=0.98); I2=0%
+ Test for overall effect: Z=0.32(P=0.75)
+
+                                                                             Favours NSAID         -10           -5              0        5       10   Favours Acetaminophe
+
+
+
+
+                              Analysis 3.5. Comparison 3 Group 3: NSAIDS (ibuprofen 1200 mg,arthrotec,
+                            rofecoxib 25 mg, naproxen) vs Acetaminophen, Outcome 5 HAQ disability index.
+ Study or subgroup                               NSAIDs                Acetaminophen                              Std. Mean Difference                 Weight     Std. Mean Difference
+                                           N           Mean(SD)        N        Mean(SD)                                  Fixed, 95% CI                               Fixed, 95% CI
+ Bradley 1991a                              62           0.8 (0.7)      61           0.8 (0.6)                                                         36.28%             0.08[-0.28,0.43]
+ Pincus 2001                               106           1.4 (0.3)     112           1.5 (0.4)                                                         63.72%                 -0.27[-0.53,-0]
+
+
+ Total ***                                 168                         173                                                                              100%           -0.14[-0.36,0.07]
+ Heterogeneity: Tau2=0; Chi2=2.32, df=1(P=0.13); I2=56.9%
+ Test for overall effect: Z=1.32(P=0.19)
+
+                                                                             Favours NSAID         -10           -5              0        5       10   Favours Acetaminophe
+
+
+
+
+                       Analysis 3.6. Comparison 3 Group 3: NSAIDS (ibuprofen 1200 mg,arthrotec, rofecoxib
+                         25 mg, naproxen) vs Acetaminophen, Outcome 6 Physician Global (Dichotomous).
+ Study or subgroup                             NSAIDs             Acetaminophen                                Risk Ratio                          Weight              Risk Ratio
+                                                 n/N                   n/N                           M-H, Random, 95% CI                                          M-H, Random, 95% CI
+ Bradley 1991a                                         27/62                 23/61                                                                       100%             1.15[0.75,1.77]
+
+
+ Total (95% CI)                                           62                   61                                                                       100%             1.15[0.75,1.77]
+ Total events: 27 (NSAIDs), 23 (Acetaminophen)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.66(P=0.51)
+
+                                                          Favours acetaminophe         0.1   0.2         0.5          1      2        5   10   Favours NSAIDs
+
+
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                                                                  40
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                  Trusted evidence.
+                                     Informed decisions.
+           Library                   Better health.                                                                           Cochrane Database of Systematic Reviews
+
+
+                       Analysis 3.7. Comparison 3 Group 3: NSAIDS (ibuprofen 1200 mg,arthrotec, rofecoxib
+                          25 mg, naproxen) vs Acetaminophen, Outcome 7 Patient Global (Dichotomous).
+ Study or subgroup                           NSAIDs          Acetaminophen                          Risk Ratio                    Weight                 Risk Ratio
+                                              n/N                 n/N                       M-H, Random, 95% CI                                  M-H, Random, 95% CI
+ Boureau 2004                                    65/108               36/109                                                          22.56%                1.82[1.34,2.48]
+ Geba 2002b                                         57/95               37/94                                                         23.59%                1.52[1.13,2.06]
+ Schnitzer 2005a                                288/520              107/264                                                          53.84%                1.37[1.16,1.61]
+
+
+ Total (95% CI)                                       723                467                                                           100%                 1.5[1.27,1.76]
+ Total events: 410 (NSAIDs), 180 (Acetaminophen)
+ Heterogeneity: Tau2=0.01; Chi2=2.67, df=2(P=0.26); I2=25.16%
+ Test for overall effect: Z=4.87(P<0.0001)
+
+                                                        Favours acetaminophe    0.1   0.2     0.5       1        2   5   10   Favours NSAIDs
+
+
+
+
+                   Analysis 3.8. Comparison 3 Group 3: NSAIDS (ibuprofen 1200 mg,arthrotec, rofecoxib 25 mg,
+                    naproxen) vs Acetaminophen, Outcome 8 Toxicity 1 (Total number of Patients with any AE).
+ Study or subgroup                           NSAIDs          Acetaminophen                          Risk Ratio                    Weight                 Risk Ratio
+                                              n/N                 n/N                        M-H, Fixed, 95% CI                                      M-H, Fixed, 95% CI
+ Boureau 2004                                    26/111               25/111                                                           6.46%                1.04[0.64,1.68]
+ Bradley 1991a                                      16/62               19/61                                                          4.95%                0.83[0.47,1.46]
+ Geba 2002b                                         49/95               51/94                                                         13.25%                0.95[0.73,1.24]
+ Golden 2004                                     52/161               47/148                                                          12.66%                1.02[0.73,1.41]
+ Pincus 2001                                    105/195               94/205                                                          23.68%                1.17[0.96,1.43]
+ Schnitzer 2005a                                218/527              114/269                                                               39%              0.98[0.82,1.16]
+
+
+ Total (95% CI)                                     1151                 888                                                           100%               1.02[0.92,1.14]
+ Total events: 466 (NSAIDs), 350 (Acetaminophen)
+ Heterogeneity: Tau2=0; Chi2=2.99, df=5(P=0.7); I2=0%
+ Test for overall effect: Z=0.39(P=0.69)
+
+                                                              Favours NSAIDs    0.1   0.2     0.5       1        2   5   10   Favours Acetaminophe
+
+
+
+
+                     Analysis 3.9. Comparison 3 Group 3: NSAIDS (ibuprofen 1200 mg,arthrotec, rofecoxib 25
+                      mg, naproxen) vs Acetaminophen, Outcome 9 Toxicity 2 (Withdrawals due to toxicity).
+ Study or subgroup                           NSAIDS          Acetaminophen                          Risk Ratio                    Weight                 Risk Ratio
+                                              n/N                 n/N                        M-H, Fixed, 95% CI                                      M-H, Fixed, 95% CI
+ Boureau 2004                                       1/111               3/111                                                          4.56%                0.33[0.04,3.16]
+ Bradley 1991a                                        4/62               5/61                                                          7.65%                0.79[0.22,2.79]
+ Geba 2002b                                           6/95               6/94                                                          9.16%                0.99[0.33,2.96]
+ Pincus 2001                                        7/195               8/205                                                         11.84%                0.92[0.34,2.49]
+ Schnitzer 2005a                                 34/527               21/269                                                          42.22%                 0.83[0.49,1.4]
+ Williams 1993                                      21/90               16/88                                                         24.57%                1.28[0.72,2.29]
+
+
+ Total (95% CI)                                     1080                 828                                                           100%                 0.94[0.68,1.3]
+ Total events: 73 (NSAIDS), 59 (Acetaminophen)
+ Heterogeneity: Tau2=0; Chi2=2.24, df=5(P=0.81); I2=0%
+ Test for overall effect: Z=0.38(P=0.71)
+
+                                                              Favours NSAIDS    0.1   0.2     0.5       1        2   5   10   Favours Acetaminophe
+
+
+
+Acetaminophen for osteoarthritis (Review)                                                                                                                                 41
+Copyright © 2010 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+

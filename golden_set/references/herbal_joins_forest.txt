@@ -1,0 +1,1078 @@
+           Cochrane                  Trusted evidence.
+                                     Informed decisions.
+           Library                   Better health.                                                                                        Cochrane Database of Systematic Reviews
+
+
+
+
+                                 Analysis 19.8. Comparison 19 Persea gratissma + Glycine max (ASU 300
+                                 mg) versus placebo, Outcome 8 Participants (n) reported adverse events.
+ Study or subgroup                         ASU 300mg              Placebo                                  Risk Ratio                          Weight             Risk Ratio
+                                              n/N                   n/N                         M-H, Random, 95% CI                                          M-H, Random, 95% CI
+ Appelboom 2001                                     28/86                 23/88                                                                     2.39%            1.25[0.78,1.98]
+ Blotman 1997                                        9/77                 10/76                                                                     0.73%            0.89[0.38,2.06]
+ Lequesne 2002                                      39/85                 39/78                                                                     5.03%            0.92[0.67,1.26]
+ Maheu 1998                                         23/84                 20/78                                                                     1.95%            1.07[0.64,1.79]
+ Maheu 2013                                     168/189               178/209                                                                       89.9%            1.04[0.97,1.13]
+
+
+ Total (95% CI)                                      521                    529                                                                      100%          1.04[0.97,1.12]
+ Total events: 267 (ASU 300mg), 270 (Placebo)
+ Heterogeneity: Tau2=0; Chi2=1.33, df=4(P=0.86); I2=0%
+ Test for overall effect: Z=1.09(P=0.28)
+
+                                                            Favours ASU 300mg     0.1    0.2         0.5       1        2        5    10   Favours placebo
+
+
+
+
+                               Analysis 19.9. Comparison 19 Persea gratissma + Glycine max (ASU 300 mg)
+                               versus placebo, Outcome 9 Participants (n) withdrew due to adverse events.
+ Study or subgroup                         ASU 300mg              Placebo                                  Risk Ratio                          Weight             Risk Ratio
+                                              n/N                   n/N                         M-H, Random, 95% CI                                          M-H, Random, 95% CI
+ Maheu 2013                                      32/189                31/209                                                                        100%             1.14[0.73,1.8]
+
+
+ Total (95% CI)                                      189                    209                                                                      100%            1.14[0.73,1.8]
+ Total events: 32 (ASU 300mg), 31 (Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.57(P=0.57)
+
+                                                            Favours ASU 300mg     0.01         0.1             1            10       100   Favours placebo
+
+
+
+
+                              Analysis 19.10. Comparison 19 Persea gratissma + Glycine max (ASU 300 mg)
+                              versus placebo, Outcome 10 Particpants (n) reported serious adverse events.
+ Study or subgroup                         ASU 300mg              Placebo                                  Risk Ratio                          Weight             Risk Ratio
+                                              n/N                   n/N                         M-H, Random, 95% CI                                          M-H, Random, 95% CI
+ Maheu 2013                                      75/189                68/209                                                                        100%            1.22[0.94,1.59]
+
+
+ Total (95% CI)                                      189                    209                                                                      100%          1.22[0.94,1.59]
+ Total events: 75 (ASU 300mg), 68 (Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.48(P=0.14)
+
+                                                              Favours ASU 300     0.01         0.1             1            10       100   Favours placebo
+
+
+
+
+Oral herbal therapies for treating osteoarthritis (Review)                                                                                                                       120
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                               Cochrane Database of Systematic Reviews
+
+
+                                     Analysis 19.11. Comparison 19 Persea gratissma + Glycine max (ASU
+                                       300 mg) versus placebo, Outcome 11 JSW change from baseline.
+ Study or subgroup                             ASU 300mg                   Placebo                         Mean Difference                Weight        Mean Difference
+                                           N         Mean(SD)        N        Mean(SD)                     Random, 95% CI                               Random, 95% CI
+ 19.11.1 < median group, at 24 months
+ Lequesne 2002                              30         0.4 (0.5)      25          0.9 (0.6)                                                34.1%             -0.43[-0.73,-0.13]
+ Subtotal ***                               30                        25                                                                   34.1%            -0.43[-0.73,-0.13]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=2.77(P=0.01)
+
+
+ 19.11.2 > median group, at 24 months
+ Lequesne 2002                              25         0.5 (0.9)      28          0.4 (0.9)                                               23.19%              0.16[-0.31,0.63]
+ Subtotal ***                               25                        28                                                                  23.19%             0.16[-0.31,0.63]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.66(P=0.51)
+
+
+ 19.11.3 At 36 months
+ Maheu 2013                                166         0.6 (0.9)     179          0.7 (0.9)                                               42.71%              -0.03[-0.22,0.16]
+ Subtotal ***                              166                       179                                                                  42.71%            -0.03[-0.22,0.16]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.31(P=0.75)
+
+
+ Total ***                                 221                       232                                                                   100%             -0.12[-0.43,0.19]
+ Heterogeneity: Tau2=0.05; Chi2=6.2, df=2(P=0.05); I2=67.72%
+ Test for overall effect: Z=0.77(P=0.44)
+ Test for subgroup differences: Chi2=6.2, df=1 (P=0.05), I2=67.72%
+
+                                                                     Favours ASU 300mg         -2     -1          0          1       2    Favours placebo
+
+
+
+
+Comparison 20. Persea gratissma + Glycine max (ASU 600 mg) versus placebo
+
+ Outcome or subgroup title                       No. of studies             No. of partici-          Statistical method                            Effect size
+                                                                            pants
+
+ 1 Pain VAS 0-100                                1                          156                      Mean Difference (IV, Random,                  -14.2 [-20.82, -7.58]
+                                                                                                     95% CI)
+
+ 2 Lequesne algofunctional in-                   1                          156                      Mean Difference (IV, Random,                  -1.30 [-2.38, -0.22]
+ dex                                                                                                 95% CI)
+
+ 3 Participants (n) reported ad-                 1                          174                      Risk Ratio (M-H, Random, 95% CI)              1.07 [0.66, 1.74]
+ verse events
+
+
+
+
+                                            Analysis 20.1. Comparison 20 Persea gratissma + Glycine
+                                           max (ASU 600 mg) versus placebo, Outcome 1 Pain VAS 0-100.
+ Study or subgroup                             ASU 600mg                   Placebo                         Mean Difference                Weight        Mean Difference
+                                           N         Mean(SD)        N        Mean(SD)                     Random, 95% CI                               Random, 95% CI
+ Appelboom 2001                             78       28.2 (20.8)      78      42.4 (21.4)                                                   100%            -14.2[-20.82,-7.58]
+
+
+                                                                     Favours ASU 600mg        -100   -50          0          50     100   Favours placebo
+
+
+Oral herbal therapies for treating osteoarthritis (Review)                                                                                                                  121
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                                            Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                              ASU 600mg                    Placebo                                   Mean Difference                 Weight        Mean Difference
+                                            N          Mean(SD)        N        Mean(SD)                               Random, 95% CI                                Random, 95% CI
+ Total ***                                  78                          78                                                                               100%            -14.2[-20.82,-7.58]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=4.2(P<0.0001)
+
+                                                                      Favours ASU 600mg            -100          -50             0       50      100   Favours placebo
+
+
+
+
+                                      Analysis 20.2. Comparison 20 Persea gratissma + Glycine max (ASU
+                                      600 mg) versus placebo, Outcome 2 Lequesne algofunctional index.
+ Study or subgroup                              ASU 600mg                    Placebo                                   Mean Difference                 Weight        Mean Difference
+                                            N          Mean(SD)        N        Mean(SD)                               Random, 95% CI                                Random, 95% CI
+ Appelboom 2001                             78           6.5 (3.5)      78           7.8 (3.4)                                                           100%               -1.3[-2.38,-0.22]
+
+
+ Total ***                                  78                          78                                                                               100%              -1.3[-2.38,-0.22]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=2.35(P=0.02)
+
+                                                                      Favours ASU 600mg            -10            -5             0       5        10   Favours placebo
+
+
+
+
+                                 Analysis 20.3. Comparison 20 Persea gratissma + Glycine max (ASU 600
+                                 mg) versus placebo, Outcome 3 Participants (n) reported adverse events.
+ Study or subgroup                          ASU 600mg                Placebo                                    Risk Ratio                         Weight                 Risk Ratio
+                                                 n/N                   n/N                           M-H, Random, 95% CI                                          M-H, Random, 95% CI
+ Appelboom 2001                                        24/86                 23/88                                                                       100%                1.07[0.66,1.74]
+
+
+ Total (95% CI)                                           86                   88                                                                        100%               1.07[0.66,1.74]
+ Total events: 24 (ASU 600mg), 23 (Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.26(P=0.79)
+
+                                                               Favours ASU 600mg       0.1   0.2          0.5          1     2       5    10   Favours placebo
+
+
+
+
+Comparison 21. Persea gratissma + Glycine max (ASU 300 mg) versus chondroitin sulphate
+
+ Outcome or subgroup title                          No. of studies               No. of partici-                       Statistical method                        Effect size
+                                                                                 pants
+
+ 1 WOMAC-VAS (Pain)                                 1                                                                  Mean Difference (IV, Random,              Totals not selected
+                                                                                                                       95% CI)
+
+ 2 WOMAC-VAS (Function)                             1                                                                  Mean Difference (IV, Random,              Totals not selected
+                                                                                                                       95% CI)
+
+ 3 Participants (n) reported ad-                    1                            357                                   Risk Ratio (M-H, Random, 95%              0.86 [0.59, 1.26]
+ verse events                                                                                                          CI)
+
+ 4 Paricipants (n) reported serious                 1                            357                                   Risk Ratio (M-H, Random, 95%              2.92 [0.31, 27.78]
+ adverse events                                                                                                        CI)
+
+Oral herbal therapies for treating osteoarthritis (Review)                                                                                                                                122
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                  Trusted evidence.
+                                     Informed decisions.
+           Library                   Better health.                                                                                            Cochrane Database of Systematic Reviews
+
+
+
+
+                                      Analysis 21.1. Comparison 21 Persea gratissma + Glycine max (ASU
+                                     300 mg) versus chondroitin sulphate, Outcome 1 WOMAC-VAS (Pain).
+ Study or subgroup                               ASU 300mg                          Chondroitin sulphate                           Mean Difference                      Mean Difference
+                                           N            Mean(SD)                    N              Mean(SD)                        Random, 95% CI                       Random, 95% CI
+ Pavelka 2010                              181                 24.3 (19.5)          176                22.9 (20)                                                               1.41[-2.68,5.5]
+
+                                                                                           Favours ASU 300mg       -10       -5           0          5         10    Favours chondroitin
+
+
+
+
+                                   Analysis 21.2. Comparison 21 Persea gratissma + Glycine max (ASU 300
+                                    mg) versus chondroitin sulphate, Outcome 2 WOMAC-VAS (Function).
+ Study or subgroup                               ASU 300mg                          Chondroitin sulphate                           Mean Difference                      Mean Difference
+                                           N            Mean(SD)                    N              Mean(SD)                        Random, 95% CI                       Random, 95% CI
+ Pavelka 2010                              181                 26.8 (19.8)          176              25.1 (20.1)                                                              1.63[-2.51,5.77]
+
+                                                                                           Favours ASU 300mg           -10    -5          0          5        10     Favours chondroitin
+
+
+
+
+                             Analysis 21.3. Comparison 21 Persea gratissma + Glycine max (ASU 300 mg)
+                          versus chondroitin sulphate, Outcome 3 Participants (n) reported adverse events.
+ Study or subgroup                         ASU 300mg                 Chondroitin                               Risk Ratio                            Weight                Risk Ratio
+                                                                      sulphate
+                                                 n/N                         n/N                        M-H, Random, 95% CI                                           M-H, Random, 95% CI
+ Pavelka 2010                                      38/181                      43/176                                                                     100%                 0.86[0.59,1.26]
+
+
+ Total (95% CI)                                         181                         176                                                                   100%               0.86[0.59,1.26]
+ Total events: 38 (ASU 300mg), 43 (Chondroitin sulphate)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.77(P=0.44)
+
+                                                               Favours ASU 300mg            0.01       0.1         1         10          100   Favours chondroitin
+
+
+
+
+                          Analysis 21.4. Comparison 21 Persea gratissma + Glycine max (ASU 300 mg) versus
+                          chondroitin sulphate, Outcome 4 Paricipants (n) reported serious adverse events.
+ Study or subgroup                         ASU 300mg                 Chondroitin                               Risk Ratio                            Weight                Risk Ratio
+                                                                      sulphate
+                                                 n/N                         n/N                        M-H, Random, 95% CI                                           M-H, Random, 95% CI
+ Pavelka 2010                                          3/181                       1/176                                                                  100%               2.92[0.31,27.78]
+
+
+ Total (95% CI)                                         181                         176                                                                   100%              2.92[0.31,27.78]
+ Total events: 3 (ASU 300mg), 1 (Chondroitin sulphate)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.93(P=0.35)
+
+                                                                   Favours ASU 300          0.01       0.1         1         10          100   Favours chondroitin
+
+
+
+
+Oral herbal therapies for treating osteoarthritis (Review)                                                                                                                                 123
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                  Trusted evidence.
+                                       Informed decisions.
+             Library                   Better health.                                                                             Cochrane Database of Systematic Reviews
+
+
+Comparison 22. Phellondendron amurense + Citrus sinensis (NP 06-1) versus placebo
+
+ Outcome or subgroup title                     No. of studies             No. of partici-           Statistical method                              Effect size
+                                                                          pants
+
+ 1 Lequesne algofunctional in-                 1                          45                        Mean Difference (IV, Random, 95%                -3.82 [-7.05, -0.59]
+ dex                                                                                                CI)
+
+ 1.1 Normal BMI participants                   1                          18                        Mean Difference (IV, Random, 95%                -2.2 [-3.37, -1.03]
+                                                                                                    CI)
+
+ 1.2 Overweight BMI partici-                   1                          27                        Mean Difference (IV, Random, 95%                -5.50 [-6.95, -4.05]
+ pants                                                                                              CI)
+
+
+
+
+                                  Analysis 22.1. Comparison 22 Phellondendron amurense + Citrus sinensis
+                                    (NP 06-1) versus placebo, Outcome 1 Lequesne algofunctional index.
+ Study or subgroup                             Phellonden-                Placebo                          Mean Difference                Weight        Mean Difference
+                                               dron+Citrus
+                                           N        Mean(SD)        N          Mean(SD)                    Random, 95% CI                               Random, 95% CI
+ 22.1.1 Normal BMI participants
+ Oben 2009                                     7      7.7 (1.4)      11          9.9 (0.9)                                                50.91%              -2.2[-3.37,-1.03]
+ Subtotal ***                                  7                     11                                                                   50.91%             -2.2[-3.37,-1.03]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=3.7(P=0)
+
+
+ 22.1.2 Overweight BMI participants
+ Oben 2009                                   14       6.3 (2.3)      13         11.8 (1.5)                                                49.09%              -5.5[-6.95,-4.05]
+ Subtotal ***                                14                      13                                                                   49.09%             -5.5[-6.95,-4.05]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=7.41(P<0.0001)
+
+
+ Total ***                                   21                      24                                                                    100%             -3.82[-7.05,-0.59]
+ Heterogeneity: Tau2=4.99; Chi2=12.04, df=1(P=0); I2=91.69%
+ Test for overall effect: Z=2.32(P=0.02)
+ Test for subgroup differences: Chi2=12.04, df=1 (P=0), I2=91.69%
+
+                                                        Favours Phellondendron+Citrus        -100    -50          0          50     100   Favours placebo
+
+
+
+
+Comparison 23. Uncaria guianensis + Lepidium meyenii versus glucosamine sulphate
+
+ Outcome or subgroup title                                   No. of studies           No. of partici-           Statistical method                     Effect size
+                                                                                      pants
+
+ 1 Participants (n) reported adverse                         1                        95                        Risk Ratio (M-H, Random,               0.77 [0.18, 3.24]
+ events                                                                                                         95% CI)
+
+
+
+
+Oral herbal therapies for treating osteoarthritis (Review)                                                                                                                  124
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                                                    Cochrane Database of Systematic Reviews
+
+
+                               Analysis 23.1. Comparison 23 Uncaria guianensis + Lepidium meyenii versus
+                               glucosamine sulphate, Outcome 1 Participants (n) reported adverse events.
+ Study or subgroup                         Uncaria+Le-                Glucosamine                                  Risk Ratio                                Weight                  Risk Ratio
+                                             pidium                     sulphate
+                                                 n/N                           n/N                           M-H, Random, 95% CI                                              M-H, Random, 95% CI
+ Mehta 2007                                             3/47                          4/48                                                                          100%                0.77[0.18,3.24]
+
+
+ Total (95% CI)                                             47                            48                                                                       100%                0.77[0.18,3.24]
+ Total events: 3 ( Uncaria+Lepidium), 4 (Glucosamine sulphate)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.36(P=0.72)
+
+                                                       Favours Uncaria+Lepidium                 0.01       0.1               1            10     100   Favours glucosamine
+
+
+
+
+Comparison 24. Zingiber officinale + Alpinia galanga (EV.EXT77) versus placebo
+
+ Outcome or subgroup title                              No. of studies                         No. of partici-                   Statistical method                          Effect size
+                                                                                               pants
+
+ 1 Pain immediately after walking                       1                                      247                               Mean Difference (IV, Random,                -9.60 [-16.81, -2.39]
+ 50 feet VAS 0-100                                                                                                               95% CI)
+
+ 2 WOMAC-VAS (Function)                                 1                                                                        Mean Difference (IV, Random,                Totals not selected
+                                                                                                                                 95% CI)
+
+ 3 Participants (n) reported adverse                    1                                                                        Risk Ratio (M-H, Random, 95%                Totals not selected
+ events                                                                                                                          CI)
+
+
+
+
+                              Analysis 24.1. Comparison 24 Zingiber officinale + Alpinia galanga (EV.EXT77)
+                              versus placebo, Outcome 1 Pain immediately after walking 50 feet VAS 0-100.
+ Study or subgroup                             EV.EXT 77                             Placebo                                 Mean Difference                      Weight           Mean Difference
+                                           N           Mean(SD)                N          Mean(SD)                           Random, 95% CI                                        Random, 95% CI
+ Altman 2001                               124         34.6 (29.5)             123         44.2 (28.3)                                                              100%              -9.6[-16.81,-2.39]
+
+
+ Total ***                                 124                                 123                                                                                 100%              -9.6[-16.81,-2.39]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=2.61(P=0.01)
+
+                                                                                Favours EV.EXT 77          -100        -50            0          50      100      Fvours placebo
+
+
+
+
+                                       Analysis 24.2. Comparison 24 Zingiber officinale + Alpinia galanga
+                                        (EV.EXT77) versus placebo, Outcome 2 WOMAC-VAS (Function).
+ Study or subgroup                                EV.EXT 77                                     Placebo                                    Mean Difference                         Mean Difference
+                                           N             Mean(SD)                     N                Mean(SD)                            Random, 95% CI                          Random, 95% CI
+ Altman 2001                               124                   37.7 (25.3)          123                43.4 (23.7)                                                                   -5.7[-11.81,0.41]
+
+                                                                                                Favours EV.EXT 77        -100        -50          0          50        100   Fvours placebo
+
+
+
+
+Oral herbal therapies for treating osteoarthritis (Review)                                                                                                                                           125
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+         Cochrane             Trusted evidence.
+                              Informed decisions.
+         Library              Better health.                                                                          Cochrane Database of Systematic Reviews
+
+
+
+
+                        Analysis 24.3. Comparison 24 Zingiber officinale + Alpinia galanga (EV.EXT77)
+                            versus placebo, Outcome 3 Participants (n) reported adverse events.
+ Study or subgroup                      EV.EXT 77                    Placebo                                 Risk Ratio                       Risk Ratio
+                                             n/N                       n/N                           M-H, Random, 95% CI                M-H, Random, 95% CI
+ Altman 2001                                        76/124                     49/123                                                            1.54[1.19,1.99]
+
+                                                                     Favours EV.EXT 77   0.1   0.2     0.5       1        2   5   10   Fvours placebo
+
+
+
+
+Comparison 25. SKI306X versus placebo
+
+ Outcome or subgroup title               No. of studies        No. of partici-           Statistical method                            Effect size
+                                                               pants
+
+ 1 Pain VAS 0-100 change from            1                                               Mean Difference (IV, Random,                  Subtotals only
+ baseline                                                                                95% CI)
+
+ 1.1 Low dose (600mg) SKI306X            1                     47                        Mean Difference (IV, Random,                  -16.1 [-25.19, -7.01]
+                                                                                         95% CI)
+
+ 1.2 Medium dose (1200mg)                1                     46                        Mean Difference (IV, Random,                  -14.5 [-23.04, -5.96]
+ SKI306X                                                                                 95% CI)
+
+ 1.3 High dose (1800mg) SKI306X          1                     46                        Mean Difference (IV, Random,                  -22.3 [-31.82,
+                                                                                         95% CI)                                       -12.78]
+
+ 2 Lequesne algofunctional index         1                     139                       Mean Difference (IV, Random,                  -2.73 [-3.71, -1.74]
+ change from baseline                                                                    95% CI)
+
+ 2.1 Low dose (600mg) SKI306X            1                     47                        Mean Difference (IV, Random,                  -2.40 [-4.05, -0.75]
+                                                                                         95% CI)
+
+ 2.2 Medium dose (1200mg)                1                     46                        Mean Difference (IV, Random,                  -2.8 [-4.62, -0.98]
+ SKI306X                                                                                 95% CI)
+
+ 2.3 High dose (1800mg) SKI306X          1                     46                        Mean Difference (IV, Random,                  -3.0 [-4.68, -1.32]
+                                                                                         95% CI)
+
+ 3 Participants (n) reported ad-         2                     139                       Risk Ratio (M-H, Random, 95%                  0.93 [0.49, 1.79]
+ verse events                                                                            CI)
+
+ 3.1 Low dose (600mg) SKI306X            1                     47                        Risk Ratio (M-H, Random, 95%                  0.96 [0.32, 2.88]
+                                                                                         CI)
+
+ 3.2 Medium dose (1200mg)                1                     46                        Risk Ratio (M-H, Random, 95%                  1.2 [0.43, 3.38]
+ SKI306X                                                                                 CI)
+
+ 3.3 High dose (1800mmg)                 1                     46                        Risk Ratio (M-H, Random, 95%                  0.6 [0.16, 2.22]
+ SKI306X                                                                                 CI)
+
+
+
+
+Oral herbal therapies for treating osteoarthritis (Review)                                                                                                    126
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                   Trusted evidence.
+                                        Informed decisions.
+             Library                    Better health.                                                                          Cochrane Database of Systematic Reviews
+
+
+        Analysis 25.1. Comparison 25 SKI306X versus placebo, Outcome 1 Pain VAS 0-100 change from baseline.
+ Study or subgroup                                SKI306X                Placebo                         Mean Difference                Weight        Mean Difference
+                                            N        Mean(SD)       N        Mean(SD)                    Random, 95% CI                               Random, 95% CI
+ 25.1.1 Low dose (600mg) SKI306X
+ Jung 2001                                   24      -23.6 (16.3)   23        -7.5 (15.5)                                                 100%             -16.1[-25.19,-7.01]
+ Subtotal ***                                24                     23                                                                   100%             -16.1[-25.19,-7.01]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=3.47(P=0)
+
+
+ 25.1.2 Medium dose (1200mg) SKI306X
+ Jung 2001                                   23         -22 (14)    23        -7.5 (15.5)                                                 100%             -14.5[-23.04,-5.96]
+ Subtotal ***                                23                     23                                                                   100%             -14.5[-23.04,-5.96]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=3.33(P=0)
+
+
+ 25.1.3 High dose (1800mg) SKI306X
+ Jung 2001                                   23      -29.8 (17.4)   23        -7.5 (15.5)                                                 100%            -22.3[-31.82,-12.78]
+ Subtotal ***                                23                     23                                                                   100%         -22.3[-31.82,-12.78]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=4.59(P<0.0001)
+
+                                                                        Favours SKI306X      -40   -20          0          20     40    Favours placebo
+
+
+
+
+                                          Analysis 25.2. Comparison 25 SKI306X versus placebo, Outcome
+                                              2 Lequesne algofunctional index change from baseline.
+ Study or subgroup                                SKI306X                Placebo                         Mean Difference                Weight        Mean Difference
+                                            N        Mean(SD)       N        Mean(SD)                    Random, 95% CI                               Random, 95% CI
+ 25.2.1 Low dose (600mg) SKI306X
+ Jung 2001                                   24        -3.7 (3.4)   23         -1.3 (2.3)                                                35.7%               -2.4[-4.05,-0.75]
+ Subtotal ***                                24                     23                                                                   35.7%              -2.4[-4.05,-0.75]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=2.84(P=0)
+
+
+ 25.2.2 Medium dose (1200mg) SKI306X
+ Jung 2001                                   23        -4.1 (3.8)   23         -1.3 (2.3)                                               29.62%               -2.8[-4.62,-0.98]
+ Subtotal ***                                23                     23                                                                  29.62%              -2.8[-4.62,-0.98]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=3.02(P=0)
+
+
+ 25.2.3 High dose (1800mg) SKI306X
+ Jung 2001                                   23        -4.3 (3.4)   23         -1.3 (2.3)                                               34.68%                 -3[-4.68,-1.32]
+ Subtotal ***                                23                     23                                                                  34.68%                -3[-4.68,-1.32]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=3.5(P=0)
+
+
+ Total ***                                   70                     69                                                                   100%              -2.73[-3.71,-1.74]
+ Heterogeneity: Tau2=0; Chi2=0.26, df=2(P=0.88); I2=0%
+ Test for overall effect: Z=5.41(P<0.0001)
+ Test for subgroup differences: Chi2=0.26, df=1 (P=0.88), I2=0%
+
+                                                                        Favours SKI306X     -10    -5           0           5      10   Favours placebo
+
+
+
+
+Oral herbal therapies for treating osteoarthritis (Review)                                                                                                                 127
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                  Trusted evidence.
+                                     Informed decisions.
+           Library                   Better health.                                                                             Cochrane Database of Systematic Reviews
+
+
+
+
+     Analysis 25.3. Comparison 25 SKI306X versus placebo, Outcome 3 Participants (n) reported adverse events.
+ Study or subgroup                          SKI306X               Placebo                            Risk Ratio                     Weight             Risk Ratio
+                                             n/N                    n/N                         M-H, Random, 95% CI                               M-H, Random, 95% CI
+ 25.3.1 Low dose (600mg) SKI306X
+ Jung 2004                                         5/24                   5/23                                                          35.32%            0.96[0.32,2.88]
+ Subtotal (95% CI)                                    24                    23                                                          35.32%          0.96[0.32,2.88]
+ Total events: 5 (SKI306X), 5 (Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.08(P=0.94)
+
+
+ 25.3.2 Medium dose (1200mg) SKI306X
+ Jung 2001                                         6/23                   5/23                                                          39.76%             1.2[0.43,3.38]
+ Subtotal (95% CI)                                    23                    23                                                          39.76%            1.2[0.43,3.38]
+ Total events: 6 (SKI306X), 5 (Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.34(P=0.73)
+
+
+ 25.3.3 High dose (1800mmg) SKI306X
+ Jung 2001                                         3/23                   5/23                                                          24.92%             0.6[0.16,2.22]
+ Subtotal (95% CI)                                    23                    23                                                          24.92%            0.6[0.16,2.22]
+ Total events: 3 (SKI306X), 5 (Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.76(P=0.44)
+
+
+ Total (95% CI)                                       70                    69                                                            100%          0.93[0.49,1.79]
+ Total events: 14 (SKI306X), 15 (Placebo)
+ Heterogeneity: Tau2=0; Chi2=0.67, df=2(P=0.72); I2=0%
+ Test for overall effect: Z=0.21(P=0.83)
+ Test for subgroup differences: Chi2=0.67, df=1 (P=0.72), I2=0%
+
+                                                               Favours SKI306X   0.02     0.1            1            10   50   Favours placebo
+
+
+
+
+Comparison 26. SKI306X (600 mg) versus diclofenac
+
+ Outcome or subgroup title                                 No. of studies           No. of partici-               Statistical method               Effect size
+                                                                                    pants
+
+ 1 Pain VAS 0-100 change from baseline                     1                        249                           Mean Difference (IV, Random,     1.31 [-2.78, 5.40]
+                                                                                                                  95% CI)
+
+ 2 Lequesne algofunctional index                           1                        249                           Mean Difference (IV, Random,     0.77 [0.10, 1.44]
+ change from baseline                                                                                             95% CI)
+
+ 3 Participants (n) reported adverse                       1                        249                           Risk Ratio (M-H, Random,         0.61 [0.38, 0.97]
+ events                                                                                                           95% CI)
+
+
+
+
+Oral herbal therapies for treating osteoarthritis (Review)                                                                                                            128
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                                                   Cochrane Database of Systematic Reviews
+
+
+Analysis 26.1. Comparison 26 SKI306X (600 mg) versus diclofenac, Outcome 1 Pain VAS 0-100 change from baseline.
+ Study or subgroup                                SKI306X                     Diclofenac                                  Mean Difference                       Weight         Mean Difference
+                                            N           Mean(SD)          N         Mean(SD)                              Random, 95% CI                                       Random, 95% CI
+ Jung 2004                                  125         -14.2 (17.5)      124       -15.5 (15.4)                                                                  100%                  1.31[-2.78,5.4]
+
+
+ Total ***                                 125                            124                                                                                    100%                  1.31[-2.78,5.4]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.63(P=0.53)
+
+                                                                              Favours SKI306X              -40        -20           0       20         40       Favours diclofenac
+
+
+
+
+                                      Analysis 26.2. Comparison 26 SKI306X (600 mg) versus diclofenac,
+                                       Outcome 2 Lequesne algofunctional index change from baseline.
+ Study or subgroup                                SKI306X                     Diclofenac                                  Mean Difference                       Weight         Mean Difference
+                                            N           Mean(SD)          N         Mean(SD)                              Random, 95% CI                                       Random, 95% CI
+ Jung 2004                                  125           -1.9 (2.8)      124          -2.7 (2.6)                                                                 100%                   0.77[0.1,1.44]
+
+
+ Total ***                                 125                            124                                                                                    100%                   0.77[0.1,1.44]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=2.25(P=0.02)
+
+                                                                              Favours SKI306X         -4             -2             0        2              4   Favours diclofenac
+
+
+
+
+                                                Analysis 26.3. Comparison 26 SKI306X (600 mg) versus
+                                           diclofenac, Outcome 3 Participants (n) reported adverse events.
+ Study or subgroup                              SKI306X                Diclofenac                                  Risk Ratio                               Weight                   Risk Ratio
+                                                  n/N                     n/N                              M-H, Random, 95% CI                                              M-H, Random, 95% CI
+ Jung 2004                                          22/125                    36/124                                                                              100%                  0.61[0.38,0.97]
+
+
+ Total (95% CI)                                           125                    124                                                                             100%                 0.61[0.38,0.97]
+ Total events: 22 (SKI306X), 36 (Diclofenac)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=2.09(P=0.04)
+
+                                                                   Favours SKI306X       0.1    0.2          0.5          1     2       5        10   Favours diclofenac
+
+
+
+
+Comparison 27. Phytodolor N versus placebo
+
+ Outcome or subgroup title                                 No. of studies                No. of partici-                      Statistical method                             Effect size
+                                                                                         pants
+
+ 1 Enduring pain (0 to 3)                                  1                             72                                   Mean Difference (IV, Random,                   0.0 [0.0, 0.0]
+                                                                                                                              95% CI)
+
+ 2 Function: mobility limitations (0 to                    1                             72                                   Mean Difference (IV, Random,                   0.0 [0.0, 0.0]
+ 3)                                                                                                                           95% CI)
+
+
+
+
+Oral herbal therapies for treating osteoarthritis (Review)                                                                                                                                          129
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                                         Cochrane Database of Systematic Reviews
+
+
+
+ Outcome or subgroup title                               No. of studies              No. of partici-                     Statistical method                      Effect size
+                                                                                     pants
+
+ 3 Participants (n) reported adverse                     3                           140                                 Risk Ratio (M-H, Random, 95%            0.33 [0.01, 7.92]
+ events                                                                                                                  CI)
+
+
+
+
+                  Analysis 27.1. Comparison 27 Phytodolor N versus placebo, Outcome 1 Enduring pain (0 to 3).
+ Study or subgroup                          Phytodolor N                     Placebo                                 Mean Difference                Weight        Mean Difference
+                                           N           Mean(SD)        N        Mean(SD)                             Random, 95% CI                               Random, 95% CI
+ Bernhardt 1991                             36            0.1 (0)       36             0.5 (0)                                                                           Not estimable
+
+
+ Total ***                                  36                          36                                                                                              Not estimable
+ Heterogeneity: Not applicable
+ Test for overall effect: Not applicable
+
+                                                                     Favours Phytodolor N         -4            -2          0           2       4   Favours placebo
+
+
+
+
+    Analysis 27.2. Comparison 27 Phytodolor N versus placebo, Outcome 2 Function: mobility limitations (0 to 3).
+ Study or subgroup                          Phytodolor N                     Placebo                                 Mean Difference                Weight        Mean Difference
+                                           N           Mean(SD)        N        Mean(SD)                             Random, 95% CI                               Random, 95% CI
+ Bernhardt 1991                             36            0.8 (0)       36             1.2 (0)                                                                           Not estimable
+
+
+ Total ***                                  36                          36                                                                                              Not estimable
+ Heterogeneity: Not applicable
+ Test for overall effect: Not applicable
+
+                                                                     Favours Phytodolor N         -4            -2          0           2       4   Favours placebo
+
+
+
+
+  Analysis 27.3. Comparison 27 Phytodolor N versus placebo, Outcome 3 Participants (n) reported adverse events.
+ Study or subgroup                         Phytodolor N              Placebo                                  Risk Ratio                        Weight                Risk Ratio
+                                                 n/N                   n/N                             M-H, Random, 95% CI                                     M-H, Random, 95% CI
+ Bernhardt 1991                                         0/36                  1/36                                                                    100%               0.33[0.01,7.92]
+ Huber 1991                                             0/18                  0/20                                                                                       Not estimable
+ Schadler 1988                                          0/15                  0/15                                                                                       Not estimable
+
+
+ Total (95% CI)                                           69                   71                                                                     100%             0.33[0.01,7.92]
+ Total events: 0 (Phytodolor N), 1 (Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.68(P=0.5)
+
+                                                             Favours Phytodolor N         0.005         0.1          1     10     200       Favours placebo
+
+
+
+
+Oral herbal therapies for treating osteoarthritis (Review)                                                                                                                           130
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                                    Cochrane Database of Systematic Reviews
+
+
+Comparison 28. Reumalex versus placebo
+
+ Outcome or subgroup title                                No. of studies               No. of partici-             Statistical method                     Effect size
+                                                                                       pants
+
+ 1 AIMS2 arthritis pain score change                      1                            52                          Mean Difference (IV, Random,           -0.89 [-1.73, -0.05]
+ from baseline                                                                                                     95% CI)
+
+ 2 Participants (n) reported adverse                      1                            52                          Risk Ratio (M-H, Random,               1.08 [0.40, 2.91]
+ events                                                                                                            95% CI)
+
+
+
+
+                                                Analysis 28.1. Comparison 28 Reumalex versus placebo,
+                                               Outcome 1 AIMS2 arthritis pain score change from baseline.
+ Study or subgroup                              Reumalex                    placebo                            Mean Difference                 Weight        Mean Difference
+                                           N          Mean(SD)        N        Mean(SD)                        Random, 95% CI                                Random, 95% CI
+ Mills 1996                                25          -0.8 (1.7)      27           0.1 (1.4)                                                    100%             -0.89[-1.73,-0.05]
+
+
+ Total ***                                 25                          27                                                                        100%            -0.89[-1.73,-0.05]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=2.08(P=0.04)
+
+                                                                      Favours Reumalex          -10      -5           0          5        10   Favours placebo
+
+
+
+
+    Analysis 28.2. Comparison 28 Reumalex versus placebo, Outcome 2 Participants (n) reported adverse events.
+ Study or subgroup                         Reumalex                 placebo                            Risk Ratio                          Weight                Risk Ratio
+                                                n/N                  n/N                          M-H, Random, 95% CI                                     M-H, Random, 95% CI
+ Mills 1996                                            6/25                  6/27                                                                100%                1.08[0.4,2.91]
+
+
+ Total (95% CI)                                          25                   27                                                                 100%               1.08[0.4,2.91]
+ Total events: 6 (Reumalex), 6 (placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.15(P=0.88)
+
+                                                              Favours Reumalex        0.01      0.1           1           10     100   Favours placebo
+
+
+
+
+Comparison 29. Chinese DJW versus diclofenac
+
+ Outcome or subgroup title                         No. of studies              No. of partici-                Statistical method                         Effect size
+                                                                               pants
+
+ 1 Pain VAS 0-100 (total)                          1                           200                            Mean Difference (IV, Random,               11.81 [-9.67, 33.29]
+                                                                                                              95% CI)
+
+ 2 Lequesne algofunctional index                   1                           200                            Mean Difference (IV, Random,               0.28 [-0.89, 1.45]
+                                                                                                              95% CI)
+
+ 3 Participants (n) reported ad-                   1                           200                            Risk Ratio (M-H, Random, 95%               1.04 [0.66, 1.63]
+ verse events                                                                                                 CI)
+
+
+
+Oral herbal therapies for treating osteoarthritis (Review)                                                                                                                       131
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                                      Cochrane Database of Systematic Reviews
+
+
+
+
+               Analysis 29.1. Comparison 29 Chinese DJW versus diclofenac, Outcome 1 Pain VAS 0-100 (total).
+ Study or subgroup                                   DJW                      Diclofenac                         Mean Difference                 Weight           Mean Difference
+                                           N           Mean(SD)           N         Mean(SD)                     Random, 95% CI                                   Random, 95% CI
+ Teekachunhatean 2004                      100          70 (83.9)         100        58.2 (70.4)                                                   100%               11.81[-9.67,33.29]
+
+
+ Total ***                                 100                            100                                                                      100%            11.81[-9.67,33.29]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.08(P=0.28)
+
+                                                                                 Favours DJW       -100    -50          0          50      100   Favours diclofenac
+
+
+
+
+        Analysis 29.2. Comparison 29 Chinese DJW versus diclofenac, Outcome 2 Lequesne algofunctional index.
+ Study or subgroup                                   DJW                      Diclofenac                         Mean Difference                 Weight           Mean Difference
+                                           N           Mean(SD)           N         Mean(SD)                     Random, 95% CI                                   Random, 95% CI
+ Teekachunhatean 2004                      100             8.9 (4.6)      100          8.6 (3.8)                                                   100%                 0.28[-0.89,1.45]
+
+
+ Total ***                                 100                            100                                                                      100%                0.28[-0.89,1.45]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.47(P=0.64)
+
+                                                                                 Favours DJW       -100    -50          0          50      100   Favours diclofenac
+
+
+
+
+ Analysis 29.3. Comparison 29 Chinese DJW versus diclofenac, Outcome 3 Participants (n) reported adverse events.
+ Study or subgroup                               DJW                   Diclofenac                         Risk Ratio                         Weight                   Risk Ratio
+                                                 n/N                      n/N                        M-H, Random, 95% CI                                       M-H, Random, 95% CI
+ Teekachunhatean 2004                                 28/100                  27/100                                                               100%                  1.04[0.66,1.63]
+
+
+ Total (95% CI)                                            100                   100                                                               100%                1.04[0.66,1.63]
+ Total events: 28 (DJW), 27 (Diclofenac)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.16(P=0.87)
+
+                                                                        Favours DJW      0.01      0.1           1          10     100   Favours diclofenac
+
+
+
+
+Comparison 30. Chinese BNHS versus Chinese active control
+
+ Outcome or subgroup title                       No. of studies                 No. of partici-            Statistical method                                 Effect size
+                                                                                pants
+
+ 1 Pain VAS 0-100 (walking)                      1                              60                         Mean Difference (IV, Random, 95%                   2.0 [-7.12, 11.12]
+                                                                                                           CI)
+
+ 2 WOMAC-VAS (Function)                          1                              60                         Mean Difference (IV, Random, 95%                   -2.0 [-7.57, 3.57]
+                                                                                                           CI)
+
+
+
+
+Oral herbal therapies for treating osteoarthritis (Review)                                                                                                                           132
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                                 Cochrane Database of Systematic Reviews
+
+
+
+ Outcome or subgroup title                      No. of studies               No. of partici-          Statistical method                               Effect size
+                                                                             pants
+
+ 3 Participants (n) reported ad-                1                            60                       Risk Ratio (M-H, Random, 95% CI)                 9.00 [0.51, 160.17]
+ verse events
+
+
+
+
+  Analysis 30.1. Comparison 30 Chinese BNHS versus Chinese active control, Outcome 1 Pain VAS 0-100 (walking).
+ Study or subgroup                              BNHS                   Chinese control                      Mean Difference                 Weight            Mean Difference
+                                           N          Mean(SD)        N        Mean(SD)                     Random, 95% CI                                    Random, 95% CI
+ Cao 2005                                  30            15 (19)        30          13 (17)                                                   100%                  2[-7.12,11.12]
+
+
+ Total ***                                 30                          30                                                                     100%                 2[-7.12,11.12]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.43(P=0.67)
+
+                                                                             Favours BNHS     -100    -50          0          50      100   Favours Chinese control
+
+
+
+
+   Analysis 30.2. Comparison 30 Chinese BNHS versus Chinese active control, Outcome 2 WOMAC-VAS (Function).
+ Study or subgroup                              BNHS                   Chinese control                      Mean Difference                 Weight            Mean Difference
+                                           N          Mean(SD)        N        Mean(SD)                     Random, 95% CI                                    Random, 95% CI
+ Cao 2005                                  30            11 (11)        30          13 (11)                                                   100%                   -2[-7.57,3.57]
+
+
+ Total ***                                 30                          30                                                                     100%                  -2[-7.57,3.57]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.7(P=0.48)
+
+                                                                             Favours BNHS     -100    -50          0          50      100   Favours Chinese control
+
+
+
+
+                                      Analysis 30.3. Comparison 30 Chinese BNHS versus Chinese active
+                                        control, Outcome 3 Participants (n) reported adverse events.
+ Study or subgroup                             BNHS              Chinese control                     Risk Ratio                         Weight                  Risk Ratio
+                                                n/N                   n/N                       M-H, Random, 95% CI                                      M-H, Random, 95% CI
+ Cao 2005                                              4/30                  0/30                                                             100%                  9[0.51,160.17]
+
+
+ Total (95% CI)                                          30                    30                                                             100%                 9[0.51,160.17]
+ Total events: 4 (BNHS), 0 (Chinese control)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.5(P=0.13)
+
+                                                                   Favours BNHS     0.01      0.1           1          10     100   Favours Chinese control
+
+
+
+
+Oral herbal therapies for treating osteoarthritis (Review)                                                                                                                      133
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+             Cochrane                Trusted evidence.
+                                     Informed decisions.
+             Library                 Better health.                                                                                    Cochrane Database of Systematic Reviews
+
+
+Comparison 31. Chinese BNHS versus glucosamine sulphate
+
+ Outcome or subgroup title                        No. of studies                No. of partici-          Statistical method                              Effect size
+                                                                                pants
+
+ 1 Pain VAS 0-100 (walking)                       1                             60                       Mean Difference (IV, Random, 95%                -2.0 [-6.81, 2.81]
+                                                                                                         CI)
+
+ 2 WOMAC-VAS (Function)                           1                             60                       Mean Difference (IV, Random, 95%                0.0 [-2.53, 2.53]
+                                                                                                         CI)
+
+ 3 Participants (n) reported ad-                  1                             60                       Risk Ratio (M-H, Random, 95% CI)                9.00 [0.51, 160.17]
+ verse events
+
+
+
+
+  Analysis 31.1. Comparison 31 Chinese BNHS versus glucosamine sulphate, Outcome 1 Pain VAS 0-100 (walking).
+ Study or subgroup                                BNHS                       Glucosamine                       Mean Difference                 Weight          Mean Difference
+                                                                               sulphate
+                                            N           Mean(SD)         N        Mean(SD)                     Random, 95% CI                                  Random, 95% CI
+ Cao 2005                                    30             18 (9)        30           20 (10)                                                   100%                 -2[-6.81,2.81]
+
+
+ Total ***                                   30                           30                                                                    100%                 -2[-6.81,2.81]
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.81(P=0.42)
+
+                                                                               Favours BNHS      -100    -50          0          50      100   Favours glucosamine
+
+
+
+
+   Analysis 31.2. Comparison 31 Chinese BNHS versus glucosamine sulphate, Outcome 2 WOMAC-VAS (Function).
+ Study or subgroup                                BNHS                       Glucosamine                       Mean Difference                 Weight          Mean Difference
+                                                                               sulphate
+                                            N           Mean(SD)         N        Mean(SD)                     Random, 95% CI                                  Random, 95% CI
+ Cao 2005                                    30             12 (5)        30            12 (5)                                                   100%                  0[-2.53,2.53]
+
+
+ Total ***                                   30                           30                                                                    100%                  0[-2.53,2.53]
+ Heterogeneity: Not applicable
+ Test for overall effect: Not applicable
+
+                                                                               Favours BNHS      -100    -50          0          50      100   Favours glucosamine
+
+
+
+
+                                           Analysis 31.3. Comparison 31 Chinese BNHS versus glucosamine
+                                            sulphate, Outcome 3 Participants (n) reported adverse events.
+ Study or subgroup                              BNHS                 Glucosamine                        Risk Ratio                         Weight                 Risk Ratio
+                                                                       sulphate
+                                                  n/N                   n/N                        M-H, Random, 95% CI                                       M-H, Random, 95% CI
+ Cao 2005                                                4/30                   0/30                                                             100%                 9[0.51,160.17]
+
+
+ Total (95% CI)                                            30                    30                                                             100%                 9[0.51,160.17]
+ Total events: 4 (BNHS), 0 (Glucosamine sulphate)
+
+                                                                     Favours BNHS      0.01      0.1           1          10     100   Favours glucosamine
+
+
+
+Oral herbal therapies for treating osteoarthritis (Review)                                                                                                                       134
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+           Cochrane                  Trusted evidence.
+                                     Informed decisions.
+           Library                   Better health.                                                                 Cochrane Database of Systematic Reviews
+
+
+
+ Study or subgroup                           BNHS            Glucosamine                    Risk Ratio                  Weight                 Risk Ratio
+                                                               sulphate
+                                             n/N                 n/N                   M-H, Random, 95% CI                                M-H, Random, 95% CI
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.5(P=0.13)
+
+                                                              Favours BNHS     0.01   0.1       1        10   100   Favours glucosamine
+
+
+
+
+Comparison 32. Ayurvedic A to E versus placebo
+
+ Outcome or subgroup title                     No. of studies            No. of partici-       Statistical method                     Effect size
+                                                                         pants
+
+ 1 Adverse event episodes (n) re-              1                         454                   Risk Ratio (M-H, Random, 95% CI)       0.95 [0.71, 1.28]
+ ported
+
+ 1.1 Formula A versus placebo                  1                         90                    Risk Ratio (M-H, Random, 95% CI)       0.96 [0.63, 1.45]
+
+ 1.2 Formula B versus placebo                  1                         108                   Risk Ratio (M-H, Random, 95% CI)       1.35 [0.92, 1.98]
+
+ 1.3 Formula C versus placebo                  1                         82                    Risk Ratio (M-H, Random, 95% CI)       0.78 [0.50, 1.21]
+
+ 1.4 Formula D versus placebo                  1                         72                    Risk Ratio (M-H, Random, 95% CI)       0.57 [0.34, 0.93]
+
+ 1.5 Formula E versus placebo                  1                         102                   Risk Ratio (M-H, Random, 95% CI)       1.22 [0.82, 1.80]
+
+
+
+
+   Analysis 32.1. Comparison 32 Ayurvedic A to E versus placebo, Outcome 1 Adverse event episodes (n) reported.
+ Study or subgroup                         Ayurveda            Placebo                      Risk Ratio                  Weight                 Risk Ratio
+                                             n/N                 n/N                   M-H, Random, 95% CI                                M-H, Random, 95% CI
+ 32.1.1 Formula A versus placebo
+ Chopra 2011                                       22/45               23/45                                                20.45%                0.96[0.63,1.45]
+ Subtotal (95% CI)                                    45                 45                                                 20.45%              0.96[0.63,1.45]
+ Total events: 22 (Ayurveda), 23 (Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=0.21(P=0.83)
+
+
+ 32.1.2 Formula B versus placebo
+ Chopra 2011                                       31/54               23/54                                                 21.6%                1.35[0.92,1.98]
+ Subtotal (95% CI)                                    54                 54                                                  21.6%              1.35[0.92,1.98]
+ Total events: 31 (Ayurveda), 23 (Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.52(P=0.13)
+
+
+ 32.1.3 Formula C versus placebo
+ Chopra 2011                                       18/41               23/41                                                19.41%                 0.78[0.5,1.21]
+ Subtotal (95% CI)                                    41                 41                                                 19.41%                0.78[0.5,1.21]
+ Total events: 18 (Ayurveda), 23 (Placebo)
+ Heterogeneity: Not applicable
+ Test for overall effect: Z=1.09(P=0.27)
+
+
+                                                           Favours Ayurveda    0.01   0.1       1        10   100   Favours placebo
+
+
+Oral herbal therapies for treating osteoarthritis (Review)                                                                                                    135
+Copyright © 2016 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
