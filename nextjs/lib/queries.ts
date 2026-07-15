@@ -1,9 +1,11 @@
 import { supabase } from './supabase';
 import type {
   Condition,
+  ConditionSearchResult,
   EffectRecord,
   EffectsBySubstance,
   EvidenceCellRow,
+  Grade,
   Population,
   ProductsBySubstance,
   StudiesBySubstance,
@@ -39,6 +41,102 @@ export async function getAllConditions(): Promise<Condition[]> {
     .order('name_ko');
   if (error) throw error;
   return data ?? [];
+}
+
+const SEARCH_STOP_WORDS = new Set([
+  '내', '나', '저', '좀', '너무', '계속', '자주', '요즘', '증상', '때문',
+  '안', '잘', '못', '것', '같아요', '있어요', '없어요', '아파요', '불편해요',
+]);
+
+function normalizeConditionSearchTerms(query: string): string[] {
+  const normalized = query
+    .normalize('NFKC')
+    .replace(/[^a-zA-Z0-9가-힣ㄱ-ㅎㅏ-ㅣ\s-]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .slice(0, 60);
+
+  if (!normalized) return [];
+
+  const particlePattern = /(으로|에서|에게|까지|부터|처럼|보다|하고|이며|이고|이나|거나|의|은|는|이|가|을|를|에|도|만)$/;
+  const words = normalized.split(' ').flatMap((word) => {
+    const stem = word.replace(particlePattern, '');
+    return stem && stem !== word ? [word, stem] : [word];
+  });
+
+  return Array.from(new Set([normalized, ...words]))
+    .filter((term) => term.length > 0 && !SEARCH_STOP_WORDS.has(term))
+    .slice(0, 8);
+}
+
+const conditionSearchSelect =
+  'id, slug, name_ko, name_en, category, description_ko, search_terms, display_order';
+
+export async function getPublishedConditions(): Promise<ConditionSearchResult[]> {
+  const { data, error } = await supabase
+    .from('conditions')
+    .select(conditionSearchSelect)
+    .eq('is_published', true)
+    .order('display_order')
+    .order('name_ko');
+
+  if (error) throw error;
+  return (data ?? []) as ConditionSearchResult[];
+}
+
+export async function searchConditions(query: string): Promise<ConditionSearchResult[]> {
+  const terms = normalizeConditionSearchTerms(query);
+  if (terms.length === 0) return [];
+
+  const filters = terms.flatMap((term) => [
+    `name_ko.ilike.%${term}%`,
+    `name_en.ilike.%${term}%`,
+    `description_ko.ilike.%${term}%`,
+    `category.ilike.%${term}%`,
+    `slug.ilike.%${term}%`,
+    `search_terms.cs.{"${term}"}`,
+  ]);
+
+  const { data, error } = await supabase
+    .from('conditions')
+    .select(conditionSearchSelect)
+    .eq('is_published', true)
+    .or(filters.join(','))
+    .order('display_order')
+    .order('name_ko')
+    .limit(20);
+
+  if (error) throw error;
+  return (data ?? []) as ConditionSearchResult[];
+}
+
+export async function getAllSubstances(): Promise<Substance[]> {
+  const { data, error } = await supabase
+    .from('substances')
+    .select('id, slug, name_ko, name_en, category, substance_type')
+    .order('name_ko');
+  if (error) throw error;
+  return (data ?? []) as Substance[];
+}
+
+export interface SubstanceDetailResult {
+  substance: Substance & { description_ko?: string | null };
+  conditions: Array<{
+    condition_slug: string;
+    condition_name_ko: string;
+    efficacy_score: number | null;
+    evidence_score: number | null;
+    grade: Grade | null;
+    study_count_total: number;
+    ai_summary_ko: string | null;
+  }> | null;
+  pharmacist_notes: Array<{ note_ko: string; note_type: string }> | null;
+}
+
+export async function getSubstanceDetail(slug: string): Promise<SubstanceDetailResult | null> {
+  const { data, error } = await supabase.rpc('get_substance_detail', { p_substance_slug: slug });
+  if (error) throw error;
+  return data as SubstanceDetailResult | null;
 }
 
 export function isBetaCondition(slug: string): boolean {
@@ -307,7 +405,8 @@ export async function getVerifiedEffects(
       `id, verified_id, substance_id, name_ko, name_en, variant_label,
        substance_type, smd, ci_lower, ci_upper, studies_count, patients_count,
        smd_source, is_estimated, evidence_grade, funding_bias, warnings,
-       source_code, source_url, notes`,
+       source_code, source_url, notes,
+       substance:substances(name_en)`,
     )
     .eq('condition_id', condQ.data.id)
     .order('smd', { ascending: true, nullsFirst: false });
@@ -321,7 +420,17 @@ export async function getVerifiedEffects(
     }
     throw error;
   }
-  return (data ?? []) as VerifiedEffect[];
+  type VerifiedEffectWithSubstance = VerifiedEffect & {
+    substance: { name_en: string | null } | Array<{ name_en: string | null }> | null;
+  };
+  return ((data ?? []) as unknown as VerifiedEffectWithSubstance[]).map((row) => {
+    const substance = Array.isArray(row.substance) ? row.substance[0] : row.substance;
+    const { substance: _substance, ...effect } = row;
+    return {
+      ...effect,
+      name_en: effect.name_en ?? substance?.name_en ?? null,
+    };
+  });
 }
 
 export async function getPersonalizationRules(

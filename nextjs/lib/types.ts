@@ -10,6 +10,12 @@ export interface Condition {
   category: string | null;
 }
 
+export interface ConditionSearchResult extends Condition {
+  description_ko: string | null;
+  search_terms: string[];
+  display_order: number;
+}
+
 export interface Population {
   id: string;
   slug: string;

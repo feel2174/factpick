@@ -110,7 +110,7 @@ function buildItems(
         primaryUrl = coupangProductUrl(product.coupang_url);
         isDirect = true;
       } else {
-        primaryUrl = coupangSearchUrl(keyword);
+        primaryUrl = coupangSearchUrl(v.name_en ?? keyword, keyword);
       }
     } else if (cat === 'iherb') {
       if (product?.iherb_url) {

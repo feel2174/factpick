@@ -3,41 +3,34 @@ import Link from 'next/link';
 interface Props {
   slug: string;
   nameKo: string;
+  description?: string;
+  category?: string;
   cellCount?: number;
-  comingSoon?: boolean;
 }
 
-export default function ConditionCard({ slug, nameKo, cellCount, comingSoon }: Props) {
-  const inner = (
-    <div
-      className={`group flex h-full flex-col justify-between rounded-2xl border p-6 transition ${
-        comingSoon
-          ? 'border-slate-200 bg-slate-50 text-slate-500'
-          : 'border-slate-200 bg-white text-slate-900 hover:border-slate-300 hover:bg-slate-50'
-      }`}
+export default function ConditionCard({ slug, nameKo, description, category, cellCount }: Props) {
+  return (
+    <Link
+      href={`/conditions/${slug}`}
+      className="link-card surface-card group flex min-h-52 flex-col justify-between p-5 sm:p-6"
+      aria-label={`${nameKo} 약·영양제 근거 비교 보기`}
     >
       <div>
-        <h3 className="text-xl font-semibold">{nameKo}</h3>
-        {comingSoon ? (
-          <p className="mt-2 text-xs uppercase tracking-wider text-slate-500">Coming Soon</p>
-        ) : (
-          <p className="mt-2 text-xs uppercase tracking-wider text-slate-500">
-            성분 {cellCount ?? 0}개 비교
-          </p>
-        )}
+        <div className="flex items-center justify-between gap-3">
+          <span className="rounded-full bg-emerald-50 px-3 py-1.5 text-xs font-bold text-emerald-800">
+            {category ?? '근거 비교'}
+          </span>
+          <span className="text-sm font-semibold text-slate-500">비교 항목 {cellCount ?? 0}개</span>
+        </div>
+        <h3 className="mt-5 text-xl font-bold tracking-tight text-slate-950 group-hover:text-emerald-800">
+          {nameKo}
+        </h3>
+        {description && <p className="mt-3 text-base leading-7 text-slate-700">{description}</p>}
       </div>
-      {!comingSoon && (
-        <p className="mt-6 text-sm text-slate-500 transition group-hover:text-slate-800">
-          산점도로 보기 →
-        </p>
-      )}
-    </div>
-  );
-
-  if (comingSoon) return inner;
-  return (
-    <Link href={`/conditions/${slug}`} className="block h-full">
-      {inner}
+      <div className="mt-6 flex items-center justify-between border-t border-slate-100 pt-4 text-base font-bold text-slate-800">
+        <span>약과 영양제 비교하기</span>
+        <span className="link-arrow text-lg text-slate-400" aria-hidden="true">→</span>
+      </div>
     </Link>
   );
 }

@@ -10,7 +10,7 @@
  * - 시술 (관절강내 주사 등) → 구매 X, 의원 안내
  *
  * 환경 변수:
- *   COUPANG_SUBID  — 쿠팡 파트너스 트래킹 ID
+ *   COUPANG_ACCESS_KEY / COUPANG_SECRET_KEY — 서버 상품 검색 API 인증
  *   IHERB_RCODE    — iHerb Rewards 코드
  */
 
@@ -31,21 +31,17 @@ export interface ExternalLink {
   note?: string;    // 추가 안내 (예: "처방 필요", "의원 시술")
 }
 
-const COUPANG_SUBID = process.env.COUPANG_SUBID;
 const IHERB_RCODE = process.env.IHERB_RCODE;
 
-export function coupangSearchUrl(keyword: string): string {
-  const q = encodeURIComponent(keyword);
-  const base = `https://www.coupang.com/np/search?q=${q}&channel=user`;
-  if (COUPANG_SUBID) return `${base}&subId=${encodeURIComponent(COUPANG_SUBID)}`;
-  return base;
+export function coupangSearchUrl(keyword: string, label?: string): string {
+  const params = new URLSearchParams({ keyword });
+  if (label && label !== keyword) params.set('label', label);
+  return `/coupang?${params.toString()}`;
 }
 
 /** 쿠팡 제품 페이지 URL에 affiliate subId 자동 추가. */
 export function coupangProductUrl(directUrl: string): string {
-  if (!COUPANG_SUBID) return directUrl;
-  const sep = directUrl.includes('?') ? '&' : '?';
-  return `${directUrl}${sep}subId=${encodeURIComponent(COUPANG_SUBID)}`;
+  return directUrl;
 }
 
 export function iherbSearchUrl(keyword: string): string {
@@ -134,6 +130,7 @@ export function buildExternalLinks(opts: {
 
   const cat = classifyProductCategory(productType);
   const koreaKeyword = productName ?? substanceNameKo ?? '';
+  const coupangKeyword = productNameEn ?? substanceNameEn ?? productName ?? substanceNameKo ?? '';
   const directKeyword = productNameEn ?? productName ?? substanceNameEn ?? substanceNameKo ?? '';
 
   // 한국 미수입 — 정보만
@@ -197,8 +194,8 @@ export function buildExternalLinks(opts: {
         label: '쿠팡 제품 보기',
         note: '제품 페이지로 바로 이동',
       });
-    } else if (koreaKeyword) {
-      out.push({ type: 'coupang', url: coupangSearchUrl(koreaKeyword), label: '쿠팡' });
+    } else if (coupangKeyword) {
+      out.push({ type: 'coupang', url: coupangSearchUrl(coupangKeyword, koreaKeyword), label: '쿠팡 상품' });
     }
     return out;
   }
@@ -212,8 +209,8 @@ export function buildExternalLinks(opts: {
       label: '쿠팡 제품 보기',
       note: '제품 페이지로 바로 이동',
     });
-  } else if (koreaKeyword) {
-    out.push({ type: 'coupang', url: coupangSearchUrl(koreaKeyword), label: '쿠팡' });
+  } else if (coupangKeyword) {
+    out.push({ type: 'coupang', url: coupangSearchUrl(coupangKeyword, koreaKeyword), label: '쿠팡 상품' });
   }
   if (iherbDirectUrl) {
     out.push({
@@ -230,7 +227,9 @@ export function buildExternalLinks(opts: {
 
 export function affiliateStatus(): { coupangActive: boolean; iherbActive: boolean } {
   return {
-    coupangActive: !!COUPANG_SUBID,
+    coupangActive: !!(
+      process.env.COUPANG_ACCESS_KEY && process.env.COUPANG_SECRET_KEY
+    ),
     iherbActive: !!IHERB_RCODE,
   };
 }

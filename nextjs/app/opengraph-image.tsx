@@ -1,5 +1,6 @@
 import { ImageResponse } from 'next/og';
 
+export const runtime = 'edge';
 export const alt = '팩트픽 — 약사가 검증한 약·영양제 효과 비교';
 export const size = { width: 1200, height: 630 };
 export const contentType = 'image/png';
