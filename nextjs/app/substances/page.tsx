@@ -40,7 +40,7 @@ export default async function SubstancesPage() {
           성분 이름만 보지 않고 질환별 효과, 근거 수준, 원료와 제형 차이를 함께 확인합니다.
         </p>
       </header>
-      <div className="mt-8 flex flex-wrap gap-2">
+      <div className="mt-8 flex flex-wrap justify-center gap-2">
         {categories.map((category) => (
           <a
             key={category}

@@ -190,6 +190,12 @@ main > header .flex {
   justify-content: center;
 }
 
+.content-shell > .max-w-3xl,
+.content-shell > .max-w-4xl,
+.content-shell > .max-w-5xl {
+  margin-inline: auto;
+}
+
 @media (min-width: 640px) {
   .content-shell { padding-inline: 1.5rem; }
 }
