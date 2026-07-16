@@ -72,6 +72,46 @@ function normalizeConditionSearchTerms(query: string): string[] {
 const conditionSearchSelect =
   'id, slug, name_ko, name_en, category, description_ko, search_terms, display_order';
 
+const KOREAN_SEARCH_STOP_WORDS = new Set([
+  '이',
+  '가',
+  '은',
+  '는',
+  '을',
+  '를',
+  '좀',
+  '너무',
+  '계속',
+  '자주',
+  '증상',
+  '때문',
+  '있어요',
+  '없어요',
+  '아파요',
+  '불편해요',
+]);
+
+function normalizeKoreanConditionSearchTerms(query: string): string[] {
+  const normalized = query
+    .normalize('NFKC')
+    .replace(/[^a-zA-Z0-9가-힣\s-]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .slice(0, 60);
+
+  if (!normalized) return [];
+
+  const particlePattern = /(으로|로|에서|에게|까지|부터|처럼|보다|하고|이고|이나|거나|은|는|이|가|을|를|만)$/;
+  const words = normalized.split(' ').flatMap((word) => {
+    const stem = word.replace(particlePattern, '');
+    return stem && stem !== word ? [word, stem] : [word];
+  });
+
+  return Array.from(new Set([normalized, ...words]))
+    .filter((term) => term.length > 0 && !KOREAN_SEARCH_STOP_WORDS.has(term))
+    .slice(0, 8);
+}
+
 export async function getPublishedConditions(): Promise<ConditionSearchResult[]> {
   const { data, error } = await supabase
     .from('conditions')
@@ -85,7 +125,7 @@ export async function getPublishedConditions(): Promise<ConditionSearchResult[]>
 }
 
 export async function searchConditions(query: string): Promise<ConditionSearchResult[]> {
-  const terms = normalizeConditionSearchTerms(query);
+  const terms = normalizeKoreanConditionSearchTerms(query);
   if (terms.length === 0) return [];
 
   const filters = terms.flatMap((term) => [

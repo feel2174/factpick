@@ -19,14 +19,85 @@ import type {
   ProductsBySubstance,
   VerifiedEffect,
 } from '@/lib/types';
-import { getCatalogCondition } from '@/lib/contentCatalog';
+import { CONDITION_CATALOG, getCatalogCondition } from '@/lib/contentCatalog';
 
-export const revalidate = 60;
+export const revalidate = 3600;
 
 const GRADE_ORDER: Record<Grade, number> = { A: 0, B: 1, C: 2, D: 3, F: 4, I: 5 };
 
 interface ConditionPageProps {
   params: Promise<{ slug: string }>;
+}
+
+const HOOK_BY_CONDITION: Record<string, { tag: string; hook: string }> = {
+  osteoarthritis: {
+    tag: '관절·통증 비교',
+    hook: '무릎 통증과 관절 건강에 쓰이는 약·영양제를 효과 크기와 근거 수준으로 나누어 비교합니다.',
+  },
+  cognitive_decline: {
+    tag: '뇌·인지 비교',
+    hook: '기억력과 인지기능에 도움을 주장하는 성분들이 실제 연구에서 어떤 결과를 보였는지 정리합니다.',
+  },
+  insomnia: {
+    tag: '수면 비교',
+    hook: '멜라토닌, 마그네슘 등 수면에 자주 언급되는 선택지를 효과와 근거로 비교합니다.',
+  },
+  immune_support: {
+    tag: '면역 비교',
+    hook: '비타민, 아연, 프로바이오틱스 등 면역 관리 성분의 근거를 차분히 확인합니다.',
+  },
+  depression_mild: {
+    tag: '마음 건강 비교',
+    hook: '가벼운 우울감에 언급되는 보조 성분과 약물의 근거를 구분해 보여드립니다.',
+  },
+  anxiety: {
+    tag: '마음 건강 비교',
+    hook: '불안 완화를 위해 찾는 성분들의 효과 크기와 연구 신뢰도를 함께 비교합니다.',
+  },
+  migraine: {
+    tag: '편두통 예방 비교',
+    hook: '마그네슘, CoQ10 등 편두통 예방 목적으로 쓰이는 성분의 근거를 확인합니다.',
+  },
+  hyperlipidemia: {
+    tag: '심혈관 비교',
+    hook: '콜레스테롤과 중성지방 관리에 언급되는 성분들의 실제 연구 결과를 비교합니다.',
+  },
+  hypertension: {
+    tag: '혈압 비교',
+    hook: '혈압 개선을 기대하고 찾는 성분들이 연구에서 어느 정도의 차이를 보였는지 정리합니다.',
+  },
+  skin_aging: {
+    tag: '피부 건강 비교',
+    hook: '콜라겐과 항산화 성분 등 피부 건강 성분의 임상 근거와 한계를 함께 봅니다.',
+  },
+  eye_health: {
+    tag: '눈 건강 비교',
+    hook: '루테인, AREDS, 오메가3 등 눈 건강 성분을 목적과 근거 수준별로 비교합니다.',
+  },
+  liver_health: {
+    tag: '간 건강 비교',
+    hook: '밀크시슬, 비타민 E 등 간 건강 관련 성분의 연구 결과를 확인합니다.',
+  },
+  menopause: {
+    tag: '갱년기 비교',
+    hook: '홍조와 수면 등 갱년기 증상에 쓰이는 성분과 약물의 근거를 비교합니다.',
+  },
+  constipation: {
+    tag: '장 건강 비교',
+    hook: '식이섬유, 마그네슘, 유산균 등 변비 관리 선택지를 근거 중심으로 정리합니다.',
+  },
+  diarrhea: {
+    tag: '장 건강 비교',
+    hook: '지사제, 아연, 유산균 등 설사 관리 선택지의 근거와 주의점을 확인합니다.',
+  },
+  gut_health: {
+    tag: '장 건강 비교',
+    hook: '프로바이오틱스와 프리바이오틱스를 균주와 근거 수준별로 비교합니다.',
+  },
+};
+
+export function generateStaticParams() {
+  return CONDITION_CATALOG.map((condition) => ({ slug: condition.slug }));
 }
 
 function sortCells(cells: EvidenceCellRow[]): EvidenceCellRow[] {
@@ -38,73 +109,6 @@ function sortCells(cells: EvidenceCellRow[]): EvidenceCellRow[] {
   });
 }
 
-const HOOK_BY_CONDITION: Record<string, { tag: string; hook: string }> = {
-  osteoarthritis: {
-    tag: '관절통 비교',
-    hook: '정형외과·통증의학과 약·주사 맞아도 잘 안 풀리는 무릎 통증. 약사가 Cochrane SMD로 정리한 진짜 효과 있는 영양제와 약.',
-  },
-  cognitive_decline: {
-    tag: '뇌 건강 비교',
-    hook: '깜빡임이 늘어났을 때 진짜 효과 있는 영양제는 뭘까. 약사가 메타분석 데이터로 정리.',
-  },
-  insomnia: {
-    tag: '수면 비교',
-    hook: '수면제 말고 멜라토닌·마그네슘은 진짜 효과 있을까. 약사가 메타분석으로 약과 영양제를 비교.',
-  },
-  immune_support: {
-    tag: '면역 비교',
-    hook: '비타민C·아연·비타민D, 감기 예방에 진짜 효과 있는 건 뭘까. 약사가 메타분석으로 정리.',
-  },
-  depression_mild: {
-    tag: '우울 비교',
-    hook: '세인트존스워트·EPA 오메가-3는 약에 근접할까. 우울에 진짜 효과 있는 약·영양제를 비교.',
-  },
-  anxiety: {
-    tag: '불안 비교',
-    hook: '라벤더·아슈와간다는 신경안정제에 근접할까. 불안에 효과 있는 약·영양제를 메타분석으로 비교.',
-  },
-  migraine: {
-    tag: '편두통 예방 비교',
-    hook: '마그네슘·CoQ10·리보플라빈은 편두통 예방에 통할까. 가이드라인급 영양제와 예방약을 비교.',
-  },
-  hyperlipidemia: {
-    tag: '콜레스테롤 비교',
-    hook: '‘천연’ 홍국의 정체는 저용량 스타틴? 콜레스테롤에 진짜 효과 있는 약·영양제를 비교.',
-  },
-  hypertension: {
-    tag: '혈압 비교',
-    hook: '마늘·비트는 혈압을 낮출까. 약이 압도하는 고혈압에서 영양제의 실제 효과를 비교.',
-  },
-  skin_aging: {
-    tag: '피부 비교',
-    hook: '먹는 콜라겐·아스타잔틴은 피부에 통할까. 외용 레티노이드와 영양제를 데이터로 비교.',
-  },
-  eye_health: {
-    tag: '눈 건강 비교',
-    hook: '루테인·빌베리·오메가3, 눈에 진짜 효과 있을까. 황반·안구건조·눈피로별로 약·영양제를 비교(빌베리는 원료가 핵심).',
-  },
-  liver_health: {
-    tag: '간 건강 비교',
-    hook: '밀크씨슬·헛개, 간에 진짜 효과 있을까. NASH 신약부터 영양제까지 근거로 비교.',
-  },
-  menopause: {
-    tag: '갱년기 비교',
-    hook: '백수오·이소플라본은 안면홍조에 통할까. 호르몬요법·비호르몬약과 영양제를 비교(백수오 진위 주의).',
-  },
-  constipation: {
-    tag: '변비 비교',
-    hook: '차전자피·마그네슘·유산균, 변비에 뭐가 나을까. 하제·처방약과 영양제를 근거로 비교.',
-  },
-  diarrhea: {
-    tag: '설사 비교',
-    hook: '유산균·아연은 설사에 효과 있을까. 지사제와 영양제를 근거로 비교.',
-  },
-  gut_health: {
-    tag: '장 건강 비교',
-    hook: '유산균·페퍼민트오일, 과민성대장과 장 건강에 통할까. 균주·근거별로 비교.',
-  },
-};
-
 export async function generateMetadata({
   params,
 }: ConditionPageProps): Promise<Metadata> {
@@ -114,10 +118,10 @@ export async function generateMetadata({
   if (!condition && !catalog) return {};
   const hook = HOOK_BY_CONDITION[slug];
   const nameKo = condition?.name_ko ?? catalog!.nameKo;
-  const title = `${nameKo} 영양제·약 효과 비교`;
+  const title = `${nameKo} 약·영양제 효과 비교`;
   const description =
     hook?.hook ??
-    `${nameKo}에 진짜 효과 있는 약·영양제를 약사가 Cochrane 메타분석 SMD로 비교했습니다.`;
+    `${nameKo}에 쓰이는 약과 영양제를 효과 크기, 근거 수준, 안전 정보로 비교합니다.`;
   const url = `/conditions/${slug}`;
   return {
     title,
@@ -150,8 +154,6 @@ export default async function ConditionPage({ params }: ConditionPageProps) {
   ] => [[], {}, [], {}, []]);
   const [allCells, effects, verified, products, rules] = loaded;
   const hasCoupangLinks = verified.some((item) => item.substance_type === 'supplement');
-  // 큐레이션한 verified 성분에 매칭되는 cell만 유지(verified 행의 연구수 카운트용).
-  // 옛 AI 자동추출(미매칭 cell)은 오연결·과대 효능이 많아 표시·전송 모두 제외.
   const verifiedSubIds = new Set(
     verified.map((v) => v.substance_id).filter((x): x is string => !!x),
   );
@@ -168,8 +170,8 @@ export default async function ConditionPage({ params }: ConditionPageProps) {
     '@type': 'MedicalWebPage',
     name: `${conditionName} 약·영양제 효과 비교`,
     description: hook?.hook ?? catalog?.description,
-    dateModified: '2026-07-14',
-    reviewedBy: { '@type': 'Person', name: '영선', jobTitle: '약사' },
+    dateModified: '2026-07-16',
+    reviewedBy: { '@type': 'Person', name: '약사 검수', jobTitle: 'Pharmacist' },
     breadcrumb: {
       '@type': 'BreadcrumbList',
       itemListElement: [
@@ -191,7 +193,7 @@ export default async function ConditionPage({ params }: ConditionPageProps) {
 
       <header className="mt-7 border-b border-slate-200 pb-8 sm:pb-10">
         {hook && (
-          <div className="mb-2 inline-block rounded-full bg-emerald-50 px-3 py-1 text-[10px] font-medium uppercase tracking-wider text-emerald-600 sm:text-[11px]">
+          <div className="mb-2 inline-block rounded-md bg-emerald-50 px-3 py-1 text-xs font-bold text-emerald-700">
             {hook.tag}
           </div>
         )}
@@ -200,11 +202,11 @@ export default async function ConditionPage({ params }: ConditionPageProps) {
         <div className="mt-5 flex flex-wrap gap-x-4 gap-y-2 text-xs text-slate-500"><span>약사 검수</span><span>최종 검토 2026.07</span><span>{catalog?.count ?? verified.length}개 비교 항목</span></div>
       </header>
 
-      <section className="mt-8 rounded-2xl border border-emerald-200 bg-emerald-50/70 p-5 sm:p-7" aria-labelledby="quick-answer-heading">
+      <section className="mt-8 rounded-lg border border-emerald-200 bg-emerald-50/70 p-5 sm:p-7" aria-labelledby="quick-answer-heading">
         <p className="eyebrow">먼저 확인하세요</p>
-        <h2 id="quick-answer-heading" className="mt-2 text-xl font-bold text-slate-950">먼저 알아야 할 결론</h2>
-        <p className="mt-3 text-sm leading-7 text-slate-700 sm:text-base">효과가 큰 선택지가 항상 가장 믿을 만한 것은 아닙니다. 팩트픽은 개선 정도와 연구의 신뢰도를 분리하고, 원료·제형·사용 기간의 차이까지 함께 보여드립니다.</p>
-        {topCells.length > 0 && <div className="mt-5 flex flex-wrap gap-2">{topCells.map((cell) => <a key={cell.id} href="#comparison" className="rounded-full border border-emerald-200 bg-white px-3 py-2 text-xs font-bold text-emerald-800 hover:border-emerald-400">{cell.substance.name_ko}</a>)}</div>}
+        <h2 id="quick-answer-heading" className="mt-2 text-xl font-bold text-slate-950">효과와 근거를 따로 봐야 합니다</h2>
+        <p className="mt-3 text-sm leading-7 text-slate-700 sm:text-base">효과가 커 보이는 선택지가 항상 가장 믿을 만한 것은 아닙니다. 팩트픽은 개선 정도와 연구 신뢰도를 나누어 보여주고, 원료·제형·사용 기간 차이도 함께 확인합니다.</p>
+        {topCells.length > 0 && <div className="mt-5 flex flex-wrap gap-2">{topCells.map((cell) => <a key={cell.id} href="#comparison" className="rounded-md border border-emerald-200 bg-white px-3 py-2 text-xs font-bold text-emerald-800 hover:border-emerald-400">{cell.substance.name_ko}</a>)}</div>}
       </section>
 
       {verified.length > 0 && (
@@ -213,7 +215,10 @@ export default async function ConditionPage({ params }: ConditionPageProps) {
         </div>
       )}
 
-      <aside className="mt-12 grid gap-4 border-t border-slate-200 pt-8 sm:grid-cols-2" aria-label="관련 정보"><Link href="/methodology" className="link-card surface-card p-5"><p className="text-sm font-bold text-slate-950">이 수치는 어떻게 평가하나요?</p><p className="mt-2 text-xs leading-5 text-slate-500">효과 크기와 근거 수준의 차이를 확인하세요.</p><span className="link-arrow mt-4 inline-block text-slate-400">→</span></Link><Link href="/safety" className="link-card surface-card p-5"><p className="text-sm font-bold text-slate-950">복용 전 안전 확인</p><p className="mt-2 text-xs leading-5 text-slate-500">처방약과 영양제를 변경하기 전에 확인할 내용입니다.</p><span className="link-arrow mt-4 inline-block text-slate-400">→</span></Link></aside>
+      <aside className="mt-12 grid gap-4 border-t border-slate-200 pt-8 sm:grid-cols-2" aria-label="관련 정보">
+        <Link href="/methodology" className="link-card surface-card p-5"><p className="text-sm font-bold text-slate-950">평가 기준이 궁금하신가요?</p><p className="mt-2 text-xs leading-5 text-slate-500">효과 크기와 근거 수준을 어떻게 나누어 보는지 설명합니다.</p><span className="link-arrow mt-4 inline-block text-slate-400">→</span></Link>
+        <Link href="/safety" className="link-card surface-card p-5"><p className="text-sm font-bold text-slate-950">복용 전 안전 정보</p><p className="mt-2 text-xs leading-5 text-slate-500">처방약과 영양제를 함께 복용하기 전 확인할 내용을 정리했습니다.</p><span className="link-arrow mt-4 inline-block text-slate-400">→</span></Link>
+      </aside>
     </main>
   );
 }

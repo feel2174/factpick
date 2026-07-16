@@ -18,14 +18,13 @@ export const metadata: Metadata = {
     'factpick',
     '영양제 비교',
     '약 효과',
-    '코크란',
+    '근거 기반 건강 정보',
     'Cochrane',
     'SMD',
-    '근거 기반 영양제',
+    '약사 검수',
+    '건강기능식품',
     '관절 영양제',
-    '글루코사민',
-    '무릎 통증',
-    '약사 추천',
+    '수면 영양제',
   ],
   alternates: { canonical: '/' },
   openGraph: {
@@ -52,7 +51,6 @@ export const metadata: Metadata = {
       'max-video-preview': -1,
     },
   },
-  // 검색엔진 소유확인. 구글은 DNS(TXT) 방식으로 확인했으므로 여기선 네이버만 둠.
   verification: {
     other: {
       'naver-site-verification':

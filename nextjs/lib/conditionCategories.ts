@@ -10,7 +10,7 @@ const CATEGORY_LABELS: Record<string, string> = {
   immune: '면역',
   dermatologic: '피부',
   neurologic: '뇌·신경',
-  기타: '기타 건강',
+  other: '기타 건강',
 };
 
 export function getConditionCategoryLabel(condition: { slug: string; category: string | null }) {
