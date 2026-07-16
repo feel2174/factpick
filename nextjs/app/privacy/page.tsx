@@ -17,11 +17,11 @@ const sections = [
   },
   {
     title: '3. 쿠키와 분석 도구',
-    body: 'Factpick은 Vercel Analytics 및 향후 Google AdSense 또는 Google Analytics 같은 제3자 서비스를 사용할 수 있습니다. 이 과정에서 쿠키나 유사 기술이 광고 성과 측정, 부정 이용 방지, 방문 통계 분석을 위해 사용될 수 있습니다.',
+    body: 'Factpick은 Vercel Analytics 및 향후 Google AdSense 또는 Google Analytics 같은 제3자 서비스를 사용할 수 있습니다. 이 과정에서 쿠키, 웹 비콘, IP 주소, 브라우저 식별자 같은 기술이 광고 성과 측정, 부정 이용 방지, 방문 통계 분석을 위해 사용될 수 있습니다. Google의 파트너 사이트 데이터 사용 방식은 https://policies.google.com/technologies/partner-sites 에서 확인할 수 있습니다.',
   },
   {
     title: '4. 제3자 제공 및 처리 위탁',
-    body: '서비스 운영을 위해 호스팅, 분석, 광고 제공 사업자가 일부 정보를 처리할 수 있습니다. 각 사업자는 자신의 개인정보 처리방침과 보안 기준에 따라 정보를 처리합니다.',
+    body: '서비스 운영을 위해 호스팅, 분석, 광고 제공 사업자가 일부 정보를 처리할 수 있습니다. 광고 제공 과정에서는 제3자가 이용자의 브라우저에 쿠키를 저장하거나 기존 쿠키를 읽고, 웹 비콘 또는 IP 주소를 사용할 수 있습니다. 각 사업자는 자신의 개인정보 처리방침과 보안 기준에 따라 정보를 처리합니다.',
   },
   {
     title: '5. 보관 기간',
