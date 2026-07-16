@@ -94,12 +94,12 @@ export default async function SubstancePage({
         </p>
       </section>
 
-      <section className="mt-12" aria-labelledby="condition-evidence">
+      <section className="mt-12 text-center sm:text-left" aria-labelledby="condition-evidence">
         <h2 id="condition-evidence" className="text-2xl font-bold text-slate-950">
           질환별 효과와 근거
         </h2>
         {conditions.length > 0 ? (
-          <div className="mt-5 space-y-3">
+          <div className="mt-5 space-y-3 text-left">
             {conditions.map((condition) => (
               <Link
                 key={condition.condition_slug}

@@ -87,7 +87,7 @@ export default async function ConditionsPage({ searchParams }: ConditionsPagePro
 
       {query ? (
         <section className="mt-10" aria-labelledby="search-results-heading" aria-live="polite">
-          <div className="flex flex-col gap-3 border-b border-slate-200 pb-5 sm:flex-row sm:items-end sm:justify-between">
+          <div className="flex flex-col items-center gap-3 border-b border-slate-200 pb-5 text-center sm:flex-row sm:items-end sm:justify-between sm:text-left">
             <div>
               <p className="text-sm font-bold text-emerald-700">검색 결과</p>
               <h2 id="search-results-heading" className="mt-1 text-2xl font-black text-slate-950 sm:text-3xl">
@@ -134,7 +134,7 @@ export default async function ConditionsPage({ searchParams }: ConditionsPagePro
           <div className="mt-12 space-y-14">
             {groups.map(([group, items]) => (
               <section key={group} id={group} className="scroll-mt-24" aria-labelledby={`${group}-heading`}>
-                <div className="mb-5 flex items-center justify-between border-b border-slate-200 pb-3">
+                <div className="mb-5 flex flex-col items-center gap-2 border-b border-slate-200 pb-3 text-center sm:flex-row sm:justify-between sm:text-left">
                   <h2 id={`${group}-heading`} className="text-xl font-bold text-slate-950">{group}</h2>
                   <span className="text-sm font-semibold text-slate-500">{items.length}개 질환</span>
                 </div>

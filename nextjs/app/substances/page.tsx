@@ -54,7 +54,7 @@ export default async function SubstancesPage() {
       <div className="mt-12 space-y-12">
         {categories.map((category) => (
           <section key={category} id={`substance-${category}`} className="scroll-mt-24">
-            <div className="mb-4 flex items-center justify-between border-b border-slate-200 pb-3">
+            <div className="mb-4 flex flex-col items-center gap-2 border-b border-slate-200 pb-3 text-center sm:flex-row sm:justify-between sm:text-left">
               <h2 className="text-xl font-bold text-slate-950">{category}</h2>
               <span className="text-xs text-slate-400">
                 {substances.filter((item) => item.category === category).length}개 성분
