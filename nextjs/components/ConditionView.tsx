@@ -1,8 +1,7 @@
 'use client';
 
-import { useCallback, useState } from 'react';
+import { useState } from 'react';
 import ErrorBoundary from './ErrorBoundary';
-import QuizFunnel from './QuizFunnel';
 import ScatterChart from './ScatterChart';
 import SubstanceTable from './SubstanceTable';
 import type {
@@ -22,98 +21,68 @@ interface Props {
   rules: PersonalizationRule[];
 }
 
-function sameSet(a: Set<string>, b: Set<string>): boolean {
-  if (a === b) return true;
-  if (a.size !== b.size) return false;
-  let same = true;
-  a.forEach((x) => {
-    if (!b.has(x)) same = false;
-  });
-  return same;
-}
-
 export default function ConditionView({
-  conditionSlug,
   cells,
   effects,
   verified,
   products,
-  rules,
 }: Props) {
-  const [highlightVerifiedIds, setHighlight] = useState<Set<string>>(new Set());
-  const [avoidVerifiedIds, setAvoid] = useState<Set<string>>(new Set());
   const [detailOpen, setDetailOpen] = useState(false);
-
-  const handleHighlightChange = useCallback(
-    ({
-      highlightVerifiedIds: hi,
-      avoidVerifiedIds: av,
-    }: {
-      highlightVerifiedIds: Set<string>;
-      avoidVerifiedIds: Set<string>;
-    }) => {
-      setHighlight((prev) => (sameSet(prev, hi) ? prev : hi));
-      setAvoid((prev) => (sameSet(prev, av) ? prev : av));
-    },
-    [],
-  );
 
   return (
     <ErrorBoundary>
-      {/* 메인 흐름: Quiz funnel → 결과 → 강한 CTA */}
-      <QuizFunnel
-        conditionSlug={conditionSlug}
-        rules={rules}
-        verified={verified}
-        products={products}
-        onHighlightChange={handleHighlightChange}
-      />
+      <section className="rounded-lg border border-slate-200 bg-white p-5 sm:p-6">
+        <p className="text-sm font-bold text-slate-950">자료를 읽는 기준</p>
+        <p className="mt-2 text-sm leading-7 text-slate-600">
+          이 페이지는 구매 유도나 특정 제품 추천이 아니라, 공개된 임상 연구에서 확인된 효과 크기와 근거 수준을 정리한 참고 자료입니다.
+          개인의 질환, 복용 중인 약, 임신 여부에 따라 판단이 달라질 수 있으므로 치료 변경 전에는 의사 또는 약사와 상담하세요.
+        </p>
+      </section>
 
-      {/* 더 자세히 보기 (펼침) */}
-      <section id="detail" className="mt-12">
+      <section id="detail" className="mt-8">
         <button
           type="button"
-          onClick={() => setDetailOpen((v) => !v)}
+          onClick={() => setDetailOpen((value) => !value)}
           className="flex w-full items-center justify-between rounded-xl border border-slate-200 bg-white px-5 py-4 text-left transition hover:border-slate-300"
         >
           <div>
             <div className="text-sm font-semibold text-slate-900">
-              📊 모든 데이터 — 산점도 + 전체 성분 비교표
+              전체 근거와 성분 비교 보기
             </div>
             <div className="mt-0.5 text-xs text-slate-500">
               {detailOpen
-                ? '닫기'
-                : '효과 vs 근거 산점도, 전체 검증 항목 SMD, 출처(Cochrane 등) 확인'}
+                ? '접기'
+                : '효과 크기, 근거 수준, 연구 출처, 주의사항을 함께 확인합니다.'}
             </div>
           </div>
-          <span className="text-2xl text-slate-500">{detailOpen ? '−' : '+'}</span>
+          <span className="text-2xl text-slate-500">{detailOpen ? '-' : '+'}</span>
         </button>
 
         {detailOpen && (
           <>
             <div className="mt-6 rounded-2xl border border-slate-200 bg-white p-4 sm:p-6">
               <h2 className="mb-4 text-sm font-medium uppercase tracking-widest text-slate-500">
-                효능 vs 근거
+                효과와 근거 수준
               </h2>
               <ScatterChart
                 verified={verified}
                 products={products}
-                highlightVerifiedIds={highlightVerifiedIds}
-                avoidVerifiedIds={avoidVerifiedIds}
+                highlightVerifiedIds={new Set()}
+                avoidVerifiedIds={new Set()}
               />
             </div>
 
             <div className="mt-8">
               <h2 className="mb-4 text-sm font-medium uppercase tracking-widest text-slate-500">
-                전체 성분 비교표
+                전체 성분 비교
               </h2>
               <SubstanceTable
                 cells={cells}
                 effects={effects}
                 verified={verified}
                 products={products}
-                highlightVerifiedIds={highlightVerifiedIds}
-                avoidVerifiedIds={avoidVerifiedIds}
+                highlightVerifiedIds={new Set()}
+                avoidVerifiedIds={new Set()}
               />
             </div>
           </>

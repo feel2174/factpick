@@ -540,9 +540,9 @@ export default function SubstanceTable({
           <thead className="bg-white text-left text-xs uppercase tracking-wider text-slate-500">
             <tr>
               <th className="px-3 py-3 w-16">등급</th>
-              <th className="px-3 py-3">성분 · 한국 시판</th>
+              <th className="px-3 py-3">성분</th>
               <th className="px-3 py-3 text-right">효과</th>
-              <th className="px-3 py-3">구매</th>
+              <th className="px-3 py-3">비고</th>
               {detail && <th className="px-3 py-3">출처 종류</th>}
               {detail && <th className="px-3 py-3">구분</th>}
               {detail && <th className="px-3 py-3">오차 범위</th>}

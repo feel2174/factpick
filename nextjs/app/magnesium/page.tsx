@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   title,
   description,
   alternates: { canonical: '/magnesium' },
+  robots: { index: false, follow: false },
   openGraph: { title, description, url: '/magnesium', type: 'article' },
   twitter: { card: 'summary_large_image', title, description },
 };
