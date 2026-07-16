@@ -13,20 +13,27 @@ export const metadata: Metadata = {
   },
   description: SITE_DESCRIPTION,
   applicationName: SITE_NAME,
+  generator: 'Next.js',
+  referrer: 'origin-when-cross-origin',
+  category: 'health',
+  creator: SITE_NAME,
+  publisher: SITE_NAME,
   manifest: '/site.webmanifest',
   keywords: [
     '팩트픽',
-    'factpick',
+    'Factpick',
+    '건강 정보',
     '영양제 비교',
     '약 효과',
     '근거 기반 건강 정보',
+    '임상 연구',
+    '약사 검토',
     'Cochrane',
     'SMD',
-    '약사 검토',
     '건강기능식품',
-    '관절 영양제',
-    '수면 영양제',
+    '복용 안전 정보',
   ],
+  authors: [{ name: SITE_NAME, url: SITE_URL }],
   icons: {
     icon: [
       { url: '/favicon.ico', type: 'image/x-icon' },
@@ -34,9 +41,15 @@ export const metadata: Metadata = {
       { url: '/favicon-96x96.png', sizes: '96x96', type: 'image/png' },
       { url: '/favicon.png', type: 'image/png' },
     ],
+    shortcut: [{ url: '/favicon.ico', type: 'image/x-icon' }],
     apple: [{ url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' }],
   },
-  alternates: { canonical: '/' },
+  alternates: {
+    canonical: '/',
+    languages: {
+      'ko-KR': '/',
+    },
+  },
   openGraph: {
     type: 'website',
     url: SITE_URL,
@@ -44,7 +57,14 @@ export const metadata: Metadata = {
     locale: 'ko_KR',
     title: SITE_TITLE,
     description: SITE_DESCRIPTION,
-    images: [{ url: '/opengraph-image', width: 1200, height: 630, alt: SITE_TITLE }],
+    images: [
+      {
+        url: '/opengraph-image',
+        width: 1200,
+        height: 630,
+        alt: 'Factpick - 근거로 비교하는 건강 정보',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
@@ -70,10 +90,16 @@ export const metadata: Metadata = {
         '958142297a607b67351182e6cabb4a3c0648c3db',
     },
   },
+  formatDetection: {
+    email: false,
+    address: false,
+    telephone: false,
+  },
 };
 
 export const viewport: Viewport = {
   themeColor: '#0b63ce',
+  colorScheme: 'light',
 };
 
 const jsonLd = {
@@ -85,6 +111,7 @@ const jsonLd = {
       name: SITE_NAME,
       url: SITE_URL,
       description: SITE_DESCRIPTION,
+      logo: `${SITE_URL}/favicon.png`,
     },
     {
       '@type': 'WebSite',
@@ -112,7 +139,7 @@ export default function RootLayout({
         />
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, '\\u003c') }}
         />
       </head>
       <body className="antialiased">

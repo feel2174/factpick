@@ -28,7 +28,7 @@ export default function OgImage() {
               width: 'fit-content',
               border: '1px solid #b9dcff',
               borderRadius: 16,
-              background: 'rgba(255,255,255,0.8)',
+              background: 'rgba(255,255,255,0.82)',
               color: '#0b63ce',
               padding: '12px 20px',
               fontSize: 28,
@@ -40,15 +40,15 @@ export default function OgImage() {
           <div style={{ display: 'flex', marginTop: 42, fontSize: 96, fontWeight: 800, color: '#0f172a', lineHeight: 1 }}>
             Factpick
           </div>
-          <div style={{ display: 'flex', marginTop: 26, fontSize: 43, fontWeight: 700, color: '#1e3a5f', lineHeight: 1.22 }}>
-            건강 정보의 효과와 근거를 함께 비교합니다
+          <div style={{ display: 'flex', marginTop: 26, fontSize: 45, fontWeight: 700, color: '#1e3a5f', lineHeight: 1.18 }}>
+            Evidence-based health guide
           </div>
           <div style={{ display: 'flex', marginTop: 36, gap: 18, color: '#34536f', fontSize: 28, fontWeight: 700 }}>
-            <span>효과 크기</span>
+            <span>Effect size</span>
             <span style={{ color: '#93a9bd' }}>·</span>
-            <span>근거 수준</span>
+            <span>Evidence level</span>
             <span style={{ color: '#93a9bd' }}>·</span>
-            <span>안전 정보</span>
+            <span>Safety</span>
           </div>
           <div style={{ display: 'flex', marginTop: 54, fontSize: 30, fontWeight: 700, color: '#0b63ce' }}>
             factpick.co.kr
