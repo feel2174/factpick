@@ -59,7 +59,7 @@ export default function HomeConditionSearch() {
   }
 
   return (
-    <section className="border-b border-slate-200 bg-white" aria-labelledby="home-search-heading">
+    <section id="home-search" className="scroll-mt-20 border-b border-slate-200 bg-white" aria-labelledby="home-search-heading">
       <div className="content-shell py-10 sm:py-12">
         <div className="mx-auto max-w-3xl">
           <div className="mb-5">

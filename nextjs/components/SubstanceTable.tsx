@@ -400,6 +400,26 @@ function rowSortKey(r: UnifiedRow, products: ProductsBySubstance): [number, numb
   return [bucket, getAffiliateRank(r, products), abs];
 }
 
+function rowGradeOrder(r: UnifiedRow): number {
+  let grade: Grade | null = null;
+  if (r.kind === 'verified') {
+    grade = r.verified.evidence_grade ? GRADE_GRADE_MAP[r.verified.evidence_grade] : null;
+  } else if (r.kind === 'verified_group') {
+    grade = r.rep.evidence_grade ? GRADE_GRADE_MAP[r.rep.evidence_grade] : null;
+  } else {
+    grade = r.cell.ai_grade;
+  }
+  return grade ? GRADE_ORDER[grade] ?? 99 : 99;
+}
+
+function rowEffectAbs(r: UnifiedRow): number {
+  let smd: number | null = null;
+  if (r.kind === 'verified') smd = r.verified.smd;
+  else if (r.kind === 'verified_group') smd = r.rep.smd;
+  else smd = r.cell.smd_pooled;
+  return smd === null ? -1 : Math.abs(smd);
+}
+
 // ============================================================================
 // Main
 // ============================================================================
@@ -497,6 +517,10 @@ export default function SubstanceTable({
     const ha = isHighlighted(a) ? 0 : isAvoided(a) ? 2 : 1;
     const hb = isHighlighted(b) ? 0 : isAvoided(b) ? 2 : 1;
     if (ha !== hb) return ha - hb;
+    const ga = rowGradeOrder(a);
+    const gb = rowGradeOrder(b);
+    if (ga !== gb) return ga - gb;
+    return rowEffectAbs(b) - rowEffectAbs(a);
     const [ka1, ka2, ka3] = rowSortKey(a, products);
     const [kb1, kb2, kb3] = rowSortKey(b, products);
     if (ka1 !== kb1) return ka1 - kb1;

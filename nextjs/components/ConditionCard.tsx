@@ -13,19 +13,19 @@ export default function ConditionCard({ slug, nameKo, description, category, cel
     <Link
       href={`/conditions/${slug}`}
       prefetch
-      className="link-card surface-card group flex min-h-48 flex-col justify-between p-5"
-      aria-label={`${nameKo} 관련 약과 영양제 근거 비교 보기`}
+      className="link-card surface-card group flex min-h-48 flex-col justify-between p-5 motion-safe:hover:scale-[1.015]"
+      aria-label={`${nameKo} 효과와 근거 비교 보기`}
     >
       <div>
         <div className="flex items-start justify-between gap-3">
-          <span className="inline-flex rounded-md bg-emerald-50 px-2.5 py-1 text-xs font-bold text-emerald-800">
+          <span className="inline-flex rounded-md bg-emerald-50 px-2.5 py-1 text-xs font-bold text-emerald-800 transition-colors group-hover:bg-emerald-100">
             {category ?? '근거 비교'}
           </span>
           <span className="shrink-0 text-xs font-semibold text-slate-500">
             {cellCount ?? 0}개 항목
           </span>
         </div>
-        <h3 className="mt-5 text-xl font-bold tracking-tight text-slate-950 group-hover:text-emerald-800">
+        <h3 className="mt-5 text-xl font-bold tracking-tight text-slate-950 transition-colors group-hover:text-emerald-800">
           {nameKo}
         </h3>
         {description && (

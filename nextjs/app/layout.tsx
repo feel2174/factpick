@@ -21,11 +21,18 @@ export const metadata: Metadata = {
     '근거 기반 건강 정보',
     'Cochrane',
     'SMD',
-    '약사 검수',
+    '약사 검토',
     '건강기능식품',
     '관절 영양제',
     '수면 영양제',
   ],
+  icons: {
+    icon: [
+      { url: '/favicon.png', type: 'image/png' },
+      { url: '/favicon.ico', type: 'image/x-icon' },
+    ],
+    apple: [{ url: '/favicon.png', type: 'image/png' }],
+  },
   alternates: { canonical: '/' },
   openGraph: {
     type: 'website',
@@ -34,11 +41,13 @@ export const metadata: Metadata = {
     locale: 'ko_KR',
     title: SITE_TITLE,
     description: SITE_DESCRIPTION,
+    images: [{ url: '/opengraph-image', width: 1200, height: 630, alt: SITE_TITLE }],
   },
   twitter: {
     card: 'summary_large_image',
     title: SITE_TITLE,
     description: SITE_DESCRIPTION,
+    images: ['/opengraph-image'],
   },
   robots: {
     index: true,

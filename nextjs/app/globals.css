@@ -12,6 +12,10 @@
   --line: #dbe3ed;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: var(--background);
   color: var(--foreground);
@@ -91,6 +95,7 @@ button {
 }
 
 .button-primary:hover {
+  transform: translateY(-1px);
   background: #1e293b;
   box-shadow: 0 8px 20px rgb(15 23 42 / 0.14);
 }
@@ -102,6 +107,7 @@ button {
 }
 
 .button-secondary:hover {
+  transform: translateY(-1px);
   border-color: #6ee7b7;
   color: #047857;
   box-shadow: 0 6px 18px rgb(15 23 42 / 0.06);
@@ -115,14 +121,19 @@ button {
 }
 
 .link-card {
-  transition: transform 200ms ease, border-color 200ms ease, box-shadow 200ms ease, background-color 200ms ease;
+  will-change: transform;
+  transition: transform 220ms ease, border-color 220ms ease, box-shadow 220ms ease, background-color 220ms ease;
 }
 
 .link-card:hover {
-  transform: translateY(-1px);
+  transform: translateY(-4px);
   border-color: #6ee7b7;
   background: white;
-  box-shadow: 0 12px 28px rgb(15 23 42 / 0.08);
+  box-shadow: 0 18px 38px rgb(15 23 42 / 0.12);
+}
+
+.link-card:active {
+  transform: translateY(-1px);
 }
 
 .link-card .link-arrow {
@@ -163,6 +174,20 @@ button {
   width: 100%;
   max-width: 72rem;
   padding-inline: 1rem;
+}
+
+main > header {
+  margin-inline: auto;
+  text-align: center;
+}
+
+main > header .eyebrow,
+main > header p {
+  margin-inline: auto;
+}
+
+main > header .flex {
+  justify-content: center;
 }
 
 @media (min-width: 640px) {

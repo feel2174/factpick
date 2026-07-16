@@ -566,7 +566,10 @@ export default function ScatterChart({
             </YAxis>
             <ZAxis range={[220, 220]} />
             <Tooltip
+              isAnimationActive={false}
+              animationDuration={0}
               cursor={{ strokeDasharray: '3 3' }}
+              wrapperStyle={{ pointerEvents: 'none' }}
               content={(p) => (
                 <PointTooltip
                   active={p.active}
