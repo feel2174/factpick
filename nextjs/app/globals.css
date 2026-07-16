@@ -194,6 +194,24 @@ main > header .flex {
   .content-shell { padding-inline: 1.5rem; }
 }
 
+@media (max-width: 639px) {
+  .mobile-intro,
+  main section > header,
+  main section[aria-labelledby] > div:first-child {
+    text-align: center;
+  }
+
+  .mobile-intro p,
+  main section > header p,
+  main section[aria-labelledby] > div:first-child p {
+    margin-inline: auto;
+  }
+
+  main section[aria-labelledby] > div:first-child {
+    align-items: center;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,

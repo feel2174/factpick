@@ -1,4 +1,4 @@
-import type { Metadata } from 'next';
+import type { Metadata, Viewport } from 'next';
 import { Analytics } from '@vercel/analytics/next';
 import './globals.css';
 import { SITE_DESCRIPTION, SITE_NAME, SITE_TITLE, SITE_URL } from '@/lib/site';
@@ -13,6 +13,7 @@ export const metadata: Metadata = {
   },
   description: SITE_DESCRIPTION,
   applicationName: SITE_NAME,
+  manifest: '/site.webmanifest',
   keywords: [
     '팩트픽',
     'factpick',
@@ -28,10 +29,12 @@ export const metadata: Metadata = {
   ],
   icons: {
     icon: [
-      { url: '/favicon.png', type: 'image/png' },
       { url: '/favicon.ico', type: 'image/x-icon' },
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+      { url: '/favicon-96x96.png', sizes: '96x96', type: 'image/png' },
+      { url: '/favicon.png', type: 'image/png' },
     ],
-    apple: [{ url: '/favicon.png', type: 'image/png' }],
+    apple: [{ url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' }],
   },
   alternates: { canonical: '/' },
   openGraph: {
@@ -67,6 +70,10 @@ export const metadata: Metadata = {
         '958142297a607b67351182e6cabb4a3c0648c3db',
     },
   },
+};
+
+export const viewport: Viewport = {
+  themeColor: '#0b63ce',
 };
 
 const jsonLd = {

@@ -61,18 +61,18 @@ export default function HomeConditionSearch() {
   return (
     <section id="home-search" className="scroll-mt-20 border-b border-slate-200 bg-white" aria-labelledby="home-search-heading">
       <div className="content-shell py-10 sm:py-12">
-        <div className="mx-auto max-w-3xl">
-          <div className="mb-5">
+        <div className="mx-auto max-w-3xl text-center sm:text-left">
+          <div className="mb-5 mobile-intro">
             <p className="eyebrow">빠르게 찾아보기</p>
             <h2 id="home-search-heading" className="mt-2 text-2xl font-bold tracking-tight text-slate-950 sm:text-3xl">
-              지금 궁금한 건강 고민을 입력해 보세요
+              지금 궁금한 증상이나 건강 고민을 입력해 보세요
             </h2>
-            <p className="mt-2 text-base leading-7 text-slate-700">
-              공개된 데이터 안에서 관련 질환과 비교 항목을 바로 찾아드립니다.
+            <p className="mx-auto mt-2 max-w-2xl text-base leading-7 text-slate-700 sm:mx-0">
+              관련 질환과 비교 항목을 바로 찾아드립니다.
             </p>
           </div>
 
-          <form onSubmit={handleSubmit} role="search" className="surface-card p-4 sm:p-5">
+          <form onSubmit={handleSubmit} role="search" className="surface-card p-4 text-left sm:p-5">
             <label htmlFor="home-condition-search" className="block text-base font-bold text-slate-950">
               어떤 증상이 불편하신가요?
             </label>
@@ -86,7 +86,7 @@ export default function HomeConditionSearch() {
                 type="search"
                 value={input}
                 onChange={(event) => setInput(event.target.value)}
-                placeholder="증상 또는 질환명 입력"
+                placeholder="증상 또는 질환명을 입력하세요"
                 aria-describedby="home-condition-search-help"
                 className="min-h-12 w-full rounded-lg border border-slate-300 bg-white px-4 text-base text-slate-950 shadow-sm outline-none transition placeholder:text-slate-400 focus:border-emerald-600 focus:ring-4 focus:ring-emerald-100"
               />
@@ -109,11 +109,11 @@ export default function HomeConditionSearch() {
 
             {!isLoading && searchedQuery && (
               <section aria-labelledby="home-search-results-heading">
-                <div className="flex items-end justify-between gap-4 border-b border-emerald-200 pb-4">
+                <div className="flex flex-col items-center gap-3 border-b border-emerald-200 pb-4 text-center sm:flex-row sm:items-end sm:justify-between sm:text-left">
                   <div>
                     <p className="text-sm font-bold text-emerald-700">검색 결과</p>
                     <h3 id="home-search-results-heading" className="mt-1 text-2xl font-black text-slate-950">
-                      ‘{searchedQuery}’ 관련 {results.length}개 항목
+                      “{searchedQuery}” 관련 {results.length}개 항목
                     </h3>
                   </div>
                   <Link href="/conditions" className="interactive-link hidden shrink-0 text-sm font-bold text-slate-600 sm:block">
@@ -122,7 +122,7 @@ export default function HomeConditionSearch() {
                 </div>
 
                 {results.length > 0 ? (
-                  <div className="mt-5 grid gap-4 md:grid-cols-2">
+                  <div className="mt-5 grid gap-4 text-left md:grid-cols-2">
                     {results.map((condition) => (
                       <ConditionCard
                         key={condition.id}
