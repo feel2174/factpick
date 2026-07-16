@@ -1,9 +1,12 @@
 import type { Metadata, Viewport } from 'next';
+import Script from 'next/script';
 import { Analytics } from '@vercel/analytics/next';
 import './globals.css';
 import { SITE_DESCRIPTION, SITE_NAME, SITE_TITLE, SITE_URL } from '@/lib/site';
 import SiteHeader from '@/components/SiteHeader';
 import SiteFooter from '@/components/SiteFooter';
+
+const ADSENSE_CLIENT_ID = 'ca-pub-8738602180421069';
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -85,6 +88,7 @@ export const metadata: Metadata = {
   },
   verification: {
     other: {
+      'google-adsense-account': ADSENSE_CLIENT_ID,
       'naver-site-verification':
         process.env.NEXT_PUBLIC_NAVER_SITE_VERIFICATION ??
         '958142297a607b67351182e6cabb4a3c0648c3db',
@@ -147,6 +151,13 @@ export default function RootLayout({
         <SiteHeader />
         {children}
         <SiteFooter />
+        <Script
+          id="google-adsense"
+          async
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT_ID}`}
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
         <Analytics />
       </body>
     </html>
