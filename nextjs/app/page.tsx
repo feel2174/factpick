@@ -37,13 +37,13 @@ export default function Home() {
       <HomeConditionSearch />
 
       <section className="content-shell py-14 sm:py-20" aria-labelledby="condition-heading">
-        <div className="mb-8 flex items-end justify-between gap-6">
+        <div className="mb-8 flex flex-col items-center gap-6 text-center sm:flex-row sm:items-end sm:justify-between sm:text-left">
           <div>
             <p className="eyebrow">건강 고민별로 찾기</p>
             <h2 id="condition-heading" className="mt-2 text-2xl font-bold tracking-tight text-slate-950 sm:text-3xl">
               어떤 주제를 먼저 확인할까요?
             </h2>
-            <p className="mt-3 text-base leading-7 text-slate-700">
+            <p className="mx-auto mt-3 max-w-2xl text-base leading-7 text-slate-700 sm:mx-0">
               자주 찾는 건강 주제부터 근거를 비교해 보세요.
             </p>
           </div>
@@ -67,20 +67,20 @@ export default function Home() {
       </section>
 
       <section className="border-y border-slate-200 bg-slate-950 text-white">
-        <div className="content-shell grid gap-10 py-14 sm:py-20 md:grid-cols-[0.9fr_1.1fr] md:items-center">
+        <div className="content-shell grid gap-10 py-14 text-center sm:py-20 md:grid-cols-[0.9fr_1.1fr] md:items-center md:text-left">
           <div>
             <p className="eyebrow !text-emerald-300">비교표를 읽는 법</p>
             <h2 className="mt-3 text-3xl font-bold tracking-tight">
               효과가 크다는 말과 믿을 만하다는 말은 다릅니다
             </h2>
-            <p className="mt-4 max-w-lg text-base leading-8 text-slate-200">
+            <p className="mx-auto mt-4 max-w-lg text-base leading-8 text-slate-200 md:mx-0">
               Factpick은 증상이 얼마나 개선됐는지와 그 결과를 얼마나 신뢰할 수 있는지를 나누어 보여줍니다.
             </p>
             <Link href="/methodology" className="mt-7 inline-flex min-h-11 items-center gap-2 rounded-lg border border-slate-700 px-4 text-sm font-bold text-white transition hover:border-emerald-400 hover:text-emerald-300">
               평가 기준 자세히 보기 →
             </Link>
           </div>
-          <div className="grid gap-3 sm:grid-cols-2">
+          <div className="grid gap-3 text-left sm:grid-cols-2">
             <article className="rounded-lg border border-slate-700 bg-slate-900 p-5">
               <p className="text-xs font-bold text-emerald-300">EFFECT</p>
               <h3 className="mt-2 text-xl font-bold">효과 크기</h3>
