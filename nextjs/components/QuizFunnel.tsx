@@ -23,7 +23,6 @@ import {
   matchRules,
   saveProfile,
 } from '@/lib/personalization';
-import RecommendationResult from './RecommendationResult';
 
 interface Props {
   conditionSlug: string;
@@ -39,8 +38,6 @@ interface Props {
 export default function QuizFunnel({
   conditionSlug,
   rules,
-  verified,
-  products,
   onHighlightChange,
 }: Props) {
   const cfg = useMemo(() => getQuizConfig(conditionSlug), [conditionSlug]);
@@ -152,13 +149,9 @@ export default function QuizFunnel({
           <MedsStep profile={profile} setProfile={setProfile} onFinish={finish} onPrev={goPrev} />
         )}
         {step === 'result' && (
-          <RecommendationResult
+          <ResultStep
             profile={profile}
             rules={rules}
-            verified={verified}
-            products={products}
-            prevTreatments={cfg.prevTreatments}
-            outcomeWord={cfg.outcomeWord}
             onReset={reset}
             onEdit={() => setStep('intro')}
           />
@@ -171,6 +164,64 @@ export default function QuizFunnel({
         </div>
       )}
     </section>
+  );
+}
+
+function ResultStep({
+  profile,
+  rules,
+  onReset,
+  onEdit,
+}: {
+  profile: UserProfile;
+  rules: PersonalizationRule[];
+  onReset: () => void;
+  onEdit: () => void;
+}) {
+  const matched = matchRules(rules, profile);
+  const highlights = aggregateHighlights(matched);
+  const highlightCount = highlights.highlightVerifiedIds.size;
+  const cautionCount = highlights.avoidVerifiedIds.size;
+
+  return (
+    <div className="py-6 text-center sm:py-10">
+      <p className="text-sm font-bold text-emerald-700">맞춤 비교 적용</p>
+      <h2 className="mt-2 text-2xl font-black text-slate-950 sm:text-3xl">
+        입력한 조건을 기준으로 표의 근거를 다시 표시했습니다
+      </h2>
+      <p className="mx-auto mt-4 max-w-2xl text-sm leading-7 text-slate-600 sm:text-base">
+        아래 비교표에서 관심 성분과 주의가 필요한 성분을 함께 확인해 보세요. 이 결과는 진단이나 치료 지시가
+        아니라, 근거를 더 쉽게 살펴보기 위한 참고 정보입니다.
+      </p>
+
+      <div className="mx-auto mt-6 grid max-w-xl gap-3 sm:grid-cols-2">
+        <div className="rounded-xl border border-emerald-200 bg-emerald-50 p-4">
+          <div className="text-2xl font-black text-emerald-700">{highlightCount}</div>
+          <div className="mt-1 text-xs font-bold text-emerald-900">관심 표시된 근거</div>
+        </div>
+        <div className="rounded-xl border border-rose-200 bg-rose-50 p-4">
+          <div className="text-2xl font-black text-rose-700">{cautionCount}</div>
+          <div className="mt-1 text-xs font-bold text-rose-900">주의 표시된 근거</div>
+        </div>
+      </div>
+
+      <div className="mt-7 flex flex-col justify-center gap-3 sm:flex-row">
+        <button
+          type="button"
+          onClick={onEdit}
+          className="rounded-xl border border-slate-200 bg-white px-5 py-3 text-sm font-bold text-slate-700 hover:bg-slate-50"
+        >
+          조건 다시 입력
+        </button>
+        <button
+          type="button"
+          onClick={onReset}
+          className="rounded-xl bg-slate-950 px-5 py-3 text-sm font-bold text-white hover:bg-slate-800"
+        >
+          초기화
+        </button>
+      </div>
+    </div>
   );
 }
 

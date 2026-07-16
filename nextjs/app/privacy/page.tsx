@@ -62,7 +62,12 @@ export default function PrivacyPage() {
       <aside className="mt-10 max-w-3xl rounded-2xl border border-slate-200 bg-white p-6">
         <h2 className="text-lg font-bold text-slate-950">문의</h2>
         <p className="mt-2 text-sm leading-7 text-slate-600">
-          개인정보와 서비스 정책에 관한 문의는 Factpick 운영자에게 전달해 주세요. 별도 문의 채널이 추가되면 이 페이지에 공개합니다.
+          개인정보와 서비스 정책에 관한 문의는 Factpick 운영자 이메일
+          {' '}
+          <a className="font-bold text-emerald-700 hover:underline" href="mailto:devzucca@factpick.co.kr">
+            devzucca@factpick.co.kr
+          </a>
+          로 보내 주세요.
         </p>
       </aside>
     </main>

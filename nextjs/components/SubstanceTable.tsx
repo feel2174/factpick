@@ -17,8 +17,6 @@ import {
   groupVerified,
   trendComment,
 } from '@/lib/verifiedUtils';
-import { buildExternalLinks } from '@/lib/affiliate';
-import BuyButtons from './BuyButtons';
 
 interface Props {
   cells: EvidenceCellRow[];
@@ -62,63 +60,6 @@ function findProduct(
     }
   }
   return bundle.top;
-}
-
-function ProductTag({
-  product,
-  highlight,
-  substanceType,
-  substanceNameKo,
-  substanceNameEn,
-}: {
-  product: KoreaProduct | null;
-  highlight?: boolean;
-  substanceType?: string | null;
-  substanceNameKo?: string | null;
-  substanceNameEn?: string | null;
-}) {
-  if (!product) {
-    // 제품 매핑 없어도 성분명으로 검색 링크는 제공
-    const fallback = buildExternalLinks({
-      productName: null,
-      productNameEn: null,
-      productType: null,
-      substanceType,
-      substanceNameKo,
-      substanceNameEn,
-    });
-    if (!fallback.length) return null;
-    return (
-      <div className="mt-1">
-        <BuyButtons links={fallback} />
-      </div>
-    );
-  }
-  const links = buildExternalLinks({
-    productName: product.name,
-    productNameEn: null,
-    productType: product.type,
-    substanceType,
-    substanceNameKo,
-    substanceNameEn,
-  });
-  return (
-    <div className="mt-1 text-[11px]">
-      <div>
-        <span className={`mr-1 ${highlight ? 'text-amber-600' : 'text-slate-500'}`}>
-          {highlight ? '⚡ 한국 시판' : '📦 한국 시판'}
-        </span>
-        <span className={highlight ? 'text-amber-700' : 'text-slate-700'}>{product.name}</span>
-        {product.manufacturer && (
-          <span className="ml-1 text-slate-500">({product.manufacturer})</span>
-        )}
-        {product.type && (
-          <span className="ml-1 text-[10px] text-slate-400">· {product.type}</span>
-        )}
-      </div>
-      <BuyButtons links={links} />
-    </div>
-  );
 }
 
 const BUCKET_LABEL: Record<StudyTypeBucket, string> = {
@@ -375,10 +316,10 @@ function getAffiliateRank(r: UnifiedRow, products: ProductsBySubstance): number 
 }
 
 /**
- * sort key: [smdBucket, affiliateRank, rawSmd]
- * - smdBucket: |SMD| 0.1 단위로 묶음 (같은 구간 안에서 affiliate tiebreaker)
- * - affiliateRank: 1=건기식 쿠팡 ... 6=시술
- * - rawSmd: 같은 bucket+affiliate면 정확한 SMD 순
+ * sort key: [smdBucket, accessRank, rawSmd]
+ * - smdBucket: |SMD| 0.1 단위로 묶음
+ * - accessRank: 1=국내 건강기능식품 ... 6=시술
+ * - rawSmd: 같은 bucket+accessRank면 정확한 SMD 순
  */
 function rowSortKey(r: UnifiedRow, products: ProductsBySubstance): [number, number, number] {
   let smd: number | null = null;
@@ -525,7 +466,7 @@ export default function SubstanceTable({
     const [kb1, kb2, kb3] = rowSortKey(b, products);
     if (ka1 !== kb1) return ka1 - kb1;
     if (ka2 !== kb2) return ka2 - kb2;
-    return kb3 - ka3; // 같은 affiliate면 정확한 SMD 큰 순
+    return kb3 - ka3; // 같은 접근성 그룹이면 정확한 SMD 큰 순
   });
 
   return (
@@ -665,16 +606,6 @@ function VerifiedRow({
   const product = findProduct(products, v.substance_id, v.verified_id);
   const isVariantMatch = product?.matches_verified_id === v.verified_id;
   const strength = smdStrength(v.smd);
-  const links = buildExternalLinks({
-    productName: product?.name,
-    productNameEn: null,
-    productType: product?.type,
-    substanceType: v.substance_type,
-    substanceNameKo: v.name_ko,
-    substanceNameEn: v.name_en,
-    coupangDirectUrl: product?.coupang_url,
-    iherbDirectUrl: product?.iherb_url,
-  });
 
   const rowBg = highlighted
     ? 'bg-emerald-50 hover:bg-emerald-700/15 border-l-2 border-emerald-500'
@@ -724,9 +655,9 @@ function VerifiedRow({
           {strength.label}
         </div>
       </td>
-      {/* 구매 */}
+      {/* 비고 */}
       <td className="px-3 py-3 align-top">
-        <BuyButtons links={links} />
+        <span className="text-xs text-slate-400">근거 비교</span>
       </td>
       {/* 상세 모드 컬럼들 */}
       {detail && (
@@ -809,16 +740,6 @@ function V3OnlyRow({
   const nSmd = c.extra?.n_smd_extracts ?? 0;
   const product = findProduct(products, c.substance.id);
   const strength = smdStrength(c.smd_pooled);
-  const links = buildExternalLinks({
-    productName: product?.name,
-    productNameEn: null,
-    productType: product?.type,
-    substanceType: c.substance.substance_type,
-    substanceNameKo: c.substance.name_ko,
-    substanceNameEn: c.substance.name_en,
-    coupangDirectUrl: product?.coupang_url,
-    iherbDirectUrl: product?.iherb_url,
-  });
 
   return (
     <tr className="hover:bg-slate-50">
@@ -848,9 +769,9 @@ function V3OnlyRow({
           {strength.label}
         </div>
       </td>
-      {/* 구매 */}
+      {/* 비고 */}
       <td className="px-3 py-3 align-top">
-        <BuyButtons links={links} />
+        <span className="text-xs text-slate-400">근거 비교</span>
       </td>
       {/* 상세 */}
       {detail && <td className="px-3 py-3 align-top text-[10px] text-slate-500">메타분석 종합</td>}
@@ -914,14 +835,6 @@ function VerifiedGroupRow({
   const timelineStr = buildTimelineNarrative(row.timeline);
   const product = findProduct(products, rep.substance_id, rep.verified_id);
   const strength = smdStrength(rep.smd);
-  const links = buildExternalLinks({
-    productName: product?.name,
-    productNameEn: null,
-    productType: product?.type,
-    substanceType: rep.substance_type,
-    substanceNameKo: row.baseName,
-    substanceNameEn: rep.name_en,
-  });
 
   const rowBg = highlighted
     ? 'bg-emerald-50 hover:bg-emerald-700/15 border-l-2 border-emerald-500'
@@ -967,9 +880,9 @@ function VerifiedGroupRow({
           {strength.label}
         </div>
       </td>
-      {/* 구매 */}
+      {/* 비고 */}
       <td className="px-3 py-3 align-top">
-        <BuyButtons links={links} />
+        <span className="text-xs text-slate-400">근거 비교</span>
       </td>
       {/* 상세 */}
       {detail && (

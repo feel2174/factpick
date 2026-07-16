@@ -131,9 +131,6 @@ export interface KoreaProduct {
   type: string;
   note?: string;
   matches_verified_id?: string;
-  // 직접 제품 페이지 URL — 있으면 검색 결과 페이지 대신 이걸 사용
-  coupang_url?: string; // 쿠팡 제품 페이지 (affiliate 트래킹 자동 추가)
-  iherb_url?: string;   // iHerb 제품 페이지
 }
 
 export interface KoreaProductBundle {
